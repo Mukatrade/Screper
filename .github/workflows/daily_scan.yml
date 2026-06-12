@@ -1,3 +1,4 @@
+cat > .github/workflows/daily_scan.yml << 'EOF'
 name: Daily Tender Scan
 
 on:
@@ -47,3 +48,4 @@ jobs:
         cp -r /tmp/sites_backup/. sites/
         git add sites/ || true
         git diff --cached --quiet || (git commit -m "Update daily tender snapshots" && git push)
+EOF
