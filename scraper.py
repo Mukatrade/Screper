@@ -201,20 +201,31 @@ def analyse_diff(client: Anthropic, site_name: str, diff_text: str) -> dict:
     if len(diff_text) > MAX_DIFF_CHARS:
         diff_text = diff_text[:MAX_DIFF_CHARS] + "\n... [truncated]"
 
-    message = client.messages.create(
-        model=CLAUDE_MODEL,
-        max_tokens=512,
-        system=ANALYSIS_SYSTEM_PROMPT,
-        messages=[
-            {
-                "role": "user",
-                "content": (
-                    f"Site: {site_name}\n\n"
-                    f"```diff\n{diff_text}\n```"
-                ),
-            }
-        ],
-    )
+    for attempt in range(3):
+        try:
+            message = client.messages.create(
+                model=CLAUDE_MODEL,
+                max_tokens=512,
+                system=ANALYSIS_SYSTEM_PROMPT,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": (
+                            f"Site: {site_name}\n\n"
+                            f"```diff\n{diff_text}\n```"
+                        ),
+                    }
+                ],
+            )
+            break  # success — exit retry loop
+        except Exception as exc:
+            wait = 10 * (attempt + 1)
+            print(f"  [WARN] Claude API error (attempt {attempt+1}/3): {exc}. Retrying in {wait}s...")
+            time.sleep(wait)
+    else:
+        # All retries exhausted — skip this site
+        print(f"  [ERROR] Claude API failed for {site_name} after 3 attempts. Skipping.")
+        return {"actionable": False, "category": "NOISE", "summary": "API error", "details": ""}
 
     raw = message.content[0].text.strip()
 
@@ -368,6 +379,7 @@ def main() -> None:
         print(f"  Change detected: {name} — sending to Claude...")
         analysis = analyse_diff(client, name, diff)
         print(f"    category={analysis.get('category')}  actionable={analysis.get('actionable')}")
+        time.sleep(1)  # avoid rate limiting
 
         if analysis.get("actionable"):
             findings.append({
