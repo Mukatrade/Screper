@@ -26,6 +26,7 @@ jobs:
 
     - name: Run Scraper Engine
       env:
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         GOOGLE_SHEET_CSV_URL: ${{ secrets.GOOGLE_SHEET_CSV_URL }}
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         GMAIL_USER: ${{ secrets.GMAIL_USER }}
