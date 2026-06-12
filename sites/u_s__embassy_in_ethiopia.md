@@ -1,7 +1,195 @@
 # Snapshot
 
 **Source:** https://et.usembassy.gov/procurement-opportunities/  
-**Captured:** 2026-06-12 13:41 UTC
+**Captured:** 2026-06-12 16:17 UTC
 
 ---
 
+## Open Opportunities
+
+- MSG Cook – Food Services (COB June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB)
+- Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services
+- Express NDAA Certification (PDF 519 KB)
+- Re-advertisement Replacement of four HySecurity gate operators (Closes June 11, 2026) HySecurity Slid Gate Controller Statement of Work (PDF 265KB) Express NDAA Certification (PDF 519 KB) Site Visit and Questions
+- HySecurity Slid Gate Controller Statement of Work (PDF 265KB)
+- Express NDAA Certification (PDF 519 KB)
+- Site Visit and Questions
+- Invitation for Vehicles auction announcement (auction dates: June 5-8, 2026, at the Embassy’s back door)
+- Invitation for AHU-5 and Zone five VAV Smart Controllers Upgrade (Closes June 08,2026 at 10:00 a.m. (4:00 a.m. /morning Addis Ababa time)) Express NDAA Certification (PDF 519KB) Statement of Work RFQ  AHU-5 and Zone five VAV Smart Controllers Upgrade
+- Express NDAA Certification (PDF 519KB)
+- Statement of Work
+- RFQ  AHU-5 and Zone five VAV Smart Controllers Upgrade
+
+## Closed Procurement Announcements
+
+- Invitation to bid for LC200 Capture Vision System HDMI & IP Switcher/Recorder/Media Processor (Closes May 22, 2026) Specifications (PDF 632KB)
+- Specifications (PDF 632KB)
+- Invitation to bid for Replacement of four HySecurity gate operators (Closes May 15, 2026) Statement of Work (PDF 264 KB) Express NDAA Certification (PDF 519KB)
+- Statement of Work (PDF 264 KB)
+- Express NDAA Certification (PDF 519KB)
+- Invitation to bid for installation and commissioning of CCTV camera at CDC EPHI office (Closes May 8, 2026) SOW for installation of CCTV cameras at CDC-EPHI Office (PDF 172 KB) Express NDAA Certification (PDF 519 KB)
+- SOW for installation of CCTV cameras at CDC-EPHI Office (PDF 172 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Welcome Kit (Closes April 9, 2026) PR15814504 welcome kit
+- PR15814504 welcome kit
+- Invitation to bid PR15907366 – Workshop Materials (Closes April 8, 2026) Express NDAA Certification 2
+- Express NDAA Certification 2
+- Invitation to bid for Water Treatment System Maintenance Service (Closes March 25, 2026)
+- Invitation to bid for Domestic Travel Management Services (Closes March 06, 2026, at 10:00 a.m. (4:00 a.m.(morning) Addis Ababa time)
+- RFQ Number 19ET1026Q0006 _ Domestic Travel Management Services _ Pre-quotation /proposal conference – Questions & Answer
+- RFQ Number 19ET1026Q0006 _ Domestic Travel Management Services _ Pre-quotation /proposal conference – Questions & Answer
+- RFQ Number 19ET1026Q0006 _ Domestic Travel Management Services _ Pre-quotation /proposal conference – Questions & Answer
+- Invitation to bid for Contract Opportunity -19ET1026R0001-Group Life Insurance (Closes February 27, 2026) Amendment
+- Amendment
+- Invitation to bid for Contract Opportunity -19ET1026R0001-Group Life Insurance (Closes February 27, 2026)
+- Invitation to provide Greeter/Escort Service (Closes January 08, 2026) Scope of Work for Greeters Express NDAA Certification (PDF 519 KB)
+- Scope of Work for Greeters
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to quote for IT Equipment and Accessories (Closes December 19, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Annual Preventative Maintenance Services for Fuel Management Systems & Ancillary Equipment (Closes December 11, 2025) Statement of Work (SOW) (PDF211 KB) Express NDAA Certification (PDF 519 KB)
+- Statement of Work (SOW) (PDF211 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Online auction advertisement for furniture, generator, office cubicle partitions, and more (auction date: On 1st – 3rd of October; 2025)
+- Invitation to bid for Office Equipment (Closes September 20, 2025)
+- Invitation to bid for 24VDC Off-Grid Solar System (Closes September 27, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for the supply of various radio parts (Closes September 15, 2025)
+- Invitation to bid for CCTV camera with full system (Closes August 27. 2025) Description: A complete CCTV system for an office building Express NDAA Certification (PDF 519 KB)
+- Description: A complete CCTV system for an office building
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for conducting seismic hazard surveys (Closes August 20, 2025) SOW Rapid  Visual Screening (PDF 566 KB)
+- SOW Rapid  Visual Screening (PDF 566 KB)
+- Invitation to bid to provide Security Devices Supply and Installation Services ( Closes August 18, 2025) SOW Security Grilles (PDF 114 KB) SOW Security Wire Mesh (PDF 674 KB) SOW Sliding Lock (PDF 275 KB) SOW Thumb-tun lock (PDF 703 KB)
+- SOW Security Grilles (PDF 114 KB)
+- SOW Security Wire Mesh (PDF 674 KB)
+- SOW Sliding Lock (PDF 275 KB)
+- SOW Thumb-tun lock (PDF 703 KB)
+- Re-advertised – Invitation to bid for Water Treatment Filtration Plant PLC and HMI Upgrades ( Closes August 9, 2025) Statement of Work (SOW PDF 1MB)
+- Statement of Work (SOW PDF 1MB)
+- Invitation to bid for drilling of one production well (Closes August 8, 2025)
+- Invitation to bid for Gardening Tools (Closes August 1, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for 9-seater electric passenger van (Closes August 4, 2025)
+- Invitation to bid for Water Treatment Filtration Plant PLC and HMI Upgrades (Closes July 23, 2025) Water Treatment Filtration Plant PLC and HMI Upgrades SOW (PDF 1022KB)
+- Water Treatment Filtration Plant PLC and HMI Upgrades SOW (PDF 1022KB)
+- Invitation to bid for gardening service (Closes July21, 2025) Performance Work Statement (PSW) (PDF128 KB)
+- Performance Work Statement (PSW) (PDF128 KB)
+- Invitation to bid for Uniforms (Closes July 24, 2025)
+- Invitation to bid for preventive maintenance service contract on MV Switchgear inside the U.S. Embassy Addis Ababa demarcation power equipment (Closes July 22, 2025) Express NDAA Certification (PDF 519 KB) Medium Voltage Electrical Equipment SOW (PDF 603KB)
+- Express NDAA Certification (PDF 519 KB)
+- Medium Voltage Electrical Equipment SOW (PDF 603KB)
+- Invitation to bid for Female Shirt (Closes July 23, 2025 ) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Male Shirt (Closes July 23, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Different clothes (Closes July 18, 2025)
+- Invitation to bid for lands’ end hooded men’s 3-in-1 squall jacket or equivalent Jacket’s (Closes July 13, 2025)
+- Invitation to bid for Uniform pants (Closes July 11, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Roof Removal and Renovation (Closes July 7, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Men’s Shoes (Closes July 6, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Humidifiers and De-Humidifiers (Closes July 6, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Gardening Tools (Closes July 3, 2025) Express NDAA Certification (PDF 519 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Uniforms (Closes June 08, 2025) Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB) Express NDAA Certification (PDF 519 KB)
+- Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for rental of vehicles open storage facility (Closes June 11, 2025) Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB) Express NDAA Certification (PDF 519 KB)
+- Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for vehicle tires (Closes June 7, 2025) Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB) Express NDAA Certification (PDF 519 KB)
+- Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for English Classes (Closes May 29, 2025) Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB) Express NDAA Certification (PDF 519 KB) English Class SOW (PDF 63 KB)
+- Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB)
+- Express NDAA Certification (PDF 519 KB)
+- English Class SOW (PDF 63 KB)
+- Invitation to bid for Outdoor Condensing Unit (Closes May 23, 2025) Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB) Express NDAA Certification (PDF 519 KB)
+- Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid  for replacement of asphalt shingle roof (Closes May 20, 2025) Scope of Work (SOW PDF 5MB) Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB) Express NDAA Certification (PDF 519 KB)
+- Scope of Work (SOW PDF 5MB)
+- Certification regarding compliance with applicable federal anti-discrimination low (PDF 173 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for fuel management system replacemen t (Closes April 30, 2025) Scope of work (SOW PDF 119 KB) Express NDAA Certification (PDF 519 KB) Certification regarding compliance with applicable federal anti-discrimination law (PDF 168 KB)
+- Scope of work (SOW PDF 119 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Certification regarding compliance with applicable federal anti-discrimination law (PDF 168 KB)
+- Invitation to bid for Replacement Old Thatch Roof Covering (Closes April 10, 2025) Express NDAA Certification (PDF 519 KB) Contractor Certification Complying with Executive Order 14173 (PDF 167 KB) Scope of Work (PDF 184 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Contractor Certification Complying with Executive Order 14173 (PDF 167 KB)
+- Scope of Work (PDF 184 KB)
+- Invitation to bid for Generator spare parts (Closes April 4, 2025)
+- Invitation to bid for Request for Quotations (RFQ) for House Cleaning Service for leased residences located at several areas in Addis Ababa (Closes March 25, 2025) Questions and Answers (Q&A) (PDF 171 KB) Amendment of solicitation number 3 (PDF 1MB) Amendment of solicitation number 2 (PDF 605 KB) Amendment of solicitation number 1 (PDF 1 MB) Amendment of solicitation/modification of contract Certification regarding compliance with applicable federal anti-discriminations law (PDF 173 KB)
+- Questions and Answers (Q&A) (PDF 171 KB) Amendment of solicitation number 3 (PDF 1MB) Amendment of solicitation number 2 (PDF 605 KB) Amendment of solicitation number 1 (PDF 1 MB) Amendment of solicitation/modification of contract Certification regarding compliance with applicable federal anti-discriminations law (PDF 173 KB)
+- Questions and Answers (Q&A) (PDF 171 KB)
+- Amendment of solicitation number 3 (PDF 1MB)
+- Amendment of solicitation number 2 (PDF 605 KB)
+- Amendment of solicitation number 1 (PDF 1 MB)
+- Amendment of solicitation/modification of contract
+- Certification regarding compliance with applicable federal anti-discriminations law (PDF 173 KB)
+- Invitation to bid for Curtain, Drapes and Sheers (Closes March 14, 2025) Certification-Regarding-Compliance-With-Applicable-Federal-Anti-Discrimination-Law (PDF 173KB) Express NDAA Certification (PDF 516KB)
+- Certification-Regarding-Compliance-With-Applicable-Federal-Anti-Discrimination-Law (PDF 173KB)
+- Express NDAA Certification (PDF 516KB)
+- Invitation to bid for Greeter/Escort service in the Embassy compound (Closes February 21, 2025) SOW greetings and Escort (PDF 51 KB) Contractor Certification Complying Executive Order (PDF 167) Express NDAA Certification (PDF 519 KB)
+- SOW greetings and Escort (PDF 51 KB)
+- Contractor Certification Complying Executive Order (PDF 167)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to Rebid for AVR (Closes February 19, 2025) Specification (PDF 93 KB) Contractor Certification Complying Executive Order (PDF 167) Express NDAA Certification (PDF 519 KB)
+- Specification (PDF 93 KB)
+- Contractor Certification Complying Executive Order (PDF 167)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for Consular Audiovisual (AV) System (Intercom, Paging, & Displays) (Closes February 17, 2025) Contractor Certification Complying with Executive Order (PDF 167 KB) PMSC Consular Audiovisual System SOW Addis Ababa Ethiopia (PDF 402 KB) Express NDAA Certification (PDF 519 KB)
+- Contractor Certification Complying with Executive Order (PDF 167 KB)
+- PMSC Consular Audiovisual System SOW Addis Ababa Ethiopia (PDF 402 KB)
+- Express NDAA Certification (PDF 519 KB)
+- Invitation to bid for welcome Kit (Closes February 13, 2025)
+- Invitation to bid for boom lift (Closes February 10, 2025) Express NDAA Certification
+- Express NDAA Certification
+- Amendment of Request for Quotations number 19ET1024Q0003, House Cleaning (Closes February 4, 2025) Amendment of solicitation/ modification of contract
+- Amendment of solicitation/ modification of contract
+- Invitation for quotation for IREM 3PH Automatic Voltage Regulator (Closes January 6, 2025)
+- USAID – Call for quotations for consultant to perform as Contractor for Global Fund Grant Implementations (Closes January 6, 2025)
+- Invitation to bid for 4000 Nanotechnology certified replacement filters 3/pack (4010) or equivalent (Closes December 28, 2024) Express NDAA Certification
+- Express NDAA Certification
+- Invitation to bid for Uniform and protective clothing (Closes December 20, 2024) Express NDAA Certification
+- Express NDAA Certification
+- USAID – Call for quotations for consultant to perform as the Senior Immunization Consultant (Closes December 18, 2024)
+- Invitation to bid for for the supply of Thermal King Pool Covers (Closes November 29, 2024) Additional information
+- Additional information
+- Invitation to bid for Cleaning Equipment (Closes November 30, 20 24)
+- Invitation for an online auction including but not limited to Appliances, Furniture, and many more. From October 16-18, 2024
+- Invitation to bid for one cooking gas range (Closes September 26, 2024)
+- Invitation to bid for for language training services (French and Amharic classes) for Embassy employees .(Closes September 4, 2024) Solicitation Document 19ET1024Q0004 Post Response for questions
+- Solicitation Document 19ET1024Q0004
+- Post Response for questions
+- Invitation to Request for Quotations (RFQ) for House Cleaning Service for leased residences located at several areas in Addis Ababa. (Closes September 23, 2024)
+- Invitation to bid for a proposal for Janitorial / House Cleaning Service (Closes September 16, 2024)
+- Invitation to bid for Psychosocial Program Implementation Services (Closes September 8, 2024)
+- Invitation to bid for Curtain, Drapes and Sheers (Closes August 30 , 2024)
+- Overseas Request for Quotation (RFQ) for Janitorial and Gardening Services – Peace Corps (Closes August 12, 2024)
+- Call for Architectural and Engineering Design consultant service providers (Re-advertised) (Closes August 23, 2024, at 17:00 local time) SF330
+- SF330
+- Invitation to bid for Digital Oil Filled Radiator Electric Heater (Closes September 4, 2024) Express NDAA Certification
+- Express NDAA Certification
+- Invitation to bid for 24VDC Off-Grid solar power System (Closes September 5, 2024)
+- Invitation to bid for cleaning and gardening items (Closes August 2, 2024) List of gardening and cleaning items
+- List of gardening and cleaning items
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}

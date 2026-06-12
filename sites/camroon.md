@@ -1,7 +1,47 @@
 # Snapshot
 
 **Source:** https://cm.usembassy.gov/business/#opportunities  
-**Captured:** 2026-06-12 13:39 UTC
+**Captured:** 2026-06-12 16:16 UTC
 
 ---
 
+## Overview
+
+## Contact Us
+
+## Doing Business in Cameroon
+
+## Doing Business in the U.S.
+
+## Economic Data and Reports
+
+## Commercial and Contract Opportunities
+
+## Economic Data and Reports
+
+## Additional Resources
+
+### Bureau of Economic and Business Affairs
+
+### U.S. International Development Finance Corporation
+
+## US EMBASSY YAOUNDE ONLINE AUCTION
+
+## Request for Service: Catering services during U.S. Embassy Independence Day Event
+
+## Alumni Engagement Innovation Fund (AEIF) 2026
+
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}

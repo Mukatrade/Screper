@@ -1,7 +1,21 @@
 # Snapshot
 
 **Source:** https://ge.usembassy.gov/tenders/  
-**Captured:** 2026-06-12 13:44 UTC
+**Captured:** 2026-06-12 16:20 UTC
 
 ---
 
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}
