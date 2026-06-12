@@ -1,3 +1,4 @@
+cat << 'EOF' > .github/workflows/daily_scan.yml
 name: Daily Tender Scan
 
 on:
@@ -10,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
@@ -30,5 +31,13 @@ jobs:
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         GMAIL_USER: ${{ secrets.GMAIL_USER }}
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        NOTIFICATION_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
       run: python scraper.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "Automated Scraper"
+        git config --global user.email "actions@github.com"
+        git add sites/ || true
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily tender snapshots" && git push)
+EOF
