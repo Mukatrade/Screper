@@ -267,65 +267,145 @@ def send_email(subject: str, body_html: str, body_text: str) -> None:
     print(f"  → Email sent to: {', '.join(recipients)}")
 
 
-def build_report(findings: list[dict]) -> tuple[str, str, str]:
+def build_report(
+    findings: list[dict],
+    stats: dict,
+) -> tuple[str, str, str]:
     """
-    Build (subject, html, plaintext) from a list of finding dicts:
-    {'site_name', 'link', 'category', 'summary', 'details'}
+    Always-send daily summary.
+    stats keys: total, scraped_ok, scrape_failed, no_change,
+                analyzed, by_category (dict), noise_sites (list)
     """
-    date_str = datetime.utcnow().strftime("%Y-%m-%d")
-    count    = len(findings)
-    subject  = f"[Tender Monitor] {count} change(s) detected — {date_str}"
+    date_str  = datetime.utcnow().strftime("%Y-%m-%d")
+    actionable = len(findings)
 
-    # ---- Plain text ----
+    if actionable:
+        subject = f"[Tender Monitor] {actionable} actionable finding(s) — {date_str}"
+    else:
+        subject = f"[Tender Monitor] Scan complete, no new tenders — {date_str}"
+
+    cat_colors = {
+        "NEW_TENDER":    "#d4edda",
+        "STATUS_UPDATE": "#fff3cd",
+        "CONTENT_EDIT":  "#d1ecf1",
+        "NOISE":         "#f8f9fa",
+    }
+
+    # ------------------------------------------------------------------ plain
     lines = [f"Tender Monitor Daily Report — {date_str}", "=" * 50, ""]
-    for i, f in enumerate(findings, 1):
-        lines += [
-            f"{i}. [{f['category']}] {f['site_name']}",
-            f"   URL     : {f['link']}",
-            f"   Summary : {f['summary']}",
-            f"   Details : {f['details']}",
-            "",
-        ]
+    lines += [
+        f"Sites monitored : {stats['total']}",
+        f"Scraped OK      : {stats['scraped_ok']}",
+        f"Scrape failures : {stats['scrape_failed']}",
+        f"No change       : {stats['no_change']}",
+        f"Changes found   : {stats['analyzed']}",
+        f"  NEW_TENDER    : {stats['by_category'].get('NEW_TENDER', 0)}",
+        f"  STATUS_UPDATE : {stats['by_category'].get('STATUS_UPDATE', 0)}",
+        f"  CONTENT_EDIT  : {stats['by_category'].get('CONTENT_EDIT', 0)}",
+        f"  NOISE         : {stats['by_category'].get('NOISE', 0)}",
+        "",
+    ]
+    if findings:
+        lines.append("ACTIONABLE FINDINGS")
+        lines.append("-" * 40)
+        for i, f in enumerate(findings, 1):
+            lines += [
+                f"{i}. [{f['category']}] {f['site_name']}",
+                f"   URL     : {f['link']}",
+                f"   Summary : {f['summary']}",
+                f"   Details : {f['details']}",
+                "",
+            ]
+    else:
+        lines += ["No actionable changes detected today.", ""]
+
+    if stats["noise_sites"]:
+        lines.append("Sites with noise-only changes (FYI):")
+        for s in stats["noise_sites"]:
+            lines.append(f"  - {s}")
     plain = "\n".join(lines)
 
-    # ---- HTML ----
-    rows = ""
-    for f in findings:
-        category_color = {
-            "NEW_TENDER":    "#d4edda",
-            "STATUS_UPDATE": "#fff3cd",
-            "CONTENT_EDIT":  "#d1ecf1",
-            "NOISE":         "#f8f9fa",
-        }.get(f["category"], "#ffffff")
+    # ------------------------------------------------------------------ html
+    # Stats bar
+    stat_items = [
+        ("Monitored",  stats["total"],            "#6c757d"),
+        ("Scraped OK", stats["scraped_ok"],        "#28a745"),
+        ("Failed",     stats["scrape_failed"],     "#dc3545"),
+        ("No change",  stats["no_change"],         "#6c757d"),
+        ("New Tender", stats["by_category"].get("NEW_TENDER", 0),    "#155724"),
+        ("Updated",    stats["by_category"].get("STATUS_UPDATE", 0), "#856404"),
+        ("Edited",     stats["by_category"].get("CONTENT_EDIT", 0),  "#0c5460"),
+        ("Noise",      stats["by_category"].get("NOISE", 0),         "#6c757d"),
+    ]
+    stat_html = "".join(
+        f'<div style="text-align:center;padding:12px 18px;background:#f8f9fa;'
+        f'border-radius:6px;margin:4px">'
+        f'<div style="font-size:1.6em;font-weight:bold;color:{c}">{v}</div>'
+        f'<div style="font-size:0.75em;color:#6c757d;margin-top:2px">{k}</div>'
+        f'</div>'
+        for k, v, c in stat_items
+    )
 
-        rows += f"""
-        <tr style="background:{category_color}">
-          <td style="padding:8px;border:1px solid #dee2e6;font-weight:bold">{f['category']}</td>
-          <td style="padding:8px;border:1px solid #dee2e6">
-            <a href="{f['link']}">{f['site_name']}</a>
-          </td>
-          <td style="padding:8px;border:1px solid #dee2e6">{f['summary']}</td>
-          <td style="padding:8px;border:1px solid #dee2e6;font-size:0.9em;color:#555">{f['details']}</td>
-        </tr>"""
+    # Findings table
+    if findings:
+        rows = "".join(
+            f'<tr style="background:{cat_colors.get(f["category"], "#fff")}">'
+            f'<td style="padding:8px;border:1px solid #dee2e6;font-weight:bold">{f["category"]}</td>'
+            f'<td style="padding:8px;border:1px solid #dee2e6"><a href="{f["link"]}">{f["site_name"]}</a></td>'
+            f'<td style="padding:8px;border:1px solid #dee2e6">{f["summary"]}</td>'
+            f'<td style="padding:8px;border:1px solid #dee2e6;font-size:0.85em;color:#555">{f["details"]}</td>'
+            f'</tr>'
+            for f in findings
+        )
+        findings_html = f"""
+        <h3 style="color:#155724;margin-top:30px">Actionable Findings</h3>
+        <table style="border-collapse:collapse;width:100%;font-size:0.9em">
+          <thead><tr style="background:#343a40;color:#fff">
+            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Category</th>
+            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Site</th>
+            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Summary</th>
+            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Details</th>
+          </tr></thead>
+          <tbody>{rows}</tbody>
+        </table>"""
+    else:
+        findings_html = (
+            '<p style="color:#6c757d;margin-top:20px">'
+            'No actionable changes detected today. All monitored sites are stable.</p>'
+        )
+
+    # Noise list
+    noise_html = ""
+    if stats["noise_sites"]:
+        noise_items = "".join(f"<li>{s}</li>" for s in stats["noise_sites"])
+        noise_html = (
+            f'<h3 style="color:#6c757d;margin-top:24px;font-size:0.95em">'
+            f'Noise-only changes (minor page updates, not tender-related)</h3>'
+            f'<ul style="color:#6c757d;font-size:0.85em">{noise_items}</ul>'
+        )
+
+    # Failed sites
+    failed_html = ""
+    if stats["scrape_failed"] and stats.get("failed_sites"):
+        fail_items = "".join(f"<li>{s}</li>" for s in stats["failed_sites"])
+        failed_html = (
+            f'<h3 style="color:#dc3545;margin-top:24px;font-size:0.95em">'
+            f'Sites that failed to scrape</h3>'
+            f'<ul style="color:#dc3545;font-size:0.85em">{fail_items}</ul>'
+        )
 
     html = f"""<!DOCTYPE html>
 <html>
-<body style="font-family:Arial,sans-serif;margin:20px">
-  <h2 style="color:#343a40">Tender Monitor Daily Report</h2>
-  <p style="color:#6c757d">{date_str} &mdash; {count} actionable change(s) detected</p>
-  <table style="border-collapse:collapse;width:100%;font-size:0.95em">
-    <thead>
-      <tr style="background:#343a40;color:#fff">
-        <th style="padding:10px;border:1px solid #dee2e6;text-align:left">Category</th>
-        <th style="padding:10px;border:1px solid #dee2e6;text-align:left">Site</th>
-        <th style="padding:10px;border:1px solid #dee2e6;text-align:left">Summary</th>
-        <th style="padding:10px;border:1px solid #dee2e6;text-align:left">Details</th>
-      </tr>
-    </thead>
-    <tbody>{rows}</tbody>
-  </table>
-  <p style="margin-top:20px;color:#adb5bd;font-size:0.8em">
-    Generated by Tender Monitor &mdash; powered by Claude {CLAUDE_MODEL}
+<body style="font-family:Arial,sans-serif;margin:20px;max-width:900px">
+  <h2 style="color:#343a40;border-bottom:2px solid #dee2e6;padding-bottom:8px">
+    Tender Monitor &mdash; Daily Report &mdash; {date_str}
+  </h2>
+  <div style="display:flex;flex-wrap:wrap;gap:8px;margin:16px 0">{stat_html}</div>
+  {findings_html}
+  {noise_html}
+  {failed_html}
+  <p style="margin-top:30px;color:#adb5bd;font-size:0.75em;border-top:1px solid #dee2e6;padding-top:8px">
+    Powered by Claude {CLAUDE_MODEL} &mdash; Tender Monitor
   </p>
 </body>
 </html>"""
@@ -347,6 +427,18 @@ def main() -> None:
 
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
 
+    # Stats tracking
+    stats: dict = {
+        "total":        len(targets),
+        "scraped_ok":   0,
+        "scrape_failed": 0,
+        "no_change":    0,
+        "analyzed":     0,
+        "by_category":  {},
+        "noise_sites":  [],
+        "failed_sites": [],
+    }
+
     # 2. Scrape each target and write snapshot
     print("\n--- Scraping ---")
     for target in targets:
@@ -354,10 +446,13 @@ def main() -> None:
         print(f"Scraping: {name} ({url})")
         html = fetch_page(url)
         if html is None:
+            stats["scrape_failed"] += 1
+            stats["failed_sites"].append(name)
             continue
         md = html_to_markdown(html, url)
         outfile = SITES_DIR / f"{safe_filename(name)}.md"
         outfile.write_text(md, encoding="utf-8")
+        stats["scraped_ok"] += 1
         print(f"  → Saved {outfile}")
         time.sleep(REQUEST_DELAY)
 
@@ -373,31 +468,35 @@ def main() -> None:
 
         diff = git_diff_for_file(filepath)
         if not diff:
+            stats["no_change"] += 1
             print(f"  No change: {name}")
             continue
 
+        stats["analyzed"] += 1
         print(f"  Change detected: {name} — sending to Claude...")
         analysis = analyse_diff(client, name, diff)
-        print(f"    category={analysis.get('category')}  actionable={analysis.get('actionable')}")
+        category = analysis.get("category", "UNKNOWN")
+        print(f"    category={category}  actionable={analysis.get('actionable')}")
         time.sleep(1)  # avoid rate limiting
+
+        stats["by_category"][category] = stats["by_category"].get(category, 0) + 1
 
         if analysis.get("actionable"):
             findings.append({
                 "site_name": name,
                 "link":      target["link"],
-                "category":  analysis.get("category", "UNKNOWN"),
+                "category":  category,
                 "summary":   analysis.get("summary", ""),
                 "details":   analysis.get("details", ""),
             })
+        else:
+            stats["noise_sites"].append(name)
 
-    # 4. Email report if there is anything worth reporting
+    # 4. Always send a daily summary email
     print("\n--- Reporting ---")
-    if findings:
-        subject, html, plain = build_report(findings)
-        print(f"Sending report: {subject}")
-        send_email(subject, html, plain)
-    else:
-        print("No actionable changes found. No email sent.")
+    subject, html, plain = build_report(findings, stats)
+    print(f"Sending report: {subject}")
+    send_email(subject, html, plain)
 
     print("\nDone.")
 
