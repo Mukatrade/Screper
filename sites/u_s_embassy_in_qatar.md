@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://qa.usembassy.gov/contracting-opportunities/  
-**Captured:** 2026-06-12 16:19 UTC
+**Captured:** 2026-06-12 18:11 UTC
 
 ---
 

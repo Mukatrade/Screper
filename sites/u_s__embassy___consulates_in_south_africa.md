@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://za.usembassy.gov/commercial-opportunities/  
-**Captured:** 2026-06-12 16:16 UTC
+**Captured:** 2026-06-12 18:08 UTC
 
 ---
 

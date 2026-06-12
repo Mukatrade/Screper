@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ar.usembassy.gov/general-services-office/  
-**Captured:** 2026-06-12 16:19 UTC
+**Captured:** 2026-06-12 18:12 UTC
 
 ---
 

@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://pk.usembassy.gov/procurement-solicitations-karachi/  
-**Captured:** 2026-06-12 16:19 UTC
+**Captured:** 2026-06-12 18:11 UTC
 
 ---
 

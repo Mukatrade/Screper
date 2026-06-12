@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://md.usembassy.gov/business/#opportunities  
-**Captured:** 2026-06-12 16:20 UTC
+**Captured:** 2026-06-12 18:13 UTC
 
 ---
 

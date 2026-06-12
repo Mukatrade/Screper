@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://th.usembassy.gov/gso-procurement-sales-opportunities/  
-**Captured:** 2026-06-12 16:18 UTC
+**Captured:** 2026-06-12 18:11 UTC
 
 ---
 

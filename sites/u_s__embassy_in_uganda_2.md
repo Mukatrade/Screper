@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ug.usembassy.gov/procurement-section/  
-**Captured:** 2026-06-12 16:18 UTC
+**Captured:** 2026-06-12 18:11 UTC
 
 ---
 
