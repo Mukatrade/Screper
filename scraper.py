@@ -124,8 +124,7 @@ def html_to_markdown(html: str, url: str) -> str:
 
     header = (
         f"# Snapshot\n\n"
-        f"**Source:** {url}  \n"
-        f"**Captured:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
+        f"**Source:** {url}  \n\n"
         f"---\n\n"
     )
     return header + text.strip()
