@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://in.usembassy.gov/mandatory-requirements-for-all-solicitations-chennai/  
-**Captured:** 2026-06-13 12:06 UTC
+**Captured:** 2026-06-13 12:51 UTC
 
 ---
 

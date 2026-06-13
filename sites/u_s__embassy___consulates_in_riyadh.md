@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://sa.usembassy.gov/procurement-solicitation-packages-riyadh/  
-**Captured:** 2026-06-13 12:10 UTC
+**Captured:** 2026-06-13 12:55 UTC
 
 ---
 

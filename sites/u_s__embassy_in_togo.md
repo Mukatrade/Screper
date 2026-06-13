@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://tg.usembassy.gov/business/#opp  
-**Captured:** 2026-06-13 12:09 UTC
+**Captured:** 2026-06-13 12:53 UTC
 
 ---
 

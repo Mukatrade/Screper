@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://mn.usembassy.gov/commercial-and-contract-opportunities/  
-**Captured:** 2026-06-13 12:11 UTC
+**Captured:** 2026-06-13 12:55 UTC
 
 ---
 

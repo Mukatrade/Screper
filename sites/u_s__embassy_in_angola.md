@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ao.usembassy.gov/business/commercial-opportunities/  
-**Captured:** 2026-06-13 12:07 UTC
+**Captured:** 2026-06-13 12:51 UTC
 
 ---
 

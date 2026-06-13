@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://gq.usembassy.gov/oportunidad-de-contrato/  
-**Captured:** 2026-06-13 12:07 UTC
+**Captured:** 2026-06-13 12:52 UTC
 
 ---
 
