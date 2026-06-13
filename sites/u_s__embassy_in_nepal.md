@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://np.usembassy.gov/contract-grant-opportunities/  
-**Captured:** 2026-06-12 18:10 UTC
+**Captured:** 2026-06-13 09:54 UTC
 
 ---
 

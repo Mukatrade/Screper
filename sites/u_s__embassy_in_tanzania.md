@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://tz.usembassy.gov/contract-opportunities/  
-**Captured:** 2026-06-12 18:11 UTC
+**Captured:** 2026-06-13 09:54 UTC
 
 ---
 

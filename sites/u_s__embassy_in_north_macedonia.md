@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://mk.usembassy.gov/contract-solicitations/  
-**Captured:** 2026-06-12 18:10 UTC
+**Captured:** 2026-06-13 09:54 UTC
 
 ---
 

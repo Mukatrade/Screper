@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://sk.usembassy.gov/procurement/  
-**Captured:** 2026-06-12 18:12 UTC
+**Captured:** 2026-06-13 09:56 UTC
 
 ---
 

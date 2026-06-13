@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://eg.usembassy.gov/u-s-embassy-cairo/contract-solicitations/  
-**Captured:** 2026-06-12 18:09 UTC
+**Captured:** 2026-06-13 09:53 UTC
 
 ---
 
