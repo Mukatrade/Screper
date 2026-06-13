@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://in.usembassy.gov/embassy-consulates-contract-solicitations/  
-**Captured:** 2026-06-13 09:56 UTC
+**Captured:** 2026-06-13 12:06 UTC
 
 ---
 

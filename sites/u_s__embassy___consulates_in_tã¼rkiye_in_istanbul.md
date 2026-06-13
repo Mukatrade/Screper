@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://tr.usembassy.gov/solicitations-and-contracts-for-the-u-s-consulate-general-istanbul/#solicitations  
-**Captured:** 2026-06-13 09:57 UTC
+**Captured:** 2026-06-13 12:07 UTC
 
 ---
 

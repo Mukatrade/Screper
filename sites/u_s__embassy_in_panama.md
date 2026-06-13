@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://pa.usembassy.gov/request-for-quotations/  
-**Captured:** 2026-06-13 09:59 UTC
+**Captured:** 2026-06-13 12:08 UTC
 
 ---
 

@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://gy.usembassy.gov/contract-solicitation-and-procurement/  
-**Captured:** 2026-06-13 09:58 UTC
+**Captured:** 2026-06-13 12:08 UTC
 
 ---
 

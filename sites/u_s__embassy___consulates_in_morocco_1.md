@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ma.usembassy.gov/business/#opportunities  
-**Captured:** 2026-06-13 09:57 UTC
+**Captured:** 2026-06-13 12:06 UTC
 
 ---
 

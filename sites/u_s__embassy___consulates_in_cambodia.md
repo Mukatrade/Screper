@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://kh.usembassy.gov/business-opportunities/  
-**Captured:** 2026-06-13 10:01 UTC
+**Captured:** 2026-06-13 12:10 UTC
 
 ---
 

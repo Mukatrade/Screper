@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ua.usembassy.gov/commercial-and-contract-opportunities/#bids  
-**Captured:** 2026-06-13 09:59 UTC
+**Captured:** 2026-06-13 12:09 UTC
 
 ---
 
