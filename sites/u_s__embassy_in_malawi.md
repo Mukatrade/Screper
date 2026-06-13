@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://mw.usembassy.gov/procurement-opportunities/  
-**Captured:** 2026-06-13 09:54 UTC
+**Captured:** 2026-06-13 09:58 UTC
 
 ---
 

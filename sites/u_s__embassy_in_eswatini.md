@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://sz.usembassy.gov/procurement-2/  
-**Captured:** 2026-06-13 09:53 UTC
+**Captured:** 2026-06-13 09:58 UTC
 
 ---
 

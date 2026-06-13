@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://kr.usembassy.gov/solicitation-notice/  
-**Captured:** 2026-06-13 09:55 UTC
+**Captured:** 2026-06-13 10:00 UTC
 
 ---
 

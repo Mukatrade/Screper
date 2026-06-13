@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ne.usembassy.gov/business/  
-**Captured:** 2026-06-13 09:54 UTC
+**Captured:** 2026-06-13 09:58 UTC
 
 ---
 

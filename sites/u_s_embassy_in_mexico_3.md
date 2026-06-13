@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://mx.usembassy.gov/ciudad-juarez-contract-and-procurement-opportunities/  
-**Captured:** 2026-06-13 09:55 UTC
+**Captured:** 2026-06-13 10:00 UTC
 
 ---
 

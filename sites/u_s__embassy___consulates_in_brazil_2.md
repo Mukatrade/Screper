@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://br.usembassy.gov/procurement-and-contract-opportunities/  
-**Captured:** 2026-06-13 09:57 UTC
+**Captured:** 2026-06-13 10:01 UTC
 
 ---
 

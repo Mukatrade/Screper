@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ht.usembassy.gov/business/#opps  
-**Captured:** 2026-06-13 09:56 UTC
+**Captured:** 2026-06-13 10:00 UTC
 
 ---
 

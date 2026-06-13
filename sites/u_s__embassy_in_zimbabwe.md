@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://zw.usembassy.gov/request-for-various-solicitations/  
-**Captured:** 2026-06-13 09:55 UTC
+**Captured:** 2026-06-13 09:59 UTC
 
 ---
 

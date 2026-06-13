@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://th.usembassy.gov/tag/rfq-chiang-mai/  
-**Captured:** 2026-06-13 09:54 UTC
+**Captured:** 2026-06-13 09:59 UTC
 
 ---
 

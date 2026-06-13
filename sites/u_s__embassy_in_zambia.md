@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://zm.usembassy.gov/procurement-and-contracting-opportunities/  
-**Captured:** 2026-06-13 09:55 UTC
+**Captured:** 2026-06-13 09:59 UTC
 
 ---
 
