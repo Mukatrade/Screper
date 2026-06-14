@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://tr.usembassy.gov/solicitations-and-contracts-for-the-u-s-embassy-in-ankara/  
-**Captured:** 2026-06-13 12:55 UTC
+**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

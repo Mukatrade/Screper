@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ke.usembassy.gov/tag/request-for-proposals/  
-**Captured:** 2026-06-13 12:52 UTC
+**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

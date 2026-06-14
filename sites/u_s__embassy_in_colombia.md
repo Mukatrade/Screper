@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://co.usembassy.gov/solicitation-contracting/  
-**Captured:** 2026-06-13 12:52 UTC
+**Captured:** 2026-06-14 09:13 UTC
 
 ---
 

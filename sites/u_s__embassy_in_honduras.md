@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://hn.usembassy.gov/solicitations/  
-**Captured:** 2026-06-13 12:55 UTC
+**Captured:** 2026-06-14 09:17 UTC
 
 ---
 

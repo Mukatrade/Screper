@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://de.usembassy.gov/contract-opportunities-berlin/  
-**Captured:** 2026-06-13 12:55 UTC
+**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

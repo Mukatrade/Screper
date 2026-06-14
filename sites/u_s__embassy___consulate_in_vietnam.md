@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://vn.usembassy.gov/business-opportunities-hanoi/  
-**Captured:** 2026-06-13 12:51 UTC
+**Captured:** 2026-06-14 09:12 UTC
 
 ---
 

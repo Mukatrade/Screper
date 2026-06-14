@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://mg.usembassy.gov/tag/commercial/  
-**Captured:** 2026-06-13 12:53 UTC
+**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

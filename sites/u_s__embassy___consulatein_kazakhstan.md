@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://kz.usembassy.gov/astana/  
-**Captured:** 2026-06-13 12:51 UTC
+**Captured:** 2026-06-14 09:13 UTC
 
 ---
 

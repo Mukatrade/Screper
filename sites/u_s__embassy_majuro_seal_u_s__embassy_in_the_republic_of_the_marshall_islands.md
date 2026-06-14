@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://mh.usembassy.gov/education/grants-and-opportunities/  
-**Captured:** 2026-06-13 12:55 UTC
+**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

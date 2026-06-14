@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://ls.usembassy.gov/category/econ-opportunity/  
-**Captured:** 2026-06-13 12:53 UTC
+**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

@@ -1,7 +1,7 @@
 # Snapshot
 
 **Source:** https://jp.usembassy.gov/jobs/business-opportunities/  
-**Captured:** 2026-06-13 12:51 UTC
+**Captured:** 2026-06-14 09:12 UTC
 
 ---
 
