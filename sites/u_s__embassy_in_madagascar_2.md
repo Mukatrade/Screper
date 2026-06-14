@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://mg.usembassy.gov/business/  
-**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

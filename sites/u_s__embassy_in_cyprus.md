@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://cy.usembassy.gov/procurement-solicitations/  
-**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

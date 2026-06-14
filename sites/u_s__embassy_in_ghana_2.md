@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://gh.usembassy.gov/business/contract-opportunities/  
-**Captured:** 2026-06-14 09:13 UTC
 
 ---
 

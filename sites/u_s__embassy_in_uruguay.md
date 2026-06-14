@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://uy.usembassy.gov/call-for-bids/  
-**Captured:** 2026-06-14 09:15 UTC
 
 ---
 

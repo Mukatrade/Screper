@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://ec.usembassy.gov/contract-and-solicitation-opportunities/  
-**Captured:** 2026-06-14 09:12 UTC
 
 ---
 

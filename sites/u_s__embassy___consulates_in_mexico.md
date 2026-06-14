@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://mx.usembassy.gov/mexico-city-contract-and-procurement-opportunities/  
-**Captured:** 2026-06-14 09:12 UTC
 
 ---
 

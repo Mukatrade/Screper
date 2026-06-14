@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://de.usembassy.gov/munich-solicitations-and-services/  
-**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

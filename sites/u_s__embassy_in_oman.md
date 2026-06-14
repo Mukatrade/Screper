@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://om.usembassy.gov/contracting-opportunities-at-embassy/  
-**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

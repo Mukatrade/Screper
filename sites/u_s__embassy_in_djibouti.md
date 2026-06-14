@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://dj.usembassy.gov/procurement-acquisitions/  
-**Captured:** 2026-06-14 09:13 UTC
 
 ---
 

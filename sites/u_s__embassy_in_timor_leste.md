@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://tl.usembassy.gov/business/#opportunities  
-**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

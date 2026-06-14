@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://ma.usembassy.gov/procurement-opportunities/  
-**Captured:** 2026-06-14 09:12 UTC
 
 ---
 

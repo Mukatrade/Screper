@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://bd.usembassy.gov/grants-and-procurement-opportunities/#embassy  
-**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

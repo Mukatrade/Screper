@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://jm.usembassy.gov/tag/procurement-opportunities/  
-**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

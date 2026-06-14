@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://ml.usembassy.gov/requests-for-proposals/  
-**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

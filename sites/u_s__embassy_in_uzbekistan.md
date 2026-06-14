@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://uz.usembassy.gov/procurement-and-contracting/  
-**Captured:** 2026-06-14 09:15 UTC
 
 ---
 

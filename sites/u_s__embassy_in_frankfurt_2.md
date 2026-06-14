@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://de.usembassy.gov/rpso-procurement-acquisitions/  
-**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

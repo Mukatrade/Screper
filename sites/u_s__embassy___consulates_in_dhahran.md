@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://sa.usembassy.gov/procurement-solicitation-packages-dhahran/  
-**Captured:** 2026-06-14 09:16 UTC
 
 ---
 

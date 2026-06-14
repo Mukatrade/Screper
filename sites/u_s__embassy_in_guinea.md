@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://gn.usembassy.gov/tag/procurement-advertisements/  
-**Captured:** 2026-06-14 09:13 UTC
 
 ---
 

@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://mu.usembassy.gov/commercial-opportunities/  
-**Captured:** 2026-06-14 09:15 UTC
 
 ---
 

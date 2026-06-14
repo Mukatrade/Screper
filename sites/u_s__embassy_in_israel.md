@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://il.usembassy.gov/contract-solicitations/  
-**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

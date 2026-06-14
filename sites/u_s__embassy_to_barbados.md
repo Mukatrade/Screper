@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://bb.usembassy.gov/business-opportunities/  
-**Captured:** 2026-06-14 09:15 UTC
 
 ---
 

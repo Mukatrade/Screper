@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://pe.usembassy.gov/request-for-quotations/  
-**Captured:** 2026-06-14 09:14 UTC
 
 ---
 

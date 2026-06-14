@@ -1,7 +1,6 @@
 # Snapshot
 
 **Source:** https://tr.usembassy.gov/solicitations-and-contracts-for-the-u-s-consulate-adana/  
-**Captured:** 2026-06-14 09:16 UTC
 
 ---
 
