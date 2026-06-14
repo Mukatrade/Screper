@@ -438,6 +438,14 @@ def main() -> None:
         "failed_sites": [],
     }
 
+    # Inject a canary target that always changes — proves email delivery works
+    CANARY_NAME = "__CANARY__"
+    canary_file = SITES_DIR / "canary.md"
+    canary_file.write_text(
+        f"# Canary\nRun timestamp: {datetime.utcnow().isoformat()}Z\n",
+        encoding="utf-8",
+    )
+
     # 2. Scrape each target and write snapshot
     print("\n--- Scraping ---")
     for target in targets:
@@ -458,6 +466,22 @@ def main() -> None:
     # 3. Diff against HEAD and analyse
     print("\n--- Diffing & Analysing ---")
     findings: list[dict] = []
+
+    # Canary: always actionable — confirms email delivery every run
+    canary_diff = git_diff_for_file(canary_file)
+    if canary_diff:
+        findings.append({
+            "site_name": "✅ Canary (system health check)",
+            "link":      "https://github.com/Mukatrade/Screper",
+            "category":  "NEW_TENDER",
+            "summary":   "Canary fired — scraper ran successfully and email delivery is working.",
+            "details":   f"Run completed at {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}",
+        })
+        stats["analyzed"] += 1
+        stats["by_category"]["NEW_TENDER"] = stats["by_category"].get("NEW_TENDER", 0) + 1
+        print("  Canary: ✅ fired (email delivery confirmed)")
+    else:
+        print("  Canary: first run — no baseline yet")
 
     for target in targets:
         name = target["name"]
