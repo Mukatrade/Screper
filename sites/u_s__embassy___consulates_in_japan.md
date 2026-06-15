@@ -8,7 +8,6 @@ Description of Services/Supplies: | Issued: | Site Visit: | Quotations/Proposals
 Boiler Replacement for Snow-Melt System at U.S. Consulate General Sapporo Pre-solicitation Notice (June 12) | To be announced | To be announced | To be announced
 2027 Sapporo Snow Sculpture Pre-solicitation Notice (April 28) RFQ 19JA7026Q0085 (May 8) | May 8 | May 20 at 2 p.m. | June 1 by 12 noon
 A/C and Ceiling/Lighting Renewal for the CAC at the U.S. Consulate General Sapporo Pre-solicitation Notice (April 28) RFQ 19JA7026Q0084 (May 13) Amendment 0001 and Q&A (May 27) Amendment 0002 (May 29) | May 13 | May 20 at 10 a.m. | June 5 by 12 noon
-A250 – American Festival Hibiya Park 2026 Pre-solicitation Notice (April 10) RFQ 19JA8026Q0025 (May 13) Amendment 0001 – Q&A (May 21) | May 13 | N/A | May 29 by 12 noon
 Underground Fuel Storage Tanks (UST) Refurbishment Services – Tokyo Pre-solicitation Notice (March 17) RFQ No. 19JA8026Q0021 (May 18) Amendment 0001 (June 10) Amendment 0002 (June 11) | May 18 | May 28 at 10 a.m. | Extended to June 30 by 10 a.m.
 Marine Security Guard – Food Services Contract Pre-solicitation Notice (March 18) RFQ 19JA8026Q0022 (May 28) Amendment 0001 (June 5) | May 28 | June 12 | June 26 by 12 noon
 Building Maintenance Services, U.S. Embassy Tokyo Solicitation: 19GE5026Q0008 (March 11) | March 11 | March 26-27 at 10 a.m. (JST) RSVP deadline March 18 by 5 p.m. | April 17 by 3 p.m. (Central European Time)

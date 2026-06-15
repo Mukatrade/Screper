@@ -17,6 +17,7 @@
 ## Current Solicitations Islamabad
 
 Solicitation Number | Title | Issue Date | Closing Date | More Information
+RFQ ID# 16071081 | Auction Services for U.S. Embassy Islamabad. | June 15, 2026 | June 24, 2026 (Before 12 noon) | Click to see the full notice: RFQ ID# 16071081 Click to see the Attachment-A Clauses: Attachment-A FAR Clauses
 19PK3326Q1029 | Supply and Installation of Kitchen Hood System & ANSUL R-102 Kitchen Hood Fire Suppression System (Including all Required Jointing Systems and Accessories) | June 05, 2026 | June 17, 2026 | Click to see the full notice: RFQ 19PK3326Q1029 Click to see the Scope of Work: Scope of Work
 19PK3326Q7080 | Subject Matter Experts for U.S. Speaker Program | May 22, 2026 | June 22, 2026, 15:00 (PST). | Click to see the full notice: RFQ 19PK3326Q7080_Subject Matter Experts
 19PK3326Q7080 | Subject Matter Experts for U.S. Speaker Program | May 22, 2026 | June 22, 2026, 15:00 (PST). | Click to see the full notice: RFQ# 19PK3326Q1028_ iPhone 17 Cell Phones
