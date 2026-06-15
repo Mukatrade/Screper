@@ -36,11 +36,12 @@ from bs4 import BeautifulSoup
 # Configuration
 # ---------------------------------------------------------------------------
 
-ANTHROPIC_API_KEY   = os.environ["ANTHROPIC_API_KEY"]
-GMAIL_USER          = os.environ["GMAIL_USER"]
-GMAIL_APP_PASSWORD  = os.environ["GMAIL_APP_PASSWORD"]
-RECIPIENT_EMAIL     = os.environ["RECIPIENT_EMAIL"]          # comma-separated
+ANTHROPIC_API_KEY    = os.environ["ANTHROPIC_API_KEY"]
+GMAIL_USER           = os.environ["GMAIL_USER"]
+GMAIL_APP_PASSWORD   = os.environ["GMAIL_APP_PASSWORD"]
+RECIPIENT_EMAIL      = os.environ["RECIPIENT_EMAIL"]          # comma-separated
 GOOGLE_SHEET_CSV_URL = os.environ["GOOGLE_SHEET_CSV_URL"]
+DASHBOARD_URL        = os.environ.get("DASHBOARD_URL", "").rstrip("/")
 
 SITES_DIR       = Path("sites")
 CLAUDE_MODEL    = "claude-opus-4-8"
@@ -138,6 +139,27 @@ def safe_filename(name: str) -> str:
 # Helpers: CSV / sheet reading
 # ---------------------------------------------------------------------------
 
+def load_filters() -> dict:
+    """
+    Fetch include/exclude keyword lists from the dashboard API.
+    Returns {'include': [...], 'exclude': [...]} or empty lists on failure.
+    """
+    if not DASHBOARD_URL:
+        print("  [INFO] DASHBOARD_URL not set — running without keyword filters.")
+        return {"include": [], "exclude": []}
+    try:
+        resp = requests.get(f"{DASHBOARD_URL}/api/scraper/filters", timeout=10)
+        resp.raise_for_status()
+        data = resp.json()
+        inc = [k.lower() for k in data.get("include", [])]
+        exc = [k.lower() for k in data.get("exclude", [])]
+        print(f"  Filters loaded — include: {inc or 'none'}, exclude: {exc or 'none'}")
+        return {"include": inc, "exclude": exc}
+    except Exception as e:
+        print(f"  [WARN] Could not load filters: {e}")
+        return {"include": [], "exclude": []}
+
+
 def load_targets(csv_url: str) -> list[dict]:
     """
     Download the published Google Sheet CSV and return a list of
@@ -176,26 +198,46 @@ def git_diff_for_file(filepath: Path) -> str:
 # Helpers: Claude analysis
 # ---------------------------------------------------------------------------
 
-ANALYSIS_SYSTEM_PROMPT = """You are a procurement intelligence assistant.
+ANALYSIS_SYSTEM_PROMPT_TEMPLATE = """You are a procurement intelligence assistant.
 You receive a Git diff (unified diff format) from a website that publishes tender or contract notices.
 Your job is to determine whether the change is actionable:
 
-1. NEW TENDER — a brand-new tender / contract opportunity has appeared.
-2. STATUS UPDATE — an existing tender has changed status (e.g., awarded, cancelled, extended, deadline changed).
-3. CONTENT EDIT — minor edits inside an existing tender block (clarifications, amendments).
+1. NEW_TENDER — a brand-new tender / contract opportunity has appeared.
+2. STATUS_UPDATE — an existing tender has changed status (e.g., awarded, cancelled, extended, deadline changed).
+3. CONTENT_EDIT — minor edits inside an existing tender block (clarifications, amendments).
 4. NOISE — navigation changes, date stamps, cookie banners, or other non-tender content.
 
+{keyword_instructions}
+
 Reply with a JSON object (no markdown fences) with exactly these keys:
-{
+{{
   "actionable": true | false,
   "category": "NEW_TENDER" | "STATUS_UPDATE" | "CONTENT_EDIT" | "NOISE",
   "summary": "<one or two sentence plain-English description of what changed>",
   "details": "<any specific tender names, reference numbers, deadlines, values you can extract>"
-}
+}}
 """
 
 
-def analyse_diff(client: Anthropic, site_name: str, diff_text: str) -> dict:
+def build_system_prompt(filters: dict) -> str:
+    inc = filters.get("include", [])
+    exc = filters.get("exclude", [])
+    parts = []
+    if inc:
+        parts.append(
+            f"IMPORTANT: Only mark as actionable if the tender title or content relates to "
+            f"at least one of these keywords: {', '.join(inc)}."
+        )
+    if exc:
+        parts.append(
+            f"IMPORTANT: Mark as NOISE (not actionable) if the tender is primarily about: "
+            f"{', '.join(exc)}."
+        )
+    keyword_instructions = "\n".join(parts) if parts else ""
+    return ANALYSIS_SYSTEM_PROMPT_TEMPLATE.format(keyword_instructions=keyword_instructions)
+
+
+def analyse_diff(client: Anthropic, site_name: str, diff_text: str, filters: dict) -> dict:
     """Send a diff to Claude and return parsed analysis dict."""
     if len(diff_text) > MAX_DIFF_CHARS:
         diff_text = diff_text[:MAX_DIFF_CHARS] + "\n... [truncated]"
@@ -205,7 +247,7 @@ def analyse_diff(client: Anthropic, site_name: str, diff_text: str) -> dict:
             message = client.messages.create(
                 model=CLAUDE_MODEL,
                 max_tokens=512,
-                system=ANALYSIS_SYSTEM_PROMPT,
+                system=build_system_prompt(filters),
                 messages=[
                     {
                         "role": "user",
@@ -418,11 +460,14 @@ def build_report(
 def main() -> None:
     SITES_DIR.mkdir(exist_ok=True)
 
-    # 1. Load monitoring targets
+    # 1. Load monitoring targets and keyword filters
     targets = load_targets(GOOGLE_SHEET_CSV_URL)
     if not targets:
         print("No targets found. Exiting.")
         sys.exit(0)
+
+    print("\nLoading keyword filters...")
+    filters = load_filters()
 
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
 
@@ -437,14 +482,6 @@ def main() -> None:
         "noise_sites":  [],
         "failed_sites": [],
     }
-
-    # Inject a canary target that always changes — proves email delivery works
-    CANARY_NAME = "__CANARY__"
-    canary_file = SITES_DIR / "canary.md"
-    canary_file.write_text(
-        f"# Canary\nRun timestamp: {datetime.utcnow().isoformat()}Z\n",
-        encoding="utf-8",
-    )
 
     # 2. Scrape each target and write snapshot
     print("\n--- Scraping ---")
@@ -467,22 +504,6 @@ def main() -> None:
     print("\n--- Diffing & Analysing ---")
     findings: list[dict] = []
 
-    # Canary: always actionable — confirms email delivery every run
-    canary_diff = git_diff_for_file(canary_file)
-    if canary_diff:
-        findings.append({
-            "site_name": "✅ Canary (system health check)",
-            "link":      "https://github.com/Mukatrade/Screper",
-            "category":  "NEW_TENDER",
-            "summary":   "Canary fired — scraper ran successfully and email delivery is working.",
-            "details":   f"Run completed at {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}",
-        })
-        stats["analyzed"] += 1
-        stats["by_category"]["NEW_TENDER"] = stats["by_category"].get("NEW_TENDER", 0) + 1
-        print("  Canary: ✅ fired (email delivery confirmed)")
-    else:
-        print("  Canary: first run — no baseline yet")
-
     for target in targets:
         name = target["name"]
         filepath = SITES_DIR / f"{safe_filename(name)}.md"
@@ -497,7 +518,7 @@ def main() -> None:
 
         stats["analyzed"] += 1
         print(f"  Change detected: {name} — sending to Claude...")
-        analysis = analyse_diff(client, name, diff)
+        analysis = analyse_diff(client, name, diff, filters)
         category = analysis.get("category", "UNKNOWN")
         print(f"    category={category}  actionable={analysis.get('actionable')}")
         time.sleep(1)  # avoid rate limiting

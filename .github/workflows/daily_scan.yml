@@ -2,7 +2,7 @@ name: Daily Tender Scan
 
 on:
   schedule:
-    - cron: '55 11 * * *'
+    - cron: '49 12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -33,6 +33,7 @@ jobs:
         GMAIL_USER: ${{ secrets.GMAIL_USER }}
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
       run: python scraper.py
 
     - name: Commit and push changes
