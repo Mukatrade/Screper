@@ -548,7 +548,31 @@ def main() -> None:
         else:
             stats["noise_sites"].append(name)
 
-    # 4. Always send a daily summary email
+    # 4. Record this run in a small history file (committed inside sites/ so the
+    #    existing workflow commits it; the dashboard reads the last 5 via GitHub).
+    try:
+        import json as _json
+        runs_path = SITES_DIR / "_runs.json"
+        history = []
+        if runs_path.exists():
+            try:
+                history = _json.loads(runs_path.read_text(encoding="utf-8"))
+            except Exception:
+                history = []
+        history.insert(0, {
+            "ran_at":     datetime.utcnow().isoformat() + "Z",
+            "findings":   len(findings),
+            "new_tender": stats["by_category"].get("NEW_TENDER", 0),
+            "updated":    stats["by_category"].get("STATUS_UPDATE", 0),
+            "edited":     stats["by_category"].get("CONTENT_EDIT", 0),
+            "monitored":  stats.get("total", 0),
+        })
+        runs_path.write_text(_json.dumps(history[:10], indent=2), encoding="utf-8")
+        print(f"  → Run history updated ({len(findings)} finding(s)).")
+    except Exception as e:
+        print(f"  (run-history write skipped: {e})")
+
+    # 5. Always send a daily summary email
     print("\n--- Reporting ---")
     subject, html, plain = build_report(findings, stats)
     print(f"Sending report: {subject}")
