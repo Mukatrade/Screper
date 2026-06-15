@@ -401,7 +401,10 @@ def build_report(
         rows = "".join(
             f'<tr style="background:{cat_colors.get(f["category"], "#fff")}">'
             f'<td style="padding:8px;border:1px solid #dee2e6;font-weight:bold">{f["category"]}</td>'
-            f'<td style="padding:8px;border:1px solid #dee2e6"><a href="{f["link"]}">{f["site_name"]}</a></td>'
+            f'<td style="padding:8px;border:1px solid #dee2e6">'
+            f'<div style="font-weight:bold;color:#212529">{f["site_name"]}</div>'
+            f'<a href="{f["link"]}" style="display:inline-block;margin-top:4px;color:#0066cc;font-weight:bold;text-decoration:none">🔗 Open tender →</a>'
+            f'</td>'
             f'<td style="padding:8px;border:1px solid #dee2e6">{f["summary"]}</td>'
             f'<td style="padding:8px;border:1px solid #dee2e6;font-size:0.85em;color:#555">{f["details"]}</td>'
             f'</tr>'
