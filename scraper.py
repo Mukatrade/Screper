@@ -25,6 +25,7 @@ import time
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.header import Header
 from pathlib import Path
 from typing import Optional
 
@@ -294,18 +295,26 @@ def send_email(subject: str, body_html: str, body_text: str) -> None:
     recipients = [r.strip() for r in RECIPIENT_EMAIL.split(",") if r.strip()]
 
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
+    # Encode the Subject as UTF-8 so em-dashes / accents / emoji never break send.
+    msg["Subject"] = Header(subject, "utf-8")
     msg["From"]    = GMAIL_USER
     msg["To"]      = ", ".join(recipients)
 
-    msg.attach(MIMEText(body_text, "plain"))
-    msg.attach(MIMEText(body_html, "html"))
+    # Explicit UTF-8 charset on both bodies — otherwise smtplib tries to encode
+    # the message as ASCII and crashes on names like "Türkiye" or "—".
+    msg.attach(MIMEText(body_text, "plain", "utf-8"))
+    msg.attach(MIMEText(body_html, "html", "utf-8"))
 
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
-        server.sendmail(GMAIL_USER, recipients, msg.as_string())
-
-    print(f"  → Email sent to: {', '.join(recipients)}")
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
+            # send_message respects the message's UTF-8 encoding (avoids the
+            # ASCII-only path that as_string()+sendmail falls into).
+            server.send_message(msg, from_addr=GMAIL_USER, to_addrs=recipients)
+        print(f"  → Email sent to: {', '.join(recipients)}")
+    except Exception as e:
+        print(f"  ✗ Email send FAILED: {type(e).__name__}: {e}")
+        raise
 
 
 def build_report(
