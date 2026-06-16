@@ -62,8 +62,6 @@
 - INL-RFQ PR16035239 – COMPUTERS. Deadline for quotations: July 6, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15731443 – TACTICAL BOOTS AND JACKETS. Deadline for quotations: July 6, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15667540 – EQUIPMENT FOR UPGRADING VIRTUAL PLATFORM. Deadline for quotations: June 15, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15775950_2 – INTERNET SERVICE FOR GCO. Deadline for quotations: June 25, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15696197 – 46 – CONSTRUCTION MATERIALS FOR TOTORO,  CAUCA – 0826. Deadline for quotations: July 21, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 

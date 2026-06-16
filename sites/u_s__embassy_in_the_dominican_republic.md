@@ -18,10 +18,6 @@
 
 ## Economic Opportunity
 
-## RFQ19DR8626Q0052 – Garbage Disposal Services
-
-## Economic Opportunity
-
 ## PR15098978 MATTRESSES AND BOX SPRING RESIDENCES – FY25
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## PR12734700 – VEHICLE 01 RENTAL FOR YEAR 2024 TO 2025
+
+## Economic Opportunity
+
+## RFQ PR12826237 – HR Outsource Services
 
 - Manage options
 - Manage services
