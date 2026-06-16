@@ -6,23 +6,21 @@
 
 ## Open Opportunities
 
-- RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026)
-- Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)
-- MSG Cook – Food Services (Closes June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB)
+- MSG Cook – Food Services (COB June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB)
 - Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services
 - Express NDAA Certification (PDF 519 KB)
 - Re-advertisement Replacement of four HySecurity gate operators (Closes June 11, 2026) HySecurity Slid Gate Controller Statement of Work (PDF 265KB) Express NDAA Certification (PDF 519 KB) Site Visit and Questions
 - HySecurity Slid Gate Controller Statement of Work (PDF 265KB)
 - Express NDAA Certification (PDF 519 KB)
 - Site Visit and Questions
-
-## Closed Procurement Announcements
-
 - Invitation for Vehicles auction announcement (auction dates: June 5-8, 2026, at the Embassy’s back door)
 - Invitation for AHU-5 and Zone five VAV Smart Controllers Upgrade (Closes June 08,2026 at 10:00 a.m. (4:00 a.m. /morning Addis Ababa time)) Express NDAA Certification (PDF 519KB) Statement of Work RFQ  AHU-5 and Zone five VAV Smart Controllers Upgrade
 - Express NDAA Certification (PDF 519KB)
 - Statement of Work
 - RFQ  AHU-5 and Zone five VAV Smart Controllers Upgrade
+
+## Closed Procurement Announcements
+
 - Invitation to bid for LC200 Capture Vision System HDMI & IP Switcher/Recorder/Media Processor (Closes May 22, 2026) Specifications (PDF 632KB)
 - Specifications (PDF 632KB)
 - Invitation to bid for Replacement of four HySecurity gate operators (Closes May 15, 2026) Statement of Work (PDF 264 KB) Express NDAA Certification (PDF 519KB)

@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## Online Auction Advert
-
-## Advertisement – PR15972395 – Janitorial Machines
-
 ## Request for Quotations – PR16017615
+
+## Request for Proposals 19N10226R0003 – LES GMC Health Insurance Services
+
+## Request for Quotations – Number PR16001837
 
 - Manage options
 - Manage services

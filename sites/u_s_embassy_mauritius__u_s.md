@@ -6,11 +6,11 @@
 
 ## Economic Opportunity
 
-## RFQ for Painting Services
+## RFQ for Fabricating & Installing Drop Arms
 
 ## Economic Opportunity
 
-## RFQ for Fabricating & Installing Drop Arms
+## Sewer Line Replacement
 
 ## Economic Opportunity
 
