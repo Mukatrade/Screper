@@ -20,9 +20,9 @@
 
 ### Bureau of Economic and Business Affairs
 
-## RFQ for Fabricating & Installing Drop Arms
+## RFQ for Painting Services
 
-## Sewer Line Replacement
+## RFQ for Fabricating & Installing Drop Arms
 
 ## African Growth & Opportunity Act
 

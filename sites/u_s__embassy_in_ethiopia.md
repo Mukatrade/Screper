@@ -6,6 +6,7 @@
 
 ## Open Opportunities
 
+- RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026)
 - Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)
 - MSG Cook – Food Services (Closes June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB)
 - Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services
