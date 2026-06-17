@@ -1,5 +1,13 @@
 [
   {
+    "ran_at": "2026-06-17T16:35:52.523208Z",
+    "findings": 1,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 1,
+    "monitored": 140
+  },
+  {
     "ran_at": "2026-06-17T07:10:11.069182Z",
     "findings": 16,
     "new_tender": 14,
