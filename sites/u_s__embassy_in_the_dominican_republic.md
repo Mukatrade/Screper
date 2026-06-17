@@ -6,15 +6,15 @@
 
 ## Economic Opportunity
 
+## PR16050856 – RSO Emergency Response Vehicle
+
+## Economic Opportunity
+
 ## (RFQ) PR16030290 – Vetted Units Support
 
 ## Economic Opportunity
 
 ## Notice of Funding Opportunity (NOFO) – EnglishxSTEM
-
-## Economic Opportunity
-
-## RFQ19DR8626Q0052 – Garbage Disposal Services
 
 ## Economic Opportunity
 

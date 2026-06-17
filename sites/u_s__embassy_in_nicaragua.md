@@ -4,104 +4,27 @@
 
 ---
 
-## Requirement for a Local Contractor for Annual Maintenance of the Photovoltaic System
+## PR15999367 Planned Maintenance and Inspection Services to Residencial Generators
 
-## Service of Customs Clearance and Delivery of DPO and DPM
-
-- Standard Form SF-1449 ( download here )
-- Solicitation of Services 19NU7025Q0004 ( download here ) which include: Section I: The Schedule / Statement of Work with specification of scope of the service. Section II: Contract Clauses Section III: Solicitation Provisions Section IV: Evaluation Factors and Section V: Representations and Certifications.
-- SF-1449 (Blocks 12, 17, 23, 24 and 30)
-- SECTION I , Pricing
-- Information required in SECTION III
-- SECTION V Representations and Certifications
-- Proof of SAM Registration
-
-## Maintenance of Softball Field
-
-- Standard Form SF-1449 ( Download here )
-- Solicitation of Services 19NU7025Q0003 which include ( Download here )
-- Section I: The Schedule / Statement of Work with specification of scope of the service.
-- Section II: Contract Clauses
-- Section III: Solicitation Provisions
-- Section IV: Evaluation Factors and
-- Section V: Representations and Certifications.
-- SF-1449 (Blocks 12, 17, 23, 24 and 30)
-- SECTION I, Pricing
-- Information required in SECTION III
-- SECTION V Representations and Certifications
-- Proof of SAM Registration
-
-# UPDATED NOTICE:
-
-- In the subject of the email, please indicate: “Interested in Bidding Solicitation of Services 19NU7025Q0003” and
-- In the message of the email, please indicate: Name of your enterprise, Contact Name, Email and Cellular.
-- Complete Name
-- ID
-- Email
-- Cellular
-- Vehicle Plate
-- Make
-- Model
-- Color
-
-## 2025 Closed Procurement and Contracting
-
-# Call for Architectural and Engineering Qualifications
-
-- Relevant, professional qualifications in the type of work required in this solicitation, for projects having a significant construction value in the past three years;
-- Demonstrated formal education and experience in Civil and Electrical Engineering design and construction:
-- Professional Civil and Electrical Engineer, with specialization in civil structure. Local Authority license required.
-- Five years of progressive experience as a professional Engineer participating in construction supervision, planning, design, and reviewing plans for structures requiring advanced structural analysis to determine static and dynamic responses. These structures include small buildings, covered parking areas and any facilities made of concrete, steel, or masonry.
-- Be able to conduct/interpret seismic and geotechnical studies.
-- Be able to submit all reports in English and Spanish.
-- Demonstrated success on similar projects in terms of quality of work and compliance with performance schedules, cost/schedule controls and program/project management techniques;
-- Although previous or ongoing performance of a similar U.S. Government contract is not required for firms responding to this solicitation, if such contracts have been performed, the offeror must have performed at a satisfactory level;
-
-# Servicio de Diagnóstico, Mantenimiento Correctivo y Mantenimientos Preventivos a electrodomésticos residenciales
-
-- Breve presentación de la empresa incluyendo experiencia del personal técnico que sería asignado para este trabajo, etc.
-- Constancias de clientes que confirmen la capacidad y el desempeño de la empresa o personal técnico en la realización de este tipo de trabajos.
-- Información de contacto: nombre completo y dirección, número de teléfono, dirección de correo electrónico, sitio web y persona punto de contacto.
-
-## 2024 Closed Procurement and Contracting
-
-### Structural Engineering Services: Structural corrosion assessment of HVAC cooling tower steel beam support structure
-
-- Standard Form SF-18
-- Basic information, statement of work or specifications and technical qualifications
-- Standard Clauses for Purchase Orders
-
-### Bid/Build Roof Replacement Construction Services at the u.s. Embassy Managua, Nicaragua
-
-### Request for Procurement: PR12279744 – Water fountain upgrade at Embassy Compound
-
-- SF-18 RFQ.Standard Form (Solicitud de Cotización)
-- SOW-Statement Of Work (Descripción del Alcance del trabajo)
-- Purchase Order Contract Clauses (Cláusulas de la Orden de Compra ó Contrato)
-
-## Call For Architectural and Engineering Qualifications
-
-## 2023 Closed Procurement and Contracting
-
-### Maintenance, repair, and replacement services on an existing softball field, to upgrade it into a multi-purpose field
-
-### Call for Architectural and Engineering Qualifications
-
-- Relevant, professional qualifications in the type of work required in this solicitation, for projects having a significant construction value in the past three years;
-- Demonstrated formal education and experience in Civil/Structural Engineering design and construction: – Professional Civil Engineer, with specialization in civil structure. Local Authority license required. – Five years minimum of progressive experience as a professional Engineer participating in construction supervision, planning, design, and reviewing plans for structures. These structures include, but are not limited to, small buildings, covered parking areas and any facilities made of concrete, steel, or masonry. – Be able to conduct/interpret seismic and geotechnical studies. – Be able to submit all reports in English and Spanish.
-- Demonstrated success on similar projects in terms of quality of work and compliance with performance schedules, cost/schedule controls and program/project management techniques;
-- Although previous or ongoing performance of a similar U.S. Government contract is not required for firms responding to this solicitation, if such contracts have been performed, the offeror must have performed at a satisfactory level;
-
-### Call for Architectural and Engineering Qualifications
-
-- Relevant, professional qualifications in the type of work required in this solicitation, for projects having a significant construction value in the past three years;
-- Demonstrated formal education and experience in Civil and Electrical Engineering design and construction:
-- Professional Civil and Electrical Engineer, with specialization in civil structure. Local Authority license required.
-- Five years of progressive experience as a professional Engineer participating in construction supervision, planning, design, and reviewing plans for structures requiring advanced structural analysis to determine static and dynamic responses. These structures include small buildings, covered parking areas and any facilities made of concrete, steel, or masonry.
-- Be able to conduct/interpret seismic and geotechnical studies.
-- Be able to submit all reports in English and Spanish.
-- Demonstrated success on similar projects in terms of quality of work and compliance with performance schedules, cost/schedule controls and program/project management techniques;
-- Although previous or ongoing performance of a similar U.S. Government contract is not required for firms responding to this solicitation, if such contracts have been performed, the offeror must have performed at a satisfactory level;
+- Asunto: Interesado en licitar PR15999367 Cuerpo del correo electrónico: Tabla con el siguiente detalle:
+- Asunto: Interesado en licitar PR15999367
+- Cuerpo del correo electrónico: Tabla con el siguiente detalle:
+- Se estiman 3 días de visita para tomar información de los 64 generadores y con un estimado de 4-5 horas cada visita .
+- Punto de reunión: complejo de la EMBAJADA DE EE. UU.
+- Una vez que envíe su correo electrónico con la información de los visitantes, como se describe anteriormente, recibirá por correo electrónico la confirmación de su visita y las instrucciones para accesar.
+- Fecha límite para enviar sus preguntas.
+- Si tiene preguntas, enviarlas al correo ManaguaGSOProcurement@state.gov
+- Se le responderá por correo electrónico a más tardar el martes siguiente (7 de julio) luego de la fecha límite para envío de preguntas
+- Desglose de precios según se pide en el SOW.
+- Si su empresa no es proveedor de la embajada, se requiere indiquen: Tiempo en el mercado nacional como empresa o proveedor de servicios. Principales clientes a los que se han prestado servicios similares, dónde y cuándo se han realizado.
+- Tiempo en el mercado nacional como empresa o proveedor de servicios.
+- Principales clientes a los que se han prestado servicios similares, dónde y cuándo se han realizado.
+- No se aceptarán cotizaciones incompletas o presentadas fuera de plazo, a menos que el licitante solicite una prórroga con al menos tres días de anticipación y esta sea aceptada.
+- No se aceptarán cotizaciones verbales.
+- No se considerarán las cotizaciones que soliciten pagos por adelantado.
+- Se le recomienda presentar una cotización competitiva y se le advierte contra cualquier colusión con otros posibles licitantes.
+- La Embajada se reserva el derecho de rechazar cotizaciones con precios excesivamente bajos o altos.
+- La Embajada no se compromete a adjudicar el contrato y podrá cancelar esta licitación o cualquier parte de ella.
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

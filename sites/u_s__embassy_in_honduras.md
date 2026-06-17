@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
+RFI 19H08026N0005 | Qualifications | Architect/Engineer (A/E) services | | June 26, 2026
 19H08026Q0037 | Solicitation | Preventive Maintenance ServiceContract for Gate operators and metal gates | | June 17, 2026
 19H08026Q0035 | Solicitation | Preventive Maintenance Services for Mechanical Equipment | Amendment 0001 | May 22, 2026
 19H08026Q0029 | Solicitation | Acquisition of SUV | Questions and Answers | May 11, 2026

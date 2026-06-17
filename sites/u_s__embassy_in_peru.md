@@ -8,9 +8,13 @@
 - NCAGE CODE
 - SAM GOV
 
+#### 19PE5026Q0033 – FAC – CMR Pathways Restoration
+
 #### 19PE5026Q0026 – Chancery and Annex Elevators Maintenance Service
 
 #### RFP 19PE5026R0002 – Maintenance & Infrastructure Improvements at G-8/INL Facilities
+
+- SF30 – Modification
 
 #### RFQ 19PE5026Q0038 – Flight suits, gloves, boots, finger-lip lights for HN aircrews
 
