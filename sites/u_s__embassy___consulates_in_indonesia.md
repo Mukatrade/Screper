@@ -8,6 +8,7 @@
 
 ## Request for Quotations
 
+- RFQ PR16074491 EXBS JAKARTA (O=06/17/2026 C=07/02/2026)
 - 191D3226Q0004 – OPDAT: Hotel venue and services for The Indonesia Scam Center Workshop, Bali, July 2026 (O = 05/20/2026 C = 06/03/2026)
 - PR16008023 – USMILGP – Conference Package MTT ICS June 2 – 12, 2026   (O=5/13/2026 C=5/23/2026)
 - PR16006108 – ICITAP CVE Audio Recording & Transcription Devices  (O=5/12/2026 C=5/27/2026)

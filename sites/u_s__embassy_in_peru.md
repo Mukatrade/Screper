@@ -15,6 +15,7 @@
 #### RFP 19PE5026R0002 – Maintenance & Infrastructure Improvements at G-8/INL Facilities
 
 - SF30 – Modification
+- SF30 – Cover-Page and continuation sheet
 
 #### RFQ 19PE5026Q0038 – Flight suits, gloves, boots, finger-lip lights for HN aircrews
 
@@ -24,12 +25,6 @@
 
 #### RFQ 19PE5026Q0034 – MSG – Cook Service
 
-#### RFQ 19PE5026Q0028 – Chancery Generators Maintenance
-
-#### RFQ 19PE5026R0001 – Replacement and installation of electrical sub-panel
-
-- Questions & Answers
-- SF-30
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

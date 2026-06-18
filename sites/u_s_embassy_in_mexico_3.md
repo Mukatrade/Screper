@@ -11,8 +11,8 @@
 
 ## CONTRACT OPPORTUNITIES
 
-- RFQ Fuel Systems
-- RFQ Fuel Systems
+- SOW Language Program FY26 + NDAA Policy to be signed by vendo r
+- SOW Language Program FY26 + NDAA Policy to be signed by vendo r
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

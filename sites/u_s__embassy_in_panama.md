@@ -28,11 +28,11 @@
 - Link to 19PM0726Q0007 in SAM
 - Link to 19PM0726Q0009-0001 in SAM
 
+## U.S. Embassy Announces Freedom 250 Celebrations in Colón and Panama City
+
 ## U.S. Embassy Delivers Over $5 Million to MINSEG to Combat Cartels, Secure Borders, and Defeat Illegal Immigration Threats to America
 
 ## Ambassador Kevin Marino Cabrera
-
-## Ambassador Cabrera Visits Veraguas, Announces U.S. Support for Water Access and English Education
 
 - Manage options
 - Manage services

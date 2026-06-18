@@ -33,29 +33,6 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
-- INL-RFQ PR15678837 – HESCOS (BARRIES) BARRANCABERMEJA. Deadline for quotations: June 9, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15879109 – 48/SIU JWIP/CASPER-DIEGO Support and Maint/JOFOC-BRAND – 0526 . Deadline for quotations: May 5, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15402632 – AUTOMATED INDUSTRIAL MIXER . Deadline for quotations: April 20, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15766191 – HANGARS TENT. Deadline for quotations: March 30, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15893854 – FINANCIAL INVESTIGATION SOFTWARE LICENSES. Deadline for quotations: April 29, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ  – PR15696251 – VETERINARY TOOLS BOGOTA. Deadline for quotations: May 08, 2026, at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15914316 – K9 COMPLEX WELFARE TOOLS. Deadline for quotations: April 20, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ_ PR15803766 _ Training & Maintenance services on drug trace detectors – Colombia . Closing date and time: May 13, 2026, at 16:00 (Bogotá, Colombia), local time.
-- INL-RFQ PR15958249 – CONSTRUCTION MATERIAL JAMBALO CAUCA. Deadline for quotations: May 26, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ  – PR15956166 – MISCELLANEOUS CONSTRUCTION MATERIALS MONTERIA. Deadline for quotations: May 7, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15952461 – CASPER UX SOFTWARE / JOFOC-BRAND. Deadline for quotations: May 11, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15860544 – PR15860544 – 38/ BIOMETRICS SIU OFFICE BOGOTA DIRAN 0526. Deadline for quotations: May 19, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15696193 – 46- FORT- BASE SECURITY CONSTRUCTION MATERIAL STATIONS-0626. Deadline for quotations: June 12, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ_ PR15696214 _ Green Polypropylene Sandbags Bogota – Colombia . Closing date and time: June 12, 2026, at 16:00 (Bogotá, Colombia), local time.
-- INL-RFQ  – PR15696251 – VETERINARY TOOLS BOGOTA. Deadline for quotations: May 26, 2026, at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ_ PR15996353_Cellphone services Colombia. Closing date and time: June 01, 2026, at 16:00 (Bogotá, Colombia), local time.
-- INL-RFQ_ PR15678838_Container Movement BCA & VGZN Colombia . Closing date and time: June 01, 2026, at 16:00 (Bogotá, Colombia), local time.
-- INL-RFQ PR15828868 – 43/ISR/HIGH-RES SATELLITE IMAGERY SERVICE/XXXXXXXXX. Deadline for quotations: June 9, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15696196 – MATERIAL SANTANDER DE QUILICHAO. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15775950 – INTERNET SERVICE FOR GCO. Deadline for quotations: June 11, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15417666 – IT HARDWARE AND SOFTWARE. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ  – PR16027385 – ARMORED VEHICLES COL. Deadline for quotations: July 1, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15413951 – TOOLS FOR ERAD BASES. Deadline for quotations: June 15, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696187 – MISCELLANEOUS CONSTRUCTION MATERIALS ROBLES. Deadline for quotations: June 22, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ_ PR15696194_ RFQ Construction Materials CENOP Colombia. Closing date and time: June 23, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ_ PR16016432_ RFQ Mid-Size Vehicles Colombia. Closing date and time: July 2, 2026, at 16:00 (Bogotá, Colombia), local time.
@@ -65,6 +42,8 @@
 - INL-RFQ PR15775950_2 – INTERNET SERVICE FOR GCO. Deadline for quotations: June 25, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696197 – 46 – CONSTRUCTION MATERIALS FOR TOTORO,  CAUCA – 0826. Deadline for quotations: July 21, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696195 – 46 – CONSTRUCTION MATERIALS TO ALMAGUER- CAUCA, COLOMBIA- 0826. Deadline for quotations: July 16, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR16069207 – BIOMETRICS CARTAGENA SIU OFFICE. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ  – PR15696198 – MISCELLANEOUS CONSTRUCTION MATERIALS PIEDRA SENTADA. Deadline for quotations: July 21, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 

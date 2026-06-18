@@ -10,11 +10,11 @@
 
 - Fire Alarm System
 
+## Charge d’Affaires Erik Martini
+
 ## Joint Statement by Members of the Shield of the Americas
 
 ## Secretary Rubio’s Conversation with Bolivian President Rodrigo Paz
-
-## Security Alert – U.S. Embassy La Paz, Bolivia (June 02, 2026)
 
 - Manage options
 - Manage services
