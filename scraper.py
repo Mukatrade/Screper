@@ -400,24 +400,24 @@ def build_report(
     if findings:
         rows = "".join(
             f'<tr style="background:{cat_colors.get(f["category"], "#fff")}">'
-            f'<td style="padding:8px;border:1px solid #dee2e6;font-weight:bold">{f["category"]}</td>'
-            f'<td style="padding:8px;border:1px solid #dee2e6">'
+            f'<td style="padding:11px 12px;border:1px solid #dee2e6;font-weight:bold">{f["category"]}</td>'
+            f'<td style="padding:11px 12px;border:1px solid #dee2e6">'
             f'<div style="font-weight:bold;color:#212529">{f["site_name"]}</div>'
             f'<a href="{f["link"]}" style="display:inline-block;margin-top:4px;color:#0066cc;font-weight:bold;text-decoration:none">🔗 Open tender →</a>'
             f'</td>'
-            f'<td style="padding:8px;border:1px solid #dee2e6">{f["summary"]}</td>'
-            f'<td style="padding:8px;border:1px solid #dee2e6;font-size:0.85em;color:#555">{f["details"]}</td>'
+            f'<td style="padding:11px 12px;border:1px solid #dee2e6">{f["summary"]}</td>'
+            f'<td style="padding:11px 12px;border:1px solid #dee2e6;font-size:0.85em;color:#555">{f["details"]}</td>'
             f'</tr>'
             for f in findings
         )
         findings_html = f"""
         <h3 style="color:#155724;margin-top:30px">Actionable Findings</h3>
-        <table style="border-collapse:collapse;width:100%;font-size:0.9em">
+        <table style="border-collapse:collapse;width:100%;font-size:1em">
           <thead><tr style="background:#343a40;color:#fff">
-            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Category</th>
-            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Site</th>
-            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Summary</th>
-            <th style="padding:8px;border:1px solid #dee2e6;text-align:left">Details</th>
+            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Category</th>
+            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Site</th>
+            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Summary</th>
+            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Details</th>
           </tr></thead>
           <tbody>{rows}</tbody>
         </table>"""
@@ -449,7 +449,7 @@ def build_report(
 
     html = f"""<!DOCTYPE html>
 <html>
-<body style="font-family:Arial,sans-serif;margin:20px;max-width:900px">
+<body style="font-family:Arial,sans-serif;margin:20px;max-width:1100px;font-size:15px;line-height:1.5">
   <h2 style="color:#343a40;border-bottom:2px solid #dee2e6;padding-bottom:8px">
     Tender Monitor &mdash; Daily Report &mdash; {date_str}
   </h2>
