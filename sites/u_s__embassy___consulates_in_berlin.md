@@ -8,11 +8,7 @@
 
 ## Published JOFOC Announcements
 
-## RFQ for Preventive Maintenance Services of Multi-System HVAC for Berlin
-
 ## RFQ for Installation of Water Softening System
-
-## RFQ for Replacement and Installation of Exhaust and Supply Fans for Berlin
 
 ## Replacement of Boiler System
 
