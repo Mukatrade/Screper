@@ -32,6 +32,7 @@
 
 - SOLICITATION – PR15998045 – Marketing and Branding Services for “Taste of America”
 - SOLICITATION – Request for quotation – PR15985411
+- SOLICITATION – PR15951669 and 15951692 – Quotations (RFQ) for Petrol SUV
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
