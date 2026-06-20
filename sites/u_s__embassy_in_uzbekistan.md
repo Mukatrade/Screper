@@ -15,7 +15,6 @@
 ## Procurement and Contracting Opportunities
 
 ID | Solicitation / Contract / Order for Commercial Items | Solicitation Issue Date | Award | Effective Date
-19UZ8026Q0021 | Vehicle purchase | June 18, 2026 | July 2, 2026
 19UZ8026Q0018 | PMSC Standby Generators Tashkent | May 22, 2026 | June 08, 2026
 19UZ8026Q0018 | SF-30 Amendment for solicitation for Power Generators maintenance services | May 22, 2026 | June 08, 2026
 19UZ8026Q0018 | Power Generators maintenance services | May 19, 2026 | June 8, 2026
