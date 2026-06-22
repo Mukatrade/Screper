@@ -538,13 +538,24 @@ def main() -> None:
         stats["by_category"][category] = stats["by_category"].get(category, 0) + 1
 
         if analysis.get("actionable"):
-            findings.append({
-                "site_name": name,
-                "link":      target["link"],
-                "category":  category,
-                "summary":   analysis.get("summary", ""),
-                "details":   analysis.get("details", ""),
-            })
+            # HARD exclude — never let a tender through if it contains a
+            # "must NOT contain" word, even if Claude marked it actionable.
+            summary = analysis.get("summary", "")
+            details = analysis.get("details", "")
+            haystack = f"{name} {summary} {details}".lower()
+            exc = filters.get("exclude", [])
+            hit = next((w for w in exc if w and re.search(r"\b" + re.escape(w) + r"\b", haystack)), None)
+            if hit:
+                print(f"    [FILTERED] dropped — contains excluded word: '{hit}'")
+                stats["noise_sites"].append(name)
+            else:
+                findings.append({
+                    "site_name": name,
+                    "link":      target["link"],
+                    "category":  category,
+                    "summary":   summary,
+                    "details":   details,
+                })
         else:
             stats["noise_sites"].append(name)
 
