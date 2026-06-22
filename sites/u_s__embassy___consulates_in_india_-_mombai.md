@@ -13,6 +13,7 @@
 - Quotation 191N6526Q0065– Supply of Van, 17-seater at U.S. Embassy, New Delhi
 - Solicitation to Provide Waterproofing Services for Office Spaces Roof at U.S. Embassy, New Delhi
 - Solicitation to Provide Services for Overhang Repairs of Annex Building at U.S. Embassy, New Delhi
+- Solicitation-191N6526Q0068 to Fabricate & Install SS Safety Guard Railing at U.S Embassy Enclave Apartments, New Delhi
 
 ## Contract Solicitations – Chennai
 

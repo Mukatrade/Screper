@@ -6,19 +6,19 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0013/ Providing gym membership services
+
+## Economic Opportunity
+
 ## Request for Quotations number 19J01026Q0011/ Supply and Deliver One New Vehicle
 
 ## Economic Opportunity
 
-## Request for Proposals number 19J01026R0004 – Supply and Deliver – High-Grade Heating Oil (Diesel)
+## Request for Proposals number 19J01026R0004 – Supply and Deliver – High-Grade Heating Oil (Diesel)/Amendment 0001
 
 ## Economic Opportunity
 
-## Request for Proposals number 19J01026R0003 – Supply and Deliver – High-Grade Gasoline Octane 95
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0009/ Providing gym membership services
+## Request for Proposals number 19J01026R0003 – Supply and Deliver – High-Grade Gasoline Octane 95/Amendment 0001
 
 ## Economic Opportunity
 
@@ -38,7 +38,7 @@
 
 ## Economic Opportunity
 
-## Request for Quotations number 19J01026Q0005/ Seven Vehicle Rental Services for One year
+## Request for Quotations number 19J01026Q0003/ Preventive Maintenance Services for JUCR Uninterruptable Power Supply(s)
 
 - Manage options
 - Manage services

@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotations -19N10226Q0017 – Heritage Connect Program: Alumni Sales Ambassador Training
+
+## Request for Quotations – 19N10226Q0017 – Preventive Maintenance Services for Sollatek Brands of Automatic Voltage Regulators
+
 ## Request for Quotations – Number 19N10226Q0019
-
-## Online Auction Advert
-
-## Advertisement – PR15972395 – Janitorial Machines
 
 - Manage options
 - Manage services
