@@ -9,9 +9,11 @@
 
 ## Current Opportunities
 
-19SA2025Q0010 | July 31, 2025 | August 20, 2025 | | PM Service HVAC Chillers | 
-19SA2026Q0002 | December 31, 2025 | January 19, 2026 | | Food Services Contract Water Supply (BPA) | 
-19SA2026A0001 | January 28, 2026 | February 15, 2026 | | Water Supply (BPA) | 
+Solicitation No. | Date Issued | Site Visit Date | Due Date | | 
+19SA2025Q0010 | July 31, 2025 | | August 20, 2025 | PM Service HVAC Chillers | 
+19SA2026Q0002 | December 31, 2025 | | January 19, 2026 | Food Services Contract Water Supply (BPA) | 
+19SA2026A0001 | January 28, 2026 | | February 15, 2026 | Water Supply (BPA) | 
+19SA2026Q0006 | June 22, 2026 | June 28, 2026 | July 29, 2026 | Supply & Installation of Corrosion Inhibitor dosing System | 
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
