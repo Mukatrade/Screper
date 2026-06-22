@@ -6,8 +6,6 @@
 
 ## Open Opportunities
 
-- Invitation for Social Media and Media Monitoring Services (Closes June 6, 2026) Express NDAA Certification
-- Express NDAA Certification
 - Invitation to bid for Generator Parts 2026 (Closes June 27, 2026) PR16070723 generator parts
 - PR16070723 generator parts
 - RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026)
