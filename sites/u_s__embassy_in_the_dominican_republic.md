@@ -10,10 +10,6 @@
 
 ## Economic Opportunity
 
-## (RFQ) PR16030290 – Vetted Units Support
-
-## Economic Opportunity
-
 ## Notice of Funding Opportunity (NOFO) – EnglishxSTEM
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## RFQ PR12826237 – HR Outsource Services
+
+## Economic Opportunity
+
+## Lodging and Conference Room for Transformational Leadership Workshop, Aug 2024
 
 - Manage options
 - Manage services

@@ -44,6 +44,7 @@
 - INL-RFQ PR15696195 – 46 – CONSTRUCTION MATERIALS TO ALMAGUER- CAUCA, COLOMBIA- 0826. Deadline for quotations: July 16, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16069207 – BIOMETRICS CARTAGENA SIU OFFICE. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ  – PR15696198 – MISCELLANEOUS CONSTRUCTION MATERIALS PIEDRA SENTADA. Deadline for quotations: July 21, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15697998 – NOTICE OF INTENT SINGLE SOURCE CRIMINAL DNA LAW SUPPORT. Deadline for quotations: July 7, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 
