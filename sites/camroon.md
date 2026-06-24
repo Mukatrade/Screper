@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
-## REQUEST FOR QUOTATIONS: Product Request Number: PR16086499
+## REQUEST FOR QUOTATIONS: Inspection of IP vehicles at the sites for the US Embassy
+
+## REQUEST FOR QUOTATIONS: Fill and transform pool to a lawn
 
 ## US EMBASSY YAOUNDE ONLINE AUCTION
-
-## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
 - Manage options
 - Manage services

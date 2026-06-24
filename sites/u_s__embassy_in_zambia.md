@@ -4,6 +4,7 @@
 
 ---
 
+- Peace Corps-Zambia: Supply and Delivery of 57 Samsung Smart Phones and Phone Accessories – (PDF 196 KB)
 - Preventative Maintenance Services for Chillers – (PDF 867 KB)
 - Preventative Maintenance Services for Fuel Systems – (PDF 864 KB)
 - Peace Corps/Zambia – Supply of Toner Cartridges for Printers – (PDF 232 KB)

@@ -41,13 +41,13 @@
 
 ## Award notice – 19KU2025C0004 – V-Net: Backup Internet 80Mbps – 16 public IPs
 
-## Local Advertisement – Request for Quotation (RFQ) 19KU2023Q0007 for Travel Management Service Center
+## Advertisement for A/E Services – 19KU2026Q0008
 
-#### Local Advertisement
+##### Advertisement for A/E Services
 
-###### The U.S. Embassy in Kuwait has just released and posted Request for Quotation (RFQ) 19KU2023Q0007 for Travel Management Service Center (TMC) in SAM.gov.  For complete details regarding this requirement kindly visit to www.sam.gov , click on the “Search” option, select “Contract Opportunities” from available Domains, enter “ 19KU2023Q0007 ” in the white area and click on “search.” Request that interested offers periodically check solicitation for updates.
+###### The U.S. Embassy in Kuwait has just released and posted an Advertisement for A/E Services in SAM.gov.  For complete details regarding this requirement kindly visit to www.sam.gov , click on the “Search” option, select “Contract Opportunities” from available Domains, enter “ 19KU2026Q0008 ” in the white area and click on “search.” Request that interested offers periodically check solicitation for updates.
 
-###### Interested bidders can view the Questions & Answers by visiting SAM.GOV.
+###### Interested bidders can view the Advertisement by visiting SAM.GOV.
 
 ## Amendment 2_RFP 19KU2025R0002 – Janitorial Services to U.S. Embassy Kuwait
 

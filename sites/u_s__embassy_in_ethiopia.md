@@ -12,9 +12,10 @@
 - PR16070723 generator parts
 - RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026)
 - Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)
-- MSG Cook – Food Services (Closes June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB)
+- MSG Cook – Food Services (Closes June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB) Pre-Quote Meeting Q&A
 - Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services
 - Express NDAA Certification (PDF 519 KB)
+- Pre-Quote Meeting Q&A
 - Re-advertisement Replacement of four HySecurity gate operators (Closes June 11, 2026) HySecurity Slid Gate Controller Statement of Work (PDF 265KB) Express NDAA Certification (PDF 519 KB) Site Visit and Questions
 - HySecurity Slid Gate Controller Statement of Work (PDF 265KB)
 - Express NDAA Certification (PDF 519 KB)

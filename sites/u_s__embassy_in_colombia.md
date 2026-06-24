@@ -30,11 +30,11 @@
 - The US Embassy has a requirement for cellphone services.  Please find attached the complete information. Deadline to submit offers: May 20, 2026. [ Local Add ] [ NDAA ]
 - The U.S. Embassy in Bogota has a requirement for Environmental site assessment according to the specifications on the attachment .  Deadline to submit offers:  June 5, 2026.
 - The U.S. Embassy in Bogota has a requirement for Boundary, topographic and utility (BTU) location survey according to the specifications on the attachment .  Deadline to submit offers:  June 5, 2026.
+- The US Embassy in Bogota has a requirement for inner Road Signs & Support Elements.  Please see the attachment for detailed information. [ Local Ad ] [ NDAA ]
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
 - INL-RFQ PR15696187 – MISCELLANEOUS CONSTRUCTION MATERIALS ROBLES. Deadline for quotations: June 22, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ_ PR15696194_ RFQ Construction Materials CENOP Colombia. Closing date and time: June 23, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ_ PR16016432_ RFQ Mid-Size Vehicles Colombia. Closing date and time: July 2, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ PR16035239 – COMPUTERS. Deadline for quotations: July 6, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15731443 – TACTICAL BOOTS AND JACKETS. Deadline for quotations: July 6, 2026 at 16:00, (Bogota, Colombia), local time.
@@ -45,6 +45,8 @@
 - INL-RFQ PR16069207 – BIOMETRICS CARTAGENA SIU OFFICE. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ  – PR15696198 – MISCELLANEOUS CONSTRUCTION MATERIALS PIEDRA SENTADA. Deadline for quotations: July 21, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15697998 – NOTICE OF INTENT SINGLE SOURCE CRIMINAL DNA LAW SUPPORT. Deadline for quotations: July 7, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15990513 – DRONES AND PARTS. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15696196 – MATERIAL SANTANDER DE QUILICHAO. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 
