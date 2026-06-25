@@ -17,6 +17,7 @@ Q&A for PR15984187 | | May 19, 2026 | Questions and Answer for RFQ PR15984187 Re
 19SA7026Q0015 | June 9, 2026 | July 8, 2026 | The Embassy of the United States of America is pleased to invite your company to submit a proposal for the supply of two four-wheel-drive (4WD) SUV vehicles for use at the U.S. Embassy in Riyadh, Saudi Arabia
 19SA7026R0001 | June 9, 2026 | July 19, 2026 | The Embassy of the United States of America would like to invite your company to submit proposal for Landscape Care and Maintenance Service Services at the Embassy of United States of America in Riyadh, Saudi Arabia (PDF)
 19SA7026Q0011 | June 11, 2026 | July 12, 2026 | The Embassy of the United States of America cordially invites your company to submit a proposal for a service of additional electrical power utility to the new office in U.S. Embassy warehouse Annex.
+Request for Information (RFI) | June 21, 2026 | July 6, 2026 | RFI for Blanket Purchase Agreement (BPA) for Cleaning Services (PDF)
 
 ## Procurement Resources
 

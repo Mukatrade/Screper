@@ -31,9 +31,11 @@
 - The U.S. Embassy in Bogota has a requirement for Environmental site assessment according to the specifications on the attachment .  Deadline to submit offers:  June 5, 2026.
 - The U.S. Embassy in Bogota has a requirement for Boundary, topographic and utility (BTU) location survey according to the specifications on the attachment .  Deadline to submit offers:  June 5, 2026.
 - The US Embassy in Bogota has a requirement for inner Road Signs & Support Elements.  Please see the attachment for detailed information. [ Local Ad ] [ NDAA ]
+- The US Embassy has a requirement for iPhone supply.  The complete information about this competed action can be found in the attachments. [ Local Ad ] [ NDAA ] [ Contract Data ]
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
+- INL-RFQ  – PR16027385 – ARMORED VEHICLES COL . Deadline for quotations: July 1, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696187 – MISCELLANEOUS CONSTRUCTION MATERIALS ROBLES. Deadline for quotations: June 22, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ_ PR16016432_ RFQ Mid-Size Vehicles Colombia. Closing date and time: July 2, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ PR16035239 – COMPUTERS. Deadline for quotations: July 6, 2026 at 16:00, (Bogota, Colombia), local time.
@@ -47,6 +49,8 @@
 - INL-RFQ PR15697998 – NOTICE OF INTENT SINGLE SOURCE CRIMINAL DNA LAW SUPPORT. Deadline for quotations: July 7, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15990513 – DRONES AND PARTS. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696196 – MATERIAL SANTANDER DE QUILICHAO. Deadline for quotations: June 29, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15776148 – 41- IT EQUIPMENT – 0926. Deadline for quotations: July 27, 2026 at 16:00, (Bogota, Colombia), local time.
+- La embajada americana en Bogota tiene un requerimiento para suministro de IPhone.  Consulte la información completa en los adjuntos. [Local Ad] [Contract Data] [NDAA]
 
 ## PEACE CORPS
 

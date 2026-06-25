@@ -57,7 +57,13 @@
 
 #### The U.S. Embassy in Kuwait has just released in SAM.gov. a Sources Sought Notice (SSN) – Market research (Auction Management Services for Disposal of U.S. Government Property) For complete details regarding this kindly visit www.sam.gov , click on the “Search” option, select “Contract Opportunities” from available Domains, enter “19KU2026” Or Sources Sought Notice (SSN) in the white area and click on “search.”
 
-## Local Advertisement – Request for Quotation (RFQ) 19KU2025Q0015 – Arabic language Instruction
+## Advertisement- RFQ_19KU2026Q0007_FAP Request for Drapery Fabrics
+
+##### -Advertisement-
+
+###### The U.S. Embassy in Kuwait has just released and posted an RFQ_19KU2026Q0007_FAP Request for Drapery Fabrics in SAM.gov.  For complete details regarding this requirement kindly visit to www.sam.gov , click on the “Search” option, select “Contract Opportunities” from available Domains, enter “ 19KU2026Q0007 ” in the white area and click on “search.” Request that interested offers periodically check solicitation for updates.
+
+###### Interested bidders can view the Advertisement by visiting SAM.GOV.
 
 - Smart Traveler Enrollment Program The Smart Traveler Enrollment Program (STEP) is a free service to allow U.S. citizens and nationals traveling and living abroad to enroll their trip with the nearest U.S. Embassy or Consulate. Enroll Now
 - Looking for the nearest embassy or consulate? Visit the official list of embassies, consulates, and diplomatic missions from the U.S. Department of State. Find the nearest Embassy or Consulate

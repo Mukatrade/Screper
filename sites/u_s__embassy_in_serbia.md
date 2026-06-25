@@ -27,12 +27,12 @@
 ## Pre-Solicitation Notices
 
 Pre-Solicitation Number | Notice Type | Title | Date Issued | Response Date/Time | More information | 
-19RB1026A0366 | Pre-Solicitation | Pre-Solicitation Notice – Food Service Provision for U.S. Embassy Belgrade | June 5, 2026 | 17:00 local time on July 20, 2026 | 19RB1026A0366_Pre-Solicitation Notice | 
 19RB1026M0002 | Pre-Solicitation | Pre-solicitation notice for cellular/mobile telephone services for U.S. Embassy Belgrade | May 29, 2026 | 17:00 local time on September 18, 2026 | 19RB1026M0002 Pre-Solicitation Notice | 
 
 ## Solicitation Notices
 
 Solicitation Number | Notice Type | Title | Date issued | Deadline for quote submission | Solicitation Document Links
+19RB1026Q0366 | Solicitation | Food Preparation Services for U.S. Embassy Belgrade | June 23, 2026 | 17:00 local time on July 20, 2026 | 19RB1026Q0366_Solicitation
 19RB1026Q0318 | Combined Synopsis/Solicitation | Sport Utility Vehicle (SUV) | May 18, 2026 | 17:00 local time on May 28, 2026 | 19RB1026Q0318_SAM Advertisement
 19RB1025Q0041 | Solicitation | Blanket Purchase Agreement for plumbing parts, fixtures and accessories electrical material for the U.S Embassy in Belgrade | August 6, 2025 | 17:00 local time on August 13, 2025 | 19RB1025Q0041_BPA Invitation letter 19RB1025Q0041_Solicitation
 - 19RB1025Q0041_BPA Invitation letter

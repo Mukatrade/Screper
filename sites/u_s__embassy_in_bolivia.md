@@ -10,11 +10,11 @@
 
 - Fire Alarm System
 
-## Joint Statement on the Negative Impact of Road Blockades on Human Rights and Democracy in Bolivia
-
 ## Security Alert – U.S. Embassy La Paz, Bolivia (June 20, 2026)
 
 ## Charge d’Affaires Erik Martini
+
+## Joint Statement by Members of the Shield of the Americas
 
 - Manage options
 - Manage services
