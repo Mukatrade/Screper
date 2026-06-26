@@ -22,8 +22,6 @@
 
 ## RFQ for construction services for the replacement and installation of Exhaust and Supply Fans
 
-## RFQ for Boiler System Replacement
-
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

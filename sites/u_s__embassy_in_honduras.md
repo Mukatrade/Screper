@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
+19H08026Q0042 | Solicitation | Residential Janitorial Services | | July 9, 2026
 RFQ 19H08026Q0041 | Solicitation | Landscaping Maintenance Service | | July 3, 2026
 RFI 19H08026N0005 | Qualifications | Architect/Engineer (A/E) services | | June 26, 2026
 19H08026Q0037 | Solicitation | Preventive Maintenance ServiceContract for Gate operators and metal gates | | June 17, 2026

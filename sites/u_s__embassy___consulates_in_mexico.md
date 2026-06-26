@@ -28,9 +28,6 @@
 
 ###### Notice ID: 19MX5326Q0033 for Preventive Maintenance Service for Photovoltaic System
 
-- Opening Date: April 22, 2026
-- Closing Date: May 6, 2026
-
 ###### Notice ID: 19MX5326Q0039 for Residential Façade Restoration Services
 
 ###### Notice ID: 19MX5326Q0042 for Residential Skylights Restoration Services
