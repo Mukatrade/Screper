@@ -8,6 +8,7 @@
 
 ## SOLICITATION NOTICES
 
+- MSG Cook Services (PDF 864KB)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

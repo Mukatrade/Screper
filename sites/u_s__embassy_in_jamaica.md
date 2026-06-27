@@ -6,10 +6,6 @@
 
 ## Procurement Opportunities
 
-## Contract Opportunity – 2026/2027, 5-Door, Right Hand Drive, SUV
-
-## Procurement Opportunities
-
 ## Procurement/Contract Opportunities
 
 - Manage options

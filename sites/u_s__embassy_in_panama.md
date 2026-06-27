@@ -28,11 +28,11 @@
 - Link to 19PM0726Q0007 in SAM
 - Link to 19PM0726Q0009-0001 in SAM
 
+## U.S. Ambassador Launches “Freedom 250: Frontiers of Science” Exhibit Celebrating American Innovation and Scientific Excellence
+
+## Deputy Secretary Landau’s Travel to Panama for the General Assembly of the Organization of American States
+
 ## U.S. Embassy Announces Freedom 250 Celebrations in Colón and Panama City
-
-## U.S. Embassy Delivers Over $5 Million to MINSEG to Combat Cartels, Secure Borders, and Defeat Illegal Immigration Threats to America
-
-## Ambassador Kevin Marino Cabrera
 
 - Manage options
 - Manage services
