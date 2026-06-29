@@ -8,7 +8,10 @@
 
 - Medical and life insurance services – 19EG3026R0001 Closing Date: June 29 , 2026 – 4:30 PM (Cairo Local Time)
 - CAI – PDS/ACC: Agentic AI Bootcamp, From June 24, 2026, To July 5, 2026. – PR16083693HK – SOW Closing Date: July 5 , 2026 – 4:30 PM (Cairo Local Time)
+- CAI – PAS/ACC: New American Space in Mansoura Renovation Proj – PR16052416SA – BOQ – American Spaces Branding Guidelines Closing Date: July 8 , 2026 – 4:30 PM (Cairo Local Time)
 - Pop-Up USA Mansoura – PR16090712SA Closing Date: July 12 , 2026 – 4:30 PM (Cairo Local Time)
+- MD / two refrigerators – PR16089009 Closing Date: July 12 , 2026 – 4:00 PM (Cairo Local Time)
+- CAI – PD: ECA Fund – Alumni Regional Symposium – R16099280SA Closing Date: July 14 , 2026 – 4:30 PM (Cairo Local Time)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

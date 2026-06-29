@@ -31,9 +31,8 @@
 
 ## Contract Solicitations – Mumbai
 
-- SOLICITATION – PR15998045 – Marketing and Branding Services for “Taste of America”
-- SOLICITATION – Request for quotation – PR15985411
 - SOLICITATION – PR15951669 and 15951692 – Quotations (RFQ) for Petrol SUV
+- SOLICITATION – PR16041527 – Supply and installation of a Power Ventilator (Smoke Purge Fan)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

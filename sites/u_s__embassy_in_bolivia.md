@@ -10,11 +10,11 @@
 
 - Fire Alarm System
 
+## Trump Administration Mobilizes Robust Response to Tragic Venezuelan Earthquakes
+
 ## Joint Statement on the Negative Impact of Road Blockades on Human Rights and Democracy in Bolivia
 
 ## Security Alert – U.S. Embassy La Paz, Bolivia (June 20, 2026)
-
-## Charge d’Affaires Erik Martini
 
 - Manage options
 - Manage services

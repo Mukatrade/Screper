@@ -14,6 +14,10 @@
 
 ## Economic Opportunity
 
+## (RFQ) PR16030290 – Vetted Units Support
+
+## Economic Opportunity
+
 ## Notice of Funding Opportunity (NOFO) – EnglishxSTEM
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## PR12734700 – VEHICLE 01 RENTAL FOR YEAR 2024 TO 2025
-
-## Economic Opportunity
-
-## RFQ PR12826237 – HR Outsource Services
 
 - Manage options
 - Manage services
