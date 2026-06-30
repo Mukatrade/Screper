@@ -39,7 +39,10 @@
 - Direct any questions regarding this RFQ to Kuwait_Solicitation@state.gov no later than Oct. 28, 2024, at 10:00 am Kuwait local tim e. No questions will be accepted beyond this date. Please enter the title of your email as “ Questions for Warehouse Support Services – RFQ 19KU2025Q0002”
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov. Quotations are due by Nov. 12, 2024, at 10:00 am Kuwait local time. No quotes will be accepted after this time. Please enter the title of your email as “ Quote for Warehouse Support Services – RFQ 19KU2025Q0002”
 
-## Award notice – 19KU2025C0004 – V-Net: Backup Internet 80Mbps – 16 public IPs
+## RFQ: 19KU2026Q0006 – Renovate Embassy Playground
+
+- Direct any questions regarding this RFQ to Kuwait_Solicitation@state.gov no later than July 16, 2026, at 10:00 am . No questions will be accepted beyond this date. Please enter the title of your email as “Questions – RFQ 19KU2026Q0006 – Renovate Embassy Playground ”
+- Submit your quote electronically by email to Kuwait_Solicitation@state.gov. Quotations are due by July 23, 2026, at 10:00 am Kuwait local time . No quotes will be accepted after this time. Please enter the title of your email as “Quote – RFQ 19KU2026Q0006 – Renovate Embassy Playground . ”
 
 ## Advertisement for A/E Services – 19KU2026Q0008
 

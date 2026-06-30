@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0012/ Provision of a Brand New Vehicle
+
+## Economic Opportunity
+
 ## Request for Quotations number 19J01026Q0010/ Providing Vehicle maintenance and repair services BPA
 
 ## Economic Opportunity
@@ -22,11 +26,11 @@
 
 ## Economic Opportunity
 
-## Request for Proposals number 19J01026R0004 – Supply and Deliver – High-Grade Heating Oil (Diesel)/Amendment 0001
+## Request for Proposals number 19J01026R0004 – Supply and Deliver – High-Grade Heating Oil (Diesel)/Amendment 0002
 
 ## Economic Opportunity
 
-## Request for Proposals number 19J01026R0003 – Supply and Deliver – High-Grade Gasoline Octane 95/Amendment 0001
+## Request for Proposals number 19J01026R0003 – Supply and Deliver – High-Grade Gasoline Octane 95/Amendment 0002
 
 ## Economic Opportunity
 
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Quotations number 19J01026Q0007/ Arabic language classes
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0006/ Cleaning Services for US Embassy Residences
 
 - Manage options
 - Manage services

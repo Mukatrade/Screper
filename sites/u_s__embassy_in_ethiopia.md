@@ -6,12 +6,16 @@
 
 ## Open Opportunities
 
-- Invitation for Social Media and Media Monitoring Services (Closes June 6, 2026) Express NDAA Certification
+- Invitation for Social Media and Media Monitoring Services (Closes July 6, 2026) Express NDAA Certification
 - Express NDAA Certification
+- RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026) Q&A RFQ
+- Q&A RFQ
+- Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)
+
+## Closed Procurement Announcements
+
 - Invitation to bid for Generator Parts 2026 (Closes June 27, 2026) PR16070723 generator parts
 - PR16070723 generator parts
-- RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026)
-- Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)
 - MSG Cook – Food Services (Closes June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB) Pre-Quote Meeting Q&A
 - Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services
 - Express NDAA Certification (PDF 519 KB)
@@ -20,9 +24,6 @@
 - HySecurity Slid Gate Controller Statement of Work (PDF 265KB)
 - Express NDAA Certification (PDF 519 KB)
 - Site Visit and Questions
-
-## Closed Procurement Announcements
-
 - Invitation for Vehicles auction announcement (auction dates: June 5-8, 2026, at the Embassy’s back door)
 - Invitation for AHU-5 and Zone five VAV Smart Controllers Upgrade (Closes June 08,2026 at 10:00 a.m. (4:00 a.m. /morning Addis Ababa time)) Express NDAA Certification (PDF 519KB) Statement of Work RFQ  AHU-5 and Zone five VAV Smart Controllers Upgrade
 - Express NDAA Certification (PDF 519KB)
