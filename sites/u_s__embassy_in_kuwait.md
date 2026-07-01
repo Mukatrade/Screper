@@ -68,12 +68,6 @@
 
 ###### Interested bidders can view the Advertisement by visiting SAM.GOV.
 
-- Smart Traveler Enrollment Program The Smart Traveler Enrollment Program (STEP) is a free service to allow U.S. citizens and nationals traveling and living abroad to enroll their trip with the nearest U.S. Embassy or Consulate. Enroll Now
-- Looking for the nearest embassy or consulate? Visit the official list of embassies, consulates, and diplomatic missions from the U.S. Department of State. Find the nearest Embassy or Consulate
-- Coronavirus.gov A portal for public information that is curated by the Coronavirus (COVID-19) Task Force at the White House, working in conjunction with CDC, HHS and other agency stakeholders. Visit Coronavirus.gov .
-- Contact your nearest embassy or call 1-888-407-4747 (U.S./Canada) or +1-202-501-4444 (overseas)
-- Contact the nearest Embassy or Consulate
-- Enroll for Alerts
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

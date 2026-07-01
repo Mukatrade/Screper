@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Advertisement – PR16087958 – IT Servers, UPS
+
 ## Solicitation – PR16012098 – Request for Lock and Keys
 
 ## Request for Quotations – 19N10226Q0018 – PDS Solicitation for EoCY Film Event Organizer
-
-## Request for Quotations – 19N10226Q0020 – Preventive Maintenance Services – Cummins 82KVA Prime Standby Generator
 
 - Manage options
 - Manage services

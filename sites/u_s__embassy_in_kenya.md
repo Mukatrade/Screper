@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## Request for Quotation (RFQ)-: 19KE5026Q0066 – MRU-PREVENTIVE MAINTENANCE FOR GENERATOR-EMBAKASI WAREHOUSE
+
+## Request for Proposals
+
 ## REQUEST FOR QUOTATION (RFQ)- PR16056223: 2x40ft Containers for Office Space
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION (RFQ)- PR16080887: CDC DGHT – Supply of Generator Fuel at CDC Nairobi Office.
-
-## Request for Proposals
-
-## Request for Quotation (RFQ)-: 19KE5026Q0062 – NEC AHUs ANNUAL PREVENTIVE MAINTENACE CONTRACT
 
 - Manage options
 - Manage services

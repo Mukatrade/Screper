@@ -6,14 +6,12 @@
 
 ## Contract Solicitations – New Delhi
 
-- Solicitation RFQ Number 191N6526Q0064 – Architecture and Engineering (A&E)
-- Solicitation for Supply of Flatbed Truck (Euro/BS-6, RHD) at U.S. Embassy New Delhi
 - Solicitation for Supply of SUV (Euro/BS-6, RHD) at U.S. Embassy New Delhi
 - Solicitation to Provide Services for installation of Elastomeric Coating on CMR Roof at U. S. Embassy New Delhi
-- Quotation 191N6526Q0065– Supply of Van, 17-seater at U.S. Embassy, New Delhi
 - Solicitation to Provide Waterproofing Services for Office Spaces Roof at U.S. Embassy, New Delhi
 - Solicitation to Provide Services for Overhang Repairs of Annex Building at U.S. Embassy, New Delhi
 - Solicitation-191N6526Q0068 to Fabricate & Install SS Safety Guard Railing at U.S Embassy Enclave Apartments, New Delhi
+- Solicitation 191N6526Q0076 to Provide Waterproofing Services and Replacement of Swimming Pool Tiles
 
 ## Contract Solicitations – Chennai
 

@@ -8,10 +8,6 @@
 
 ## Sales Opportunities from GSO Mexico
 
-###### Notice ID: 19MX5326R0003 for Maintenance Repair Services
-
-###### Notice ID: 19MX5326Q0020 for Gardening Services
-
 ###### Notice ID: 19MX5326Q0032 for Medium Voltage Electrical Equipment Maintenance Services
 
 ###### Notice ID: 19MX5326Q0026 for Boilers Preventive Maintenance Services

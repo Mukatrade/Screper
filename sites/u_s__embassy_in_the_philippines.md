@@ -52,13 +52,14 @@ Solicitation No. | Date & Time Issued (Manila Time): | Deadline for Submission (
 19RP3826Q0076 Supply and Delivery of Fuel on June 5, 2026 Solicitation Notice (PDF) Technical Specifications (XLSX) | – – 21-May-2026 21-May-2026 | – – 02-June-2026, 12:00 NN 02-June-2026, 12:00 NN
 19RP3826Q0077 Blanket Purchase Agreement (BPA) for sewing, delivery, and installation services for curtains, draperies, sheers, and related accessories (including all materials) for USG-owned and leased residences and offices. BPA Posting Notice (PDF 721 KB) | – – 29-May-2026 | – – 15-June-2026, 4:00 PM
 19RP3826Q0078 Blanket Purchase Agreement (BPA) for dry cleaning services for curtains, drapes, and related fabric furnishings, including pickup, ironing, delivery, and re-installation. BPA Posting Notice (PDF 719 KB) | – – 29-May-2026 | – – 15-June-2026, 4:00 PM
-19RP3826Q0080 Repair by Replacement of Existing Fuel Dispensing System at the Seafront Compound Gas Station Solicitation Package (PDF 12 MB) Technical Specifications (PDF 24 KB) | – – 30-June-2026 | – – 20-July-2026, 2:00 PM
+19RP3826Q0080 Repair by Replacement of Existing Fuel Dispensing System at the Seafront Compound Gas Station Solicitation Package (PDF 12 MB) Technical Specifications (XLSX 24 KB) | – – 30-June-2026 30-June-2026 | – – 20-July-2026, 2:00 PM 20-July-2026, 2:00 PM
 19RP3826Q0082 Supply, Delivery, and Installation of Laboratory Freezer Units Solicitation Package (PDF 12 MB) Technical Specifications (XLSX 27 KB) Amendment No. 001 (PDF 370 KB) Amendment No. 002 (PDF 366 KB) | – – 10-June-2026 10-June-2026 18-June-2026 26-June-2026 | – – 22-June-2026, 2:00 PM 22-June-2026, 2:00 PM 26-June-2026, 4:00 PM 07-July-2026, 4:00 PM
 19RP3826Q0085 Supply and Delivery of Fuel for June 2026 Solicitation Package (PDF 11 MB) | – – 10-June-2026 | – – 22-June-2026, 4:00 PM
 19RP3826Q0086 Conference Package for Enforcement TTX at Clark, Pampanga Solicitation Package Technical Specifications (XLSX) | – – 9-June-2026 | – – 18-June-2026, 12:00 NN
 19RP3826Q0087 Supply and Delivery of Mobile Phones and Accessories Solicitation Package | – – 25-June-2026 | – – 06-July-2026, 12:00 NN
 19RP3826Q0088 Supply and Delivery of One (1) Unit Passenger Van Pre-Solicitation Notice | – – 30-June-2026 | – – –
 19RP3826Q0092 Supply and Delivery of Fuel for July 31, 2026 Solicitation Package (PDF 11 MB) Technical Specifications (PDF 20 KB) | – – – 26-June-2026 | – – – 09-July-2026, 12:00 NN
+19RP3826Q0093 Room Accommodation and Conference Package for OPDAT Workshop (July 28 – August 5, 2026) Solicitation Package (PDF 12 MB) Technical Specifications (XLSX 27 KB) | – – 01-July-2026 01-July-2026 | – – 10-July-2026, 02:00 PM 10-July-2026, 02:00 PM
 —– Architect/Engineer Design Services for USDVA Office Renovation Request for Architect/Engineer Qualifications – Interior Office Renovations for USDVA (PDF 39 KB) Standard Form 330 (PDF 1 MB) | – – – 25-June-2026 | – – – 08-July-2026, 4:00 PM
 - Manage options
 - Manage services
