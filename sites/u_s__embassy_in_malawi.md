@@ -4,11 +4,12 @@
 
 ---
 
-## The U.S. Embassy in Lilongwe, Malawi is seeking proposals from Contractors for the following:
-
-- Request for Quotations (RFQ) for Internet Services – Download the solicitation here . Deadline for the submission of bids is June 11, 2026, at 2PM.
-- Request for Quotations (RFQ) for Internet Services – Download the solicitation here . Deadline for the submission of bids is June 11, 2026, at 2PM.
-- Request for Quotations (RFQ) for Internet Services – Download the solicitation here . Deadline for the submission of bids is June 11, 2026, at 2PM.
+- Reference Number: PR16067521
+- Date for site visit expression of interest : July 7, 2026
+- Date for Site Visit : July 9, 2026 @08:30 AM
+- Date for questions from site visit : July 10, 2026
+- Date/Deadline for the submission of bids : July 16, 2026 @02:00 PM
+- Point of Contact: LilongweGSOProcurement@state.gov
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

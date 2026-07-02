@@ -11,7 +11,8 @@
 
 ## CONTRACT OPPORTUNITIES
 
-- SOW Language Program FY26 + NDAA Policy to be signed by vendo r
+- RFQ Roof Fall Protection SOW Language Program FY26 + NDAA Policy to be signed by vendo r
+- RFQ Roof Fall Protection
 - SOW Language Program FY26 + NDAA Policy to be signed by vendo r
 - Manage options
 - Manage services

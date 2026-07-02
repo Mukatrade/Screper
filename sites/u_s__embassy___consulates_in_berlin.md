@@ -24,6 +24,8 @@
 
 ## RFQ for Boiler System Replacement
 
+## RFQ for Boiler System Replacement
+
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

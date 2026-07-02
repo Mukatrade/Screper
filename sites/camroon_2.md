@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## REQUEST FOR QUOTATIONS: FAC-Parts for maintenance on wastewater treatment plant
+
+## Economic Opportunity
+
 ## US EMBASSY YAOUNDE ONLINE AUCTION
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## American Spaces Programing Grant 2024
-
-## Economic Opportunity
-
-## Request for Information and Expressions of Interest for a situational Analysis in Cameroon
 
 - Manage options
 - Manage services

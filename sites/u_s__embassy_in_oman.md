@@ -7,6 +7,7 @@
 ## Solicitation Announcements
 
 Solicitation (RFQ) No. | Title | Posting Date | Bid submission due date | More Information
+19MU3026Q0014 | Diplomatic Pouch Services | July 2, 2026 | August 6, 2026, before 2:00 PM | Solicitation Package
 PR16045169 | 4WD SUV for Operational Fleet Support | June 23, 2026 | July 07, 2026, before 2:00 PM | Solicitation Package
 PR16064300 | GCC Spec 4×4 SUV for Motor Pool | June 16, 2026 | June 30, 2026, before 2:00 pm | Solicitation Package
 19MU3026R0002 | LE Staff Health and Life Insurance Solicitation | May 17, 2026 | July 08, 2026 before 1400 Hrs. | 19MU3026R0002 Health and Life Insurance Solicitation Solicitation 19MU3026R0002 Amendment 01 – SF-30- Claims data updated

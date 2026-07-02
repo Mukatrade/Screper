@@ -6,14 +6,16 @@
 
 ## Open Opportunities
 
+- RFQ_PR16090570 – Invitation for quotation for Uniform Poncho/raincoat (Closes July 15,2026) EXPRESS-NDAA-CERTIFICATION-4.2026 1
+- EXPRESS-NDAA-CERTIFICATION-4.2026 1
 - Invitation for Social Media and Media Monitoring Services (Closes July 6, 2026) Express NDAA Certification
 - Express NDAA Certification
 - RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026) Q&A RFQ
 - Q&A RFQ
-- Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)
 
 ## Closed Procurement Announcements
 
+- Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)
 - Invitation to bid for Generator Parts 2026 (Closes June 27, 2026) PR16070723 generator parts
 - PR16070723 generator parts
 - MSG Cook – Food Services (Closes June 25, 2026, at 05:00 p.m. (11:00 p.m. (afternoon) Addis Ababa time)) Request for Quotations Number 19ET1026Q0008 _ MSG Cook – Food Services Express NDAA Certification (PDF 519 KB) Pre-Quote Meeting Q&A

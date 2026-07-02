@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## ADVERTISEMENT FOR ARCHITECT-ENGINEER SERVICES FOR PR16065577 WALL WATERPROOFING & STORM WATER DESIGN – 513 & 514
+
+## Request for Proposals
+
 ## Request for Quotation (RFQ)-: 19KE5026Q0066 – MRU-PREVENTIVE MAINTENANCE FOR GENERATOR-EMBAKASI WAREHOUSE
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION (RFQ)- PR16027937 – Supply of Low Sulphur Diesel for NOX Gas Station
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION (RFQ)- PR16080887: CDC DGHT – Supply of Generator Fuel at CDC Nairobi Office.
 
 - Manage options
 - Manage services
