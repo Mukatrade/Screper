@@ -16,6 +16,8 @@
 
 ## Requests for Quotations
 
+## Sao Paulo: ATO Event – America 250 Whiskey Celebration (Quotations accepted until July 20, 2026)
+
 ## Brasilia: U.S. Embassy Brasilia Legal Services for Residential Acquisition (Quotations accepted until June 19, 2026)
 
 - Pricing Proposal and Quote;
