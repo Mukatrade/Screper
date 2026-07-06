@@ -20,11 +20,11 @@
 
 ### Bureau of Economic and Business Affairs
 
-## RFQ for Painting Services
-
 ## RFQ for Fabricating & Installing Drop Arms
 
 ## African Growth & Opportunity Act
+
+## U.S. Government Promotes Human Rights in the Business Space
 
 - Manage options
 - Manage services
