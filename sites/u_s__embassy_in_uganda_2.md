@@ -9,6 +9,7 @@
 
 ## Current Procurement and Grants Opportunities
 
+- 19UG5026Q0015 | Solar Photovoltaic System Preventive Maintenance Services | Pre-proposal conference July 8, 2026 at 1600hrs | Closing Date: July 14, 2026, at 17:00pm Local time .
 - PR16041550 | Supply of Vehicles | Closing Date: June 18, 2026, at 12:00pm Local time .
 - PR16031639 | Bathroom Restoration Tiles | Closing Date: June 05, 2026, at 12:00pm Local time
 - PR15496540 | Purchase of Tiles for the Gym Floor | Closing Date: May 29, 2026, at 12:00pm Local time

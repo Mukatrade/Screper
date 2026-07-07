@@ -1,44 +1,40 @@
 # Snapshot
 
-**Source:** https://bw.usembassy.gov/category/econ-opportunity/  
+**Source:** https://mu.usembassy.gov/business/#opportunities  
 
 ---
 
-## Economic Opportunity
+## Overview
 
-## RFQ for Painting Services
+## Local Resources
 
-## Economic Opportunity
+### Embassy Business Opportunities
 
-## RFQ for Fabricating & Installing Drop Arms
+### Key Business Links
 
-## Economic Opportunity
+## Doing Business in Mauritius
 
-## Job Opportunities
+## Doing Business in the U.S.
 
-## Economic Opportunity
+## Commercial and Contract Opportunities
 
-## Business Opportunities
+## Economic Data and Reports
 
-## Economic Opportunity
+## Additional Resources
 
-## U.S. Economic Data & Reports
+### Bureau of Economic and Business Affairs
 
-## Economic Opportunity
+### Economic Data & Reports
 
-## Getting Started in the U.S.
+### Commercial Opportunities
 
-## Economic Opportunity
+### Frequently Asked Questions About Business
 
-## Getting Started in Botswana
-
-## Economic Opportunity
-
-## Economic Data & Reports
-
-## Economic Opportunity
+## Grant Programs
 
 ## Commercial Opportunities
+
+## U.S. Embassy Supports Technical Education in Mauritius with New ITET Beau Vallon Training Center and Madison Area Technical College Partnership
 
 - Manage options
 - Manage services
