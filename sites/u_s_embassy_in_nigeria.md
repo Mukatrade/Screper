@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Proposal – PR16001040: Food Influencer Engagement Services
+
 ## PR16110354 – Request for Proposals for Event Management and Facilitation for Freedom 250 Programming at 6 American Spaces in Northern Nigeria.
 
 ## Advertisement – PR16077583 — Supply of Dell PowerStore 500T Storage SystemU.S. Embassy Abuja
-
-## Solicitation PR16017829 – Milwaukee 48-22-9495 366pc. Master Mechanics
 
 - Manage options
 - Manage services
