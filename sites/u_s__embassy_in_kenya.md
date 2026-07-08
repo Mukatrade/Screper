@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## Request for Quotation PR15983617 – MRU-VMWARE Renewal and Support
+
+## Request for Proposals
+
 ## ADVERTISEMENT FOR ARCHITECT-ENGINEER SERVICES FOR PR16065577 WALL WATERPROOFING & STORM WATER DESIGN – 513 & 514
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION (RFQ)- PR15969446: DOJ/OPDAT: Container for Storage of Files
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION (RFQ)- PR16027937 – Supply of Low Sulphur Diesel for NOX Gas Station
 
 - Manage options
 - Manage services

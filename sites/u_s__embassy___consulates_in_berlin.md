@@ -8,8 +8,6 @@
 
 ## Published JOFOC Announcements
 
-## RFQ for Installation of Water Softening System
-
 ## Replacement of Boiler System
 
 ## Painting of Security Fence
@@ -21,6 +19,10 @@
 ## RFQ for the purchase of a tire machine
 
 ## RFQ for construction services for the replacement and installation of Exhaust and Supply Fans
+
+## RFQ for Boiler System Replacement
+
+## RFQ for Boiler System Replacement
 
 ## RFQ for Boiler System Replacement
 

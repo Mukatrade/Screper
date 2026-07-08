@@ -5,7 +5,7 @@
 ---
 
 Description of Services/Supplies: | Issued: | Site Visit: | Quotations/Proposals Due By: (JST)
-Residential Water Pump Replacement at U.S. Consulate in Fukuoka Pre-solicitation Notice (June 18) | To be announced | To be announced | To be announced
+Residential Water Pump Replacement at U.S. Consulate in Fukuoka Pre-solicitation Notice (June 18) RFQ 19JA2526Q0009 (July 7) | July 7 | July 21 at 10 a.m. | Aug. 11 by 12 noon
 Boiler Replacement for Snow-Melt System at U.S. Consulate General Sapporo Pre-solicitation Notice (June 12) | To be announced | To be announced | To be announced
 2027 Sapporo Snow Sculpture Pre-solicitation Notice (April 28) RFQ 19JA7026Q0085 (May 8) | May 8 | May 20 at 2 p.m. | June 1 by 12 noon
 A/C and Ceiling/Lighting Renewal for the CAC at the U.S. Consulate General Sapporo Pre-solicitation Notice (April 28) RFQ 19JA7026Q0084 (May 13) Amendment 0001 and Q&A (May 27) Amendment 0002 (May 29) | May 13 | May 20 at 10 a.m. | June 5 by 12 noon

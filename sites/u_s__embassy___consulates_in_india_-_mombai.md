@@ -12,6 +12,7 @@
 - Solicitation to Provide Services for Overhang Repairs of Annex Building at U.S. Embassy, New Delhi
 - Solicitation-191N6526Q0068 to Fabricate & Install SS Safety Guard Railing at U.S Embassy Enclave Apartments, New Delhi
 - Solicitation 191N6526Q0076 to Provide Waterproofing Services and Replacement of Swimming Pool Tiles
+- Solicitation-191N6526Q0079 for “Supplying, Commissioning and Installation for One-to-One Replacement of Data Center In-Row Cooling System” at American Center Building, 24-KG Marg, Connaught Place, New Delhi
 
 ## Contract Solicitations – Chennai
 

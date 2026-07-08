@@ -58,7 +58,7 @@ Solicitation No. | Date & Time Issued (Manila Time): | Deadline for Submission (
 19RP3826Q0086 Conference Package for Enforcement TTX at Clark, Pampanga Solicitation Package Technical Specifications (XLSX) | – – 9-June-2026 | – – 18-June-2026, 12:00 NN
 19RP3826Q0087 Supply and Delivery of Mobile Phones and Accessories Solicitation Package | – – 25-June-2026 | – – 06-July-2026, 12:00 NN
 19RP3826Q0088 Supply and Delivery of One (1) Unit Passenger Van Pre-Solicitation Notice | – – 30-June-2026 | – – –
-19RP3826Q0092 Supply and Delivery of Fuel for July 31, 2026 Solicitation Package (PDF 11 MB) Technical Specifications (PDF 20 KB) | – – – 26-June-2026 | – – – 09-July-2026, 12:00 NN
+19RP3826Q0092 Supply and Delivery of Fuel for July 31, 2026 Solicitation Package (PDF 11 MB) Technical Specifications (PDF 20 KB) Amendment No. 001 (PDF 182 KB) | – – – 26-June-2026 08-July-2026 | – – – 09-July-2026, 12:00 NN 27-July-2026, 12:00 NN
 19RP3826Q0093 Room Accommodation and Conference Package for OPDAT Workshop (July 28 – August 5, 2026) Solicitation Package (PDF 12 MB) Technical Specifications (XLSX 27 KB) | – – 01-July-2026 01-July-2026 | – – 10-July-2026, 02:00 PM 10-July-2026, 02:00 PM
 —– Architect/Engineer Design Services for USDVA Office Renovation Request for Architect/Engineer Qualifications – Interior Office Renovations for USDVA (PDF 39 KB) Standard Form 330 (PDF 1 MB) | – – – 25-June-2026 | – – – 08-July-2026, 4:00 PM
 951700-26-R-0004 Janitorial Services USAGM Philippines Transmitting Station Solicitation Notice | – – 07-July-2026 | – – 22-July-2026, 12:00 PM
