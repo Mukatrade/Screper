@@ -6,22 +6,6 @@
 
 ## Procurement Opportunities
 
-## Contract Opportunity – Landscaping/Grounds Services
-
-## Procurement Opportunities
-
-## Contract Opportunity – RENTAL OF VEHICLES
-
-## Procurement Opportunities
-
-## Contract Opportunity – Complete Commercial Laundry System
-
-## Procurement Opportunities
-
-## Contract Opportunity – 2015 AND 2016 USED CARS
-
-## Procurement Opportunities
-
 ## Procurement/Contract Opportunities
 
 - Manage options

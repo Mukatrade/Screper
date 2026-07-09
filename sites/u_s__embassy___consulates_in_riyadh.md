@@ -19,7 +19,6 @@ Request for Information (RFI) | June 21, 2026 | July 6, 2026 | RFI for Blanket P
 19SA7026Q0010 – 0001 | | July 19, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Sunday, July 19, 2026
 19SA7026Q0008 – 0001 | | July 19, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Sunday, July 19, 2026.
 19SA7026Q0009 – 0001 | | July 19, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Sunday, July 19, 2026.
-Request for Information (RFI) | July 7, 2026 | July 22, 2026 | RFI for Blanket Purchase Agreement (BPA) for Courier and Outbound Pouch Services (PDF)
 
 ## Procurement Resources
 

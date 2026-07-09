@@ -10,20 +10,18 @@
 
 ## Purchase Orders
 
-## Rio de Janeiro: Commercial Proposal Request for Ambulance Service (Proposals accepted until June 12th, 2026)
-
 ## Contract Opportunities
 
 ## Requests for Quotations
 
+## Brasília: Facilities maintenance, inspection of the Fire Detection and Alarm System (Quotations accepted until July 24, 2026)
+
+#### Related documents:
+
+- 19BR2526Q0009 – FAC Fire Detection and Alarm System (FDAS)
+- SF1449 – 19BR2526Q0009 – Fire Detection Alarm Maintenance Services
+
 ## Sao Paulo: ATO Event – America 250 Whiskey Celebration (Quotations accepted until July 20, 2026)
-
-## Brasilia: U.S. Embassy Brasilia Legal Services for Residential Acquisition (Quotations accepted until June 19, 2026)
-
-- Pricing Proposal and Quote;
-- Brochure or other documentation of the firm indicating its experience and expertise in real estate practices;
-- Resumes for each attorney who will be assigned to the work; and
-- A recent sampling of other completed housing transactions.
 
 ## Notice of Justification for Brand Name Purchase
 

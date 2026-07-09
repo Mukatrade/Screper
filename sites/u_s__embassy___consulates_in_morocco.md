@@ -6,6 +6,7 @@
 
 ## Procurement Opportunities
 
+- July 8, 2016 – Purchase of One (1) Heavy-Duty Off-Road Sport Utility Vehicle / Contract
 - May 12, 2026 – Amendment 0001_ Fuel Services 19M05526Q0001
 - May 7, 2026 – MSG Cook Services 19M05526Q0004 RFQ – Contract
 - April 27, 2026 – RFQ 19M05526Q0006 – Purchase of One (1) Mid‑Size Sport Utility Vehicle (SUV) / Contract
