@@ -4,9 +4,10 @@
 
 ---
 
-- Preventive Maintenance Service for Elevators  (June 24, 2026 – July 23, 2026) Download Document: 19KS7026Q0041 Download Document: Amendment No.0001 to RFQ 19KS7026Q0041 Cement Rooftile Replacement Work  (June 18,2026 – July 17, 2026) Download Document: 19KS7026Q0039
-- Preventive Maintenance Service for Elevators  (June 24, 2026 – July 23, 2026) Download Document: 19KS7026Q0041 Download Document: Amendment No.0001 to RFQ 19KS7026Q0041 Cement Rooftile Replacement Work  (June 18,2026 – July 17, 2026) Download Document: 19KS7026Q0039
-- Preventive Maintenance Service for Elevators  (June 24, 2026 – July 23, 2026) Download Document: 19KS7026Q0041 Download Document: Amendment No.0001 to RFQ 19KS7026Q0041 Cement Rooftile Replacement Work  (June 18,2026 – July 17, 2026) Download Document: 19KS7026Q0039
+- A&E Services_Legation House Roof Restoration (July 10, 2026 – July 28, 2026) Download Document: 19KS7026Q0049_Qualification Advertisement Download Document: SF330-21_Architect-Engineer Qualifications Preventive Maintenance Service for Elevators  (June 24, 2026 – July 23, 2026) Download Document: 19KS7026Q0041 Download Document: Amendment No.0001 to RFQ 19KS7026Q0041 Cement Rooftile Replacement Work  (June 18,2026 – July 17, 2026) Download Document: 19KS7026Q0039
+- A&E Services_Legation House Roof Restoration (July 10, 2026 – July 28, 2026) Download Document: 19KS7026Q0049_Qualification Advertisement Download Document: SF330-21_Architect-Engineer Qualifications Preventive Maintenance Service for Elevators  (June 24, 2026 – July 23, 2026) Download Document: 19KS7026Q0041 Download Document: Amendment No.0001 to RFQ 19KS7026Q0041 Cement Rooftile Replacement Work  (June 18,2026 – July 17, 2026) Download Document: 19KS7026Q0039
+- A&E Services_Legation House Roof Restoration (July 10, 2026 – July 28, 2026) Download Document: 19KS7026Q0049_Qualification Advertisement Download Document: SF330-21_Architect-Engineer Qualifications Preventive Maintenance Service for Elevators  (June 24, 2026 – July 23, 2026) Download Document: 19KS7026Q0041 Download Document: Amendment No.0001 to RFQ 19KS7026Q0041 Cement Rooftile Replacement Work  (June 18,2026 – July 17, 2026) Download Document: 19KS7026Q0039
+- A&E Services_Legation House Roof Restoration (July 10, 2026 – July 28, 2026) Download Document: 19KS7026Q0049_Qualification Advertisement Download Document: SF330-21_Architect-Engineer Qualifications
 - Preventive Maintenance Service for Elevators  (June 24, 2026 – July 23, 2026) Download Document: 19KS7026Q0041 Download Document: Amendment No.0001 to RFQ 19KS7026Q0041
 - Cement Rooftile Replacement Work  (June 18,2026 – July 17, 2026) Download Document: 19KS7026Q0039
 - Manage options

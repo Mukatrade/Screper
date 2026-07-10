@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotes: PR16111095 – Request for Event Manager for Inspired by Freedom: The Next 250 Contest
+
 ## Request for Proposals number 19N15026R0374 – Renovation of 2, Bell, Units 5 & 6, Ikoyi, Lagos
 
 ## Request for Proposal – PR16001040: Food Influencer Engagement Services
-
-## PR16110354 – Request for Proposals for Event Management and Facilitation for Freedom 250 Programming at 6 American Spaces in Northern Nigeria.
 
 - Manage options
 - Manage services

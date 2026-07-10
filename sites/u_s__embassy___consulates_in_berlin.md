@@ -8,16 +8,6 @@
 
 ## Published JOFOC Announcements
 
-## Replacement of Boiler System
-
-## Painting of Security Fence
-
-## RFQ for the facility's air handling units and variable frequency drives
-
-## RFQ for the purchase of a new car washing system
-
-## RFQ for the purchase of a tire machine
-
 ## RFQ for construction services for the replacement and installation of Exhaust and Supply Fans
 
 ## RFQ for Boiler System Replacement
@@ -27,6 +17,8 @@
 ## RFQ for Boiler System Replacement
 
 ## RFQ for Boiler System Replacement
+
+## RFQ to upgrade the current Audio-Video (AV) conferencing system
 
 - Manage options
 - Manage services

@@ -56,6 +56,8 @@
 - INL-RFQ_ PR16035133 _ RFQ Hardware supplies and fill materials Colombia. Closing date and time: July 27, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ PR15655641 – SPOT IN REACH DEVICES AND SERVICE. Deadline for quotations: July 31, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15417676 – IT EQUIPMENT FOR INVESTIGATIONS. Deadline for quotations: August 5, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ  – PR15696217 – MISCELLANEOUS CONSTRUCTION MATERIALS  SAN JOAQUIN MERCADERES. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15696212 – BASE CONSTRUCTION MATERIAL SUCRE DECAU. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 

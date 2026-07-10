@@ -17,10 +17,6 @@
 
 ## RFQ -Surge Protective Device
 
-## Embassy Vehicle auction
-
-## April 2026 Online Sealed Bid Auction
-
 ## Economic Data and Reports
 
 ## Additional Resources
