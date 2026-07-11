@@ -58,6 +58,9 @@
 - INL-RFQ PR15417676 – IT EQUIPMENT FOR INVESTIGATIONS. Deadline for quotations: August 5, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ  – PR15696217 – MISCELLANEOUS CONSTRUCTION MATERIALS  SAN JOAQUIN MERCADERES. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696212 – BASE CONSTRUCTION MATERIAL SUCRE DECAU. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15678834 – PERSONAL FIELD GEAR & SUPPLIES. Deadline for quotations: July 31, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ  – PR15696202 – MISCELLANEOUS CONSTRUCTION MATERIALS CENOP. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15678835 – WATER PURIF & M1 KIT. Deadline for quotations: July 30, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 

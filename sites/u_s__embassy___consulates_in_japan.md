@@ -5,8 +5,9 @@
 ---
 
 Description of Services/Supplies: | Issued: | Site Visit: | Quotations/Proposals Due By: (JST)
+The Freedom 250 – Taste of America Nationwide Campaign Pre-solicitation Notice (July 9) | To be announced | To be announced | To be announced
 Residential Water Pump Replacement at U.S. Consulate in Fukuoka Pre-solicitation Notice (June 18) RFQ 19JA2526Q0009 (July 7) | July 7 | July 21 at 10 a.m. | Aug. 11 by 12 noon
-Boiler Replacement for Snow-Melt System at U.S. Consulate General Sapporo Pre-solicitation Notice (June 12) | To be announced | To be announced | To be announced
+Boiler Replacement for Snow-Melt System at U.S. Consulate General Sapporo Pre-solicitation Notice (June 12) | Canceled
 2027 Sapporo Snow Sculpture Pre-solicitation Notice (April 28) RFQ 19JA7026Q0085 (May 8) | May 8 | May 20 at 2 p.m. | June 1 by 12 noon
 A/C and Ceiling/Lighting Renewal for the CAC at the U.S. Consulate General Sapporo Pre-solicitation Notice (April 28) RFQ 19JA7026Q0084 (May 13) Amendment 0001 and Q&A (May 27) Amendment 0002 (May 29) | May 13 | May 20 at 10 a.m. | June 5 by 12 noon
 Underground Fuel Storage Tanks (UST) Refurbishment Services – Tokyo Pre-solicitation Notice (March 17) RFQ No. 19JA8026Q0021 (May 18) Amendment 0001 (June 10) Amendment 0002 (June 11) | May 18 | May 28 at 10 a.m. | Extended to June 30 by 10 a.m.

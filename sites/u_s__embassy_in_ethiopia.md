@@ -9,7 +9,7 @@
 - Online auction advertisement for Furniture and appliances (22-24 of July 2026)
 - Closed bid advertisement for Generator sale (July,24,25,27, 2026)
 - Invitation to BID for Vertical Multistage Pump # PR15972773 (Closes July 21, 2026)
-- Invitation to BID for Shoes for Men # PR16090498 (Closes July 21, 2026)
+- Invitation to BID for Shoes for Men # PR16090498 (Closes July 22, 2026)
 - RFQ_PR16090570 – Invitation for quotation for Uniform Poncho/raincoat (Closes July 15,2026) EXPRESS-NDAA-CERTIFICATION-4.2026 1
 - EXPRESS-NDAA-CERTIFICATION-4.2026 1
 - Invitation for Social Media and Media Monitoring Services (Closes July 6, 2026) Express NDAA Certification

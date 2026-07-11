@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## RFQ for Painting Services
+
+## Economic Opportunity
+
 ## RFQ for Fabricating & Installing Drop Arms
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Commercial Opportunities
-
-## Economic Opportunity
-
-## African Growth & Opportunity Act
 
 - Manage options
 - Manage services
