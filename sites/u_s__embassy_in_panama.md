@@ -28,11 +28,11 @@
 - Link to 19PM0726Q0007 in SAM
 - Link to 19PM0726Q0009-0001 in SAM
 
+## Statement of Chairman DiBella on China’s Continuing Detentions of Panama-Flagged Vessels
+
 ## Panama Joins the Pax Silica Initiative June 29, 2026 | Washington, D.C.
 
 ## U.S. Ambassador Launches “Freedom 250: Frontiers of Science” Exhibit Celebrating American Innovation and Scientific Excellence
-
-## Deputy Secretary Landau’s Travel to Panama for the General Assembly of the Organization of American States
 
 - Manage options
 - Manage services

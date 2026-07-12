@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## REQUEST FOR QUOTATIONS: Elevator PMSC
+
+## Economic Opportunity
+
 ## REQUEST FOR QUOTATIONS: FAC-Parts for maintenance on wastewater treatment plant
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Building Strong Civil Society Organizations in Cameroon
-
-## Economic Opportunity
-
-## American Spaces Programing Grant 2024
 
 - Manage options
 - Manage services
