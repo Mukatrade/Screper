@@ -1,5 +1,83 @@
 [
   {
+    "ran_at": "2026-07-13T18:56:04.110673Z",
+    "findings": 1,
+    "new_tender": 1,
+    "updated": 1,
+    "edited": 0,
+    "monitored": 141,
+    "failed": [],
+    "filters": {
+      "include": [
+        "request"
+      ],
+      "exclude": [
+        "auction",
+        "fuel",
+        "insurance",
+        "packing",
+        "preventive maintenance",
+        "rental",
+        "request for information",
+        "service",
+        "services",
+        "social media",
+        "suv"
+      ]
+    },
+    "details": [
+      {
+        "site": "Camroon",
+        "category": "NOISE",
+        "summary": "Only the ordering of existing entries changed; the 'US EMBASSY YAOUNDE ONLINE AUCTION' line was moved up in the list. No new tender or status change. The affected item is an auction, which is on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "Camroon 2",
+        "category": "NOISE",
+        "summary": "The diff only reorders existing tender/notice headings (e.g. auction, RFQ for elevator, wastewater parts). No new tenders or status changes were introduced.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY & CONSULATES IN JAPAN",
+        "category": "NOISE",
+        "summary": "A new tender appeared but it is primarily a food services contract (Marine Security Guard \u2013 Food Services Contract), which falls under the 'services' IGNORE topic.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
+        "category": "STATUS_UPDATE",
+        "summary": "Two solicitation amendment entries (Q&A publications) were removed from the tender listing, indicating status updates on existing solicitations.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Jordan",
+        "category": "NEW_TENDER",
+        "summary": "Priority keyword 'request': A new Request for Quotations appeared for providing Public Opinion Research Surveys. Note this is a research surveys engagement which may lean toward services.",
+        "reported": false,
+        "dropped_by": "services"
+      },
+      {
+        "site": "U.S. EMBASSY IN MADAGASCAR 2",
+        "category": "NOISE",
+        "summary": "A fuel-related tender ('RFQ \u2013 Motorpool Fuel card top up') was removed. The topic is fuel, which is on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
+        "category": "NOISE",
+        "summary": "A new tender for swimming pool maintenance services was added, but it is primarily a maintenance/services opportunity which falls under the IGNORE list. An existing forensics detection devices RFQ block was removed.",
+        "reported": false,
+        "dropped_by": null
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-13T15:41:58.789063Z",
     "findings": 0,
     "new_tender": 1,

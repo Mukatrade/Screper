@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0014/ Providing Public Opinion Research Surveys
+
+## Economic Opportunity
+
 ## Request for Quotations number 19J01026Q0012/ Provision of a Brand New Vehicle
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Quotations number 19J01026Q0004/ Welcome Kit delivery Services to US Embassy Residences/ Amendment No. P00001
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0007/ Arabic language classes
 
 - Manage options
 - Manage services

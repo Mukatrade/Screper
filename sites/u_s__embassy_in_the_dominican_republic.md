@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## PR16079005 – EMB/CMR/DCMR: SWIMMING POOL MAINTENANCE SERVICES 2026-2027
+
+## Economic Opportunity
+
 ## Notice of Funding Opportunity (NOFO) – EnglishxSTEM
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Lodging and Conference Room for Transformational Leadership Workshop, Aug 2024
-
-## Economic Opportunity
-
-## RFQ- PR12669506 – Forensics Detection Devices
 
 - Manage options
 - Manage services
