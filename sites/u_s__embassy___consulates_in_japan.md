@@ -11,7 +11,6 @@ Boiler Replacement for Snow-Melt System at U.S. Consulate General Sapporo Pre-so
 2027 Sapporo Snow Sculpture Pre-solicitation Notice (April 28) RFQ 19JA7026Q0085 (May 8) | May 8 | May 20 at 2 p.m. | June 1 by 12 noon
 A/C and Ceiling/Lighting Renewal for the CAC at the U.S. Consulate General Sapporo Pre-solicitation Notice (April 28) RFQ 19JA7026Q0084 (May 13) Amendment 0001 and Q&A (May 27) Amendment 0002 (May 29) | May 13 | May 20 at 10 a.m. | June 5 by 12 noon
 Underground Fuel Storage Tanks (UST) Refurbishment Services – Tokyo Pre-solicitation Notice (March 17) RFQ No. 19JA8026Q0021 (May 18) Amendment 0001 (June 10) Amendment 0002 (June 11) | May 18 | May 28 at 10 a.m. | Extended to June 30 by 10 a.m.
-Marine Security Guard – Food Services Contract Pre-solicitation Notice (March 18) RFQ 19JA8026Q0022 (May 28) Amendment 0001 (June 5) | May 28 | June 12 | June 26 by 12 noon
 Acquisition of Bathroom Restoration Services Pre-solicitation Notice (Feb. 25) RFQ 19JA8026Q0019 (March 23) Amendment 0001 (March 26) Amendment 0002 (April 7) | March 23 | March 31 at 10 a.m. | April 14 by 11 a.m.
 Fukuoka A250 Reception Ballroom Pre-solicitation Notice (Dec. 12, 2025) RFQ 19JA2526-Q-0005 (Dec. 31, 2025) | Dec. 31, 2025 | N/A | Jan. 30, 2026 by 12 noon
 Janitorial Services for U.S. Consulate General Sapporo Pre-solicitation Notice (Dec. 2, 2025) RFQ 19JA7026Q0027 (Dec. 12) | Dec. 12 | Dec. 22 at 3 p.m. | Jan. 16, 2026 by 12 noon

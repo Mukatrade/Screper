@@ -1,10 +1,10 @@
 [
   {
-    "ran_at": "2026-07-13T18:56:04.110673Z",
-    "findings": 1,
-    "new_tender": 1,
-    "updated": 1,
-    "edited": 0,
+    "ran_at": "2026-07-13T18:56:08.421503Z",
+    "findings": 3,
+    "new_tender": 3,
+    "updated": 0,
+    "edited": 2,
     "monitored": 141,
     "failed": [],
     "filters": {
@@ -27,52 +27,38 @@
     },
     "details": [
       {
-        "site": "Camroon",
-        "category": "NOISE",
-        "summary": "Only the ordering of existing entries changed; the 'US EMBASSY YAOUNDE ONLINE AUCTION' line was moved up in the list. No new tender or status change. The affected item is an auction, which is on the IGNORE list.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "Camroon 2",
-        "category": "NOISE",
-        "summary": "The diff only reorders existing tender/notice headings (e.g. auction, RFQ for elevator, wastewater parts). No new tenders or status changes were introduced.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY & CONSULATES IN JAPAN",
-        "category": "NOISE",
-        "summary": "A new tender appeared but it is primarily a food services contract (Marine Security Guard \u2013 Food Services Contract), which falls under the 'services' IGNORE topic.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
         "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
-        "category": "STATUS_UPDATE",
-        "summary": "Two solicitation amendment entries (Q&A publications) were removed from the tender listing, indicating status updates on existing solicitations.",
-        "reported": true,
+        "category": "CONTENT_EDIT",
+        "summary": "Two solicitation amendment/Q&A entries (19SA7026Q0009-0002 and 19SA7026Q0011-0002) were removed from the tender list. These were Q&A clarifications rather than new opportunities or status changes.",
+        "reported": false,
         "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Egypt",
+        "category": "NEW_TENDER",
+        "summary": "A new tender for repairing the kitchen ceiling at Boulos Hanna appeared, along with other list changes. Several tenders were removed and the medical/life insurance tender received a deadline extension modification.",
+        "reported": false,
+        "dropped_by": "insurance"
       },
       {
         "site": "U.S. Embassy in Jordan",
         "category": "NEW_TENDER",
-        "summary": "Priority keyword 'request': A new Request for Quotations appeared for providing Public Opinion Research Surveys. Note this is a research surveys engagement which may lean toward services.",
-        "reported": false,
-        "dropped_by": "services"
+        "summary": "Matched priority keyword 'request'. A new Request for Quotations appeared for providing public opinion research surveys, and an older RFQ for Arabic language classes was removed from the listing.",
+        "reported": true,
+        "dropped_by": null
       },
       {
         "site": "U.S. EMBASSY IN MADAGASCAR 2",
-        "category": "NOISE",
-        "summary": "A fuel-related tender ('RFQ \u2013 Motorpool Fuel card top up') was removed. The topic is fuel, which is on the IGNORE list.",
-        "reported": false,
+        "category": "CONTENT_EDIT",
+        "summary": "Claude returned an unparseable response; manual review recommended.",
+        "reported": true,
         "dropped_by": null
       },
       {
         "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
-        "category": "NOISE",
-        "summary": "A new tender for swimming pool maintenance services was added, but it is primarily a maintenance/services opportunity which falls under the IGNORE list. An existing forensics detection devices RFQ block was removed.",
-        "reported": false,
+        "category": "NEW_TENDER",
+        "summary": "New tender appeared: RFQ (request for quotation) PR16116993 for DEA Ballistic Vests. Matched priority keyword 'request'.",
+        "reported": true,
         "dropped_by": null
       }
     ]

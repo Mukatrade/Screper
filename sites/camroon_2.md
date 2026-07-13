@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## US EMBASSY YAOUNDE ONLINE AUCTION
+
+## Economic Opportunity
+
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
 
 ## Economic Opportunity
@@ -14,19 +18,11 @@
 
 ## Economic Opportunity
 
-## US EMBASSY YAOUNDE ONLINE AUCTION
-
-## Economic Opportunity
-
 ## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
 ## Economic Opportunity
 
 ## Alumni Engagement Innovation Fund (AEIF) 2026
-
-## Economic Opportunity
-
-## U.S. Embassy Yaounde Online Auction
 
 ## Economic Opportunity
 
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## Building Strong Civil Society Organizations in Cameroon
+
+## Economic Opportunity
+
+## American Spaces Programing Grant 2024
 
 - Manage options
 - Manage services
