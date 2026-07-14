@@ -6,7 +6,7 @@
 
 ## Economic Opportunity
 
-## RFQ for Fabricating & Installing Drop Arms
+## RFQ for Painting Services
 
 ## Economic Opportunity
 

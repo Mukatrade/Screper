@@ -8,7 +8,6 @@
 
 ## SOLICITATION NOTICES
 
-- MSG Cook Services (PDF 864KB)
 - CMR Asbestos Ceiling Replacement (PDF 2MB)
 - Manage options
 - Manage services

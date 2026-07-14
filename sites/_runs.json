@@ -1,5 +1,111 @@
 [
   {
+    "ran_at": "2026-07-14T14:36:10.355899Z",
+    "findings": 2,
+    "new_tender": 4,
+    "updated": 1,
+    "edited": 2,
+    "monitored": 141,
+    "failed": [],
+    "filters": {
+      "include": [
+        "request"
+      ],
+      "exclude": [
+        "auction",
+        "fuel",
+        "insurance",
+        "packing",
+        "preventive maintenance",
+        "rental",
+        "request for information",
+        "service",
+        "services",
+        "social media",
+        "suv"
+      ]
+    },
+    "details": [
+      {
+        "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
+        "category": "NOISE",
+        "summary": "New tender 19SA7026Q0016 is a request for price quotation for Cook Services (MSG), which falls under the ignored 'services' topic; the other two entries are Q&A amendments to existing solicitations.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Burma",
+        "category": "STATUS_UPDATE",
+        "summary": "A previously listed tender 'MSG Cook Services' was removed from the solicitation notices, but this is a services tender on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Egypt",
+        "category": "NEW_TENDER",
+        "summary": "A new tender for Kitchen Exhaust Cleaning has appeared.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Guyana 3",
+        "category": "NEW_TENDER",
+        "summary": "request: A new Request for Quotations (RFQ) appeared for the Rehabilitation of Utility Room at the U.S. Embassy, replacing a prior food and beverage catering RFQ.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN KENYA",
+        "category": "NEW_TENDER",
+        "summary": "request: Two new tenders appeared - an RFQ for plumbing materials (PR15851007) and an RFQ for Amphitheater AV Support & Maintenance Contract 2026 (19KE5026Q0036). Note the AV contract is primarily a maintenance/support s",
+        "reported": false,
+        "dropped_by": "service"
+      },
+      {
+        "site": "U.S. EMBASSY IN KUWAIT",
+        "category": "NOISE",
+        "summary": "An existing tender block was replaced with a new RFQ for USAGM-Fence Cleaning Services, which is primarily a services tender on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S Embassy Botswana, U.S",
+        "category": "NOISE",
+        "summary": "An existing RFQ title changed from fabricating/installing drop arms to painting services, which is primarily a services tender on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Frankfurt",
+        "category": "CONTENT_EDIT",
+        "summary": "Removed several product specification bullet points (charging cables, 256GB storage, Apple Business Manager registration) from an existing tender block; no new tender or status change indicated.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Berlin",
+        "category": "CONTENT_EDIT",
+        "summary": "Claude returned an unparseable response; manual review recommended.",
+        "reported": false,
+        "dropped_by": "services"
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Riyadh",
+        "category": "NOISE",
+        "summary": "New solicitation 19SA7026Q0016 is for Cook Services (MSG), which falls under the 'services' IGNORE topic. The other two entries are amendments to service solicitations.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Cyprus",
+        "category": "NEW_TENDER",
+        "summary": "Three new tenders appeared for supply/installation of an intercommunication system, structured cabling, and a residence fence extension; the previous vehicle auction listing was removed.",
+        "reported": false,
+        "dropped_by": "auction"
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-14T08:36:46.176972Z",
     "findings": 3,
     "new_tender": 3,

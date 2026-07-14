@@ -20,6 +20,8 @@
 
 ## RFQ to upgrade the current Audio-Video (AV) conferencing system
 
+## RFQ for Internet Services for Dussledorf
+
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
