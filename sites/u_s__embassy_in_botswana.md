@@ -20,7 +20,7 @@
 
 ### Bureau of Economic and Business Affairs
 
-## RFQ for Fabricating & Installing Drop Arms
+## RFQ for Painting Services
 
 ## African Growth & Opportunity Act
 

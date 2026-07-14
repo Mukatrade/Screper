@@ -1,5 +1,41 @@
 [
   {
+    "ran_at": "2026-07-14T17:17:49.182451Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "failed": [],
+    "filters": {
+      "include": [
+        "request"
+      ],
+      "exclude": [
+        "auction",
+        "fuel",
+        "insurance",
+        "packing",
+        "preventive maintenance",
+        "rental",
+        "request for information",
+        "service",
+        "services",
+        "social media",
+        "suv"
+      ]
+    },
+    "details": [
+      {
+        "site": "U.S. EMBASSY IN BOTSWANA",
+        "category": "NOISE",
+        "summary": "The tender title changed from an RFQ for fabricating and installing drop arms to an RFQ for painting services, which is primarily a services tender on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-14T16:40:54.431051Z",
     "findings": 0,
     "new_tender": 1,
