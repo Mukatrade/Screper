@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
+## US EMBASSY YAOUNDE ONLINE AUCTION
+
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
 
 ## REQUEST FOR QUOTATIONS: FAC-Parts for maintenance on wastewater treatment plant
-
-## US EMBASSY YAOUNDE ONLINE AUCTION
 
 - Manage options
 - Manage services

@@ -4,36 +4,33 @@
 
 ---
 
-## AVAILABILITY CALENDAR
+# To Prospective Offerors/Quoters:
 
-## Submit a public offer
-
-## To Prospective Offerors/Quoters:
-
-###### Prospective overseas offerors/quoters, If your company would like to be eligible for contract awards above US$40,000 with the U.S. Government, the company shall be registered in SAM.gov before sending your proposal/quotation.
-
-- If you are not registered in the United States, you will need an NCAGE Code number, you will need to request one for free by visiting the NATO   Codification Tools webpage at: https://eportal.nspa.nato.int/Codification/CageTool/home
-- If you don’t have an account in Sam, then you will need to open an account in SAM.gov
-- Then, register the company in SAM. gov, see below reference documents:
-- 2.4 SAM Quick Start Guide for International Registrations Purpose of Registration – Overview Get a Unique Entity ID in SAM.gov Validating Your Entity in SAM.gov Entity Registration: Quick Access Links – Validating your Entity
-- 2.4 SAM Quick Start Guide for International Registrations
-- Purpose of Registration – Overview
-- Get a Unique Entity ID in SAM.gov
-- Validating Your Entity in SAM.gov
-- Entity Registration: Quick Access Links – Validating your Entity
-
-###### Instructions to transmit your original invoice electronically through MyILMS Payment Portal:
-
-- Link to 19PM0726Q0008 in SAM
-- Link to 19PM0726Q0007 in SAM
-- Link to 19PM0726Q0009-0001 in SAM
-
-## Statement of Chairman DiBella on China’s Continuing Detentions of Panama-Flagged Vessels
-
-## Panama Joins the Pax Silica Initiative June 29, 2026 | Washington, D.C.
-
-## U.S. Ambassador Launches “Freedom 250: Frontiers of Science” Exhibit Celebrating American Innovation and Scientific Excellence
-
+- 19PM0721Q0018 – Solicitation Document (DOCX 30 KB)
+- 19PM0721Q0018 – Amendment (DOCX 30 KB)
+- 19PM0721Q0044 – Solicitation Document (PDF 203KB)
+- 19PM0721Q0044 – Justification (PDF 487KB)
+- Offers are due by email 03:00 p.m. March 30, 2021. All responsible sources may submit an offer that shall be considered.
+- Please send any questions regarding this solicitation in English by email to INLPROCPANAMA@state.gov or FocaAR@state.gov no later than 03:00 p.m., March 27, 2021,  local time
+- 19PM0721Q0046 – Solicitation Document (DOCX 32KB)
+- 19PM0721Q0038 – Solicitation Document (DOCX 32KB)
+- 19PM0721Q0042 – Solicitation Document (DOC 1MB)
+- 19PM07021Q0032– MSG Cook Services (DOCX 155KB)
+- 19PM07021Q0032– MSG Cook Services Amendment (DOCX 125KB)
+- RFQ Letter (PDF 52KB)
+- Attachment – Kitchen inventory (DOCX 6MB)
+- 19PM0721Q0012 – Solicitation Document (DOCX 29KB)
+- 19PM0721Q0040 – Solicitation Document (DOC 53KB)
+- Offers are due by E-mail 3:00 p.m.,  March 5, 2021. All responsible sources may submit an offer that shall be considered.
+- If there are any questions regarding this solicitation please contact CLAUDIA BURKE, 317-5892/ 6635-8383, email: INLPROCPANAMA@STATE.GOV
+- 19PM0721Q0041 – Solicitation Document (PDF 1 MB)
+- 19PM07121Q0029 – Solicitation Document (DOCX 521KB)
+- 19PM07121Q0029 – Cover Page (DOC 104KB)
+- 19PM07121Q0029 – Equipment List (PDF 1MB)
+- 19PM07121Q0029 – Layout Design (PDF 232KB)
+- 19PM07121Q0029 – Material List (PDF 40KB)
+- 19PM07121Q0029 – QA (DOCX 21KB)
+- 19PM0721Q0039 – Solicitation Document (DOC 47KB)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
