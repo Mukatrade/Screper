@@ -1,5 +1,41 @@
 [
   {
+    "ran_at": "2026-07-14T16:40:54.431051Z",
+    "findings": 0,
+    "new_tender": 1,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "failed": [],
+    "filters": {
+      "include": [
+        "request"
+      ],
+      "exclude": [
+        "auction",
+        "fuel",
+        "insurance",
+        "packing",
+        "preventive maintenance",
+        "rental",
+        "request for information",
+        "service",
+        "services",
+        "social media",
+        "suv"
+      ]
+    },
+    "details": [
+      {
+        "site": "U.S. Embassy in Guyana",
+        "category": "NEW_TENDER",
+        "summary": "Priority keyword 'request' matched. A new Request for Quotations (RFQ) appeared for the Rehabilitation of a Utility Room at the U.S. Embassy, replacing the prior catering services RFQ.",
+        "reported": false,
+        "dropped_by": "services"
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-14T14:36:10.355899Z",
     "findings": 2,
     "new_tender": 4,
