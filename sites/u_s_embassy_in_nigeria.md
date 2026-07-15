@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Advertisement – 19N10226Q0006 – NEC Generator Preventive Maintenance Service
+
 ## Request for Quotes: PR16111095 – Request for Event Manager for Inspired by Freedom: The Next 250 Contest
 
 ## Request for Proposals number 19N15026R0374 – Renovation of 2, Bell, Units 5 & 6, Ikoyi, Lagos
-
-## Request for Proposal – PR16001040: Food Influencer Engagement Services
 
 - Manage options
 - Manage services

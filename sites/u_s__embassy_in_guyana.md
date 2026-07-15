@@ -6,7 +6,7 @@
 
 ## Overview
 
-## Request for Quotations (RFQ) for Rehabilitation of Utility Room
+## Request for Quotations (RFQ) for food and beverage catering services in support of U.S. Embassy 2026 Independence Day Celebration
 
 ## Blanket Purchase Agreements for U.S. Embassy Georgetown
 
