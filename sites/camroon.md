@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
+## REQUEST FOR QUOTATIONS: Land Cruiser 76 Hardtop 10 seater, 5 door Model: HZJ76L-RKMRSSFX: A3 or Equal
+
 ## US EMBASSY YAOUNDE ONLINE AUCTION
 
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
-
-## REQUEST FOR QUOTATIONS: FAC-Parts for maintenance on wastewater treatment plant
 
 - Manage options
 - Manage services

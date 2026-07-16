@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Advertisement – 19N10226Q0024 – Hotel and Lodging Services
+
+## Advertisement – 19N10226R0006 – Translation, production, and broadcast of a weekly Hausa-language radio program
+
 ## Advertisement – 19N10226Q0006 – NEC Generator Preventive Maintenance Service
-
-## Request for Quotes: PR16111095 – Request for Event Manager for Inspired by Freedom: The Next 250 Contest
-
-## Request for Proposals number 19N15026R0374 – Renovation of 2, Bell, Units 5 & 6, Ikoyi, Lagos
 
 - Manage options
 - Manage services

@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
+19H08026Q0050 | Solicitation | Concrete Materials (Blocks & Pavers) | | July 27, 2026
 19H08026Q0053 | Solicitations | Purchase of Brand Name ESPS Filters for Air Handling Units | | July 17, 2026
 TEGUC26001 | Solicitations | Tender of Service for Packing and Crating [HHE, POV, GOV, UAB] | Rates Sheet Packing & Crating | August 7,2026
 19H08026Q0048 | Solicitation | Media monitoring & report services | | July 16, 2026

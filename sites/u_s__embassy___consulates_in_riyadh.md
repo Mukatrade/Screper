@@ -25,6 +25,8 @@ Request for Information (RFI) | July 7, 2026 | July 22, 2026 | RFI for Blanket P
 19SA7026Q0016 | July 14, 2026 | August 12, 2026 | The U.S. Embassy Riyadh would like to invite your company to submit the price quotation for Cook Services to Marine Security Guard (MSG) at the Embassy of the United States of America in Riyadh, Saudi Arabia.
 19SA7026Q0008-0002 | July 14, 2026 | July 19, 2026 | This solicitation amendment is issued to publish the questions and answers received in response to the solicitation.
 19SA7026Q0010-0002 | July 14, 2026 | July 19, 2026 | This solicitation amendment is issued to publish the questions and answers received in response to the solicitation.
+19SA7026Q0010-0003 | July 15, 2026 | July 23, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Thursday, July 23, 2026.
+19SA7026R0001-0001 | | August 20, 2026 | The U.S. Embassy Riyadh has issued an amendment extending the proposal deadline for solicitation #19SA7026R0001. Bids are now due by August 20, 2026, at 17:00 (Saudi Arabia time).
 
 ## Procurement Resources
 
