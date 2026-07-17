@@ -8,22 +8,16 @@
 
 ## Request for Quotations
 
+- RFQ PR# 16107713
+- Scope of work
 - Pre-solicitation notice
 - Pre-solicitation notice
 - Pre-solicitation notice
-- RFQ #PR15959873 – Network Firewall devices
-- RFQ #PR16059121 – Outdoor network Cabinet
-- Pre-solicitation notice
-- Pre-solicitation notice
-- Solicitation document
-- RFQ # PR16030830
-- SOW and Pricing
 - SF 30 Amendment 0001 191S7026R0001 Tactical Weapons Facilities
 - INP certified Basic Armed Guard course
 - INP certified Refresher Armed Guard course
 - Request for Quotation # PR15287792 Installing intercom Window System in Consular Section- Jerusalem.
 - SOW Audio System & pricing 2026
-- RFQ# PR15980412
 - Cover Letter 19IS4O26Q0003
 - Solicitation RFQ# 191S4026Q0003
 - Request Number: PR158772277

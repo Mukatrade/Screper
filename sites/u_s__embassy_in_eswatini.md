@@ -8,9 +8,6 @@
 
 ## Request for Quotation (RFQ)
 
-- RFQ – Kitchen Hood Cleaning Service – 19WZ6026Q0011 (PDF 119KB) Kitchen Hood Cleaning Service (PDF 2 MB) SF1449_Kitchen Hood Cleaning Service (PDF 144KB)
-- Kitchen Hood Cleaning Service (PDF 2 MB)
-- SF1449_Kitchen Hood Cleaning Service (PDF 144KB)
 - RFQ – Provision of Fan Motors – 19WZ6026Q0015 (PDF 629KB)
 - RFQ – Kitchen Hood Fire Suppression (ANSUL) System Preventive Maintenance Service – 19WZ6026Q0009 (PDF 119KB) Kitchen Hood Fire Suppression System PMS – 19WZ6026Q0009 (PDF 745KB) SF1449_ Kitchen Hood Fire Suppression System PMS – 19WZ6026Q0009 (PDF 143KB)
 - Kitchen Hood Fire Suppression System PMS – 19WZ6026Q0009 (PDF 745KB)

@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Solicitation – PR16107655 – Replacement Water Heater/Parts
+
 ## Advertisement – 19N10226Q0024 – Hotel and Lodging Services
 
 ## Advertisement – 19N10226R0006 – Translation, production, and broadcast of a weekly Hausa-language radio program
-
-## Advertisement – 19N10226Q0006 – NEC Generator Preventive Maintenance Service
 
 - Manage options
 - Manage services

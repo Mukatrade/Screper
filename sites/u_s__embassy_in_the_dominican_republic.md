@@ -6,15 +6,11 @@
 
 ## Economic Opportunity
 
-## PR16116808 – DHS/ICE – TCIU Vehicle Rentals 2026 – 2027
-
-## Economic Opportunity
-
-## PR16113521 – Air conditioning units for LB1 to LB12
-
-## Economic Opportunity
-
 ## (RFQ) PR16116993 – DEA – Ballistic Vests
+
+## Economic Opportunity
+
+## Notice of Funding Opportunity (NOFO) – EnglishxSTEM
 
 ## Economic Opportunity
 
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## RFQ PR12826237 – HR Outsource Services
+
+## Economic Opportunity
+
+## Lodging and Conference Room for Transformational Leadership Workshop, Aug 2024
 
 - Manage options
 - Manage services

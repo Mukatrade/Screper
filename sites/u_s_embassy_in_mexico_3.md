@@ -11,8 +11,7 @@
 
 ## CONTRACT OPPORTUNITIES
 
-- SOW Forklift RFI Move Safe RFQ Roof Fall Protection SOW Language Program FY26 + NDAA Policy to be signed by vendo r
-- SOW Forklift
+- RFI Move Safe RFQ Roof Fall Protection SOW Language Program FY26 + NDAA Policy to be signed by vendo r
 - RFI Move Safe
 - RFQ Roof Fall Protection
 - SOW Language Program FY26 + NDAA Policy to be signed by vendo r

@@ -14,7 +14,7 @@
 
 ## Requests for Quotations
 
-## Rio de Janeiro: Elevator Maintenance Contact (Quotations accepted until July 29, 2026)
+## Rio de Janeiro: Elevator Maintenance Contract (Quotations accepted until July 30, 2026)
 
 - Standard Form SF-1449 The Schedule Contract Clauses Solicitation Provisions Evaluation Factors Representations and Certifications
 - The Schedule

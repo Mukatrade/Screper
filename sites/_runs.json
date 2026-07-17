@@ -1,5 +1,153 @@
 [
   {
+    "ran_at": "2026-07-17T07:36:48.264190Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "failed": [],
+    "filters": {
+      "include": [
+        "request"
+      ],
+      "exclude": [
+        "auction",
+        "fuel",
+        "insurance",
+        "packing",
+        "preventive maintenance",
+        "rental",
+        "request for information",
+        "service",
+        "services",
+        "social media",
+        "suv"
+      ]
+    },
+    "details": [
+      {
+        "site": "U.S. Embassy & Consulates in Brazil",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "Camroon",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "Camroon 2",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Morocco",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN SALVADOR",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN ESWATINI",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Israel",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN KENYA",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S EMBASSY IN NIGERIA",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy Pakistan Seal U.S. EMBASSY & CONSULATES IN PAKISTAN",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN SERBIA",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S Embassy in Mexico 3",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Riyadh",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Brazil 2",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Honduras",
+        "category": "NOISE",
+        "summary": "API error",
+        "reported": false,
+        "dropped_by": null
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-16T07:27:40.805061Z",
     "findings": 10,
     "new_tender": 12,

@@ -14,15 +14,6 @@
 
 ## Requests for Quotations
 
-## Rio de Janeiro: Elevator Maintenance Contact (Quotations accepted until July 29, 2026)
-
-- Standard Form SF-1449 The Schedule Contract Clauses Solicitation Provisions Evaluation Factors Representations and Certifications
-- The Schedule
-- Contract Clauses
-- Solicitation Provisions
-- Evaluation Factors
-- Representations and Certifications
-
 ## Brasília: Facilities maintenance, inspection of the Fire Detection and Alarm System (Quotations accepted until July 24, 2026)
 
 #### Related documents:

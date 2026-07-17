@@ -32,6 +32,9 @@ Pre-Solicitation Number | Notice Type | Title | Date Issued | Response Date/Time
 ## Solicitation Notices
 
 Solicitation Number | Notice Type | Title | Date issued | Deadline for quote submission | Solicitation Document Links
+19RB1026Q0015 | Solicitation | Blanket Purchase Agreement (BPA) for technical inspection and registration of government owned vehicles | July 16, 2026 | 17:00 local time on July 23, 2026 | 19RB1026Q0015_BPA Invitation letter 19RB1026Q0015_RFQ
+- 19RB1026Q0015_BPA Invitation letter
+- 19RB1026Q0015_RFQ
 19RB1026Q0014 | Solicitation | Blanket Purchase Agreements (BPA) for rental of passenger vehicles, minibuses and full-size buses with and without drivers | July 7, 2026 | 17:00 local time on July 15, 2026 | 19RB1026Q0014_BPA Invitation letter 19RB1026Q0014_RFQ
 - 19RB1026Q0014_BPA Invitation letter
 - 19RB1026Q0014_RFQ

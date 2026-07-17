@@ -6,18 +6,6 @@
 
 ## Request for Proposals
 
-## Request for Proposal (RFP)-19KE5026R0001 Health Insurance for Mission Seychelles Locally Employed (LE) Staff
-
-## Request for Proposals
-
-## Request for Proposal (RFP)-19KE5026R0002 – LEGAL SERVICES- Employment Law (Seychelles, Somalia, Kenya)
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION (RFQ)- PR15925011 – DHS/ICE/HSI – TCIU Nairobi iPhone and Apple accessories
-
-## Request for Proposals
-
 ## REQUEST FOR QUOTATION (RFQ)- PR15851007- PLUMBING MATERIALS
 
 ## Request for Proposals
@@ -39,6 +27,18 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION (RFQ)- PR16056223: 2x40ft Containers for Office Space
+
+## Request for Proposals
+
+## REQUEST FOR QUOTATION (RFQ)- PR16003551- NETWORK INSTALLATION & RECABLING AT CDC -KISIAN OFFICE
+
+## Request for Proposals
+
+## REQUEST FOR QUOTATION (RFQ)- PR15970418: DOJ/OPDAT: CCTV NETWORK VIDEO RECORDER SOLUTION
+
+## Request for Proposals
+
+## REQUEST FOR QUOTATION (RFQ)- PR15972258: DOJ/OPDAT: AUDIO RECORDING & TRANSCRIPTION EQUIPMENT
 
 - Manage options
 - Manage services
