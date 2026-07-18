@@ -14,6 +14,7 @@
 - Solicitation 191N6526Q0076 to Provide Waterproofing Services and Replacement of Swimming Pool Tiles
 - Solicitation-191N6526Q0079 for “Supplying, Commissioning and Installation for One-to-One Replacement of Data Center In-Row Cooling System” at American Center Building, 24-KG Marg, Connaught Place, New Delhi
 - Solicitation for the Supply of Brand-new Passenger Vans, make Force Urbania or equivalent to the U.S. Embassy, New Delhi
+- Solicitation to Provide Services to Replace Waterproofing at American Center Building Roof
 
 ## Contract Solicitations – Chennai
 

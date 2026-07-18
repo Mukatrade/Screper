@@ -6,6 +6,22 @@
 
 ## Request for Proposals
 
+## Request For Quotation (RFQ)- PR15925011 – i Phone and Apple accessories
+
+## Request for Proposals
+
+## Request for Proposal (RFP)-19KE5026R0001 Health Insurance for Mission Seychelles Locally Employed (LE) Staff
+
+## Request for Proposals
+
+## Request for Proposal (RFP)-19KE5026R0002 – LEGAL SERVICES- Employment Law (Seychelles, Somalia, Kenya)
+
+## Request for Proposals
+
+## Request For Quotation (RFQ)- PR16128019 – Mombasa Warehouse_ Forklift Leasing for one year
+
+## Request for Proposals
+
 ## REQUEST FOR QUOTATION (RFQ)- PR15851007- PLUMBING MATERIALS
 
 ## Request for Proposals
@@ -23,22 +39,6 @@
 ## Request for Proposals
 
 ## Request for Quotation (RFQ)-: 19KE5026Q0066 – MRU-PREVENTIVE MAINTENANCE FOR GENERATOR-EMBAKASI WAREHOUSE
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION (RFQ)- PR16056223: 2x40ft Containers for Office Space
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION (RFQ)- PR16003551- NETWORK INSTALLATION & RECABLING AT CDC -KISIAN OFFICE
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION (RFQ)- PR15970418: DOJ/OPDAT: CCTV NETWORK VIDEO RECORDER SOLUTION
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION (RFQ)- PR15972258: DOJ/OPDAT: AUDIO RECORDING & TRANSCRIPTION EQUIPMENT
 
 - Manage options
 - Manage services

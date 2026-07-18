@@ -6,6 +6,8 @@
 
 ### How to bid on U.S. government contracts:
 
+- Scaffold for US Embassy – PR16088997MD Closing Date: July 30 , 2026 – 4:30 PM (Cairo Local Time)
+- UPS-200 KVA Yearly Maintenance Contract – PR16049027MD Closing Date: July 30 , 2026 – 4:30 PM (Cairo Local Time)
 - CAI – PD: ECA Fund – Alumni Regional Symposium – R16099280SA Closing Date: July 14 , 2026 – 4:30 PM (Cairo Local Time)
 - CAI-IRM “ESSA building P2P 30MB link – 19EG3026Q0013 – C-SCRM Questionnaire and Attestation Form Closing Date: July 20 , 2026 – 4:30 PM (Cairo Local Time)
 - CAI – PAS/ACC:New American Space in Mansoura Renovation Proj – PR16052416SA – AS_IdeaBook – BOQ Closing Date: July 21 , 2026 – 4:30 PM (Cairo Local Time)

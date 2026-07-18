@@ -10,13 +10,13 @@
 - Closed bid advertisement for Generator sale (July,24,25,27, 2026)
 - Invitation to BID for Vertical Multistage Pump # PR15972773 (Closes July 21, 2026)
 - Invitation to BID for Shoes for Men # PR16090498 (Closes July 22, 2026)
+
+## Closed Procurement Announcements
+
 - RFQ_PR16090570 – Invitation for quotation for Uniform Poncho/raincoat (Closes July 15,2026) EXPRESS-NDAA-CERTIFICATION-4.2026 1
 - EXPRESS-NDAA-CERTIFICATION-4.2026 1
 - Invitation for Social Media and Media Monitoring Services (Closes July 6, 2026) Express NDAA Certification
 - Express NDAA Certification
-
-## Closed Procurement Announcements
-
 - RFQ # 19ET1026Q0009 – Preventive Maintenance Service for Wastewater Treatment and Collection Systems (Closes July 02, 2026) Q&A RFQ
 - Q&A RFQ
 - Call for Contractors – Construction Monitoring Services (Closes June 29, 2026, at 17:00 local time)

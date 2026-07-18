@@ -35,6 +35,10 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
+- INL-RFQ PR16111826 – DIGITAL MICROSCOPE AND EQUIPMENT . Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15697685 – COUNTER UAS ANTENA SUPPLIES. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ – PR15696215 – MISCELLANEOUS CONSTRUCTION MATERIALS SAN JOAQUIN TAMBO. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR16113805 – 46/ SPOT IRIDIUM PTT SERVICE 0926. Deadline for quotations: August 5, 2026, at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ  – PR16027385 – ARMORED VEHICLES COL . Deadline for quotations: July 1, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696187 – MISCELLANEOUS CONSTRUCTION MATERIALS ROBLES. Deadline for quotations: June 22, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ_ PR16016432_ RFQ Mid-Size Vehicles Colombia. Closing date and time: July 2, 2026, at 16:00 (Bogotá, Colombia), local time.

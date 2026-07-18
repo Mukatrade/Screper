@@ -6,6 +6,18 @@
 
 ## RFQ Chiang Mai
 
+## RFQ to provide American Fair Organizing Services (Deadline: July 21, 2026)
+
+## RFQ Chiang Mai
+
+## RFQ for two(2) Sport Utility Vehicles (SUVs) (Deadline: July 31, 2026)
+
+## RFQ Chiang Mai
+
+## RFQ to provide American Fair Organizing Services (Deadline: July 21, 2026)
+
+## RFQ Chiang Mai
+
 ## RFQ to provide American Fair Organizing Services (Deadline: April 23, 2026)
 
 ## RFQ Chiang Mai
@@ -27,18 +39,6 @@
 ## RFQ Chiang Mai
 
 ## RFQ to provide Move Service (Deadline: June 30, 2025)
-
-## RFQ Chiang Mai
-
-## RFQ to provide Air conditioners and Air Handlers Preventive Maintenance Service (Deadline: June 20, 2025)
-
-## RFQ Chiang Mai
-
-## RFQ to provide Bifold Gates Preventive Maintenance Service (Deadline: June 9, 2025)
-
-## RFQ Chiang Mai
-
-## RFQ to provide Medium Voltage Electrical Equipment Preventive Maintenance Service (Deadline: June 6, 2025)
 
 - Manage options
 - Manage services

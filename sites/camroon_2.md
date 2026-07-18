@@ -6,15 +6,15 @@
 
 ## Economic Opportunity
 
+## REQUEST FOR QUOTATIONS: Land Cruiser 76 Hardtop 10 seater, 5 door Model: HZJ76L-RKMRSSFX: A3 or Equal
+
+## Economic Opportunity
+
 ## US EMBASSY YAOUNDE ONLINE AUCTION
 
 ## Economic Opportunity
 
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
-
-## Economic Opportunity
-
-## REQUEST FOR QUOTATIONS: FAC-Parts for maintenance on wastewater treatment plant
 
 ## Economic Opportunity
 
