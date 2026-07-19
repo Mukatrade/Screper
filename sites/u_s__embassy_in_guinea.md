@@ -6,27 +6,11 @@
 
 ## PROCUREMENT ADVERTISEMENTS
 
+## Solicitation Maintenance, Repair, and Rebuilding of Equipment
+
+## PROCUREMENT ADVERTISEMENTS
+
 ## Solicitation For Non-Litigation Legal Services
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation For Inspection, Servicing, and Repair of JLG 860SJ Boom Lift
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation For A Professional Tree Removal Services
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation For Stormwater Retention Pond Soil
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation For a Large Box Truck
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation For 3000-Liter, water delivery tanker-truck
 
 ## PROCUREMENT ADVERTISEMENTS
 
@@ -39,6 +23,14 @@
 ## PROCUREMENT ADVERTISEMENTS
 
 ## Solicitation for Embassy Telephone Land Line Services
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Request Quotation For Hood Degrease
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Procurement Advertisements
 
 - Manage options
 - Manage services
