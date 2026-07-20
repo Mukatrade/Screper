@@ -27,7 +27,7 @@ jobs:
           mkdir -p ~/.muka_trade
           printf '%s' "$GMAIL_TOKEN_JSON" > ~/.muka_trade/gmail_token.json
       - name: Send pending RFQ jobs
-        run: python scripts/gh_send_rfq.py --outbox outbox --sent sent
+        run: python gh_send_rfq.py --outbox outbox --sent sent
       - name: Commit results
         run: |
           git config user.name "muka-send-bot"
