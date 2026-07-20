@@ -1,0 +1,2 @@
+# Muka Outbox dedupe list. One line per job already sent: <drive_file_id>\t<name>
+# Do not delete lines - removing one would let that job send again.
