@@ -60,14 +60,10 @@
 
 #### The U.S. Embassy in Kuwait has just released in SAM.gov. a Sources Sought Notice (SSN) – Market research (Auction Management Services for Disposal of U.S. Government Property) For complete details regarding this kindly visit www.sam.gov , click on the “Search” option, select “Contract Opportunities” from available Domains, enter “19KU2026” Or Sources Sought Notice (SSN) in the white area and click on “search.”
 
-## Advertisement- RFQ_19KU2026Q0007_FAP Request for Drapery Fabrics
+## RFQ : 19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation
 
-##### -Advertisement-
-
-###### The U.S. Embassy in Kuwait has just released and posted an RFQ_19KU2026Q0007_FAP Request for Drapery Fabrics in SAM.gov.  For complete details regarding this requirement kindly visit to www.sam.gov , click on the “Search” option, select “Contract Opportunities” from available Domains, enter “ 19KU2026Q0007 ” in the white area and click on “search.” Request that interested offers periodically check solicitation for updates.
-
-###### Interested bidders can view the Advertisement by visiting SAM.GOV.
-
+- Any questions regarding the RFQ to be submitting electronically to Kuwait_Solicitation@state.gov no later than August 10, 2026, at 10:00 am. No questions will be accepted beyond this date. Please enter the title of your email as “ Questions – RFQ _19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation .
+- Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by August 16, 2026, at 10:00 am Kuwait local time.  No quotes will be accepted after this time. Please enter the title of your email as “ Quote – RFQ _19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation.
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

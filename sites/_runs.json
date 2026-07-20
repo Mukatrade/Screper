@@ -1,5 +1,175 @@
 [
   {
+    "ran_at": "2026-07-20T14:30:53.449113Z",
+    "findings": 13,
+    "new_tender": 14,
+    "updated": 1,
+    "edited": 2,
+    "monitored": 141,
+    "failed": [],
+    "filters": {
+      "include": [
+        "request"
+      ],
+      "exclude": [
+        "auction",
+        "fuel",
+        "insurance",
+        "land cruiser",
+        "packing",
+        "preventive maintenance",
+        "rental",
+        "request for information",
+        "service",
+        "services",
+        "social media",
+        "suv"
+      ]
+    },
+    "details": [
+      {
+        "site": "Camroon",
+        "category": "NOISE",
+        "summary": "A catering services request was added (and an online auction line removed). Both the new entry (services) and the removed entry (auction) fall under the IGNORE list, so this is non-actionable.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "Camroon 2",
+        "category": "NOISE",
+        "summary": "A new entry was added for a 'Request for Information and Expressions of Interest' which falls under the IGNORE list (request for information). The removed auction entry is also on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Morocco",
+        "category": "NEW_TENDER",
+        "summary": "A new tender appeared for the CGR Kitchen Rehabilitation Project. (The SUV-related entries are IGNORE-list 'suv' topics and not actionable on their own.)",
+        "reported": false,
+        "dropped_by": "suv"
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Morocco 3",
+        "category": "NEW_TENDER",
+        "summary": "A new tender appeared for the CGR Kitchen Rehabilitation Project, and an existing SUV tender was cancelled. The SUV opportunity is IGNORE-listed (suv), but the kitchen rehabilitation project is a new actionable construct",
+        "reported": false,
+        "dropped_by": "suv"
+      },
+      {
+        "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
+        "category": "NEW_TENDER",
+        "summary": "New tender 19SA7026Q0012 appeared for replacement of roll-up garage doors at U.S. Embassy GOV residential housing in Riyadh. Also an amendment (19SA7026Q0009-0002) matches priority keyword 'request' regarding a required ",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Djibouti",
+        "category": "NEW_TENDER",
+        "summary": "Priority keyword 'request' (RFQ) matched. A new tender for a DCMR pool fence has appeared.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Egypt",
+        "category": "CONTENT_EDIT",
+        "summary": "Amendment to the existing 'New American Space in Mansoura Renovation Project' tender adding numerous technical attachments (estimate/time schedule, BOQ, design presentation, LED specs, queries responses).",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN ESWATINI",
+        "category": "NEW_TENDER",
+        "summary": "Priority keyword 'request': A new Request for Quotation (RFQ) has been published for a Customized Panel Van.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Ethiopia",
+        "category": "NEW_TENDER",
+        "summary": "A new tender for electrical items has appeared as an open opportunity.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Israel",
+        "category": "NEW_TENDER",
+        "summary": "Request: A new Request for Quotations (RFQ PR # 16135183) has been added to the U.S. Embassy in Israel tender list.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Jordan",
+        "category": "CONTENT_EDIT",
+        "summary": "Priority keyword 'request': An amendment (No. 0001) was added to the existing Request for Quotations for Public Opinion Research Surveys.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN KUWAIT",
+        "category": "NEW_TENDER",
+        "summary": "Matched priority keyword 'request': A new RFQ for renovation work at the Chancery Annex (restrooms, lactation room, and locker rooms) was posted, replacing a prior drapery fabrics RFQ.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN ZAMBIA",
+        "category": "STATUS_UPDATE",
+        "summary": "The tender for supply and delivery of 2.5 Ton Double Axel Trailers has been re-advertised, indicating a status change on an existing goods tender.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Riyadh",
+        "category": "NEW_TENDER",
+        "summary": "A new tender appeared: 19SA7026Q0012 for the replacement of roll-up garage doors at Government-Owned residential housing units in Riyadh. Also an amendment (19SA7026Q0009-0002) matches the priority keyword 'request' rega",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Cambodia",
+        "category": "NEW_TENDER",
+        "summary": "request: Two new tenders (requests for quotation) appeared for the supply of laboratory equipment and in vitro medical diagnostic reagent kits for NIAID/NIH at the U.S. Embassy Phnom Penh.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Cabo Verde",
+        "category": "NEW_TENDER",
+        "summary": "A new solicitation package appeared: SF1449 solicitation with reference 19CV1025Q0001.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Cyprus",
+        "category": "NEW_TENDER",
+        "summary": "Three new tender opportunities appeared for the U.S. Embassy in Cyprus involving supply/installation and construction work.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Brazil 2",
+        "category": "NEW_TENDER",
+        "summary": "Matched priority keyword 'request'. Several new tender/quotation opportunities appeared, including Requests for Quotations for elevator maintenance, fire detection system inspection, and an ATO event.",
+        "reported": false,
+        "dropped_by": "service"
+      },
+      {
+        "site": "Mongolia",
+        "category": "NOISE",
+        "summary": "The diff adds template/boilerplate content with unpopulated placeholders ({title}, {vendor_count}) and navigation-style items ('Manage options', 'Manage services'). No actual tender data is present.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Honduras",
+        "category": "NEW_TENDER",
+        "summary": "Multiple new tenders appeared. Actionable goods tenders include Concrete Materials (Blocks & Pavers) and Brand Name ESPS Filters for Air Handling Units. Several others are excluded as services/packing/SUV/preventive main",
+        "reported": false,
+        "dropped_by": "packing"
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-19T07:31:30.627979Z",
     "findings": 1,
     "new_tender": 1,

@@ -5,9 +5,9 @@
 ---
 
 - Peace Corps/Zambia: Supply, Delivery and Installation of Internet Service Supplied Via Fiber Optic or High-Speed Satellite to Peace Corps Zambia Offices in Lusaka, Kasama, Chipata and Mongu – PDF 256 KB)
+- Supply and deliver 2.5 Tons Double Axel Trailers Fully Assembled (Re-advertisement) – (PDF 149 KB)
 - Preventative Maintenance Services for Chillers – (PDF 867 KB)
 - Preventative Maintenance Services for Fuel Systems – (PDF 864 KB)
-- Supply and deliver 2.5 Tons Double Axel Trailers Fully Assembled – (PDF 153 KB)
 - SAM – Pre Solicitation Notice -19ZA6026R0006 – Water Reticulation & Septic System Rehab ContractData-20260327-113925 – (PDF 152 KB)
 - Pre – Solicitation Notice – RFP – 19ZA6026R0005– Pest Control Services – ContractData-20260327-113935 – (PDF 823 KB)
 - RFP – 19ZA6026R0005 – Pest Control Services – (PDF 152 KB)

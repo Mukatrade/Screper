@@ -10,10 +10,6 @@
 
 ## Economic Opportunity
 
-## US EMBASSY YAOUNDE ONLINE AUCTION
-
-## Economic Opportunity
-
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## American Spaces Programing Grant 2024
+
+## Economic Opportunity
+
+## Request for Information and Expressions of Interest for a situational Analysis in Cameroon
 
 - Manage options
 - Manage services
