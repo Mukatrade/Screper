@@ -1,0 +1,44 @@
+name: Muka Outbox (Drive) Auto-Send
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '*/10 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: muka-outbox-drive
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install --quiet google-api-python-client google-auth
+      - name: Write Gmail token from secret
+        env:
+          GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+        run: |
+          mkdir -p ~/.muka_trade
+          printf '%s' "$GMAIL_TOKEN_JSON" > ~/.muka_trade/gmail_token.json
+      - name: Send pending Drive Outbox jobs
+        run: |
+          if [ -f gh_outbox_from_drive.py ]; then
+            python gh_outbox_from_drive.py --sent-list sent_jobs.txt
+          else
+            python scripts/gh_outbox_from_drive.py --sent-list sent_jobs.txt
+          fi
+      - name: Commit dedupe list
+        run: |
+          git config user.name "muka-send-bot"
+          git config user.email "info@mukatrade.com"
+          git add sent_jobs.txt || true
+          git commit -m "outbox: record sent jobs [skip ci]" || echo "nothing to commit"
+          git push || echo "nothing to push"
