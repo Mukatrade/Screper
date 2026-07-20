@@ -1,2 +1,4 @@
 # Muka Outbox dedupe list. One line per job already sent: <drive_file_id>\t<name>
 # Do not delete lines - removing one would let that job send again.
+1DjUVnqyVYd4bwW0a3uy8wZa2C7odZ4jv	job-berta-audit-2026-07-20.json
+1F6n47fgy1DxWcpiZRLGEM8ahvFJuZ5Ve	job-380-26-pumps-bg-rfq.json
