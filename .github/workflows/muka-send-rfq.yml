@@ -1,0 +1,37 @@
+name: Muka RFQ Auto-Send
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths: [ 'outbox/**' ]
+  schedule:
+    - cron: '*/15 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install --quiet google-api-python-client google-auth
+      - name: Write Gmail token from secret
+        env:
+          GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+        run: |
+          mkdir -p ~/.muka_trade
+          printf '%s' "$GMAIL_TOKEN_JSON" > ~/.muka_trade/gmail_token.json
+      - name: Send pending RFQ jobs
+        run: python scripts/gh_send_rfq.py --outbox outbox --sent sent
+      - name: Commit results
+        run: |
+          git config user.name "muka-send-bot"
+          git config user.email "info@mukatrade.com"
+          git add -A
+          git commit -m "auto-send: processed outbox [skip ci]" || echo "nothing to commit"
+          git push || echo "nothing to push"
