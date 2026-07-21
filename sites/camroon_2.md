@@ -6,10 +6,6 @@
 
 ## Economic Opportunity
 
-## REQUEST FOR QUOTATIONS: Residential generator maintenance expendable
-
-## Economic Opportunity
-
 ## REQUEST FOR QUOTATIONS: Land Cruiser 76 Hardtop 10 seater, 5 door Model: HZJ76L-RKMRSSFX: A3 or Equal
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## American Spaces Programing Grant 2024
+
+## Economic Opportunity
+
+## Request for Information and Expressions of Interest for a situational Analysis in Cameroon
 
 - Manage options
 - Manage services

@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
-## REQUEST FOR QUOTATIONS: Residential generator maintenance expendable
-
 ## REQUEST FOR QUOTATIONS: Land Cruiser 76 Hardtop 10 seater, 5 door Model: HZJ76L-RKMRSSFX: A3 or Equal
 
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
+
+## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
 - Manage options
 - Manage services
