@@ -603,6 +603,17 @@ def main() -> None:
             "updated":    stats["by_category"].get("STATUS_UPDATE", 0),
             "edited":     stats["by_category"].get("CONTENT_EDIT", 0),
             "monitored":  stats.get("total", 0),
+            # Per-finding links so the dashboard can open each result directly.
+            "results": [
+                {
+                    "site":     f["site_name"],
+                    "url":      f["link"],
+                    "category": f["category"],
+                    "summary":  f["summary"],
+                    "refs":     f.get("ref_numbers", []),
+                }
+                for f in findings
+            ],
         })
         runs_path.write_text(_json.dumps(history[:10], indent=2), encoding="utf-8")
         print(f"  → Run history updated ({len(findings)} finding(s)).")
