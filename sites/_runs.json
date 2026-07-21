@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-07-21T19:32:07.900962Z",
+    "findings": 0,
+    "new_tender": 3,
+    "updated": 1,
+    "edited": 1,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-07-21T19:20:33.941944Z",
     "findings": 1,
     "new_tender": 1,
@@ -954,77 +963,6 @@
         "summary": "A new tender for Concrete Materials (Blocks & Pavers) has appeared.",
         "reported": true,
         "dropped_by": null
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-07-15T07:19:00.254407Z",
-    "findings": 1,
-    "new_tender": 1,
-    "updated": 0,
-    "edited": 3,
-    "monitored": 141,
-    "failed": [],
-    "filters": {
-      "include": [
-        "request"
-      ],
-      "exclude": [
-        "auction",
-        "fuel",
-        "insurance",
-        "packing",
-        "preventive maintenance",
-        "rental",
-        "request for information",
-        "service",
-        "services",
-        "social media",
-        "suv"
-      ]
-    },
-    "details": [
-      {
-        "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
-        "category": "CONTENT_EDIT",
-        "summary": "A solicitation amendment entry (Q&A publication) for tender 19SA7026Q0010-0002 was removed from the listing. This is a minor edit removing an amendment referencing services.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY IN COLOMBIA",
-        "category": "NEW_TENDER",
-        "summary": "A new tender for base security construction materials has appeared at the U.S. Embassy in Colombia.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy in Guyana",
-        "category": "NOISE",
-        "summary": "The RFQ title changed to a food and beverage catering services tender, which falls under the ignored 'services' topic.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S EMBASSY IN NIGERIA",
-        "category": "CONTENT_EDIT",
-        "summary": "Claude returned an unparseable response; manual review recommended.",
-        "reported": false,
-        "dropped_by": "preventive maintenance"
-      },
-      {
-        "site": "U.S. Embassy in Oman",
-        "category": "NOISE",
-        "summary": "A new tender for a DLA Vehicle Lease was added, but it is primarily about vehicle rental/lease, which is on the IGNORE list.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY IN THE PHILIPPINES",
-        "category": "CONTENT_EDIT",
-        "summary": "Amendment No. 001 was added to tender 19RP3826Q0080 (Repair by Replacement of Existing Fuel Dispensing System at the Seafront Compound Gas Station), with a new amendment date of 15-July-2026; deadline remains 20-July-202",
-        "reported": false,
-        "dropped_by": "fuel"
       }
     ]
   }
