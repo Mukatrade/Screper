@@ -14,6 +14,19 @@
 
 ## Requests for Quotations
 
+## Rio de Janeiro: Transportation Services for Diplomatic Mail (Proposals accepted until August 3, 2026)
+
+- Standard Form SF-1449
+- Basic information, statement of work, site visit requirements or specifications and technical qualifications.
+- Late quotation rules and evaluation method.
+
+## Rio de Janeiro: Cleaning and Disinfecting Service for Consulate Building – Commercial proposal request (Proposals accepted until August 3, 2026)
+
+- Compliance with the RFQ requirements
+- Competitive pricing
+- Experience and qualifications
+- References and past performance
+
 ## Rio de Janeiro: Elevator Maintenance Contract (Quotations accepted until July 30, 2026)
 
 - Standard Form SF-1449 The Schedule Contract Clauses Solicitation Provisions Evaluation Factors Representations and Certifications

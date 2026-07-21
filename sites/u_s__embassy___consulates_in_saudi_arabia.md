@@ -7,12 +7,27 @@
 ## Current Opportunities
 
 Announcement No. | Date Issued | Due Date | Description of Services/Goods
+19SA7026Q0010 | June 10, 2026 | July 12, 2026 | Demolition and Refurbishment of DOW at the Annex
+19SA7026Q0008 | June 10, 2026 | July 12, 2026 | Electrical Repairs & Upgrades at Annex Freedom Hall
+19SA7026Q0009 | June 10, 2025 | July 12, 2026 | Roof Repairs and Insulation at DOW Annex Offices
+19SA7026Q0014 | June 9, 2026 | July 8, 2026 | The Embassy of the United States of America cordially invites your company to submit a proposal for the procurement of an AWD Automatic Transmission SUV intended for official use at the U.S. Embassy in Riyadh, Saudi Arabia
+19SA7026Q0015 | June 9, 2026 | July 8, 2026 | The Embassy of the United States of America is pleased to invite your company to submit a proposal for the supply of two four-wheel-drive (4WD) SUV vehicles for use at the U.S. Embassy in Riyadh, Saudi Arabia
+19SA7026R0001 | June 9, 2026 | July 19, 2026 | The Embassy of the United States of America would like to invite your company to submit proposal for Landscape Care and Maintenance Service Services at the Embassy of United States of America in Riyadh, Saudi Arabia (PDF)
+19SA7026Q0011 | June 11, 2026 | July 12, 2026 | The Embassy of the United States of America cordially invites your company to submit a proposal for a service of additional electrical power utility to the new office in U.S. Embassy warehouse Annex.
+Request for Information (RFI) | June 21, 2026 | July 6, 2026 | RFI for Blanket Purchase Agreement (BPA) for Cleaning Services (PDF)
+19SA7026Q0011-0001 | | July 19, 2026 | This amendment extends the proposal submission deadline from Sunday, July 12, 2026, to Sunday, July 19, 2026.
+19SA7026Q0010 – 0001 | | July 19, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Sunday, July 19, 2026
+19SA7026Q0008 – 0001 | | July 19, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Sunday, July 19, 2026.
+19SA7026Q0009 – 0001 | | July 19, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Sunday, July 19, 2026.
 Request for Information (RFI) | July 7, 2026 | July 22, 2026 | RFI for Blanket Purchase Agreement (BPA) for Courier and Outbound Pouch Services (PDF)
+19SA7026Q0009-0002 | July 13, 2026 | July 19, 2026 | This solicitation amendment is issued to publish the questions and answers received in response to the solicitation.
+19SA7026Q0011-0002 | | July 19, 2026 | Question and Answer for Solicitation # 19SA7026Q0011-0002
 19SA7026Q0016 | July 14, 2026 | August 12, 2026 | The U.S. Embassy Riyadh would like to invite your company to submit the price quotation for Cook Services to Marine Security Guard (MSG) at the Embassy of the United States of America in Riyadh, Saudi Arabia.
+19SA7026Q0008-0002 | July 14, 2026 | July 19, 2026 | This solicitation amendment is issued to publish the questions and answers received in response to the solicitation.
+19SA7026Q0010-0002 | July 14, 2026 | July 19, 2026 | This solicitation amendment is issued to publish the questions and answers received in response to the solicitation.
 19SA7026R0001-0001 | | August 20, 2026 | The U.S. Embassy Riyadh has issued an amendment extending the proposal deadline for solicitation #19SA7026R0001. Bids are now due by August 20, 2026, at 17:00 (Saudi Arabia time).
 19SA7026Q0009-0003 | July 16, 2026 | July 23, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Thursday, July 23, 2026.
 19SA7026Q0009-0002 | July 19, 2026 | July 23, 2026 | Attachments Notification – This notification serves to inform all offerors that access to the project’s photo and video attachments is currently restricted. To obtain permission to view and download these materials, you are required to submit a formal viewer access request through Gmail platform.
-19SA7026Q0012 | July 20,2026 | August 18, 2026 | The Embassy of the United States of America invites your company to submit a proposal for the replacement of roll-up garage doors at the Government-Owned (GOV) residential housing units in Riyadh, Saudi Arabia.
 
 ## Procurement Resources
 

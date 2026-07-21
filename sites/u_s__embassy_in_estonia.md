@@ -4,16 +4,7 @@
 
 ---
 
-## Local Physician Services at U.S. Embassy Tallinn
-
-- Patient appointments at the U.S. Embassy Compound 4 hours a week.
-- Patient examinations (drivers, medical clearance, etc.)
-- Prescriptions for patients including regular prescriptions and controlled medicine prescriptions.
-- Accept duty calls on the days the Contractor is not at the Embassy compound
-- Liaise with US Embassy Registered nurse, Regional Medical Officer, Regional Medical Officer / Psychiatrist and other personnel from MED regarding patient care, information about local medical services, and assistance with scheduling and coordination of local care and hospital services.
-- Additional services.
-
-## Lodging services in Tallinn, Estonia for June 2026 training event
+## Grounds Maintenance Services at a Newly Obtained Residence
 
 ## Doing Business With the U.S. Embassy Tallinn
 

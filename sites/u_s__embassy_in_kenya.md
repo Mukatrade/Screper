@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## Request for Quotation (RFQ)- 19KE5026Q0073 FALL PROTECTION/ CHAIN LINK INSTALLATIONS FOR LOCHAB COMPOUND
+
+## Request for Proposals
+
 ## Request For Quotation (RFQ)- PR15925011 – i Phone and Apple accessories
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## ADVERTISEMENT FOR ARCHITECT-ENGINEER SERVICES FOR PR16065577 WALL WATERPROOFING & STORM WATER DESIGN – 513 & 514
-
-## Request for Proposals
-
-## Request for Quotation (RFQ)-: 19KE5026Q0066 – MRU-PREVENTIVE MAINTENANCE FOR GENERATOR-EMBAKASI WAREHOUSE
 
 - Manage options
 - Manage services
