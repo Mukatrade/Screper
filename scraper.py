@@ -226,19 +226,13 @@ def build_system_prompt(filters: dict) -> str:
     parts = []
     if inc:
         parts.append(
-            f"PRIORITY keywords (the buyer especially cares about these): {', '.join(inc)}. "
-            f"If the change relates to any of them, always mark it actionable and name the "
-            f"matched keyword at the start of the summary. A change that does NOT match any "
-            f"priority keyword can STILL be actionable - a new tender or a status change on "
-            f"an existing tender is always worth reporting. Priority keywords widen the net; "
-            f"they never narrow it."
+            f"IMPORTANT: Only mark as actionable if the tender title or content relates to "
+            f"at least one of these keywords: {', '.join(inc)}."
         )
     if exc:
         parts.append(
-            f"IGNORE list: mark as NOISE (not actionable) ONLY when the tender is primarily "
-            f"about one of these topics: {', '.join(exc)}. Do not stretch these words - "
-            f"e.g. a goods tender that merely mentions installation service is NOT a "
-            f"'services' tender."
+            f"IMPORTANT: Mark as NOISE (not actionable) if the tender is primarily about: "
+            f"{', '.join(exc)}."
         )
     keyword_instructions = "\n".join(parts) if parts else ""
     return ANALYSIS_SYSTEM_PROMPT_TEMPLATE.format(keyword_instructions=keyword_instructions)
@@ -283,15 +277,26 @@ def analyse_diff(client: Anthropic, site_name: str, diff_text: str, filters: dic
 
     import json
     try:
-        return json.loads(raw)
+        result = json.loads(raw)
     except Exception:
         # Fallback: treat as unparseable but non-noise
-        return {
+        result = {
             "actionable": True,
             "category": "CONTENT_EDIT",
             "summary": "Claude returned an unparseable response; manual review recommended.",
             "details": raw[:500],
         }
+
+    # Extract PR/solicitation numbers directly from added lines in the diff
+    added_lines = "\n".join(
+        line[1:] for line in diff_text.splitlines()
+        if line.startswith("+") and not line.startswith("+++")
+    )
+    ref_nums = re.findall(r'\bPR\d{6,}\b', added_lines)
+    ref_nums += re.findall(r'\b19[A-Z]\d{5}[A-Z]\d{4}\b', added_lines)
+    result["ref_numbers"] = list(dict.fromkeys(ref_nums))  # deduplicated, order preserved
+
+    return result
 
 # ---------------------------------------------------------------------------
 # Helpers: Email
@@ -365,8 +370,10 @@ def build_report(
         lines.append("ACTIONABLE FINDINGS")
         lines.append("-" * 40)
         for i, f in enumerate(findings, 1):
+            refs = f.get("ref_numbers", [])
             lines += [
                 f"{i}. [{f['category']}] {f['site_name']}",
+                f"   Ref #   : {', '.join(refs) if refs else 'n/a'}",
                 f"   URL     : {f['link']}",
                 f"   Summary : {f['summary']}",
                 f"   Details : {f['details']}",
@@ -404,11 +411,23 @@ def build_report(
 
     # Findings table
     if findings:
+        def ref_badges(refs: list) -> str:
+            if not refs:
+                return ""
+            badges = "".join(
+                f'<span style="display:inline-block;background:#fd7e14;color:#fff;'
+                f'font-size:0.78em;font-weight:bold;padding:2px 7px;border-radius:4px;margin:2px 3px 2px 0">'
+                f'{r}</span>'
+                for r in refs
+            )
+            return f'<div style="margin-top:5px">{badges}</div>'
+
         rows = "".join(
             f'<tr style="background:{cat_colors.get(f["category"], "#fff")}">'
             f'<td style="padding:11px 12px;border:1px solid #dee2e6;font-weight:bold">{f["category"]}</td>'
             f'<td style="padding:11px 12px;border:1px solid #dee2e6">'
             f'<div style="font-weight:bold;color:#212529">{f["site_name"]}</div>'
+            f'{ref_badges(f.get("ref_numbers", []))}'
             f'<a href="{f["link"]}" style="display:inline-block;margin-top:4px;color:#0066cc;font-weight:bold;text-decoration:none">🔗 Open tender →</a>'
             f'</td>'
             f'<td style="padding:11px 12px;border:1px solid #dee2e6">{f["summary"]}</td>'
@@ -521,7 +540,6 @@ def main() -> None:
     # 3. Diff against HEAD and analyse
     print("\n--- Diffing & Analysing ---")
     findings: list[dict] = []
-    run_details: list[dict] = []   # every analyzed change, for the dashboard
 
     for target in targets:
         name = target["name"]
@@ -544,44 +562,28 @@ def main() -> None:
 
         stats["by_category"][category] = stats["by_category"].get(category, 0) + 1
 
-        # A NEW_TENDER is never dropped by model judgement alone — only the
-        # explicit ignore list (checked below) may suppress it.
-        if category == "NEW_TENDER" and not analysis.get("actionable"):
-            print("    [GUARD] NEW_TENDER forced to actionable (only the ignore list may drop it)")
-            analysis["actionable"] = True
-
-        summary = analysis.get("summary", "")
-        details = analysis.get("details", "")
-        detail_row = {
-            "site":     name,
-            "category": category,
-            "summary":  summary[:220],
-            "reported": False,
-            "dropped_by": None,
-        }
-
         if analysis.get("actionable"):
-            # HARD exclude — never let a tender through if it contains an
-            # ignore-list word, even if Claude marked it actionable.
+            # HARD exclude — never let a tender through if it contains a
+            # "must NOT contain" word, even if Claude marked it actionable.
+            summary = analysis.get("summary", "")
+            details = analysis.get("details", "")
             haystack = f"{name} {summary} {details}".lower()
             exc = filters.get("exclude", [])
             hit = next((w for w in exc if w and re.search(r"\b" + re.escape(w) + r"\b", haystack)), None)
             if hit:
-                print(f"    [FILTERED] dropped — contains ignore-list word: '{hit}'")
+                print(f"    [FILTERED] dropped — contains excluded word: '{hit}'")
                 stats["noise_sites"].append(name)
-                detail_row["dropped_by"] = hit
             else:
                 findings.append({
-                    "site_name": name,
-                    "link":      target["link"],
-                    "category":  category,
-                    "summary":   summary,
-                    "details":   details,
+                    "site_name":   name,
+                    "link":        target["link"],
+                    "category":    category,
+                    "summary":     summary,
+                    "details":     details,
+                    "ref_numbers": analysis.get("ref_numbers", []),
                 })
-                detail_row["reported"] = True
         else:
             stats["noise_sites"].append(name)
-        run_details.append(detail_row)
 
     # 4. Record this run in a small history file (committed inside sites/ so the
     #    existing workflow commits it; the dashboard reads the last 5 via GitHub).
@@ -601,11 +603,8 @@ def main() -> None:
             "updated":    stats["by_category"].get("STATUS_UPDATE", 0),
             "edited":     stats["by_category"].get("CONTENT_EDIT", 0),
             "monitored":  stats.get("total", 0),
-            "failed":     stats.get("failed_sites", [])[:20],
-            "filters":    {"include": filters.get("include", []), "exclude": filters.get("exclude", [])},
-            "details":    run_details[:40],
         })
-        runs_path.write_text(_json.dumps(history[:30], indent=2), encoding="utf-8")
+        runs_path.write_text(_json.dumps(history[:10], indent=2), encoding="utf-8")
         print(f"  → Run history updated ({len(findings)} finding(s)).")
     except Exception as e:
         print(f"  (run-history write skipped: {e})")
