@@ -6,11 +6,11 @@
 
 ## Economic Opportunity
 
-## REQUEST FOR QUOTATIONS: Land Cruiser 76 Hardtop 10 seater, 5 door Model: HZJ76L-RKMRSSFX: A3 or Equal
+## REQUEST FOR QUOTATIONS: Residential generator maintenance expendable
 
 ## Economic Opportunity
 
-## US EMBASSY YAOUNDE ONLINE AUCTION
+## REQUEST FOR QUOTATIONS: Land Cruiser 76 Hardtop 10 seater, 5 door Model: HZJ76L-RKMRSSFX: A3 or Equal
 
 ## Economic Opportunity
 

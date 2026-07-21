@@ -27,7 +27,6 @@ Request for Information (RFI) | July 7, 2026 | July 22, 2026 | RFI for Blanket P
 19SA7026Q0010-0002 | July 14, 2026 | July 19, 2026 | This solicitation amendment is issued to publish the questions and answers received in response to the solicitation.
 19SA7026R0001-0001 | | August 20, 2026 | The U.S. Embassy Riyadh has issued an amendment extending the proposal deadline for solicitation #19SA7026R0001. Bids are now due by August 20, 2026, at 17:00 (Saudi Arabia time).
 19SA7026Q0009-0003 | July 16, 2026 | July 23, 2026 | The purpose of this solicitation amendment is to extend the proposal due date to Thursday, July 23, 2026.
-19SA7026Q0009-0002 | July 19, 2026 | July 23, 2026 | Attachments Notification – This notification serves to inform all offerors that access to the project’s photo and video attachments is currently restricted. To obtain permission to view and download these materials, you are required to submit a formal viewer access request through Gmail platform.
 
 ## Procurement Resources
 

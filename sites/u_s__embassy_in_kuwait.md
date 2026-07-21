@@ -39,10 +39,9 @@
 - Any questions regarding the RFQ to be submitting electronically to Kuwait_Solicitation@state.gov no later than July 27, 2026, at 10:00 am . No questions will be accepted beyond this date. Please enter the title of your email as “ Questions – RFQ 19KU2026Q0009 – USAGM-Fence Cleaning Services
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by August 5, 2026, at 10:00 am Kuwait local time. No quotes will be accepted after this time. Please enter the title of your email as “Quote – RFQ 19KU2026Q0009 – USAGM-Fence Cleaning Services.
 
-## RFQ: 19KU2026Q0006 – Renovate Embassy Playground
+## Amendment 0001 – RFQ: 19KU2026Q0006 – Renovate Embassy Playground
 
-- Direct any questions regarding this RFQ to Kuwait_Solicitation@state.gov no later than July 16, 2026, at 10:00 am . No questions will be accepted beyond this date. Please enter the title of your email as “Questions – RFQ 19KU2026Q0006 – Renovate Embassy Playground ”
-- Submit your quote electronically by email to Kuwait_Solicitation@state.gov. Quotations are due by July 23, 2026, at 10:00 am Kuwait local time . No quotes will be accepted after this time. Please enter the title of your email as “Quote – RFQ 19KU2026Q0006 – Renovate Embassy Playground . ”
+- The quotation due date is hereby changed from July 23, 2026, at 10:00 a.m. Kuwait local time to July 29, 2026, at 10:00 a.m. Kuwait local time. No quotations will be accepted after this time. Offerors shall continue to submit their quotations by email Please use the following email subject line for quotation submissions:
 
 ## Advertisement for A/E Services – 19KU2026Q0008
 

@@ -25,6 +25,7 @@
 - Request for Quotations – For Garden maintenance services at CGR (Consul General residence) at Plot #254, Road #18, Jubilee Hils, Hyderabad
 - U.S. Government Procurement Opportunity – Request for Quotations – for Packing, Crating, and Transportation Services for General Services Office, U.S. Consulate General Hyderabad
 - Request for Quotations – Building Automation System Preventative Maintenance Service Contract
+- Request for Quotations – Solar Photo Voltaic Systems Preventative Maintenance Service Contract
 
 ## Contract Solicitations – Kolkata
 
