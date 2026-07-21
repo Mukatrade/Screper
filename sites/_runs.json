@@ -1,10 +1,10 @@
 [
   {
-    "ran_at": "2026-07-21T18:42:07.362633Z",
-    "findings": 5,
-    "new_tender": 3,
+    "ran_at": "2026-07-21T18:46:21.633760Z",
+    "findings": 8,
+    "new_tender": 6,
     "updated": 2,
-    "edited": 2,
+    "edited": 1,
     "monitored": 141,
     "failed": [],
     "filters": {
@@ -28,65 +28,86 @@
     },
     "details": [
       {
+        "site": "U.S. Embassy & Consulates in Brazil",
+        "category": "NOISE",
+        "summary": "New listing is primarily about preventive maintenance (CAT generators), which is on the IGNORE list.",
+        "reported": false,
+        "dropped_by": null
+      },
+      {
         "site": "U.S. Embassy & Consulates in India - Mombai",
         "category": "NOISE",
-        "summary": "New entry is a Preventative Maintenance Service Contract, which falls under the IGNORE list (preventive maintenance / services).",
+        "summary": "New tender is primarily a preventive maintenance service contract, which is on the IGNORE list (preventive maintenance / services).",
         "reported": false,
         "dropped_by": null
       },
       {
         "site": "Camroon 2",
         "category": "NEW_TENDER",
-        "summary": "Matched priority keyword 'request'. A new Request for Quotations appeared for residential generator maintenance expendable.",
+        "summary": "Priority keyword 'request' matched. A new request for quotations appeared for residential generator maintenance expendable.",
         "reported": true,
         "dropped_by": null
       },
       {
         "site": "U.S. Embassy & Consulates in Morocco",
         "category": "NEW_TENDER",
-        "summary": "A new tender appeared for the CGR Kitchen Rehabilitation Project (construction/rehabilitation work with bonds and technical specifications). Also, RFQ 19M05526Q00007 for a Sport Utility Vehicle was cancelled, but SUV is ",
+        "summary": "A new tender for the CGR Kitchen Rehabilitation Project appeared, and an existing SUV purchase RFQ was cancelled. Note the SUV items are IGNORE-list topics (suv/sport utility vehicle).",
         "reported": false,
         "dropped_by": "suv"
       },
       {
         "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
-        "category": "CONTENT_EDIT",
-        "summary": "An existing amendment entry (19SA7026Q0009-0002) regarding restricted access to photo/video attachments was removed from the tender listing. This appears to be a superseded clarification notice being cleaned up.",
-        "reported": false,
+        "category": "NEW_TENDER",
+        "summary": "A new tender appeared for the replacement of roll-up garage doors at Government-Owned residential housing units in Riyadh, Saudi Arabia.",
+        "reported": true,
         "dropped_by": null
       },
       {
         "site": "U.S. EMBASSY & CONSULATES IN SOUTH AFRICA",
         "category": "NEW_TENDER",
-        "summary": "A new tender opportunity has appeared: an Expression of Interest for Annex and Utility Building Roof Canopies.",
+        "summary": "A new expression of interest tender has appeared for roof canopies construction work.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. EMBASSY IN COLOMBIA",
+        "category": "NEW_TENDER",
+        "summary": "A new tender for IT equipment has appeared under the INL-RFQ listings.",
         "reported": true,
         "dropped_by": null
       },
       {
         "site": "U.S. Embassy in Djibouti",
         "category": "STATUS_UPDATE",
-        "summary": "The tender for a DCMR pool fence has been removed from the notice listing, indicating it is closed, awarded, or withdrawn.",
+        "summary": "An existing tender for a pool fence has been removed from the listing, indicating it has closed or been withdrawn.",
         "reported": true,
         "dropped_by": null
       },
       {
         "site": "U.S. Embassy in Egypt",
         "category": "CONTENT_EDIT",
-        "summary": "Additional documents and attachments were added to the existing Mansoura New American Space Renovation tender (PR16052416SA), including BOQ, design presentation, time schedule, and query responses.",
+        "summary": "Amendment to existing tender 'New American Space in Mansoura Renovation Project' with additional documents/attachments (estimates, schedules, BOQ, design presentation, queries responses) added to the listing.",
+        "reported": true,
+        "dropped_by": null
+      },
+      {
+        "site": "U.S. Embassy in Ethiopia",
+        "category": "NEW_TENDER",
+        "summary": "A new tender for the supply of electrical items has appeared on the U.S. Embassy in Ethiopia opportunities page.",
         "reported": true,
         "dropped_by": null
       },
       {
         "site": "U.S. EMBASSY IN KUWAIT",
         "category": "STATUS_UPDATE",
-        "summary": "Amendment 0001 to RFQ 19KU2026Q0006 (Renovate Embassy Playground) extends the quotation due date from July 23, 2026 to July 29, 2026.",
+        "summary": "Amendment 0001 issued for RFQ 19KU2026Q0006 \u2013 Renovate Embassy Playground, changing the quotation due date.",
         "reported": true,
         "dropped_by": null
       },
       {
         "site": "U.S. Embassy & Consulates in Brazil 2",
         "category": "NOISE",
-        "summary": "A new tender for 'Facilities Preventive Maintenance CAT Generators' was added, but it is primarily about preventive maintenance, which is on the IGNORE list.",
+        "summary": "New tender added is primarily about preventive maintenance of CAT generators, which falls under the IGNORE list (preventive maintenance).",
         "reported": false,
         "dropped_by": null
       }

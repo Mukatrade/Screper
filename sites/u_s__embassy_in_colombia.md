@@ -66,6 +66,7 @@
 - INL-RFQ  – PR15696202 – MISCELLANEOUS CONSTRUCTION MATERIALS CENOP. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15678835 – WATER PURIF & M1 KIT. Deadline for quotations: July 30, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696200 – BASE SECURITY CONSTRUCTION MATERIAL GOER DICAR. Deadline for quotations: August 6, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15417675 – IT EQUIPMENT FOR ANTIDRUG PROSPECTIVE. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 
