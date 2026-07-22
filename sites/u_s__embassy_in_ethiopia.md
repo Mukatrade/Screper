@@ -6,6 +6,7 @@
 
 ## Open Opportunities
 
+- Invitation to bid for network and related items PR16114894, 2026 (Closes July 31, 2026)
 - Invitation to bid for Electrical items PR16131938 _2026 (Closes July 30, 2026)
 - Online auction advertisement for Furniture and appliances (22-24 of July 2026)
 - Closed bid advertisement for Generator sale (July,24,25,27, 2026)
