@@ -4,12 +4,6 @@
 
 ---
 
-## SOLICITATION OF FACILITY ASSESSMENT SERVICES
-
-- RFQ for Facility Assessment Services 19GH1026Q0024
-- CoverLetter-RFQ 19GH1026Q0024
-- Attachment of the Building Plan
-
 ## LE Staff Solicitation Medical Insurance
 
 - Medical Health Insurance RFQ
