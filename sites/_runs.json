@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-07-22T09:22:19.648927Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-07-22T09:10:25.133814Z",
     "findings": 0,
     "new_tender": 1,
@@ -457,85 +466,6 @@
         "summary": "Multiple new tenders appeared. Actionable goods tenders include Concrete Materials (Blocks & Pavers) and Brand Name ESPS Filters for Air Handling Units. Several others are excluded as services/packing/SUV/preventive main",
         "reported": false,
         "dropped_by": "packing"
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-07-19T07:31:30.627979Z",
-    "findings": 1,
-    "new_tender": 1,
-    "updated": 1,
-    "edited": 1,
-    "monitored": 141,
-    "failed": [],
-    "filters": {
-      "include": [
-        "request"
-      ],
-      "exclude": [
-        "auction",
-        "fuel",
-        "insurance",
-        "land cruiser",
-        "packing",
-        "preventive maintenance",
-        "rental",
-        "request for information",
-        "service",
-        "services",
-        "social media",
-        "suv"
-      ]
-    },
-    "details": [
-      {
-        "site": "U.S. EMBASSY IN GUINEA",
-        "category": "CONTENT_EDIT",
-        "summary": "Claude returned an unparseable response; manual review recommended.",
-        "reported": false,
-        "dropped_by": "services"
-      },
-      {
-        "site": "U.S. Embassy in Haiti 2",
-        "category": "NEW_TENDER",
-        "summary": "New tender appeared for Mohawk Lifts TP-16, 160000 LBS. This is a goods procurement for lift equipment.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy in Cabo Verde",
-        "category": "NOISE",
-        "summary": "Removal of a job opportunities section containing template placeholders and a solicitation package reference; no new tender or status change on an active opportunity.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy in Cyprus",
-        "category": "STATUS_UPDATE",
-        "summary": "Three previously listed tenders were removed from the page (likely closed/expired): intercommunication system, structured cabling, and fence extension.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy & Consulates in Brazil 2",
-        "category": "NOISE",
-        "summary": "All tender listings were removed from the page, leaving no content. The removed items (elevator maintenance, fire detection alarm maintenance services, event celebration) were primarily service/maintenance tenders. No ne",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "Mongolia",
-        "category": "NOISE",
-        "summary": "Removed boilerplate/template placeholder content ('Manage options', '{title}', etc.) with no actual tender information.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy in Honduras",
-        "category": "NOISE",
-        "summary": "All tender listings were removed from the page along with cookie/consent management boilerplate. This is a removal of previously-listed content rather than a new tender or status change.",
-        "reported": false,
-        "dropped_by": null
       }
     ]
   }
