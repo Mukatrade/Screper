@@ -12,6 +12,13 @@
 
 ## Contract Opportunities
 
+## Brasilia: BSB| PSW| IDIQ for Warehouse Support Services (Quotations accepted until August 21, 2026)
+
+#### Related documents:
+
+- RFQ – 19BR2526Q0011
+- Scope of Work – Warehouse Support Services
+
 ## Requests for Quotations
 
 ## Rio de Janeiro: Transportation Services for Diplomatic Mail (Proposals accepted until August 3, 2026)
