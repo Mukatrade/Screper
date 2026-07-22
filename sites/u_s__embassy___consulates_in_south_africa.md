@@ -6,6 +6,7 @@
 
 ## Open for Solicitation
 
+- Expression of interest – PR16072119 – Utility and SCAC Building Paving Project
 - EXPRESSION OF INTEREST – PR16138571: Annex and Utility Building Roof Canopies
 - Expression of interest – Water Tank Integration/Pump Install – 30 Gemsbok str, Koedoespoort, Pretoria, South Africa
 - Expression of interest – PR16122610 – Building Automation System (BAS)
