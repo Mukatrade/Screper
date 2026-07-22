@@ -4,11 +4,11 @@
 
 ---
 
-- Reference Number: PR16067521
-- Date for site visit expression of interest : July 7, 2026
-- Date for Site Visit : July 9, 2026 @08:30 AM
-- Date for questions from site visit : July 10, 2026
-- Date/Deadline for the submission of bids : July 16, 2026 @02:00 PM
+- Reference Number: PR16084666
+- Date for site visit expression of interest: July 24, 2026 @ 11:00am
+- Date for Site Visit : July 28, 2026 @09:30 AM
+- Date for questions from site visit: July 29, 2026
+- Date/Deadline for the submission of bids: August 5, 2026 @02:00 PM
 - Point of Contact: LilongweGSOProcurement@state.gov
 - Manage options
 - Manage services

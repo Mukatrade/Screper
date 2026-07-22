@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-07-22T09:50:53.849328Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-07-22T09:41:55.437041Z",
     "findings": 0,
     "new_tender": 0,
@@ -203,106 +212,6 @@
         "site": "U.S. Embassy & Consulates in Brazil 2",
         "category": "NOISE",
         "summary": "New tender added is primarily about preventive maintenance of CAT generators, which falls under the IGNORE list (preventive maintenance).",
-        "reported": false,
-        "dropped_by": null
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-07-21T07:37:26.128489Z",
-    "findings": 1,
-    "new_tender": 3,
-    "updated": 1,
-    "edited": 1,
-    "monitored": 141,
-    "failed": [],
-    "filters": {
-      "include": [
-        "request"
-      ],
-      "exclude": [
-        "auction",
-        "fuel",
-        "insurance",
-        "land cruiser",
-        "packing",
-        "preventive maintenance",
-        "rental",
-        "request for information",
-        "service",
-        "services",
-        "social media",
-        "suv"
-      ]
-    },
-    "details": [
-      {
-        "site": "U.S. Embassy & Consulates in Brazil",
-        "category": "NOISE",
-        "summary": "Two new tenders appeared but both are primarily service-based (transportation services and cleaning/disinfecting service), which fall on the IGNORE list.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "Camroon",
-        "category": "NEW_TENDER",
-        "summary": "Priority keyword 'request' matched. A new tender appeared: a Request for Quotations for residential generator maintenance expendables. (Note: a catering services request was also removed.)",
-        "reported": false,
-        "dropped_by": "services"
-      },
-      {
-        "site": "Camroon 2",
-        "category": "NOISE",
-        "summary": "A new entry for a US Embassy Yaounde online auction was added, and a 'Request for Information' entry was removed. Both topics fall on the IGNORE list (auction and request for information).",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy & Consulates in Morocco",
-        "category": "NOISE",
-        "summary": "Removed entries include a Sport Utility Vehicle (SUV) purchase and a kitchen rehabilitation project; the remaining changed entry is an SUV purchase which is on the IGNORE list (suv). The only substantive change is a date",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
-        "category": "NEW_TENDER",
-        "summary": "Multiple new tenders appeared. Actionable construction/goods tenders include Demolition & Refurbishment of DOW, Electrical Repairs at Annex Freedom Hall, Roof Repairs & Insulation, and additional electrical power utility",
-        "reported": false,
-        "dropped_by": "services"
-      },
-      {
-        "site": "U.S. Embassy in Egypt",
-        "category": "CONTENT_EDIT",
-        "summary": "An existing tender for the New American Space in Mansoura Renovation Project had its attachment list simplified (removed several design/estimate references), but the tender itself and its closing date are unchanged.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy in Ethiopia",
-        "category": "STATUS_UPDATE",
-        "summary": "An existing tender for electrical items has been removed from the Open Opportunities list, indicating it has closed or been withdrawn.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY IN KENYA",
-        "category": "NEW_TENDER",
-        "summary": "Matched priority keyword 'request'. A new Request for Quotation for fall protection/chain link installations at the Lochab compound has appeared.",
-        "reported": false,
-        "dropped_by": "preventive maintenance"
-      },
-      {
-        "site": "U.S. Embassy in Estonia",
-        "category": "NOISE",
-        "summary": "Removed two service tenders (Local Physician Services and Lodging services) and added a new tender for Grounds Maintenance Services; all involved items are services on the IGNORE list.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy & Consulates in Brazil 2",
-        "category": "NOISE",
-        "summary": "Two new tenders appeared but both are primarily for services (transportation services and cleaning/disinfecting service), which are on the IGNORE list.",
         "reported": false,
         "dropped_by": null
       }
