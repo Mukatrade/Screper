@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## Solicitation PR16125100  – Tuition Fees for four CDC Drivers – AVD Training
-
 ## Solicitation – PR16107655 – Replacement Water Heater/Parts
 
 ## Advertisement – 19N10226Q0024 – Hotel and Lodging Services
+
+## Advertisement – 19N10226R0006 – Translation, production, and broadcast of a weekly Hausa-language radio program
 
 - Manage options
 - Manage services
