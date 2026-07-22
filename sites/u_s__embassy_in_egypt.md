@@ -15,6 +15,9 @@
 - Cairo OCI SUV- Free Zone – PR15949046 Closing Date: July 27 , 2026 – 4:30 PM (Cairo Local Time)
 - Medical and life insurance services – 19EG3026R0001 – SF30 Solicitation mod (QA and due date ext) – Paid Claims 22-23 – Paid Claims 23-24 – Paid Claims 24-25 – Attachment A (QA) Closing Date: August 4 , 2026 – 4:30 PM (Cairo Local Time)
 - Kitchen Exhaust Cleaning – PR16076418YA Closing Date: August 4 , 2026 – 4:30 PM (Cairo Local Time)
+- CAI FAC – ACs R410 – Embassy comp – PR16131960HK Closing Date: July 30 , 2026 – 2:00 PM (Cairo Local Time)
+- CAI FAC: W. FILTER B. DAVID-6000 AND CARTRIDGES REPLACEMENT – PR16118941HK Closing Date: July 30 , 2026 – 2:00 PM (Cairo Local Time)
+- Supply Inverter Ducted Split System For Residential – PR16131635MD Closing Date: August 8 , 2026 – 4:30 PM (Cairo Local Time)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

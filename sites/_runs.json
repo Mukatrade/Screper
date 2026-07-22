@@ -1,5 +1,31 @@
 [
   {
+    "ran_at": "2026-07-22T07:38:17.264211Z",
+    "findings": 2,
+    "new_tender": 1,
+    "updated": 1,
+    "edited": 1,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy Pakistan Seal U.S. EMBASSY & CONSULATES IN PAKISTAN",
+        "url": "https://pk.usembassy.gov/procurement-solicitations-karachi/",
+        "category": "STATUS_UPDATE",
+        "summary": "The tender for Exterior Fa\u00e7ade Repair at US Consulate General Karachi had its proposal submission deadline extended via Amendment 2 from July 27, 2026 to August 7, 2026.",
+        "refs": []
+      },
+      {
+        "site": "U.S. Embassy in Honduras",
+        "url": "https://hn.usembassy.gov/solicitations/",
+        "category": "CONTENT_EDIT",
+        "summary": "The 'More Information' field for an existing concrete materials tender was updated to add a 'Questions and Answers' reference.",
+        "refs": [
+          "19H08026Q0050"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-21T19:32:07.900962Z",
     "findings": 0,
     "new_tender": 3,
@@ -807,161 +833,6 @@
         "category": "NOISE",
         "summary": "API error",
         "reported": false,
-        "dropped_by": null
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-07-16T07:27:40.805061Z",
-    "findings": 10,
-    "new_tender": 12,
-    "updated": 2,
-    "edited": 0,
-    "monitored": 141,
-    "failed": [],
-    "filters": {
-      "include": [
-        "request"
-      ],
-      "exclude": [
-        "auction",
-        "fuel",
-        "insurance",
-        "packing",
-        "preventive maintenance",
-        "rental",
-        "request for information",
-        "service",
-        "services",
-        "social media",
-        "suv"
-      ]
-    },
-    "details": [
-      {
-        "site": "U.S. Embassy & Consulates in Brazil",
-        "category": "NEW_TENDER",
-        "summary": "A new tender for elevator maintenance at the U.S. Consulate in Rio de Janeiro has been published, with quotations accepted until July 29, 2026.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "Camroon",
-        "category": "NEW_TENDER",
-        "summary": "Matched priority keyword 'request'. A new Request for Quotations appeared for a Land Cruiser 76 Hardtop vehicle; an older RFQ for wastewater treatment plant parts was removed.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "Camroon 2",
-        "category": "NEW_TENDER",
-        "summary": "REQUEST matched: A new request for quotations appeared for a Toyota Land Cruiser 76 Hardtop 10-seater vehicle. An older grant listing was removed.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy & Consulates in Morocco",
-        "category": "NOISE",
-        "summary": "Multiple older procurement opportunity listings were removed from the page (fuel services, SUV, cook services, gardening, legal, janitorial, and interpretation services). These are removals of expired listings, and nearl",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy & Consulates in Morocco 3",
-        "category": "NOISE",
-        "summary": "Multiple existing procurement opportunity entries were removed from the listing page; no new tenders or status changes on actionable opportunities. The removed items primarily relate to IGNORE-list topics (fuel, SUV, ser",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY & CONSULATES IN SAUDI ARABIA",
-        "category": "STATUS_UPDATE",
-        "summary": "Multiple amendments to existing solicitations, including deadline extensions and Q&A publications.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY & CONSULATES IN SOUTH AFRICA",
-        "category": "NEW_TENDER",
-        "summary": "Two new tenders appeared: a Water Tank Integration/Pump Install project and a Building Automation System (BAS) solicitation.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY IN SALVADOR",
-        "category": "NEW_TENDER",
-        "summary": "PRIORITY keyword 'request': A new tender (Request for Quotations) appeared for supply, installation, maintenance, configuration and deinstallation of PARADOX alarm systems in San Salvador and Antiguo Cuscatlan.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY IN ESWATINI",
-        "category": "NOISE",
-        "summary": "New RFQ added for Kitchen Hood Cleaning Service, but this is primarily a services tender (cleaning service) on the IGNORE list.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy in Guyana",
-        "category": "NEW_TENDER",
-        "summary": "Matched priority keyword 'request'. A new RFQ appeared for Rehabilitation of Utility Room, replacing the previous food and beverage catering RFQ.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. EMBASSY IN KENYA",
-        "category": "NEW_TENDER",
-        "summary": "request: New tender added \u2014 REQUEST FOR QUOTATION (RFQ) PR15925011 for DHS/ICE/HSI TCIU Nairobi iPhone and Apple accessories (goods procurement).",
-        "reported": false,
-        "dropped_by": "insurance"
-      },
-      {
-        "site": "U.S EMBASSY IN NIGERIA",
-        "category": "NEW_TENDER",
-        "summary": "Two new tender advertisements appeared: a Hotel and Lodging Services notice and a Hausa-language radio program translation/production/broadcast notice. (Previously listed generator preventive maintenance and renovation/e",
-        "reported": false,
-        "dropped_by": "preventive maintenance"
-      },
-      {
-        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
-        "category": "NEW_TENDER",
-        "summary": "A new tender appeared for air conditioning units (PR16113521). Another new listing PR16116808 for vehicle rentals is NOISE (rental topic). One older lodging/conference listing was removed.",
-        "reported": false,
-        "dropped_by": "rental"
-      },
-      {
-        "site": "U.S. Embassy Pakistan Seal U.S. EMBASSY & CONSULATES IN PAKISTAN",
-        "category": "NOISE",
-        "summary": "Tender 19PK4026Q5012 was cancelled, but it is primarily a preventive maintenance services tender, which is on the IGNORE list.",
-        "reported": false,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S Embassy in Mexico 3",
-        "category": "NEW_TENDER",
-        "summary": "A new contract opportunity 'SOW Forklift' has appeared in the contract opportunities list.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy & Consulates in Riyadh",
-        "category": "STATUS_UPDATE",
-        "summary": "Two solicitation amendments extend proposal deadlines for existing tenders at the U.S. Embassy Riyadh.",
-        "reported": true,
-        "dropped_by": null
-      },
-      {
-        "site": "U.S. Embassy & Consulates in Brazil 2",
-        "category": "NEW_TENDER",
-        "summary": "New tender for elevator maintenance in Rio de Janeiro has appeared. Note: this is primarily a maintenance/service contract which may fall under the IGNORE list, but as a brand-new tender it is reported.",
-        "reported": false,
-        "dropped_by": "service"
-      },
-      {
-        "site": "U.S. Embassy in Honduras",
-        "category": "NEW_TENDER",
-        "summary": "A new tender for Concrete Materials (Blocks & Pavers) has appeared.",
-        "reported": true,
         "dropped_by": null
       }
     ]
