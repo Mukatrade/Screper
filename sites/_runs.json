@@ -1,5 +1,22 @@
 [
   {
+    "ran_at": "2026-07-22T15:25:34.587387Z",
+    "findings": 1,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 1,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. EMBASSY IN KUWAIT",
+        "url": "https://kw.usembassy.gov/contract-solicitations/",
+        "category": "CONTENT_EDIT",
+        "summary": "The amendment for RFQ 19KU2026Q0006 (Renovate Embassy Playground) was updated from Amendment 0001 to Amendment 0002, adding a Questions and Answers enclosure and clarifying the electronic submission process.",
+        "refs": []
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-22T14:42:13.037143Z",
     "findings": 0,
     "new_tender": 0,
@@ -102,14 +119,6 @@
     "new_tender": 1,
     "updated": 2,
     "edited": 1,
-    "monitored": 141
-  },
-  {
-    "ran_at": "2026-07-21T18:57:51.797721Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
     "monitored": 141
   }
 ]
