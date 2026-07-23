@@ -6,15 +6,16 @@
 
 ## Contract Solicitations – New Delhi
 
-- Solicitation for Supply of SUV (Euro/BS-6, RHD) at U.S. Embassy New Delhi
-- Solicitation to Provide Services for installation of Elastomeric Coating on CMR Roof at U. S. Embassy New Delhi
-- Solicitation to Provide Waterproofing Services for Office Spaces Roof at U.S. Embassy, New Delhi
-- Solicitation to Provide Services for Overhang Repairs of Annex Building at U.S. Embassy, New Delhi
-- Solicitation-191N6526Q0068 to Fabricate & Install SS Safety Guard Railing at U.S Embassy Enclave Apartments, New Delhi
+- Solicitation for Supply of SUV (Euro/BS-6, RHD) at the U.S. Embassy New Delhi
+- Solicitation to Provide Services for installation of Elastomeric Coating on CMR Roof at the U. S. Embassy New Delhi
+- Solicitation to Provide Waterproofing Services for Office Spaces Roof at the U.S. Embassy, New Delhi
+- Solicitation to Provide Services for Overhang Repairs of Annex Building at the U.S. Embassy, New Delhi
+- Solicitation-191N6526Q0068 to Fabricate & Install SS Safety Guard Railing at the U.S Embassy Enclave Apartments, New Delhi
 - Solicitation 191N6526Q0076 to Provide Waterproofing Services and Replacement of Swimming Pool Tiles
-- Solicitation-191N6526Q0079 for “Supplying, Commissioning and Installation for One-to-One Replacement of Data Center In-Row Cooling System” at American Center Building, 24-KG Marg, Connaught Place, New Delhi
+- Solicitation-191N6526Q0079 for “Supplying, Commissioning and Installation for One-to-One Replacement of Data Center In-Row Cooling System” at the American Center Building, 24-KG Marg, Connaught Place, New Delhi
 - Solicitation for the Supply of Brand-new Passenger Vans, make Force Urbania or equivalent to the U.S. Embassy, New Delhi
-- Solicitation to Provide Services to Replace Waterproofing at American Center Building Roof
+- Solicitation to Provide Services to Replace Waterproofing at the American Center Building Roof
+- Solicitation to Provide Hindi and Urdu Language Classes at the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 

@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-07-23T07:36:49.196954Z",
+    "findings": 0,
+    "new_tender": 2,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-07-22T17:03:50.072742Z",
     "findings": 0,
     "new_tender": 0,
@@ -93,32 +102,6 @@
         "category": "STATUS_UPDATE",
         "summary": "Two amendments were added for solicitation 19SA7026Q0009, one extending the proposal due date and another publishing questions and answers.",
         "refs": []
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-07-22T07:38:17.264211Z",
-    "findings": 2,
-    "new_tender": 1,
-    "updated": 1,
-    "edited": 1,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S. Embassy Pakistan Seal U.S. EMBASSY & CONSULATES IN PAKISTAN",
-        "url": "https://pk.usembassy.gov/procurement-solicitations-karachi/",
-        "category": "STATUS_UPDATE",
-        "summary": "The tender for Exterior Fa\u00e7ade Repair at US Consulate General Karachi had its proposal submission deadline extended via Amendment 2 from July 27, 2026 to August 7, 2026.",
-        "refs": []
-      },
-      {
-        "site": "U.S. Embassy in Honduras",
-        "url": "https://hn.usembassy.gov/solicitations/",
-        "category": "CONTENT_EDIT",
-        "summary": "The 'More Information' field for an existing concrete materials tender was updated to add a 'Questions and Answers' reference.",
-        "refs": [
-          "19H08026Q0050"
-        ]
       }
     ]
   }
