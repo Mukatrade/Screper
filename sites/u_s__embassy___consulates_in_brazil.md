@@ -10,6 +10,11 @@
 
 ## Purchase Orders
 
+## Recife: Key System for US Consulate Recife (Quotations accepted until August 7, 2026)
+
+- Quotations must be submitted no later than August 7, by 4:00 PM (Brasília time).
+- Oral quotations will not be accepted.
+
 ## Contract Opportunities
 
 ## Brasilia: BSB| PSW| IDIQ for Warehouse Support Services (Quotations accepted until August 21, 2026)
@@ -20,6 +25,8 @@
 - Scope of Work – Warehouse Support Services
 
 ## Requests for Quotations
+
+## Recife: Revitalization and re qualification of the outdoor area of the cafeteria and bathrooms (Quotations accepted until August 14, 2026)
 
 ## Rio de Janeiro: Transportation Services for Diplomatic Mail (Proposals accepted until August 3, 2026)
 

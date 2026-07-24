@@ -8,6 +8,13 @@
 
 ## Request for Quotations
 
+- RFQ PR#16151011
+- Scope of Work
+- RFQ PR#16150754
+- Scope of Work
+- Pre-Solicitation Notice-PR16144204
+- SOW-A&E Design and Permitting Services Arnona Allenby Project
+- Attachment B-Form SF-330
 - RFQ PR # 16135183
 - RFQ PR# 16107713
 - Scope of work

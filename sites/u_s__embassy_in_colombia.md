@@ -32,6 +32,8 @@
 - The U.S. Embassy in Bogota has a requirement for Boundary, topographic and utility (BTU) location survey according to the specifications on the attachment .  Deadline to submit offers:  June 5, 2026.
 - The US Embassy in Bogota has a requirement for inner Road Signs & Support Elements.  Please see the attachment for detailed information. [ Local Ad ] [ NDAA ]
 - The US Embassy has a requirement for iPhone supply.  The complete information about this competed action can be found in the attachments. [ Local Ad ] [ NDAA ] [ Contract Data ]
+- The US Embassy in Bogota has a requirement for promotional products, if interested see the complete information in the attachments. [ Local Ad ] [ Express NDAA Certification ]
+- The US Embassy in Bogota ha a requirement for cleaning services for Cartagena building offices, please review the attachments for complete information. [ Local Ad ] [ Express NDAA Certification ]
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
@@ -69,6 +71,7 @@
 - INL-RFQ PR15417675 – IT EQUIPMENT FOR ANTIDRUG PROSPECTIVE. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16123739 – TACTICAL JACKET / TACTICAL DUTY GARMENT. Deadline for quotations: July 31, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ  – PR16120075 – CAMERAS & GPS  – BOG. Deadline for quotations: August 3, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ  – PR16139162 – AUTODESK LICENSING RENEWAL 2026. Deadline for quotations: July 28, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 

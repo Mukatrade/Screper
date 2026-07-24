@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
+TEGUC26002 | Solicitation | Customs Broker Tender of Service (TOS ) (PDF 494KB) | Rates Sheet TOS Customs Broker Services 2026 | August 14, 2026
 19H08026Q0050 | Solicitation | Concrete Materials (Blocks & Pavers) | Questions and Answers | July 27, 2026
 19H08026Q0053 | Solicitations | Purchase of Brand Name ESPS Filters for Air Handling Units | | July 17, 2026
 TEGUC26001 | Solicitations | Tender of Service for Packing and Crating [HHE, POV, GOV, UAB] | Rates Sheet Packing & Crating | August 7,2026

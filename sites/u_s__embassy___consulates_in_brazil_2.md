@@ -26,6 +26,8 @@
 
 ## Requests for Quotations
 
+## Recife: Revitalization and re qualification of the outdoor area of the cafeteria and bathrooms (Quotations accepted until August 14, 2026)
+
 ## Rio de Janeiro: Transportation Services for Diplomatic Mail (Proposals accepted until August 3, 2026)
 
 - Standard Form SF-1449
