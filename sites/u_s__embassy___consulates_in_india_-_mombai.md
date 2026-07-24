@@ -16,8 +16,6 @@
 - Solicitation for the Supply of Brand-new Passenger Vans, make Force Urbania or equivalent to the U.S. Embassy, New Delhi
 - Solicitation to Provide Services to Replace Waterproofing at the American Center Building Roof
 - Solicitation to Provide Hindi and Urdu Language Classes at the U.S. Embassy, New Delhi
-- Solicitation for Chilled and Hot Water Piping Interconnection Work at the U.S. Embassy, New Delhi
-- Solicitation to provide HVAC and Electrical Power Generation and Transmission Training at the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 
@@ -36,7 +34,8 @@
 
 ## Contract Solicitations – Mumbai
 
-- SOLICITATION – Request for quotation – PR16154876
+- SOLICITATION – PR15951669 and 15951692 – Quotations (RFQ) for Petrol SUV
+- SOLICITATION – PR16041527 – Supply and installation of a Power Ventilator (Smoke Purge Fan)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
