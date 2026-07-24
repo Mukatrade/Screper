@@ -4,6 +4,8 @@
 
 ---
 
+- RFQ – 19ZA6026Q0007 – Solar Photovoltaic Electricity Generation Systems – (PDF 550 KB)
+- Pre-Solicitation Notice – 19ZA6026Q0007 – Solar Photovoltaic Electricity Generation Systems – (PDF 154 KB)
 - Peace Corps/Zambia: Supply, Delivery and Installation of Internet Service Supplied Via Fiber Optic or High-Speed Satellite to Peace Corps Zambia Offices in Lusaka, Kasama, Chipata and Mongu – PDF 256 KB)
 - Supply and deliver 2.5 Tons Double Axel Trailers Fully Assembled (Re-advertisement) – (PDF 149 KB)
 - Preventative Maintenance Services for Chillers – (PDF 867 KB)
