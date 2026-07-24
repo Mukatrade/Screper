@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotes – PR16103545 – 2hp Air Conditioners for Fap Residential Use – Indoor And Outdoor
+
 ## Solicitation PR16125100  – Tuition Fees for four CDC Drivers – AVD Training
 
 ## Solicitation – PR16107655 – Replacement Water Heater/Parts
-
-## Advertisement – 19N10226Q0024 – Hotel and Lodging Services
 
 - Manage options
 - Manage services
