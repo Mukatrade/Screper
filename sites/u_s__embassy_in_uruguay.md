@@ -10,7 +10,11 @@
 
 ## Open Calls
 
-##### Procurement and Contracting Section, invites qualified, reliable, responsible, and responsive companies to submit quotations for Consular Audiovisual (AV) System (Intercom, Paging, & Displays) located at the U.S. Embassy in Montevideo, Uruguay.
+##### Event management service for 4 half day each conference event service, between the period from October 2026 to September 2027.
+
+##### ___
+
+##### Consular Audiovisual (AV) System (Intercom, Paging, & Displays) located at the U.S. Embassy in Montevideo, Uruguay.
 
 - Manage options
 - Manage services

@@ -1,5 +1,45 @@
 [
   {
+    "ran_at": "2026-07-26T07:39:56.739560Z",
+    "findings": 4,
+    "new_tender": 8,
+    "updated": 0,
+    "edited": 2,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy & Consulates in Brazil",
+        "url": "https://br.usembassy.gov/procurement-and-contract-opportunities/#purchase",
+        "category": "NEW_TENDER",
+        "summary": "Two new tender opportunities related to Requests for Quotations appeared for US Consulate Recife: office/storage remodeling and cafeteria/bathroom revitalization. A key system purchase order was also added.",
+        "refs": []
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Indonesia",
+        "url": "https://id.usembassy.gov/invitation-for-bidding-jakarta/",
+        "category": "NEW_TENDER",
+        "summary": "A new Request for Quotations for an air cleaner appeared, while several older RFQs were removed from the listing.",
+        "refs": [
+          "PR16114789"
+        ]
+      },
+      {
+        "site": "U.S. Embassy in Israel",
+        "url": "https://il.usembassy.gov/contract-solicitations/",
+        "category": "NEW_TENDER",
+        "summary": "A new Request for Quotations was added to the U.S. Embassy in Israel procurement page.",
+        "refs": []
+      },
+      {
+        "site": "U.S. Embassy & Consulates in Cambodia",
+        "url": "https://kh.usembassy.gov/business-opportunities/",
+        "category": "NEW_TENDER",
+        "summary": "A new tender for the supply of appliances for the U.S. Embassy Phnom Penh was published.",
+        "refs": []
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-25T07:27:35.591680Z",
     "findings": 0,
     "new_tender": 0,
@@ -81,15 +121,6 @@
   },
   {
     "ran_at": "2026-07-23T10:21:04.806914Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-07-23T09:12:47.199240Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,
