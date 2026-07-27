@@ -7,3 +7,4 @@
 1CAhS3mu5hQ2TdqWMHUebnLEP62hdsf9K	job-berta-audit-2026-07-23.json
 1tXFVrHcz6zsdTw_13xzOe0yPzlFjKpyS	job-berta-audit-2026-07-24.json
 1fXz-Vt0RO9ZQBwKaTGCuPbaNjTAtpdH3	job-berta-audit-2026-07-26.json
+1fRpM4rTangEN4LlTUJ5Zx4G5cQD9qP85	job-berta-audit-2026-07-27.json
