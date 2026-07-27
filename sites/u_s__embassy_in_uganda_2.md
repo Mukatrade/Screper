@@ -9,6 +9,7 @@
 
 ## Current Procurement and Grants Opportunities
 
+- 19UG5026Q0016 | Fire Suppression System Preventive Maintenance – Chancery Cafeteria | Site Visit Date: July 30, 2026 at 03:00pm local time | Closing Date: August 10, 2026 at 12:00pm, local time
 - 19UG5026Q0015 | Solar Photovoltaic System Preventive Maintenance Services | Pre-proposal conference July 8, 2026 at 1600hrs | Closing Date: July 14, 2026, at 17:00pm Local time .
 - 19UG5026Q0009 | Cleaning a Raw Water Tank at the SPX building | Closing Date: July 20, 2026 at 10:00am local time
 - PR16041550 | Supply of Vehicles | Closing Date: June 18, 2026, at 12:00pm Local time .

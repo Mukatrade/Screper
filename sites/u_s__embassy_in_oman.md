@@ -7,6 +7,7 @@
 ## Solicitation Announcements
 
 Solicitation (RFQ) No. | Title | Posting Date | Bid submission due date | More Information
+PR16122640 | ECA Vehicle Lease 26-27 | July 27, 2026 | August 9, 2026 before 2:00 pm | Solicitation Package
 PR16124281 | DLA Vehicle Lease FY26 | July 13, 2026 | July 27, 2026, before 2:00 pm | Solicitation Package
 19MU3026Q0014 | Diplomatic Pouch Services | July 2, 2026 | August 6, 2026, before 2:00 PM | Solicitation Package
 PR16045169 | 4WD SUV for Operational Fleet Support | June 23, 2026 | July 07, 2026, before 2:00 PM | Solicitation Package

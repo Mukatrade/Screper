@@ -17,6 +17,9 @@
 - Kitchen Exhaust Cleaning – PR16076418YA Closing Date: August 4 , 2026 – 4:30 PM (Cairo Local Time)
 - Supply Inverter Ducted Split System For Residential – PR16131635MD Closing Date: August 8 , 2026 – 4:30 PM (Cairo Local Time)
 - CAI – PDS/ACC: Agentic AI Bootcamp – PR16083693HK – SOW Closing Date: August 8 , 2026 – 4:30 PM (Cairo Local Time)
+- Cairo ICASS/FAC Toyota Hil – PR16138769HK Closing Date: August 9 , 2026 – 2:00 PM (Cairo Local Time)
+- Cairo ICASS MP Suburban 6 – PR16142153HK Closing Date: August 9 , 2026 – 2:00 PM (Cairo Local Time)
+- CAIRO/ICASS, TOYOTA HIACE SPM – PR16139027HK Closing Date: August 9 , 2026 – 2:00 PM (Cairo Local Time)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
