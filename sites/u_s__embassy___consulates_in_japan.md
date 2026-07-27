@@ -5,6 +5,9 @@
 ---
 
 Description of Services/Supplies: | Issued: | Site Visit: | Quotations/Proposals Due By: (JST)
+Staff Room Restoration Services for the U.S. Consulate General Sapporo Pre-solicitation Notice (July 27) | To be announced | To be announced | To be announced
+Studio Set Renovation Services for Public Affairs Section Pre-solicitation Notice (July 27) | To be announced | To be announced | To be announced
+Building Maintenance Services for JLTC in Yokohama Pre-solicitation Notice (July 24) | To be announced | To be announced | To be announced
 Sliding Gate Safety Deficiencies Remediation (Naha) Pre-solicitation Notice (April 30) RFQ 19JA5126Q0367 (July 16) | July 16 | Aug. 3 at 2 p.m. | Aug. 27 by 11 a.m.
 The Freedom 250 – Taste of America Nationwide Campaign Pre-solicitation Notice (July 9) | To be announced | To be announced | To be announced
 Residential Water Pump Replacement at U.S. Consulate in Fukuoka Pre-solicitation Notice (June 18) RFQ 19JA2526Q0009 (July 7) | July 7 | July 21 at 10 a.m. | Aug. 11 by 12 noon
