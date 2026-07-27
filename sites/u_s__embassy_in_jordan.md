@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0015/ Providing Vehicle Rental Services
+
+## Economic Opportunity
+
 ## Request for Quotations number 19J01026Q0014/ Providing Public Opinion Research Surveys/Amendment No. 0001
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Proposals number 19J01026R0003 – Supply and Deliver – High-Grade Gasoline Octane 95/Amendment 0002
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0004/ Welcome Kit delivery Services to US Embassy Residences/ Amendment No. P00001
 
 - Manage options
 - Manage services

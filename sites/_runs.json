@@ -1,5 +1,22 @@
 [
   {
+    "ran_at": "2026-07-27T18:13:43.548671Z",
+    "findings": 1,
+    "new_tender": 1,
+    "updated": 1,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy in Israel",
+        "url": "https://il.usembassy.gov/contract-solicitations/",
+        "category": "NEW_TENDER",
+        "summary": "A new Request for Quotations was added under the Request for Quotations section.",
+        "refs": []
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-27T18:06:14.003531Z",
     "findings": 0,
     "new_tender": 1,
@@ -110,22 +127,5 @@
     "edited": 0,
     "monitored": 141,
     "results": []
-  },
-  {
-    "ran_at": "2026-07-23T13:49:43.690870Z",
-    "findings": 1,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 1,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S. Embassy & Consulates in Brazil 2",
-        "url": "https://br.usembassy.gov/procurement-and-contract-opportunities/",
-        "category": "CONTENT_EDIT",
-        "summary": "Claude returned an unparseable response; manual review recommended.",
-        "refs": []
-      }
-    ]
   }
 ]

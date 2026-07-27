@@ -8,6 +8,9 @@
 
 ## Request for Quotations
 
+- RFQ PR#16081031
+- Scope of Work
+- Photos of the BAS
 - RFQ PR#16151011
 - Scope of Work
 - RFQ PR#16150754
