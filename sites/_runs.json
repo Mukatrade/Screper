@@ -1,5 +1,24 @@
 [
   {
+    "ran_at": "2026-07-28T07:41:37.834754Z",
+    "findings": 1,
+    "new_tender": 1,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy & Consulates in Indonesia",
+        "url": "https://id.usembassy.gov/invitation-for-bidding-jakarta/",
+        "category": "NEW_TENDER",
+        "summary": "A new Request for Quotations for an ASEAN Cilegon event was added to the tender listings.",
+        "refs": [
+          "PR16133844"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-07-27T18:13:43.548671Z",
     "findings": 1,
     "new_tender": 1,
@@ -112,15 +131,6 @@
   },
   {
     "ran_at": "2026-07-24T10:59:02.557411Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-07-24T07:42:31.161156Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,

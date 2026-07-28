@@ -34,11 +34,10 @@
 
 # Award Notice – 19KU2025C0013 – Renovate Embassy Playground
 
-## Amendment 0001 " for RFQ : 19KU2026Q0009 – USAGM-Fence Cleaning Services
+## Amendment 0002 : RFQ : 19KU2026Q0009 – USAGM-Fence Cleaning Services
 
-# Amendment 0001
+# Amendment 0002
 
-- Any questions regarding the RFQ to be submitting electronically to Kuwait_Solicitation@state.gov no later than July 27, 2026, at 10:00 am . No questions will be accepted beyond this date. Please enter the title of your email as “ Questions – RFQ 19KU2026Q0009 – USAGM-Fence Cleaning Services
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by August 5, 2026, at 10:00 am Kuwait local time. No quotes will be accepted after this time. Please enter the title of your email as “Quote – RFQ 19KU2026Q0009 – USAGM-Fence Cleaning Services
 
 ## Amendment 0002- Enclosure A: Questions and Answers RFQ -19KU2026Q0006 – Renovate Embassy Playground

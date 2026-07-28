@@ -74,6 +74,7 @@
 - INL-RFQ  – PR16139162 – AUTODESK LICENSING RENEWAL 2026. Deadline for quotations: July 28, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16111851 – DIGITAL EXTRACTION EQUIPMENT. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15775985 – BASE TRANSCEIVER STATION – BTS. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR16105152 –  3D printers and supplies. Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 
