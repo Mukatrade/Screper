@@ -8,6 +8,7 @@
 
 ## SOLICITATION NOTICES
 
+- Jefferson Center Mandalay Services (PDF 898KB)
 - CMR Asbestos Ceiling Replacement (PDF 2MB)
 - Manage options
 - Manage services
