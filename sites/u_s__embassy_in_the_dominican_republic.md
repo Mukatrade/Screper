@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## PR16140034 – Communications Radios and Accessories for LGF
+
+## Economic Opportunity
+
 ## (RFQ) PR16149495 – DHS/ICE – TCIU Cleaning Services – Main Office
 
 ## Economic Opportunity
@@ -15,10 +19,6 @@
 ## Economic Opportunity
 
 ## PR16116808 – DHS/ICE – TCIU Vehicle Rentals 2026 – 2027
-
-## Economic Opportunity
-
-## (RFQ) PR16116993 – DEA – Ballistic Vests
 
 ## Economic Opportunity
 

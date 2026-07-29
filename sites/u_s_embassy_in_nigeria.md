@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## Request for Quotes – PR16103545 – 2hp Air Conditioners for Fap Residential Use – Indoor And Outdoor
+## Advertisement: PR16137856 – Rental of a 375KVA Generator for Aspen
 
-## Solicitation PR16125100  – Tuition Fees for four CDC Drivers – AVD Training
+## Solicitation: PR16110030 – All-in-One Desktop Computers
 
-## Advertisement – 19N10226Q0024 – Hotel and Lodging Services
+## AUGUST 2026 SEALED BID SALES ARTICLE ABUJA
 
 - Manage options
 - Manage services

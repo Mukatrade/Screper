@@ -34,7 +34,7 @@
 
 # Award Notice – 19KU2025C0013 – Renovate Embassy Playground
 
-## Amendment 0002 : for RFQ : 19KU2026Q0009 – USAGM-Fence Cleaning Services
+## Amendment 0002 : RFQ : 19KU2026Q0009 – USAGM-Fence Cleaning Services
 
 # Amendment 0002
 

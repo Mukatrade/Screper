@@ -8,6 +8,8 @@
 
 ## Request for Quotation (RFQ)
 
+- RFP – Workmen’s Compensation Insurance to Local Employed Staff Members – 19WZ6026Q0010 (PDF 99KB) Workmen’s Compensation Insurance – 19WZ6026Q0010 (PDF 1MB)
+- Workmen’s Compensation Insurance – 19WZ6026Q0010 (PDF 1MB)
 - RFQ – Customized Panel Van (PDF 104KB)
 - RFQ – Kitchen Hood Cleaning Service – 19WZ6026Q0011 (PDF 119KB) Kitchen Hood Cleaning Service (PDF 2 MB) SF1449_Kitchen Hood Cleaning Service (PDF 144KB)
 - Kitchen Hood Cleaning Service (PDF 2 MB)

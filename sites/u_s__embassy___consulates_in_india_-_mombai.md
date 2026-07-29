@@ -19,6 +19,7 @@
 - Solicitation for Chilled and Hot Water Piping Interconnection Work at the U.S. Embassy, New Delhi
 - Solicitation to provide HVAC and Electrical Power Generation and Transmission Training at the U.S. Embassy, New Delhi
 - Solicitation to provide renovation services for converting the existing bathhouse into a toilet facility at the U.S. Embassy, New Delhi
+- Solicitation to Supply True HEPA Particle Filter (Set of 3) for 500/600 Series of Blueair Purifier, Model-503, BLF-500PA” to the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 

@@ -6,7 +6,7 @@
 
 ## Economic Opportunity
 
-## REQUEST FOR QUOTATIONS: Elevator PMSC
+## REQUEST FOR QUOTATIONS: Fuel truck for the US Embassy Yaoundé
 
 ## Economic Opportunity
 
