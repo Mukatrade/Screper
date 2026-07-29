@@ -6,10 +6,6 @@
 
 ## Request for Proposals
 
-## REQUEST FOR QUOTATIONS NUMBER 19KE5026Q0078 – MAKE READY CLEANING SERVICES FOR USG RESIDENTIAL PROPERTIES
-
-## Request for Proposals
-
 ## Request for Quotation (RFQ)- 19KE5026Q0073 FALL PROTECTION/ CHAIN LINK INSTALLATIONS FOR LOCHAB COMPOUND
 
 ## Request for Proposals
@@ -39,6 +35,10 @@
 ## Request for Proposals
 
 ## Request for Quotation PR15983617 – MRU-VMWARE Renewal and Support
+
+## Request for Proposals
+
+## ADVERTISEMENT FOR ARCHITECT-ENGINEER SERVICES FOR PR16065577 WALL WATERPROOFING & STORM WATER DESIGN – 513 & 514
 
 - Manage options
 - Manage services
