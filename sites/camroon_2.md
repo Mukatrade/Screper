@@ -6,10 +6,6 @@
 
 ## Economic Opportunity
 
-## REQUEST FOR QUOTATIONS: Fuel truck for the US Embassy Yaoundé
-
-## Economic Opportunity
-
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## Request for Information and Expressions of Interest for a situational Analysis in Cameroon
+
+## Economic Opportunity
+
+## 2024-2026 English Access Microscholarship Program
 
 - Manage options
 - Manage services

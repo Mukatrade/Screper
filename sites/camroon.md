@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
-## REQUEST FOR QUOTATIONS: Fuel truck for the US Embassy Yaoundé
-
 ## REQUEST FOR QUOTATIONS: Elevator PMSC
 
 ## Request for Service: Catering services during U.S. Embassy Independence Day Event
+
+## Alumni Engagement Innovation Fund (AEIF) 2026
 
 - Manage options
 - Manage services
