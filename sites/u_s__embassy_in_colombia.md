@@ -34,7 +34,6 @@
 - The US Embassy has a requirement for iPhone supply.  The complete information about this competed action can be found in the attachments. [ Local Ad ] [ NDAA ] [ Contract Data ]
 - The US Embassy in Bogota has a requirement for promotional products, if interested see the complete information in the attachments. [ Local Ad ] [ Express NDAA Certification ]
 - The US Embassy in Bogota ha a requirement for cleaning services for Cartagena building offices, please review the attachments for complete information. [ Local Ad ] [ Express NDAA Certification ]
-- The US Embassy in Bogota has a requirement for a utility vehicle.  Please review the attachment to see the complete information. [ Local Ad ] [ Express NDAA Certification ]
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
@@ -76,8 +75,6 @@
 - INL-RFQ PR16111851 – DIGITAL EXTRACTION EQUIPMENT. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15775985 – BASE TRANSCEIVER STATION – BTS. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16105152 –  3D printers and supplies. Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15841878 – 45/2330/45/2330/40FT CONTAINER ACCESSORIES FOR MILITARY CAMP. Deadline for quotations: August 19, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR16101436 – EXPLOITATION LABORATORY TOOLS. Deadline for quotations: August 20, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 

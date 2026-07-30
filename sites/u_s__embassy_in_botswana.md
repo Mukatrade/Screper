@@ -20,7 +20,7 @@
 
 ### Bureau of Economic and Business Affairs
 
-## RFQ for Painting Services
+## RFQ for Construction Services
 
 ## African Growth & Opportunity Act
 
