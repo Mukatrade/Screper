@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotation: 20KVA Uninterruptible Power Supply
+
 ## Advertisement: PR16137856 – Rental of a 375KVA Generator for Aspen
 
 ## Solicitation: PR16110030 – All-in-One Desktop Computers
-
-## AUGUST 2026 SEALED BID SALES ARTICLE ABUJA
 
 - Manage options
 - Manage services

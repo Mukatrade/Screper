@@ -24,7 +24,7 @@
 
 ### U.S. International Development Finance Corporation
 
-## REQUEST FOR QUOTATIONS: Elevator PMSC
+## REQUEST FOR QUOTATIONS: Fuel truck for the US Embassy Yaoundé
 
 ## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
