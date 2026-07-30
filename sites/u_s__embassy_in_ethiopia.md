@@ -6,16 +6,17 @@
 
 ## Open Opportunities
 
+- Invitation to bid for network and related items (Closes August 08, 2026)
 - PR15864545 Video and Photographic Production Services Invitation for BID (Closes August 7, 2026)
 - Invitation to bid for network and related items PR16114894, 2026 (Closes July 31, 2026)
 - Invitation to bid for Electrical items PR16131938 _2026 (Closes July 30, 2026)
+
+## Closed Procurement Announcements
+
 - Online auction advertisement for Furniture and appliances (22-24 of July 2026)
 - Closed bid advertisement for Generator sale (July,24,25,27, 2026)
 - Invitation to BID for Vertical Multistage Pump # PR15972773 (Closes July 21, 2026)
 - Invitation to BID for Shoes for Men # PR16090498 (Closes July 22, 2026)
-
-## Closed Procurement Announcements
-
 - RFQ_PR16090570 – Invitation for quotation for Uniform Poncho/raincoat (Closes July 15,2026) EXPRESS-NDAA-CERTIFICATION-4.2026 1
 - EXPRESS-NDAA-CERTIFICATION-4.2026 1
 - Invitation for Social Media and Media Monitoring Services (Closes July 6, 2026) Express NDAA Certification
