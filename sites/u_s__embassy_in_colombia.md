@@ -6,6 +6,7 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – GENERAL SERVICES OFICE (GSO)
 
+- The US Embassy in Bogota has a requirement for promotional products, if interested see the complete information in the attachments. [ Attachment ] [ Q&A ]
 - The US Embassy has a requirement for security barriers under requirement PR15768825 . [ Attachment ] [ Q&A ]
 - The US Embassy in Bogota has a requirement for professional services to support the implementation of the American 250 initiative in Colombia, please see the attachment to get more information. [ ContractData ]
 - The US Embassy Bogota has a requirement for A&E design under solicitation 19C02025R0007. [ Cover letter ] [ Attachment ] [ Q&A ]
@@ -26,10 +27,6 @@
 - The US Embassy has a requirement under solicitation PR15465593 . [ Attachment ]
 - The US Embassy has a requirement under solicitation 19C02025Q0018 [ Cover letter ] [ Solicitation ] [ Mod  0001 ] [ Q&A ]
 - The US Embassy has a requirement under requirement PR15553370. [ NDAA ] [ Q&A ]
-- The US Embassy has a Parts for Generators, for detailed information please see the attached document PR15982019 .  Please submit your offer no later than May 6 2026 at 4:00 PM4: 00 Pm by e-mail to BogotaGSOCompras@state.gov .
-- The US Embassy has a requirement for cellphone services.  Please find attached the complete information. Deadline to submit offers: May 20, 2026. [ Local Add ] [ NDAA ]
-- The U.S. Embassy in Bogota has a requirement for Environmental site assessment according to the specifications on the attachment .  Deadline to submit offers:  June 5, 2026.
-- The U.S. Embassy in Bogota has a requirement for Boundary, topographic and utility (BTU) location survey according to the specifications on the attachment .  Deadline to submit offers:  June 5, 2026.
 - The US Embassy in Bogota has a requirement for inner Road Signs & Support Elements.  Please see the attachment for detailed information. [ Local Ad ] [ NDAA ]
 - The US Embassy has a requirement for iPhone supply.  The complete information about this competed action can be found in the attachments. [ Local Ad ] [ NDAA ] [ Contract Data ]
 - The US Embassy in Bogota has a requirement for promotional products, if interested see the complete information in the attachments. [ Local Ad ] [ Express NDAA Certification ]
@@ -38,6 +35,7 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
+- INL-RFQ – PR16153069 – DRUG FIELD TEST KITS. Deadline for quotations: August 20, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16111826 – DIGITAL MICROSCOPE AND EQUIPMENT . Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15697685 – COUNTER UAS ANTENA SUPPLIES. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ – PR15696215 – MISCELLANEOUS CONSTRUCTION MATERIALS SAN JOAQUIN TAMBO. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.

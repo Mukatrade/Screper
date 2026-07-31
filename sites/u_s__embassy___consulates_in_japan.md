@@ -5,6 +5,7 @@
 ---
 
 Description of Services/Supplies: | Issued: | Site Visit: | Quotations/Proposals Due By: (JST)
+Domestic Water Pipe Replacement Services for the U.S. Consulate General Sapporo Pre-solicitation Notice (July 30) | To be announced | To be announced | To be announced
 Staff Room Restoration Services for the U.S. Consulate General Sapporo Pre-solicitation Notice (July 27) | To be announced | To be announced | To be announced
 Studio Set Renovation Services for Public Affairs Section Pre-solicitation Notice (July 27) | To be announced | To be announced | To be announced
 Building Maintenance Services for JLTC in Yokohama Pre-solicitation Notice (July 24) | To be announced | To be announced | To be announced

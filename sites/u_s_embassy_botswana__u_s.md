@@ -6,7 +6,7 @@
 
 ## Economic Opportunity
 
-## RFQ for Painting Services
+## RFQ for Construction Services
 
 ## Economic Opportunity
 

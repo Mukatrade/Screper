@@ -7,7 +7,6 @@
 ## Contract Solicitations – New Delhi
 
 - Solicitation for Supply of SUV (Euro/BS-6, RHD) at the U.S. Embassy New Delhi
-- Solicitation to Provide Services for installation of Elastomeric Coating on CMR Roof at the U. S. Embassy New Delhi
 - Solicitation to Provide Waterproofing Services for Office Spaces Roof at the U.S. Embassy, New Delhi
 - Solicitation to Provide Services for Overhang Repairs of Annex Building at the U.S. Embassy, New Delhi
 - Solicitation-191N6526Q0068 to Fabricate & Install SS Safety Guard Railing at the U.S Embassy Enclave Apartments, New Delhi
@@ -21,6 +20,7 @@
 - Solicitation to provide renovation services for converting the existing bathhouse into a toilet facility at the U.S. Embassy, New Delhi
 - Solicitation to Supply True HEPA Particle Filter (Set of 3) for 500/600 Series of Blueair Purifier, Model-503, BLF-500PA” to the U.S. Embassy, New Delhi
 - Solicitation to Provide Structural Retrofitting Services at the U.S. Embassy, New Delhi
+- Solicitation for Supply, Installation, Testing and Commissioning of addressable fire detection/alarm system services at the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 
@@ -40,6 +40,7 @@
 ## Contract Solicitations – Mumbai
 
 - SOLICITATION – Request for quotation – PR16154876
+- SOLICITATION – Request for Quotation – PR16166907
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
