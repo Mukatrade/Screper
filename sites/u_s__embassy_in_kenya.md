@@ -6,6 +6,14 @@
 
 ## Request for Proposals
 
+## REQUEST FOR QUOTATION (RFQ)- PR16160582- HOT WATER THERMOSTATIC VALVES INSTALLATION
+
+## Request for Proposals
+
+## Request for Quotation PR16177007 – MRU-IP AND WEB FILTER (PALO ALTO )LICENSE
+
+## Request for Proposals
+
 ## REQUEST FOR QUOTATIONS NUMBER 19KE5026Q0078 – MAKE READY CLEANING SERVICES FOR USG RESIDENTIAL PROPERTIES
 
 ## Request for Proposals
@@ -31,14 +39,6 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION (RFQ)- PR15851007- PLUMBING MATERIALS
-
-## Request for Proposals
-
-## Request for Quotation (RFQ)-: 19KE5026Q0036 – Amphitheater AV Support & Maintenance Contract 2026
-
-## Request for Proposals
-
-## Request for Quotation PR15983617 – MRU-VMWARE Renewal and Support
 
 - Manage options
 - Manage services
