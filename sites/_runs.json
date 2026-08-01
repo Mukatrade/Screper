@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-08-01T10:38:55.065705Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-08-01T09:58:20.834023Z",
     "findings": 0,
     "new_tender": 0,
@@ -87,23 +96,6 @@
         "refs": [
           "PR16133844"
         ]
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-07-27T18:13:43.548671Z",
-    "findings": 1,
-    "new_tender": 1,
-    "updated": 1,
-    "edited": 0,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S. Embassy in Israel",
-        "url": "https://il.usembassy.gov/contract-solicitations/",
-        "category": "NEW_TENDER",
-        "summary": "A new Request for Quotations was added under the Request for Quotations section.",
-        "refs": []
       }
     ]
   }
