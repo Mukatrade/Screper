@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Advertisement – 19N10226Q0024 – Hotel and Lodging Services
+
+## Request for Quotations number 19N10226Q0018 – Amendment 0001
+
 ## Request for Quotation: 20KVA Uninterruptible Power Supply
-
-## Advertisement: PR16137856 – Rental of a 375KVA Generator for Aspen
-
-## Solicitation: PR16110030 – All-in-One Desktop Computers
 
 - Manage options
 - Manage services

@@ -25,7 +25,7 @@
 ###### Instructions to transmit your original invoice electronically through MyILMS Payment Portal:
 
 - Link to 19PM0726Q0015 in SAM
-- Link to 19PM0726Q0026 in SAM
+- Link to 19PM0716Q0018 in SAM
 - Link to 19PM0726Q0007 in SAM
 
 ## U.S. Embassy, Ciudad del Saber, and SENACYT Launch Rincón Clubhouse at the Panama American Center

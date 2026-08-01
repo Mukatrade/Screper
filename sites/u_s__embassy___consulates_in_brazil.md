@@ -10,6 +10,19 @@
 
 ## Purchase Orders
 
+## Brasilia: Chancery Corridors Carpet replacement (Proposals accepted until August 25, 2026)
+
+#### Related documents:
+
+- 19BR2526Q0012 – RFQ
+- SOW – Chancery Corridors Carpet Replacement
+
+## Sao Paulo: Solicitation of Queen Mattresses with Box Springs, Single Mattresses with Box Springs (Proposals accepted until August 17, 2026)
+
+Item | Model | Quantity
+Queen Mattresses Queen Box Springs | Colchao Orthotel Superpocket Super Luxo 30x198x158 or similar (see specifications at SOW) Base Sommier Linho Bege 0,23X1,98X1,58 or similar  (see specifications at SOW) | 20 sets
+Twin Mattresses Twin Box Springs | Colchão ORTHOTEL Superpocket Super Luxo 30X1,88X0,88 or similar (see specifications at SOW) BASE SOMMIER LINHO BEGE 0,23X1,88X0,88 or similar (see specifications at SOW) | 40 sets
+
 ## Recife: Key System for US Consulate Recife (Quotations accepted until August 7, 2026)
 
 - Quotations must be submitted no later than August 7, by 4:00 PM (Brasília time).
@@ -53,15 +66,6 @@
 - Solicitation Provisions
 - Evaluation Factors
 - Representations and Certifications
-
-## Brasília: Facilities maintenance, inspection of the Fire Detection and Alarm System (Quotations accepted until July 24, 2026)
-
-#### Related documents:
-
-- 19BR2526Q0009 – FAC Fire Detection and Alarm System (FDAS)
-- SF1449 – 19BR2526Q0009 – Fire Detection Alarm Maintenance Services
-
-## Sao Paulo: ATO Event – America 250 Whiskey Celebration (Quotations accepted until July 20, 2026)
 
 ## Notice of Justification for Brand Name Purchase
 
