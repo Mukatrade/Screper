@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
-## REQUEST FOR QUOTATIONS: Land Cruiser 300 Station Wagon Turbo Diesel Automatic
-
-## Announcement: Peace Corps Medical Officer (PCMO)
-
 ## REQUEST FOR QUOTATIONS: Fuel truck for the US Embassy Yaoundé
+
+## Request for Service: Catering services during U.S. Embassy Independence Day Event
+
+## Alumni Engagement Innovation Fund (AEIF) 2026
 
 - Manage options
 - Manage services

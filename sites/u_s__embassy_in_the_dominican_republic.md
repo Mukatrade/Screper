@@ -6,39 +6,39 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0072 FAC CMR Improvements
-
-## Economic Opportunity
-
-## (RFQ) PR16159805 – INL Cyber security software for UAF
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0071 FAC Water Leak Roadway
-
-## Economic Opportunity
-
-## (RFQ) PR16143621 – PPE Personal Protection Equipment Clan Lab Team
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0070 FAC Roof Repairs Chancery
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0073 FAC CMR Pumps House Repair
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0065 FAC Water Well
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0067 FAC CMR AWNINGS RESTORATION
-
-## Economic Opportunity
-
 ## RFQ 19DR8626Q0056 AVR Maintenance
+
+## Economic Opportunity
+
+## PR16140034 – Communications Radios and Accessories for LGF
+
+## Economic Opportunity
+
+## (RFQ) PR16149495 – DHS/ICE – TCIU Cleaning Services – Main Office
+
+## Economic Opportunity
+
+## (RFQ) PR16149518 – TCIU Maintenance – IT/CCTV/Access Control Platform
+
+## Economic Opportunity
+
+## PR16116808 – DHS/ICE – TCIU Vehicle Rentals 2026 – 2027
+
+## Economic Opportunity
+
+## PR15098978 MATTRESSES AND BOX SPRING RESIDENCES – FY25
+
+## Economic Opportunity
+
+## 19DR8625Q0008– Make Ready Services Calle Selene 37
+
+## Economic Opportunity
+
+## RFQ 19DR8625Q0002 Make Ready Services
+
+## Economic Opportunity
+
+## RFQ- PR12882880- Communication and Navigation of Navy Operations
 
 - Manage options
 - Manage services

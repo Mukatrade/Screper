@@ -6,10 +6,6 @@
 
 ## PROCUREMENT ADVERTISEMENTS
 
-## Solicitation – PMSC – Standby low-voltage Diesel Generators
-
-## PROCUREMENT ADVERTISEMENTS
-
 ## Solicitation Maintenance, Repair, and Rebuilding of Equipment
 
 ## PROCUREMENT ADVERTISEMENTS
