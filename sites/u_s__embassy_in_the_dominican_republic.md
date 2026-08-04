@@ -6,39 +6,39 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0056 AVR Maintenance
+## RFQ 19DR8626Q0066 – CMR Interior Painting
 
 ## Economic Opportunity
 
-## PR16140034 – Communications Radios and Accessories for LGF
+## RFQ 19DR8626Q0064_CMR Wooden Doors Replacement_Solicitation
 
 ## Economic Opportunity
 
-## (RFQ) PR16149495 – DHS/ICE – TCIU Cleaning Services – Main Office
+## (RFQ) – 19DR8626Q0063_LB COMP_POOL SURFACE REPAIR
 
 ## Economic Opportunity
 
-## (RFQ) PR16149518 – TCIU Maintenance – IT/CCTV/Access Control Platform
+## (RFQ) – 19DR8626Q0074_FAC Sewage Register Installation Bambues Compound
 
 ## Economic Opportunity
 
-## PR16116808 – DHS/ICE – TCIU Vehicle Rentals 2026 – 2027
+## RFQ 19DR8626Q0072 FAC CMR Improvements
 
 ## Economic Opportunity
 
-## PR15098978 MATTRESSES AND BOX SPRING RESIDENCES – FY25
+## (RFQ) PR16159805 – INL Cyber security software for UAF
 
 ## Economic Opportunity
 
-## 19DR8625Q0008– Make Ready Services Calle Selene 37
+## RFQ 19DR8626Q0071 FAC Water Leak Roadway
 
 ## Economic Opportunity
 
-## RFQ 19DR8625Q0002 Make Ready Services
+## (RFQ) PR16143621 – PPE Personal Protection Equipment Clan Lab Team
 
 ## Economic Opportunity
 
-## RFQ- PR12882880- Communication and Navigation of Navy Operations
+## RFQ 19DR8626Q0070 FAC Roof Repairs Chancery
 
 - Manage options
 - Manage services

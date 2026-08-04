@@ -8,8 +8,7 @@
 
 ## Request for Quotations
 
-- RFQ PR#16103963
-- Scope of Work
+- RFQ PR#16163058
 - RFQ PR#16081031
 - Scope of Work
 - Photos of the BAS
@@ -21,11 +20,6 @@
 - SOW-A&E Design and Permitting Services Arnona Allenby Project
 - Attachment B-Form SF-330
 - RFQ PR # 16135183
-- RFQ PR# 16107713
-- Scope of work
-- Pre-solicitation notice
-- Pre-solicitation notice
-- Pre-solicitation notice
 - SF 30 Amendment 0001 191S7026R0001 Tactical Weapons Facilities
 - INP certified Basic Armed Guard course
 - INP certified Refresher Armed Guard course

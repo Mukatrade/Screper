@@ -6,6 +6,18 @@
 
 ## PROCUREMENT ADVERTISEMENTS
 
+## Solicitation For Miscellaneous Electric Power and Distribution Equipment
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Solicitation For Miscellaneous Electric Power and Distribution Equipment
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Solicitation – PMSC – Standby low-voltage Diesel Generators
+
+## PROCUREMENT ADVERTISEMENTS
+
 ## Solicitation Maintenance, Repair, and Rebuilding of Equipment
 
 ## PROCUREMENT ADVERTISEMENTS
@@ -27,10 +39,6 @@
 ## PROCUREMENT ADVERTISEMENTS
 
 ## Request Quotation For Hood Degrease
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Procurement Advertisements
 
 - Manage options
 - Manage services
