@@ -28,11 +28,11 @@
 - Link to 19PM0716Q0018 in SAM
 - Link to 19PM0726Q0007 in SAM
 
+## U.S. Embassy and QLU Launch Freedom 250 University Fair
+
 ## U.S. Embassy, Ciudad del Saber, and SENACYT Launch Rincón Clubhouse at the Panama American Center
 
 ## Statement of Chairman DiBella on China’s Continuing Detentions of Panama-Flagged Vessels
-
-## Panama Joins the Pax Silica Initiative June 29, 2026 | Washington, D.C.
 
 - Manage options
 - Manage services

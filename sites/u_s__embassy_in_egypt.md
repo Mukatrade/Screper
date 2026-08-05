@@ -21,6 +21,7 @@
 - TOYOTA HIACE SPM Equivalent – PR16139033MD Closing Date: August 11 , 2026 – 4:30 PM (Cairo Local Time)
 - New Chevrolet Suburban 4 – PR16142127AG – vehicles shipping instruction Closing Date: August 13 , 2026 – 4:30 PM (Cairo Local Time)
 - Vehicle Registration IDIQ – 19EG3026Q0016 Closing Date: August 18 , 2026 – 4:30 PM (Cairo Local Time)
+- Maintenance for Apt. 22 at 55 RD 17 – 19EG3026Q0018 Closing Date: August 31 , 2026 – 4:30 PM (Cairo Local Time)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

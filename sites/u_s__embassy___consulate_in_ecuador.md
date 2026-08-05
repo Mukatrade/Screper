@@ -12,9 +12,7 @@
 
 ##### SAM.gov is the system you must use to register as a vendor in order to participate in U.S. Government contracting opportunities.
 
-## Renovation of Government-Owned House in Guayaquil, Ecuador
-
-## Renovation of Government-Owned house in Guayaquil, Ecuador
+## Janitorial Services Contract Solicitation
 
 - Manage options
 - Manage services
