@@ -6,19 +6,12 @@
 
 ## Open for Solicitation
 
+- EXPRESSION OF INTEREST FOR THE SUPPLY OF ELECTRIC SOCKETS (PR16158232) Solicitation – PR16172328 – Residential Roof Recovery Project Expression of interest – PR16072119 – Utility and SCAC Building Paving Project EXPRESSION OF INTEREST – PR16138571: Annex and Utility Building Roof Canopies Expression of interest – Water Tank Integration/Pump Install – 30 Gemsbok str, Koedoespoort, Pretoria, South Africa
+- EXPRESSION OF INTEREST FOR THE SUPPLY OF ELECTRIC SOCKETS (PR16158232)
 - Solicitation – PR16172328 – Residential Roof Recovery Project
 - Expression of interest – PR16072119 – Utility and SCAC Building Paving Project
 - EXPRESSION OF INTEREST – PR16138571: Annex and Utility Building Roof Canopies
 - Expression of interest – Water Tank Integration/Pump Install – 30 Gemsbok str, Koedoespoort, Pretoria, South Africa
-- Expression of interest – PR16122610 – Building Automation System (BAS)
-- Expression of interest – PR16072119 – Utility and SCAC Building Paving Project
-- Portuguese Language Media Consultant
-- Expression of interest – PR16042034 Blanket Purchase Agreement of Electrical Supplies
-- Expression of interest – PR16042328 – OBO: Future residential compound A&E Inspector.
-- EXPRESSION OF INTEREST FOR INSTALLATION OF ALUMINIUM WINDOWS & DOORS (PR16025500)
-- EXPRESSION OF INTEREST INSTALLATION OF ALUMINIUM WINDOWS & DOORS (PR1602337)
-- U.S. Embassy Pretoria issues this RFQ for Residential Generator Services
-- PR15978097- EXPRESSION OF INTEREST FOR TECHNICAL PRODUCTION HIRE
 
 ## Notice of Funding Opportunities
 

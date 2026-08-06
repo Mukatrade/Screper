@@ -4,9 +4,12 @@
 
 ---
 
+- Peace Corps/Zambia: Supply, Delivery, and Installation of Internet Service Supplied Via Fiber Optic or High-Speed Satellite to Peace Corps Zambia Offices in Lusaka, Kasama, Chipata and Mongu – (Amended) – PDF 260 KB)
+- Cover Letter for Request for Quotations Number 19ZA6026PR16170417 for GYM Safety and Maintenance at the American Embassy – (PDF 235 KB)
+- SF1449 for GYM Safety and Maintenance at the American Embassy – (PDF 189 KB)
+- Request for Quotations Number 19ZA6026PR16170417 for GYM Safety and Maintenance at the American Embassy – (PDF 514 KB)
 - RFQ – 19ZA6026Q0007 – Solar Photovoltaic Electricity Generation Systems – (PDF 550 KB)
 - Pre-Solicitation Notice – 19ZA6026Q0007 – Solar Photovoltaic Electricity Generation Systems – (PDF 154 KB)
-- Peace Corps/Zambia: Supply, Delivery and Installation of Internet Service Supplied Via Fiber Optic or High-Speed Satellite to Peace Corps Zambia Offices in Lusaka, Kasama, Chipata and Mongu – PDF 256 KB)
 - Supply and deliver 2.5 Tons Double Axel Trailers Fully Assembled (Re-advertisement) – (PDF 149 KB)
 - Preventative Maintenance Services for Chillers – (PDF 867 KB)
 - Preventative Maintenance Services for Fuel Systems – (PDF 864 KB)

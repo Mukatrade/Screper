@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
+RFQ19H08026Q0045 | Solicitation | Furnishing and installation of roll up doors and metal doors. | Attachment 1 (PDF 1mb) | 
 TEGUC26002 | Solicitation | Customs Broker Tender of Service (TOS ) (PDF 494KB) | Rates Sheet TOS Customs Broker Services 2026 | August 14, 2026
 19H08026Q0050 | Solicitation | Concrete Materials (Blocks & Pavers) | Questions and Answers | July 27, 2026
 19H08026Q0053 | Solicitations | Purchase of Brand Name ESPS Filters for Air Handling Units | | July 17, 2026
