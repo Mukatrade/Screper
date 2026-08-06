@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## REQUEST FOR QUOTATION (RFQ)- 19KE5026Q0071 – NEC NOX SPX HARDSCAPE CLEANING MAINTENANCE
+
+## Request for Proposals
+
 ## REQUEST FOR QUOTATION (RFQ)- 19KE5026Q0102, MRU-PROPOSED EPOXY WORKS & GENERAL REPAIRS-BSL LAB KONDELE
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## Request for Quotation (RFQ)-19KE5026Q0082 LOCHAB Borehole Drilling
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION NUMBER 19KE5026Q0075 MRU-PROPOSED FUEL TANK ROOF AT KONDELE
 
 - Manage options
 - Manage services

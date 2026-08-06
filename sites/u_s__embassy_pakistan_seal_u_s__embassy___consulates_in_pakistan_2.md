@@ -17,8 +17,11 @@
 ## Current Solicitations Islamabad
 
 Solicitation Number | Title | Issue Date | Closing Date | More Information
+19PK3326Q1062 | Contractor Services – Replacement of Mineral Oil, Medium Voltage AVRs and VFI | August 5, 2026 | September 4, 2026 | Click to see the full notice: RFQ 19PK3326Q1062 Contractor Services – Replacement of Mineral Oil AVR Oil Replacement SOW
+19PK3326Q1061 | Supply of Esters Oil for Vacuum Fault Interrupter (VFI) | August 5, 2026 | September 4, 2026 | Click to see the full notice: RFQ 19PK3326Q1061 Supply of Esters Oil for VFIs
+19PK3326Q1060 | Supply of Mineral Oil for Automatic Voltage Regulator (AVR) and Vacuum Fault Interrupter (VFI). | August 5, 2026 | September 4, 2026 | Click to see the full notice: RFQ 19PK3326Q1060 Supply of Mineral Oil for AVRs
 19PK3326Q1057 | Supply of Automotive Tires | July 27, 2026 | August 06, 2026 | Click to see the full notice: RFQ# 19PK3326Q1057 – Supply of Automotive Tire
-19PK3326Q1043 | Social Media Content Creator Services U.S Embassy, Islamabad, Pakistan | July 07, 2026 | August 06, 2026 | Click to see the full notice: RFQ# 19PK3326Q1043_ Social Media Content Creator Services
+19PK3326Q1043 | Social Media Content Creator Services U.S Embassy, Islamabad, Pakistan | July 07, 2026 | August 06, 2026 | Click to see the full notice: RFQ# 19PK3326Q1043_ Social Media Content Creator Services Amendment_00001
 19PK3326Q1031 | Supply of Tissues – Paper Towel & Toilet Rolls for U.S. Embassy Islamabad | June 17, 2026 | July 16, 2026 | Click to see the full notice: RFQ# 19PK3325Q1017 Supply of Tissues
 19PK3326Q1041 | Supply of DC Inverter Air Conditioning Units | June 17, 2026 | July 16, 2026 | Click to see the full notice: RFQ# 19PK3326Q1041_ Supply of DC Inverter Air Conditioning Units
 19PK3326Q1030 | Supply of Uniform Protective Shoes Composite Toe, Compliant with ASTM, or ANSI Safety Standards | June 15, 2026 | July 14, 2026 | Click to see the full notice: RFQ# 19PK3326Q1030_ Supply of Uniform Protective Shoes Composite Toe, Compliant with ASTM, or ANSI Safety Standards

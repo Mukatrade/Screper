@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Solicitation PR16132704 – Repair/Cleaning of Kitchen Ansul Fire Suppression System
+
+## PR16178178 – SOLICITATION FOR QUOTES – DIGITAL AND AI SKILL PROGRAM
+
 ## Request for Quotations number 19N10226Q0018 – Amendment 0001
-
-## Request for Quotation: 20KVA Uninterruptible Power Supply
-
-## Advertisement: PR16137856 – Rental of a 375KVA Generator for Aspen
 
 - Manage options
 - Manage services

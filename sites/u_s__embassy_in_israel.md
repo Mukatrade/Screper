@@ -8,6 +8,11 @@
 
 ## Request for Quotations
 
+- RFQ PR#16181671 and PR#16181658
+- RFQ PR#16178132
+- Scope of work and pricing
+- RFQ PR#16178091
+- Scope of work and pricing
 - RFQ PR#16177719
 - RFQ PR#16163058
 - RFQ PR#16081031

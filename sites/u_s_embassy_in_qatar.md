@@ -4,7 +4,7 @@
 
 ---
 
-## helpful information and references
+## Helpful Information and References
 
 ### SAM Registration
 

@@ -21,6 +21,7 @@
 - Solicitation to Supply True HEPA Particle Filter (Set of 3) for 500/600 Series of Blueair Purifier, Model-503, BLF-500PA” to the U.S. Embassy, New Delhi
 - Solicitation to Provide Structural Retrofitting Services at the U.S. Embassy, New Delhi
 - Solicitation for Supply, Installation, Testing and Commissioning of addressable fire detection/alarm system services at the U.S. Embassy, New Delhi
+- Solicitation 191N6526Q0102 for Supply of Pickup Truck with Space for Materials at the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 
@@ -36,6 +37,7 @@
 ## Contract Solicitations – Kolkata
 
 - SOLICITATION –191N3026Q004 – Purchase of Office Vehicle
+- Solicitation No. 191N3026Q005 – Purchase of Passenger Vans (Two Nos.)
 
 ## Contract Solicitations – Mumbai
 

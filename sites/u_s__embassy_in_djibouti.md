@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | Deadline for Quote Submission | More Information
+19DJ1026Q0016 | Solicitation | FAC PROJECT RFQ Security Lights Design and Installation | 09/08/2026 | Click to see the full notice
 19DJ1026Q0018 | Solicitation | FAC FWP502 RFQ Completion, Integration, and Commissioning of Vehicle Gate Security System at Chief of Mission Residence(CMR) | 09/05/2026 | Click to see the full notice
 19DJ1026Q0017 | Solicitation | FAC PROJECT CMR ATS Replacement | 08/23/2026 | Click to see the full notice
 PR16106445 | Solicitation | Sources Sought Announcement Vehicle Fleet Maintenance Services | 08/10/2026 | Click to see the full notice

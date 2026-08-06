@@ -15,6 +15,7 @@
 ## Procurement and Contracting Opportunities
 
 ID | Solicitation / Contract / Order for Commercial Items | Solicitation Issue Date | Award | Effective Date
+19UZ8026Q0025 | SF18 for MPR Equipment | August 5, 2026 | August 25, 2026
 19UZ8026Q0024 | Vehicle purchase | July 21, 2026 | August 4, 2026
 19UZ8026Q0021 | Vehicle purchase | July 2, 2026 | August 1, 2026
 19UZ8026Q0021 | Vehicle purchase | June 18, 2026 | July 2, 2026
