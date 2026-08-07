@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## RFQ 19DR8626Q0069 – CMR Roof Waterproofing Replacement
+
+## Economic Opportunity
+
 ## RFQ 19DR8626Q0066 – CMR Interior Painting
 
 ## Economic Opportunity
@@ -22,7 +26,7 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0072 FAC CMR Improvements
+## RFQ 19DR8626Q0072 FAC CMR Improvements – Amended
 
 ## Economic Opportunity
 
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## (RFQ) PR16143621 – PPE Personal Protection Equipment Clan Lab Team
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0070 FAC Roof Repairs Chancery
 
 - Manage options
 - Manage services

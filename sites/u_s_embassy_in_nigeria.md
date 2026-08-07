@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## Solicitation PR16132704 – Repair/Cleaning of Kitchen Ansul Fire Suppression System
+## Request for Quotes – PR16190807 – Request for Event Manager for Inspired by Freedom: The Next 250 Contest
 
-## PR16178178 – SOLICITATION FOR QUOTES – DIGITAL AND AI SKILL PROGRAM
+## Request for Proposal – PR16190919 – Food Influencer Engagement Services.
 
-## Request for Quotations number 19N10226Q0018 – Amendment 0001
+## PR16164737 – SOLICITATION FOR QUOTES – DIGITAL INFLUENCER AND CONTENT CREATOR SUMMIT
 
 - Manage options
 - Manage services
