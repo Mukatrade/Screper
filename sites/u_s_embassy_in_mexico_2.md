@@ -4,3 +4,21 @@
 
 ---
 
+## Nogales Contract and Procurement Opportunities
+
+- Gym Equipment
+- Electric Forklift
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}
+- Manage options
+- Manage services
+- Manage {vendor_count} vendors
+- Read more about these purposes
+- {title}
+- {title}
+- {title}
