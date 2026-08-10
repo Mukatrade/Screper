@@ -6,22 +6,6 @@
 
 ## PROCUREMENT ADVERTISEMENTS
 
-## Solicitation for Model: 2026 Toyota HiAce Commuter GL
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation for Internet Service Providers- American Corner N’zérékoré
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation for Internet Service Providers- American Corner Sonfonia
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation for Internet Service Providers- American Corner Kankan
-
-## PROCUREMENT ADVERTISEMENTS
-
 ## Solicitation For Miscellaneous Electric Power and Distribution Equipment
 
 ## PROCUREMENT ADVERTISEMENTS
@@ -39,6 +23,22 @@
 ## PROCUREMENT ADVERTISEMENTS
 
 ## Solicitation For Non-Litigation Legal Services
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Solicitation For a 2026 Toyota Hilux SR Single Cab 4×4
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Hands-On Operator Training for Skid-Steer Loader (Caterpillar 272D2)
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Solicitation for Embassy Telephone Land Line Services
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Request Quotation For Hood Degrease
 
 - Manage options
 - Manage services

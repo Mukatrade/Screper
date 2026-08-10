@@ -35,7 +35,6 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
-- INL-RFQ PR16136761 – CAMPING COTS &  PORTABLE HVAC . Deadline for quotations: August 26, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ  – PR15734902 – TACTICAL GROUND EQUIPMENT BOG. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16142882 – BASE PROTECTION EQUIP & SUPPLIES . Deadline for quotations: August 26, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16162088 – POWER AND HAND TOOLS . Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time
@@ -48,6 +47,7 @@
 - INL-RFQ  – PR15696217 – MISCELLANEOUS CONSTRUCTION MATERIALS  SAN JOAQUIN MERCADERES. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15696212 – BASE CONSTRUCTION MATERIAL SUCRE DECAU. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ  – PR15696202 – MISCELLANEOUS CONSTRUCTION MATERIALS CENOP. Deadline for quotations: August 10, 2026 at 16:00, (Bogota, Colombia), local time.
+- INL-RFQ PR15696200 – BASE SECURITY CONSTRUCTION MATERIAL GOER DICAR. Deadline for quotations: August 6, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15417675 – IT EQUIPMENT FOR ANTIDRUG PROSPECTIVE. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16111851 – DIGITAL EXTRACTION EQUIPMENT. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15775985 – BASE TRANSCEIVER STATION – BTS. Deadline for quotations: August 17, 2026 at 16:00, (Bogota, Colombia), local time.
