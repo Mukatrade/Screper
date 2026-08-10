@@ -6,10 +6,6 @@
 
 ### How to bid on U.S. government contracts:
 
-- Medical and life insurance services – 19EG3026R0001 – SF30 Solicitation mod (QA and due date ext) – Paid Claims 22-23 – Paid Claims 23-24 – Paid Claims 24-25 – Attachment A (QA) Closing Date: August 4 , 2026 – 4:30 PM (Cairo Local Time)
-- Kitchen Exhaust Cleaning – PR16076418YA – Q&A Closing Date: August 4 , 2026 – 4:30 PM (Cairo Local Time)
-- Supply Inverter Ducted Split System For Residential – PR16131635MD Closing Date: August 8 , 2026 – 4:30 PM (Cairo Local Time)
-- CAI – PDS/ACC: Agentic AI Bootcamp – PR16083693HK – SOW Closing Date: August 8 , 2026 – 4:30 PM (Cairo Local Time)
 - Cairo ICASS/FAC Toyota Hil – PR16138769HK Closing Date: August 9 , 2026 – 2:00 PM (Cairo Local Time)
 - Cairo ICASS MP Suburban 6 – PR16142153HK Closing Date: August 9 , 2026 – 2:00 PM (Cairo Local Time)
 - CAIRO/ICASS, TOYOTA HIACE SPM – PR16139027HK Closing Date: August 9 , 2026 – 2:00 PM (Cairo Local Time)
@@ -22,6 +18,7 @@
 - New Chevrolet Suburban 4 – PR16142127AG – vehicles shipping instruction Closing Date: August 13 , 2026 – 4:30 PM (Cairo Local Time)
 - Vehicle Registration IDIQ – 19EG3026Q0016 Closing Date: August 18 , 2026 – 4:30 PM (Cairo Local Time)
 - Maintenance for Apt. 22 at 55 RD 17 – 19EG3026Q0018 Closing Date: August 31 , 2026 – 4:30 PM (Cairo Local Time)
+- Maintenance for AHU-12 and 13 Installations – 19EG3026Q0019 Closing Date: August 31 , 2026 – 4:30 PM (Cairo Local Time)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

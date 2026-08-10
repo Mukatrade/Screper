@@ -4,20 +4,13 @@
 
 ---
 
-## Pre-Solicitation Notice
+## Solicitation Notice
 
-- Primary Point of Contact:
-- Secondary point of contact
-- Name of Firm
-- Name
-- Telephone
-- Email Address of Point of Contact
-- Complete Physical and Mailing Address of Firm
-- Valid Business Registration Certificate
-- Morality Certificate for all workers.
-- Insurance certificate prior to start of work
-- Details of your findings and a description of what your organization will be required to undertake to obtain licensing, and
-- Specific information concerning the period of time you anticipate it will take to obtain appropriate authorization.
+- RFQ Letter
+- SF 1442
+- Solicitation document
+- Scope of Work
+- Minimum Safety Requirements
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

@@ -21,6 +21,8 @@
 - Solicitation to Provide Structural Retrofitting Services at the U.S. Embassy, New Delhi
 - Solicitation for Supply, Installation, Testing and Commissioning of addressable fire detection/alarm system services at the U.S. Embassy, New Delhi
 - Solicitation 191N6526Q0102 for Supply of Pickup Truck with Space for Materials at the U.S. Embassy, New Delhi
+- Solicitation Number 191N6526Q0105 – Architecture and Engineering (A&E)
+- Solicitation Number 191N6526Q0106 – Architecture and Engineering (A&E)
 
 ## Contract Solicitations – Chennai
 

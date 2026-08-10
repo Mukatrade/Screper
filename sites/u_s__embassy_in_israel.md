@@ -8,6 +8,9 @@
 
 ## Request for Quotations
 
+- Pre-Solicitation Notice PR#16144204 AE Services
+- SOW- A&E Design and Permitting Services – Arnona & Allenby
+- Attachment B-Form SF-330
 - RFQ PR#16173861
 - Scope of work
 - RFQ PR#16181671 and PR#16181658
@@ -24,9 +27,6 @@
 - Scope of Work
 - RFQ PR#16150754
 - Scope of Work
-- Pre-Solicitation Notice-PR16144204
-- SOW-A&E Design and Permitting Services Arnona Allenby Project
-- Attachment B-Form SF-330
 - RFQ PR # 16135183
 - SF 30 Amendment 0001 191S7026R0001 Tactical Weapons Facilities
 - INP certified Basic Armed Guard course

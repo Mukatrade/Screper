@@ -6,10 +6,6 @@
 
 ## Procurement Opportunities
 
-## Contract Opportunity – Supply and Delivery of 2027 Mid Size SUV
-
-## Procurement Opportunities
-
 ## Procurement/Contract Opportunities
 
 - Manage options

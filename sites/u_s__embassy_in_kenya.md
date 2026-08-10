@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## REQUEST FOR QUOTATION (RFQ)- 19KE5026Q0091, ROOF REPLACEMENT AT ROSSLYN LONETREE COMPOUND HOUSE No. 514
+
+## Request for Proposals
+
 ## REQUEST FOR QUOTATION (RFQ)- 19KE5026Q0071 – NEC NOX SPX HARDSCAPE CLEANING MAINTENANCE
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## Request For Quotation (RFQ)- PR16093543: MRU- REPAIRS OF REFRIGERATORS-KOMBEWA FREEZER ROOM
-
-## Request for Proposals
-
-## Request for Quotation (RFQ)-19KE5026Q0082 LOCHAB Borehole Drilling
 
 - Manage options
 - Manage services
