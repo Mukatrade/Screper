@@ -8,6 +8,7 @@
 
 ## SOLICITATION NOTICES
 
+- Modification of Solicitation for Jefferson Center Mandalay Services (PDF 622KB)
 - Windows Replacement (PDF 1MB)
 - Jefferson Center Mandalay Services (PDF 898KB)
 - CMR Asbestos Ceiling Replacement (PDF 2MB)

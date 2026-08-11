@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotations – Invitation For Site Visit – PR16181478 Staff Parking Garage Façade Repairs – U.S. Embassy Abuja
+
 ## PR16178010 – SOLICITATION FOR QUOTES – SUSTAINABILITY SUPPORT FOR AMERICAN SPACES SOUTH
 
 ## Request for Quotes – PR16190807 – Request for Event Manager for Inspired by Freedom: The Next 250 Contest
-
-## Request for Proposal – PR16190919 – Food Influencer Engagement Services.
 
 - Manage options
 - Manage services

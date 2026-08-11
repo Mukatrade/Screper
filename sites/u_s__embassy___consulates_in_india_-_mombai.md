@@ -39,6 +39,7 @@
 
 - SOLICITATION –191N3026Q004 – Purchase of Office Vehicle
 - Solicitation No. 191N3026Q005 – Purchase of Passenger Vans (Two Nos.)
+- Solicitation No. 191N3026Q006 – Emerging Innovation Lab Design & Integration
 
 ## Contract Solicitations – Mumbai
 

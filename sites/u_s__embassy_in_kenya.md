@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## REQUEST FOR QUOTATION (RFQ)- PR16154577: CDC DGHP – Supply of Generator Fuel at CDC NBO Office
+
+## Request for Proposals
+
 ## REQUEST FOR QUOTATION (RFQ)- 19KE5026Q0091, ROOF REPLACEMENT AT ROSSLYN LONETREE COMPOUND HOUSE No. 514
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## Request For Quotation (RFQ)- PR15968800: MRU-BIODIGESTER EXHAUSTING AT WRAIR /KEMRI KOMBEWA
-
-## Request for Proposals
-
-## Request For Quotation (RFQ)- PR16093543: MRU- REPAIRS OF REFRIGERATORS-KOMBEWA FREEZER ROOM
 
 - Manage options
 - Manage services

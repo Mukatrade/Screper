@@ -8,6 +8,10 @@
 
 ## Published JOFOC Announcements
 
+## RFQ for the purchase of a cargo van
+
+## RFQ for the purchase of a passenger van
+
 ## RFQ for construction services for the replacement and installation of Exhaust and Supply Fans
 
 ## RFQ for Boiler System Replacement
@@ -17,8 +21,6 @@
 ## RFQ for Boiler System Replacement
 
 ## RFQ for Boiler System Replacement
-
-## RFQ to upgrade the current Audio-Video (AV) conferencing system
 
 ## RFQ for Internet Services for Dussledorf
 
