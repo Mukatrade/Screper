@@ -8,7 +8,7 @@
 
 ## Request for Quotations
 
-- PR16187689 ICITAP Garut Event (O=08/10/2026 C=08/19/2026)
+- PR16191363 – Palo Alto Devices – DT-i/LAN Admin  (O=08/11/2026 C=08/26/2026)
 - PR16160280 – Medical Equipment (O=08/01/2026 C=08/11/2026)
 - Manage options
 - Manage services
