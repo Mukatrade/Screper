@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Advertisement: PR16180805 – Transformers in the Chancery Building
+
+## Advertisement: PR16147956 – Eaton Circuit Breaker
+
 ## Request for Quotations – Invitation For Site Visit – PR16181478 Staff Parking Garage Façade Repairs – U.S. Embassy Abuja
-
-## PR16178010 – SOLICITATION FOR QUOTES – SUSTAINABILITY SUPPORT FOR AMERICAN SPACES SOUTH
-
-## Request for Quotes – PR16190807 – Request for Event Manager for Inspired by Freedom: The Next 250 Contest
 
 - Manage options
 - Manage services
