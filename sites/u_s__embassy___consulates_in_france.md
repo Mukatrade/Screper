@@ -6,7 +6,6 @@
 
 ## Contrats et marchés
 
-- August 12, 2026 – Solicitation notice – Advertisement – Architect and Engineering Services for the structural renovation of parking slabs in a U.S Government property
 - March 30, 2026 – Standard Tender of Service (TOS) – Crating, Clearing, Forwarding and Transportation Services
 - February 28, 2025 – Standard Tender of Service (TOS) Packing, Crating, Clearing, forwarding and transportation Services
 - June 27, 2024 – Solicitation notice – Advertisement – Architect and Engineering Services for electrical vehicles (EV) charging stations across various U.S Government Owned properties in France
