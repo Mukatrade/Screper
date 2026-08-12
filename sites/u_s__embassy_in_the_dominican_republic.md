@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## (RFQ) – PR16169171 – Uniforms (Clothing and Boots) for the LGF
+
+## Economic Opportunity
+
 ## RFQ 19DR8626Q0069 – CMR Roof Waterproofing Replacement
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## RFQ 19DR8626Q0071 FAC Water Leak Roadway
-
-## Economic Opportunity
-
-## (RFQ) PR16143621 – PPE Personal Protection Equipment Clan Lab Team
 
 - Manage options
 - Manage services

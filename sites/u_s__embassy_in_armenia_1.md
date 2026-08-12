@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Call for proposals for the 2024 Ambassador’s Fund for Cultural Preservation (AFCP)
+
+## Economic Opportunity
+
 ## Request for Quotation (RFQ) for Replacing Mulch with Crushed Stones
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Quotation (RFQ) for purchase of concrete restoration services
-
-## Economic Opportunity
-
-## Notice of Funding Opportunity: English Programs Fund
 
 - Manage options
 - Manage services

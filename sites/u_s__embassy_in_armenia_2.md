@@ -20,11 +20,11 @@
 
 ### Bureau of Economic and Business Affairs
 
+## Enhancing and Supporting the Network of American Spaces in Armenia EUR/PDS Yerevan, Department of State  (NOFO)
+
 ## Embassy services announcements
 
 ## Project Financing
-
-## Key Armenian Links
 
 - Manage options
 - Manage services

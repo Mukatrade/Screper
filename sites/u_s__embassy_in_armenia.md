@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Enhancing and Supporting the Network of American Spaces in Armenia EUR/PDS Yerevan, Department of State  (NOFO)
+
+## Economic Opportunity
+
 ## Embassy services announcements
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Additional Research Materials
-
-## Economic Opportunity
-
-## Call for proposals for the 2024 Ambassador’s Fund for Cultural Preservation (AFCP)
 
 - Manage options
 - Manage services

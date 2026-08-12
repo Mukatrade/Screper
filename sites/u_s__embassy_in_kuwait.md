@@ -54,9 +54,10 @@
 
 ###### Interested bidders can view the Advertisement by visiting SAM.GOV.
 
-## NEW RFQ : 19KU2026Q0013 – AEWA Door & Tile Installation Upgrade project
+## Amendment 0001 Questions and Answers "Enclosure A RFQ: 19KU2026Q0013 – AEWA Door & Tile Installation Upgrade project
 
-- Any questions regarding the RFQ to be submitting electronically to Kuwait_Solicitation@state.gov no later than Aug 08, 2026, at 10:00 am. No questions will be accepted beyond this date. Please enter the title of your email as “ Questions – RFQ _19KU2026Q0013 – AEWA Door & Tile Installation Upgrade .
+###### The U.S. Embassy in Kuwait has just released and posted Amendment 0001 Questions and Answers “Enclosure A ” RFQ: 19KU2026Q0013 – AEWA Door & Tile Installation Upgrade project . revise the Statement of Work (SOW) based on the Questions and Answers (Q&As) and to incorporate the updated requirements under Paragraphs 3.5.1 and 3.5.3.
+
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by Aug 16, 2026, at 10:00 am Kuwait local time.  No quotes will be accepted after this time. Please enter the title of your email as “ Quote – RFQ _19KU2026Q0013 – AEWA Door & Tile Installation Upgrade.
 
 ## NEW RFQ: 19KU2026Q0015 – Lease of two (2) Mid-Size SUVs – PR16173917
