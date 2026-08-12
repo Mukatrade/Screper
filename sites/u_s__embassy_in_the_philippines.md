@@ -14,7 +14,7 @@ Solicitation No. | Date & Time Issued (Manila Time): | Deadline for Submission (
 19RP3826Q0018 Garbage Collection and Disposal Services for U.S. Embassy Philippines Pre-Solicitation Notice Solicitation Notice | – – – 18-Dec-2025 | – – – 30-Jan-2026, 4:00 PM
 19RP3826Q0020 Group Locally Employed Staff Life Insurance Coverage Pre-Solicitation Notice Solicitation Notice Minutes of Pre-Quotation Conference Amendment 001 and Q&A Amendment 002 Amendment_003 | – – 13-Nov-2025 05-Feb-2026 17-Feb-2026 24-Feb-2026 06-Mar-2026 18-Mar-2026 | – – – 09-Mar-2026, 4:00 PM – 16-Mar-2026, 4:00 PM 23-Mar-2026, 4:00 PM 30-Mar-2026, 4:00 PM
 19RP3826Q0021 Supply & Delivery of Miscellaneous Printed Materials & Other Related Services BPA Posting Notice (PDF 928 KB) | – – 04-Dec-2025 | – – 15-Dec-2025
-19RP3826Q0023 Supply and Delivery of Fuel for January 22, 2026 at SF Gas Station Solicitation Package (PDF 14 MB) | – – 08-Dec-2025 | – – 23-Dec-2025, 12:00 PM
+19RP3826Q0023 Supply and Delivery of Fuel for January 22, 2026 at SF Gas Station Solicitation Package (PDF 14 MB) | – – 08-Dec-2025 | – – 23-Dec-2025, 12:00 NN
 19RP3826Q0024 Conference and Accomodation Requirement in Boracay Pre-Solicitation Notice (PDF 218 KB) | – – 16-Dec-2025 | – – 24-Dec-2025, 3:00 PM
 19RP3826Q0025 Blanket Purchase Agreement for A/C Preventive Maintenance and Repair Services at U.S. Government Residential Properties in Manila, Philippines Pre-Solicitation Notice BPA Posting Notice (PDF 1 MB) | – – 15-Dec-2025 08-Jan-2026 | – – – 23-Jan-2026, 4:00 PM
 19RP3826Q0026 Supply and Delivery of Disaster Response Package Request for Quotation (PDF 12 MB) Technical Specifications (PDF 26 KB) | – – 08-Jan-2026 | – – 19-Jan-2026, 2:00 PM
@@ -61,8 +61,9 @@ Solicitation No. | Date & Time Issued (Manila Time): | Deadline for Submission (
 19RP3826Q0092 Supply and Delivery of Fuel for July 31, 2026 Solicitation Package (PDF 11 MB) Technical Specifications (PDF 20 KB) Amendment No. 001 (PDF 182 KB) | – – – 26-June-2026 08-July-2026 | – – – 09-July-2026, 12:00 NN 27-July-2026, 12:00 NN
 19RP3826Q0093 Room Accommodation and Conference Package for OPDAT Workshop (July 28 – August 5, 2026) Solicitation Package (PDF 12 MB) Technical Specifications (XLSX 27 KB) | – – 01-July-2026 01-July-2026 | – – 10-July-2026, 02:00 PM 10-July-2026, 02:00 PM
 —– Architect/Engineer Design Services for USDVA Office Renovation Request for Architect/Engineer Qualifications – Interior Office Renovations for USDVA (PDF 39 KB) Standard Form 330 (PDF 1 MB) | – – – 25-June-2026 | – – – 08-July-2026, 4:00 PM
-951700-26-R-0004 Janitorial Services USAGM Philippines Transmitting Station Solicitation Notice | – – 07-July-2026 | – – 22-July-2026, 12:00 PM
+951700-26-R-0004 Janitorial Services USAGM Philippines Transmitting Station Solicitation Notice | – – 07-July-2026 | – – 22-July-2026, 12:00 NN
 19RP3826Q0097 Supply and Delivery of Mobile Phones and Accessories Solicitation Package | – – 10-Aug-2026 | – – 19-Aug-2026, 4:00 PM
+19RP3826Q0099 Supply and Delivery of Fuel for August 2026 Solicitation Package (PDF 24 MB) Technical Specifications (XLSX 21 KB) | – – 12-Aug-2026 | – – 24-Aug-2026, 12:00 NN
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
