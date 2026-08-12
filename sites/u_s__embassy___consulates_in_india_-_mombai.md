@@ -23,6 +23,8 @@
 - Solicitation 191N6526Q0102 for Supply of Pickup Truck with Space for Materials at the U.S. Embassy, New Delhi
 - Solicitation Number 191N6526Q0105 – Architecture and Engineering (A&E)
 - Solicitation Number 191N6526Q0106 – Architecture and Engineering (A&E)
+- Solicitation number 191N6526Q0108 – Supply of CAT6 CABLE and networking supplies
+- Solicitation to Supply Truck Cabin Chassis at the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 
