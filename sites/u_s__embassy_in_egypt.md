@@ -16,7 +16,6 @@
 - Logistics Management for Education Partnerships – PR16196563YA Closing Date: August 26 , 2026 – 4:30 PM (Cairo Local Time)
 - CAI – PDS/AC Mansoura: American English & AI Program – PR16202101HK – SOW AC Mansoura English AI Program Closing Date: August 23 , 2026 – 2:00 PM (Cairo Local Time)
 - CAI – PDS/AC Luxor: American English & AI Program – PR16202066HK – SOW AC Luxor English AI Program Closing Date: August 23 , 2026 – 2:00 PM (Cairo Local Time)
-- Scaffold for US Embassy – PR16088997MD Closing Date: August 17 , 2026 – 4:300 PM (Cairo Local Time)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

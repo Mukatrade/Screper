@@ -6,10 +6,6 @@
 
 ## PROCUREMENT ADVERTISEMENTS
 
-## Solicitation for Production, Translation, and Broadcast Services for the Weekly Radio Program “Sous L’Arbre à Palabre”
-
-## PROCUREMENT ADVERTISEMENTS
-
 ## Solicitation for Model: 2026 Toyota HiAce Commuter GL
 
 ## PROCUREMENT ADVERTISEMENTS
@@ -39,6 +35,10 @@
 ## PROCUREMENT ADVERTISEMENTS
 
 ## Solicitation Maintenance, Repair, and Rebuilding of Equipment
+
+## PROCUREMENT ADVERTISEMENTS
+
+## Solicitation For Non-Litigation Legal Services
 
 - Manage options
 - Manage services

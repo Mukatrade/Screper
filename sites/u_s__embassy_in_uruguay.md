@@ -10,11 +10,7 @@
 
 ## Open Calls
 
-##### Event management service for 4 half day each conference event service, between the period from October 2026 to September 2027.
-
-##### ___
-
-##### Consular Audiovisual (AV) System (Intercom, Paging, & Displays) located at the U.S. Embassy in Montevideo, Uruguay.
+###### Preventive maintenance services for the Embassy’s Building Automation Systems (BAS)
 
 - Manage options
 - Manage services

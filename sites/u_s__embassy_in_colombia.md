@@ -35,6 +35,7 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
+- INL-RFQ PR15832168 – CONSTRUCTION MATERIALS AND TOOLS . Deadline for quotations: September 2, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ – PR16173411 – CONSTRUCTION EQUIPMENT CHOCO . Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ PR16035228 – BASE SECURITY BARRIERS VGZN . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15678670 – K9-CANINE VET MEDICINES . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time.

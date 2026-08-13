@@ -8,6 +8,10 @@
 - NCAGE CODE
 - SAM GOV
 
+#### RFQ 19PE5026Q0048 – Laptops
+
+#### RFQ 19PE5026Q0047 – DHS/HSI – FY26 Vehicle Rental (TCIU)
+
 #### RFQ 19PE5026Q0050 – NAMRU SOUTH – replace of two minivans
 
 #### A&E Services – Qualifications Required

@@ -20,11 +20,11 @@
 
 ### Bureau of Economic and Business Affairs
 
+## RFQ for Cellphone Services
+
 ## RFQ for Construction Services
 
 ## African Growth & Opportunity Act
-
-## U.S. Government Promotes Human Rights in the Business Space
 
 - Manage options
 - Manage services

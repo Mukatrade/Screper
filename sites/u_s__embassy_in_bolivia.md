@@ -13,11 +13,11 @@
 - RFQ Letter Janitorial Services
 - RFQ 19BL4026Q0002_Janitorial Services Solicitation Package
 
+## U.S. Air Force Research Delegation Visits Bolivia to Expand Scientific Cooperation
+
 ## Trump Administration Mobilizes Robust Response to Tragic Venezuelan Earthquakes
 
 ## Joint Statement on the Negative Impact of Road Blockades on Human Rights and Democracy in Bolivia
-
-## Security Alert – U.S. Embassy La Paz, Bolivia (June 20, 2026)
 
 - Manage options
 - Manage services
