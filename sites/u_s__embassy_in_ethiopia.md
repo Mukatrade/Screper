@@ -6,12 +6,13 @@
 
 ## Open Opportunities
 
+- Online auction advertisement featuring furniture, appliances, and other items (On August 24,2026 from 08:00-16:00)
 - Invitation to bid for materials (Closes 25, August 2026) Express NDAA Certification
 - Express NDAA Certification
-- Invitation to bid for network and related items (Closes August 08, 2026)
 
 ## Closed Procurement Announcements
 
+- Invitation to bid for network and related items (Closes August 08, 2026)
 - PR15864545 Video and Photographic Production Services Invitation for BID (Closes August 7, 2026)
 - Invitation to bid for network and related items PR16114894, 2026 (Closes July 31, 2026)
 - Invitation to bid for Electrical items PR16131938 _2026 (Closes July 30, 2026)

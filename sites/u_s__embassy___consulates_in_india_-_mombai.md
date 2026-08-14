@@ -9,15 +9,12 @@
 - Solicitation for Supply of SUV (Euro/BS-6, RHD) at the U.S. Embassy New Delhi
 - Solicitation to Provide Waterproofing Services for Office Spaces Roof at the U.S. Embassy, New Delhi
 - Solicitation to Provide Services for Overhang Repairs of Annex Building at the U.S. Embassy, New Delhi
-- Solicitation-191N6526Q0068 to Fabricate & Install SS Safety Guard Railing at the U.S Embassy Enclave Apartments, New Delhi
-- Solicitation-191N6526Q0079 for “Supplying, Commissioning and Installation for One-to-One Replacement of Data Center In-Row Cooling System” at the American Center Building, 24-KG Marg, Connaught Place, New Delhi
 - Solicitation for the Supply of Brand-new Passenger Vans, make Force Urbania or equivalent to the U.S. Embassy, New Delhi
 - Solicitation to Provide Services to Replace Waterproofing at the American Center Building Roof
 - Solicitation to Provide Hindi and Urdu Language Classes at the U.S. Embassy, New Delhi
 - Solicitation for Chilled and Hot Water Piping Interconnection Work at the U.S. Embassy, New Delhi
 - Solicitation to provide HVAC and Electrical Power Generation and Transmission Training at the U.S. Embassy, New Delhi
 - Solicitation to provide renovation services for converting the existing bathhouse into a toilet facility at the U.S. Embassy, New Delhi
-- Solicitation to Supply True HEPA Particle Filter (Set of 3) for 500/600 Series of Blueair Purifier, Model-503, BLF-500PA” to the U.S. Embassy, New Delhi
 - Solicitation to Provide Structural Retrofitting Services at the U.S. Embassy, New Delhi
 - Solicitation for Supply, Installation, Testing and Commissioning of addressable fire detection/alarm system services at the U.S. Embassy, New Delhi
 - Solicitation 191N6526Q0102 for Supply of Pickup Truck with Space for Materials at the U.S. Embassy, New Delhi
@@ -25,6 +22,7 @@
 - Solicitation Number 191N6526Q0106 – Architecture and Engineering (A&E)
 - Solicitation number 191N6526Q0108 – Supply of CAT6 CABLE and networking supplies
 - Solicitation to Supply Truck Cabin Chassis at the U.S. Embassy, New Delhi
+- Solicitation-191N6526Q0110 for Providing Televised Media Monitoring Services to the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 

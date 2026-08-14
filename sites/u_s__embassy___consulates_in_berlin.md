@@ -8,6 +8,8 @@
 
 ## Published JOFOC Announcements
 
+## RFQ for Re-Piping and Replacement Work
+
 ## RFQ for the purchase of a cargo van
 
 ## RFQ for the purchase of a passenger van

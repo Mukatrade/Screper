@@ -67,10 +67,9 @@
 - Direct any questions regarding this RFQ to Kuwait_Solicitation@state.gov no later than Aug 18, 2026 . at 10:00 am Kuwait local time No questions will be accepted beyond this date. Please enter the title of your email as “ Questions for RFQ: 19KU2026Q0015 – lease/rent mid-size SUV. ”
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov. Quotations are due by Aug 27, 2026, at 10:00 am Kuwait local time. No quotes will be accepted after this time. Please enter the title of your email as “ Quote for RFQ: 19KU2026Q0015 – lease/rent mid-size SUV. ”
 
-## RFQ : 19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation
+## Amendment 0001: Extension: RFQ : 19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation
 
-- Any questions regarding the RFQ to be submitting electronically to Kuwait_Solicitation@state.gov no later than August 10, 2026, at 10:00 am. No questions will be accepted beyond this date. Please enter the title of your email as “ Questions – RFQ _19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation .
-- Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by August 16, 2026, at 10:00 am Kuwait local time.  No quotes will be accepted after this time. Please enter the title of your email as “ Quote – RFQ _19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation.
+- The quotation due date is hereby changed from Aug 16, 2026, at 10:00 a.m. Kuwait local time to Aug 20, 2026, at 10:00 a.m. Kuwait local time . No quotations will be accepted after this time. Offerors shall continue to submit their quotations by email with the subject line: RFQ: 19KU2026Q0012 – RESTROOMS & LACTATION ROOM UPGRADE PROJECT
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
