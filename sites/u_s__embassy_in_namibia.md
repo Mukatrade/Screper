@@ -11,6 +11,10 @@
 - Find a U.S. supplier or trading partner
 - Attend an International Buyer Show
 
+## 2026 Fiscal Transparency Report
+
+### 2026 Fiscal Transparency Report
+
 ## Contact Us
 
 ## Doing Business in Namibia

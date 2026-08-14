@@ -6,6 +6,14 @@
 
 ## Economic Opportunity
 
+## PR16140034 – Communications Radios and Accessories for LGF
+
+## Economic Opportunity
+
+## RFQ 19DR8626Q0070 FAC Roof Repairs Chancery – Amended
+
+## Economic Opportunity
+
 ## (RFQ) – PR16169171 – Uniforms (Clothing and Boots) for the LGF
 
 ## Economic Opportunity
@@ -30,15 +38,7 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0072 FAC CMR Improvements – Amended
-
-## Economic Opportunity
-
 ## (RFQ) PR16159805 – INL Cyber security software for UAF
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0071 FAC Water Leak Roadway
 
 - Manage options
 - Manage services

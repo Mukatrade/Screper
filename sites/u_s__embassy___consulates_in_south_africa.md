@@ -6,7 +6,9 @@
 
 ## Open for Solicitation
 
-- RFQ for Annual Maintenance Services of the HVAC/Chillers System in Pretoria EXPRESSION OF INTEREST FOR THE SUPPLY OF ELECTRIC SOCKETS (PR16158232) Solicitation – PR16172328 – Residential Roof Recovery Project Expression of interest – PR16072119 – Utility and SCAC Building Paving Project EXPRESSION OF INTEREST – PR16138571: Annex and Utility Building Roof Canopies Expression of interest – Water Tank Integration/Pump Install – 30 Gemsbok str, Koedoespoort, Pretoria, South Africa
+- RFQ – Supply and deliver of 2 x new Right Hand Drive vehicles PR16206288 Solicitation – INSTALLATION OF HIGH SPEC AUTOMATIC SLIDING GATES AND CONTROL SYSTEM UPGRADE, VEHICLE ACCESS POINTS RFQ for Annual Maintenance Services of the HVAC/Chillers System in Pretoria EXPRESSION OF INTEREST FOR THE SUPPLY OF ELECTRIC SOCKETS (PR16158232) Solicitation – PR16172328 – Residential Roof Recovery Project Expression of interest – PR16072119 – Utility and SCAC Building Paving Project EXPRESSION OF INTEREST – PR16138571: Annex and Utility Building Roof Canopies Expression of interest – Water Tank Integration/Pump Install – 30 Gemsbok str, Koedoespoort, Pretoria, South Africa
+- RFQ – Supply and deliver of 2 x new Right Hand Drive vehicles PR16206288
+- Solicitation – INSTALLATION OF HIGH SPEC AUTOMATIC SLIDING GATES AND CONTROL SYSTEM UPGRADE, VEHICLE ACCESS POINTS
 - RFQ for Annual Maintenance Services of the HVAC/Chillers System in Pretoria
 - EXPRESSION OF INTEREST FOR THE SUPPLY OF ELECTRIC SOCKETS (PR16158232)
 - Solicitation – PR16172328 – Residential Roof Recovery Project
