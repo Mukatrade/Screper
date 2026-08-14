@@ -6,10 +6,6 @@
 
 ## Economic Opportunity
 
-## PR16140034 – Communications Radios and Accessories for LGF
-
-## Economic Opportunity
-
 ## RFQ 19DR8626Q0070 FAC Roof Repairs Chancery – Amended
 
 ## Economic Opportunity
@@ -35,6 +31,10 @@
 ## Economic Opportunity
 
 ## (RFQ) – 19DR8626Q0074_FAC Sewage Register Installation Bambues Compound
+
+## Economic Opportunity
+
+## RFQ 19DR8626Q0072 FAC CMR Improvements – Amended
 
 ## Economic Opportunity
 

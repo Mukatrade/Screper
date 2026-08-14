@@ -6,10 +6,6 @@
 
 ## Request for Proposals
 
-## ADVERTISEMENT FOR ARCHITECT-ENGINEER SERVICES FOR PR16201927 ROSSLYN RIDGE RESIDENTIAL RETAINING WALL
-
-## Request for Proposals
-
 ## REQUEST FOR QUOTATION (RFQ)- PR16154577: CDC DGHP – Supply of Generator Fuel at CDC NBO Office
 
 ## Request for Proposals
@@ -39,6 +35,10 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION (RFQ)- 19KE5026Q0097 MRU-GENERAL SAFETY REPAIR WORKS AT AMR-MHK LAB-KERICHO STATION
+
+## Request for Proposals
+
+## Request For Quotation (RFQ)- PR15968800: MRU-BIODIGESTER EXHAUSTING AT WRAIR /KEMRI KOMBEWA
 
 - Manage options
 - Manage services
