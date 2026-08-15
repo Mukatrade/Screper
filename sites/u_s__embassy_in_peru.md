@@ -23,8 +23,6 @@
 
 #### RFQ 19PE5026Q0046 – Hotel accommodation and training venue facilities
 
-- Cancelation of this Solicitation.
-
 #### 19PE5026Q0032 – Spanish Language Training Service
 
 #### RFP 19PE5026R0002 – Maintenance & Infrastructure Improvements at G-8/INL Facilities

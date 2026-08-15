@@ -6,7 +6,6 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – GENERAL SERVICES OFICE (GSO)
 
-- The US Embassy in Bogota has a requirement for supply of Miscellaneous Appliances if interested see the complete information in the attachments. [ Attachment ] [ NDAA ]
 - The US Embassy in Bogota has a requirement for promotional products, if interested see the complete information in the attachments. [ Attachment ] [ Q&A ]
 - The US Embassy has a requirement for security barriers under requirement PR15768825 . [ Attachment ] [ Q&A ]
 - The US Embassy in Bogota has a requirement for professional services to support the implementation of the American 250 initiative in Colombia, please see the attachment to get more information. [ ContractData ]
