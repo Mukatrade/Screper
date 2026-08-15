@@ -17,8 +17,6 @@
 - 19BR2526Q0012 – RFQ
 - SOW – Chancery Corridors Carpet Replacement
 
-## Sao Paulo: Promotion of Food and Beverage Items Imported from the United States in Brazilian Sam's Clubs (Proposals accepted until August 27, 2026)
-
 ## Sao Paulo: Solicitation of Queen Mattresses with Box Springs, Single Mattresses with Box Springs (Proposals accepted until August 17, 2026)
 
 Item | Model | Quantity

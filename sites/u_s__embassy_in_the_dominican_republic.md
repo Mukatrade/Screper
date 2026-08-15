@@ -18,6 +18,18 @@
 
 ## Economic Opportunity
 
+## RFQ 19DR8626Q0069 – CMR Roof Waterproofing Replacement
+
+## Economic Opportunity
+
+## RFQ 19DR8626Q0066 – CMR Interior Painting
+
+## Economic Opportunity
+
+## RFQ 19DR8626Q0064_CMR Wooden Doors Replacement_Solicitation
+
+## Economic Opportunity
+
 ## (RFQ) – 19DR8626Q0063_LB COMP_POOL SURFACE REPAIR
 
 ## Economic Opportunity
@@ -27,18 +39,6 @@
 ## Economic Opportunity
 
 ## (RFQ) PR16159805 – INL Cyber security software for UAF
-
-## Economic Opportunity
-
-## (RFQ) PR16143621 – PPE Personal Protection Equipment Clan Lab Team
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0067 FAC CMR AWNINGS RESTORATION – 2nd AMENDED
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0056 AVR Maintenance – Amended
 
 - Manage options
 - Manage services

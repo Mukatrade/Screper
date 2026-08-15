@@ -36,11 +36,6 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
-- INL-RFQ PR15372267 – VEHICLE AND MOTORCICLES COLOMBIA. Deadline for quotations: August 24, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR16169965 – TECHNOLOGICAL EQUIPMENT. Deadline for quotations: August 24, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15372268 – TECHNOLOGICAL EQUIPMENT FOR AI. Deadline for quotations: August 24, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15974103 – 43-HEAVY MACHINERY SERVICE. Deadline for quotations: August 24, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ_ PR16035220 _ Solar Equipment Colombia. Closing date and time: August 24, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ PR15832168 – CONSTRUCTION MATERIALS AND TOOLS . Deadline for quotations: September 2, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ – PR16173411 – CONSTRUCTION EQUIPMENT CHOCO . Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ PR16035228 – BASE SECURITY BARRIERS VGZN . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time.
