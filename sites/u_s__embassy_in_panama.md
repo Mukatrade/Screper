@@ -29,11 +29,11 @@
 - Link to SAM post
 - Link to 19PM0726Q0023 SAM post
 
+## PANAMAX 2026 Concludes: Back in the Field for the First Time Since 2012
+
 ## United States Provides Over $1 Million in Emergency Response and Medical Equipment to Panama
 
 ## U.S. Embassy and QLU Launch Freedom 250 University Fair
-
-## U.S. Embassy, Ciudad del Saber, and SENACYT Launch Rincón Clubhouse at the Panama American Center
 
 - Manage options
 - Manage services

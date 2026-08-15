@@ -8,6 +8,8 @@
 - NCAGE CODE
 - SAM GOV
 
+#### RFQ 19PE5026Q0040 – Corrective Maintenance of Generators
+
 #### RFQ 19PE5026Q0048 – Laptops
 
 #### RFQ 19PE5026Q0047 – DHS/HSI – FY26 Vehicle Rental (TCIU)
@@ -22,6 +24,8 @@
 - Personnel capacity to accomplish the work in the required time.
 
 #### RFQ 19PE5026Q0046 – Hotel accommodation and training venue facilities
+
+- Cancelation of this Solicitation.
 
 #### 19PE5026Q0032 – Spanish Language Training Service
 
