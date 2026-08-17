@@ -9,6 +9,7 @@
 
 ## Current Procurement and Grants Opportunities
 
+- PR16191893 | Uninterruptible Power Supply (UPS) | Closing Date: August 28, 2026 at 12:00pm, local time
 - PR16188518 | Supply of  Laboratory Freezer | Closing Date: August 21, 2026, at 12:00pm Local time
 - PR15496540 | Supply of Gym Flooring | Closing Date: August 20, 2026, at 12:00pm Local time
 - 19UG5026Q0017 | Supply of a Liquid Nitrogen Generator/Plant | Closing Date: August 10, 2026, at 16:00 hrs. East African Time

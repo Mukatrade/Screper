@@ -67,9 +67,11 @@
 - Direct any questions regarding this RFQ to Kuwait_Solicitation@state.gov no later than Aug 18, 2026 . at 10:00 am Kuwait local time No questions will be accepted beyond this date. Please enter the title of your email as “ Questions for RFQ: 19KU2026Q0015 – lease/rent mid-size SUV. ”
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov. Quotations are due by Aug 27, 2026, at 10:00 am Kuwait local time. No quotes will be accepted after this time. Please enter the title of your email as “ Quote for RFQ: 19KU2026Q0015 – lease/rent mid-size SUV. ”
 
-## Amendment 0001: Extension: RFQ : 19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation
+## Amendment 0002 RFQ : 19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation
 
-- The quotation due date is hereby changed from Aug 16, 2026, at 10:00 a.m. Kuwait local time to Aug 20, 2026, at 10:00 a.m. Kuwait local time . No quotations will be accepted after this time. Offerors shall continue to submit their quotations by email with the subject line: RFQ: 19KU2026Q0012 – RESTROOMS & LACTATION ROOM UPGRADE PROJECT
+- Post Questions and Answers; and
+- Attachment A – Statement of Work is hereby deleted in its entirety and replaced with the revised Attachment A – Statement of Work, attached to this amendment.. The revised Attachment A incorporates applicable technical clarifications and revisions resulting from the Government’s responses to offeror questions, including, but not limited to, clarifications concerning room dimensions, drywall and moisture-resistant material requirements, tile and waterproofing requirements, counters and sinks, plumbing and drainage, shower and hand-sprayer requirements, ABA/ADA requirements, material and product submittals, project documentation, safety plans, warranty requirements, and other technical requirements addressed in the Questions and Answers.
+- Offerors shall prepare their quotations based on the solicitation as amended, including the revised Attachment A.
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
