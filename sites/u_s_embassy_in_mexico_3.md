@@ -11,7 +11,9 @@
 
 ## CONTRACT OPPORTUNITIES
 
-- SOW Cement Terrazzo Floor Removal and Replacement SOW Forklift RFI Move Safe RFQ Roof Fall Protection SOW Language Program FY26 + NDAA Policy to be signed by vendo r
+- RFQ Consular Audiovisual system maintenance RFQ Chillers preventive maintenance service SOW Cement Terrazzo Floor Removal and Replacement SOW Forklift RFI Move Safe RFQ Roof Fall Protection SOW Language Program FY26 + NDAA Policy to be signed by vendo r
+- RFQ Consular Audiovisual system maintenance
+- RFQ Chillers preventive maintenance service
 - SOW Cement Terrazzo Floor Removal and Replacement
 - SOW Forklift
 - RFI Move Safe

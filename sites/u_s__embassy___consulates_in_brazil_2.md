@@ -10,6 +10,12 @@
 
 ## Purchase Orders
 
+## Rio de Janeiro: Request for Commercial Proposal for Cistern and Water Tank Cleaning and Waterproofing Services (Proposals accepted until August 31, 2026)
+
+- Standard Form SF-1449
+- Basic information, statement of work, site visit requirements or specifications and technical qualifications.
+- Late quotation rules and evaluation method.
+
 ## Brasilia: Chancery Corridors Carpet replacement (Proposals accepted until August 25, 2026)
 
 #### Related documents:
