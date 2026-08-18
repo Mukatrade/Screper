@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## AUGUST 2026 Online Auction
+
 ## Advertisement: PR16180805 – Transformers in the Chancery Building
 
 ## Advertisement: PR16147956 – Eaton Circuit Breaker
-
-## Request for Quotations – Invitation For Site Visit – PR16181478 Staff Parking Garage Façade Repairs – U.S. Embassy Abuja
 
 - Manage options
 - Manage services
