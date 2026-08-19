@@ -6,6 +6,7 @@
 
 ### How to bid on U.S. government contracts:
 
+- Scaffold for US Embassy – PR16088997MD Closing Date: August 17 , 2026 – 4:300 PM (Cairo Local Time)
 - Vehicle Registration IDIQ – 19EG3026Q0016 Closing Date: August 18 , 2026 – 4:30 PM (Cairo Local Time)
 - CAI – PDS/AC Mansoura: American English & AI Program – PR16202101HK – SOW AC Mansoura English AI Program Closing Date: August 23 , 2026 – 2:00 PM (Cairo Local Time)
 - CAI – PDS/AC Luxor: American English & AI Program – PR16202066HK – SOW AC Luxor English AI Program Closing Date: August 23 , 2026 – 2:00 PM (Cairo Local Time)
@@ -20,7 +21,6 @@
 - LGF Uniform – Pants for all staff – PR16202548SA Closing Date: September 1 , 2026 – 4:30 PM (Cairo Local Time)
 - CMR Bedroom Flooring – 19EG3026Q0023 Closing Date: September 3 , 2026 – 4:30 PM (Cairo Local Time)
 - Pedestrian Exit Doors Replacement – 19EG3026Q0020 Closing Date: September 7 , 2026 – 4:30 PM (Cairo Local Time)
-- PDS/AC Luxor: Expansion Enclosure for AC Luxor – PR16140925AG – SOW AC Luxor Expansion Enclosure – American Corner Luxor 90sqm Contractor Concept Q&A Closing Date: September 7 , 2026 – 4:30 PM (Cairo Local Time)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

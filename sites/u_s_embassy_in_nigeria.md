@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## AUGUST 2026 Online Auction
+## Advertisement: 19N10226Q0025 – Event management and logistics services for a day commercial diplomacy summit
 
-## Advertisement: PR16180805 – Transformers in the Chancery Building
+## Request for Quotation: PR16194686 – Request for Shock Absorber – JTMHX015904223040
 
-## Advertisement: PR16147956 – Eaton Circuit Breaker
+## Request for Quotes: PR16197806 — Installation of Closed-Circuit Television (CCTV) at the Chief of Mission Residence (CMR)
 
 - Manage options
 - Manage services
