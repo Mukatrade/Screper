@@ -16,6 +16,12 @@
 - Basic information, statement of work, site visit requirements or specifications and technical qualifications.
 - Late quotation rules and evaluation method.
 
+## Sao Paulo: Solicitation of Rugs (Proposals accepted until September 1, 2026)
+
+## Sao Paulo: English Language Classes (Proposals accepted until September 1, 2026)
+
+## Sao Paulo: Household Furniture Re-varnishing Services (Proposals accepted until September 1, 2026)
+
 ## Brasilia: Chancery Corridors Carpet replacement (Proposals accepted until August 25, 2026)
 
 #### Related documents:

@@ -60,12 +60,7 @@
 
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by Aug 16, 2026, at 10:00 am Kuwait local time.  No quotes will be accepted after this time. Please enter the title of your email as “ Quote – RFQ _19KU2026Q0013 – AEWA Door & Tile Installation Upgrade.
 
-## NEW RFQ: 19KU2026Q0015 – Lease of two (2) Mid-Size SUVs – PR16173917
-
-###### The U.S. Embassy in Kuwait has just released and posted Request for Quotation (RFQ) for 19KU2026Q0015 – Lease of two (2) Mid-Size SUVs   in SAM.gov. For complete details regarding this requirement kindly visit to www.sam.gov , click on the “Search” option, select “Contract Opportunities” from available Domains, enter “ 19KU2026Q0015 ” in the white area and click on “search
-
-- Direct any questions regarding this RFQ to Kuwait_Solicitation@state.gov no later than Aug 18, 2026 . at 10:00 am Kuwait local time No questions will be accepted beyond this date. Please enter the title of your email as “ Questions for RFQ: 19KU2026Q0015 – lease/rent mid-size SUV. ”
-- Submit your quote electronically by email to Kuwait_Solicitation@state.gov. Quotations are due by Aug 27, 2026, at 10:00 am Kuwait local time. No quotes will be accepted after this time. Please enter the title of your email as “ Quote for RFQ: 19KU2026Q0015 – lease/rent mid-size SUV. ”
+## Amendment 0001: Enclosure A: Questions and Answers: RFQ: 19KU2026Q0015 – Lease of two (2) Mid-Size SUVs – PR16173917
 
 ## Amendment 0002 RFQ : 19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation
 
