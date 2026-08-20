@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## RFQ PR16216741 – Request for Proposals for Event Management and Facilitation for Freedom 250 Programming for Six American Spaces – Phase 2
+
 ## Advertisement: 19N10226Q0025 – Event management and logistics services for a day commercial diplomacy summit
 
 ## Request for Quotation: PR16194686 – Request for Shock Absorber – JTMHX015904223040
-
-## Request for Quotes: PR16197806 — Installation of Closed-Circuit Television (CCTV) at the Chief of Mission Residence (CMR)
 
 - Manage options
 - Manage services

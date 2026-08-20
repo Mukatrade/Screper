@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
+ | Licensing Agreement | Licensing for Cafeteria Services 2026 – 2027 (PDF 480KB) | | September 3, 2026
 RFQ 19H08026R0006 | Solicitation | Physical Messaging Campaign Development and Execution (PDF 779 KB) | | September 3, 2026
 19H08026R0008 | Solicitation | Cold Rooms for Morgue in Choluteca (PDF 1453KB) | | August 27, 2026
 19H08026Q0056 | Solicitation | Emergency Generator System (PDF 669KB) | | August 26, 2026

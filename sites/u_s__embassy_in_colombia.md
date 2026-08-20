@@ -36,6 +36,7 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
+- INL-RFQ PR16178503 – AC & THERM PROTECTIONS FOR TRAINING SIMULATOR. Deadline for quotations: August 24, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16035309 – DIRAN K9 EQUIPMENT PORTS AND AIRPORTS . Deadline for quotations: September 2, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ PR15696209 – 46/FORT/BASE SECURITY MATERIAL RICAURTE MECUC/XXXX . Deadline for quotations: August 28, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ PR15696259 – BARRANQUILLA K9 UNIT UPGRADE . Deadline for quotations: August 28, 2026 at 16:00, (Bogota, Colombia), local time

@@ -10,24 +10,23 @@
 
 ## Purchase Orders
 
-## Rio de Janeiro: Request for Commercial Proposal for Cistern and Water Tank Cleaning and Waterproofing Services (Proposals accepted until August 31, 2026)
-
-- Standard Form SF-1449
-- Basic information, statement of work, site visit requirements or specifications and technical qualifications.
-- Late quotation rules and evaluation method.
-
 ## Sao Paulo: Solicitation of Rugs (Proposals accepted until September 1, 2026)
 
 ## Sao Paulo: English Language Classes (Proposals accepted until September 1, 2026)
 
 ## Sao Paulo: Household Furniture Re-varnishing Services (Proposals accepted until September 1, 2026)
 
-## Brasilia: Chancery Corridors Carpet replacement (Proposals accepted until August 25, 2026)
+## Rio de Janeiro: Request for Commercial Proposal for Cistern and Water Tank Cleaning and Waterproofing Services (Proposals accepted until August 31, 2026)
 
-#### Related documents:
+- Standard Form SF-1449
+- Basic information, statement of work, site visit requirements or specifications and technical qualifications.
+- Late quotation rules and evaluation method.
 
-- 19BR2526Q0012 – RFQ
-- SOW – Chancery Corridors Carpet Replacement
+## Brasília: Mattresses and box spring for residences (Quotations accepted until August 29, 2026)
+
+Qty | Description
+20 | Queen mattress and black box spring – measuring 158cm x 198cm x 30cm Individually pocketed springs, supports up to 120KG, R foam, knitted fabric, pillow top, hypoallergenic
+35 | Twin mattress and black box spring – measuring 88cm x 188cm x 30cm Individually pocketed springs, supports up to 120KG, R foam, knitted fabric, pillow top, hypoallergenic
 
 ## Sao Paulo: Promotion of Food and Beverage Items Imported from the United States in Brazilian Sam's Clubs (Proposals accepted until August 27, 2026)
 
@@ -69,12 +68,6 @@ Twin Mattresses Twin Box Springs | Colchão ORTHOTEL Superpocket Super Luxo 30X1
 - BH Office new layout 4.6 – 31.07.26
 - BH Office new layout 5.6 – 31.07.26
 - BH Office new layout 6.6 – 31.07.26
-
-## Recife: Remodeling of Office and Storage Area (Proposals accepted until August 14, 2026)
-
-## Sao Paulo: Acquistion of a Cargo Van – Fiat Fiorino or similar (Quotations accepted until August 14, 2026)
-
-## Recife: Revitalization and re qualification of the outdoor area of the cafeteria and bathrooms (Quotations accepted until August 14, 2026)
 
 ## Notice of Justification for Brand Name Purchase
 
