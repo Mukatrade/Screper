@@ -9,16 +9,15 @@
 ## To Prospective Offerors/Quoters
 
 - Janitorial Services Solicitation :
-- RFQ Letter Janitorial Services RFQ 19BL4026Q0002_Janitorial Services Solicitation Package Q&A Final
+- RFQ Letter Janitorial Services RFQ 19BL4026Q0002_Janitorial Services Solicitation Package
 - RFQ Letter Janitorial Services
 - RFQ 19BL4026Q0002_Janitorial Services Solicitation Package
-- Q&A Final
-
-## FY26 Notice of Funding Opportunity: CHOP
-
-## Routine Message – U. S. Embassy La Paz, Bolivia (August 18, 2026)
 
 ## U.S. Air Force Research Delegation Visits Bolivia to Expand Scientific Cooperation
+
+## Trump Administration Mobilizes Robust Response to Tragic Venezuelan Earthquakes
+
+## Joint Statement on the Negative Impact of Road Blockades on Human Rights and Democracy in Bolivia
 
 - Manage options
 - Manage services

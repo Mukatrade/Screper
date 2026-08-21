@@ -12,8 +12,6 @@
 
 ###### Preventive maintenance services for the Embassy’s Building Automation Systems (BAS)
 
-###### Quotation for event management service for 4 half day each conference event service, between the period from September 2026 to September 2027 to be coordinated with the Embassy
-
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

@@ -15,7 +15,6 @@
 ## Procurement and Contracting Opportunities
 
 ID | Solicitation / Contract / Order for Commercial Items | Solicitation Issue Date | Award | Effective Date
-19UZ8026Q0027 | Made in the USA” Expo Serie s | August 19, 2026 | September 8, 2026
 19UZ8026Q0025 | SF30 for MPR Equipment | August 12, 2026 | August 25, 2026
 19UZ8026Q0026 | Chancery Kitchen Fire Suppression System Replacement | August 6, 2026 | August 21, 2026
 19UZ8026Q0025 | SF18 for MPR Equipment | August 5, 2026 | August 25, 2026

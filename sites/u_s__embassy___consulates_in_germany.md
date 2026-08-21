@@ -6,10 +6,6 @@
 
 ## Economic Opportunity
 
-## Job Opportunity FAQs
-
-## Economic Opportunity
-
 ## Chargé d’Affaires Visits Southwestern Germany
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## Volunteer Foreign National Internship – Political Affairs
+
+## Economic Opportunity
+
+## Volunteer Foreign National Student Internship – Information Systems Center
 
 - Manage options
 - Manage services

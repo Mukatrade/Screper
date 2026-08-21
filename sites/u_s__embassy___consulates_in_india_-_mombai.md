@@ -23,7 +23,6 @@
 - Solicitation number 191N6526Q0108 – Supply of CAT6 CABLE and networking supplies
 - Solicitation to Supply Truck Cabin Chassis at the U.S. Embassy, New Delhi
 - Solicitation-191N6526Q0110 for Providing Televised Media Monitoring Services to the U.S. Embassy, New Delhi
-- Solicitation for Supply of 2 nos. Truck Cabin Chassis (suitable for 10,000-liter Water tanker) at the U.S. Embassy, New Delhi
 
 ## Contract Solicitations – Chennai
 
@@ -41,7 +40,6 @@
 - SOLICITATION –191N3026Q004 – Purchase of Office Vehicle
 - Solicitation No. 191N3026Q005 – Purchase of Passenger Vans (Two Nos.)
 - Solicitation No. 191N3026Q006 – Emerging Innovation Lab Design & Integration
-- Solicitation No. 191N3026Q0007 – Purchase of mid-size SUV
 
 ## Contract Solicitations – Mumbai
 

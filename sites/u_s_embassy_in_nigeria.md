@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## RFQ PR16216741 – Request for Proposals for Event Management and Facilitation for Freedom 250 Programming for Six American Spaces – Phase 2
+## Advertisement: PR16180805 – Transformers in the Chancery Building
 
-## Advertisement: 19N10226Q0025 – Event management and logistics services for a day commercial diplomacy summit
+## Advertisement: PR16147956 – Eaton Circuit Breaker
 
-## Request for Quotation: PR16194686 – Request for Shock Absorber – JTMHX015904223040
+## Request for Quotations – Invitation For Site Visit – PR16181478 Staff Parking Garage Façade Repairs – U.S. Embassy Abuja
 
 - Manage options
 - Manage services
