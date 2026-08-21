@@ -5,6 +5,7 @@
 ---
 
 RFQ Number | Procurement Type | Note | Deadline for Quote Submission | More Information
+19ES6026Q0040 | requires commercial social media consulting services | The Public Diplomacy Office, U.S. Embassy San Salvador, requires commercial social media consulting services, including reporting, content development, and social media support. Closing date: September 10, 2026 at 10:00 am San Salvador local time. | September 10, 2026 at 10:00 am San Salvador local time | 19ES6026Q0040
 19ES6026Q0028 | resurfacing of two tennis courts at the US Embassy San Salvador, including cleaning, repair, leveling, surface painting, and game line application, using Laykold Advantage System materials provided by US Government. | Dear contractors, The U.S. Embassy in El Salvador invites your company to participate in the adjudication process for Request for Quotations (RFQ) 19ES6026Q0028 for resurfacing of two tennis courts at the US Embassy San Salvador, including cleaning, repair, leveling, surface painting, and game line application, using Laykold Advantage System materials provided by US Government. Please find the Scope of Work in Attachment #1. Key Information: •
 RFQ Number: 19ES6026Q0028 •
 Questions submission deadline: In site visit scheduled on Thursday, August 20th, at 10:00 am local time *In cover letter you will find the information you need to confirm assistance* •

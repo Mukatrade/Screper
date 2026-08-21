@@ -6,6 +6,10 @@
 
 ## PROCUREMENT ADVERTISEMENTS
 
+## Solicitation For Event Hosting and Management Services for the Second U.S.-Guinea Alumni Forum
+
+## PROCUREMENT ADVERTISEMENTS
+
 ## Solicitation for Production, Translation, and Broadcast Services for the Weekly Radio Program “Sous L’Arbre à Palabre”
 
 ## PROCUREMENT ADVERTISEMENTS
@@ -35,10 +39,6 @@
 ## PROCUREMENT ADVERTISEMENTS
 
 ## Solicitation – PMSC – Standby low-voltage Diesel Generators
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation Maintenance, Repair, and Rebuilding of Equipment
 
 - Manage options
 - Manage services

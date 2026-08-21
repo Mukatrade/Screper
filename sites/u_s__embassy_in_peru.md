@@ -8,6 +8,10 @@
 - NCAGE CODE
 - SAM GOV
 
+#### RFQ 19PE5026Q0054 – DHS/HSI – Government Official Vehicle
+
+#### RFQ 19PE5026Q0058 – Conference Room, Breakouts Room, Control Room and Lodging for Staff
+
 #### RFQ 19PE5026Q0040 – Corrective Maintenance of Generators
 
 #### RFQ 19PE5026Q0048 – Laptops
@@ -26,8 +30,6 @@
 #### RFQ 19PE5026Q0046 – Hotel accommodation and training venue facilities
 
 - Cancelation of this Solicitation.
-
-#### 19PE5026Q0032 – Spanish Language Training Service
 
 #### RFP 19PE5026R0002 – Maintenance & Infrastructure Improvements at G-8/INL Facilities
 

@@ -10,11 +10,11 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0070 FAC Roof Repairs Chancery – Amended
+## (RFQ) – PR16169171 – Uniforms (Clothing and Boots) for the LGF
 
 ## Economic Opportunity
 
-## (RFQ) – PR16169171 – Uniforms (Clothing and Boots) for the LGF
+## RFQ 19DR8626Q0069 – CMR Roof Waterproofing Replacement
 
 ## Economic Opportunity
 
@@ -26,19 +26,19 @@
 
 ## Economic Opportunity
 
-## (RFQ) PR16159805 – INL Cyber security software for UAF
-
-## Economic Opportunity
-
-## (RFQ) PR16143621 – PPE Personal Protection Equipment Clan Lab Team
-
-## Economic Opportunity
-
-## RFQ 19DR8626Q0067 FAC CMR AWNINGS RESTORATION – 2nd AMENDED
-
-## Economic Opportunity
-
 ## RFQ 19DR8626Q0056 AVR Maintenance – Amended
+
+## Economic Opportunity
+
+## PR15098978 MATTRESSES AND BOX SPRING RESIDENCES – FY25
+
+## Economic Opportunity
+
+## 19DR8625Q0008– Make Ready Services Calle Selene 37
+
+## Economic Opportunity
+
+## RFQ 19DR8625Q0002 Make Ready Services
 
 - Manage options
 - Manage services

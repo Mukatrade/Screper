@@ -11,8 +11,6 @@
 - Pre-Solicitation Notice PR#16144204 AE Services
 - SOW- A&E Design and Permitting Services – Arnona & Allenby
 - Attachment B-Form SF-330
-- RFQ PR#16173861
-- Scope of work
 - RFQ PR#16181671 and PR#16181658
 - RFQ PR#16178132
 - Scope of work and pricing
