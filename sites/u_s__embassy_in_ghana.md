@@ -11,8 +11,8 @@
 
 ## SOLICITATION OF FACILITY ASSESSMENT SERVICES
 
-- RFQ for Facility Assessment Services 19GH1026Q0024
-- CoverLetter-RFQ 19GH1026Q0024
+- RFQ for Facility Assessment Services 19GH1026Q0026
+- SF330-21a
 - Attachment of the Building Plan
 
 ## LE Staff Solicitation Medical Insurance
@@ -21,6 +21,7 @@
 - Medical Health Insurance RFQ
 - SOLICITATION LETTER-GMC
 - Amendment 0001 to RFQ 19GH1026Q0022
+- AMENDMENT 002-OF-SOLICITATION_MODIFICATION-OF-CONTRACT
 
 ## Fuel Purchase
 

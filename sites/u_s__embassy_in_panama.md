@@ -30,11 +30,11 @@
 - Link to 19PM0726Q0023 SAM post
 - Link to 19PM0726Q0025 SAM Post
 
+## Expanded U.S.-Panama Security Cooperation Restores Sight to 80 Panamanians
+
 ## Travel Advisory: Panama August 19, 2026
 
 ## PANAMAX 2026 Concludes: Back in the Field for the First Time Since 2012
-
-## United States Provides Over $1 Million in Emergency Response and Medical Equipment to Panama
 
 - Manage options
 - Manage services

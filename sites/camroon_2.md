@@ -6,10 +6,6 @@
 
 ## Economic Opportunity
 
-## Announcement: Peace Corps Medical Officer (PCMO)
-
-## Economic Opportunity
-
 ## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## 2024-2026 English Access Microscholarship Program
+
+## Economic Opportunity
+
+## Embassy Grants Opportunities
 
 - Manage options
 - Manage services

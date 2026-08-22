@@ -10,26 +10,30 @@
 
 ## Purchase Orders
 
+## Recife: Vehicle for US Consulate Recife (Quotations accepted until  September 8, 2026.)
+
+- Quotations must be submitted no later than September 8, 2026, by 4:00 PM (Brasilia time).
+- Oral quotations will not be accepted.
+
+## Sao Paulo: Solicitation of Rugs (Proposals accepted until September 1, 2026)
+
+## Sao Paulo: English Language Classes (Proposals accepted until September 1, 2026)
+
+## Sao Paulo: Household Furniture Re-varnishing Services (Proposals accepted until September 1, 2026)
+
 ## Rio de Janeiro: Request for Commercial Proposal for Cistern and Water Tank Cleaning and Waterproofing Services (Proposals accepted until August 31, 2026)
 
 - Standard Form SF-1449
 - Basic information, statement of work, site visit requirements or specifications and technical qualifications.
 - Late quotation rules and evaluation method.
 
-## Brasilia: Chancery Corridors Carpet replacement (Proposals accepted until August 25, 2026)
+## Brasília: Mattresses and box spring for residences (Quotations accepted until August 29, 2026)
 
-#### Related documents:
-
-- 19BR2526Q0012 – RFQ
-- SOW – Chancery Corridors Carpet Replacement
+Qty | Description
+20 | Queen mattress and black box spring – measuring 158cm x 198cm x 30cm Individually pocketed springs, supports up to 120KG, R foam, knitted fabric, pillow top, hypoallergenic
+35 | Twin mattress and black box spring – measuring 88cm x 188cm x 30cm Individually pocketed springs, supports up to 120KG, R foam, knitted fabric, pillow top, hypoallergenic
 
 ## Sao Paulo: Promotion of Food and Beverage Items Imported from the United States in Brazilian Sam's Clubs (Proposals accepted until August 27, 2026)
-
-## Sao Paulo: Solicitation of Queen Mattresses with Box Springs, Single Mattresses with Box Springs (Proposals accepted until August 17, 2026)
-
-Item | Model | Quantity
-Queen Mattresses Queen Box Springs | Colchao Orthotel Superpocket Super Luxo 30x198x158 or similar (see specifications at SOW) Base Sommier Linho Bege 0,23X1,98X1,58 or similar  (see specifications at SOW) | 20 sets
-Twin Mattresses Twin Box Springs | Colchão ORTHOTEL Superpocket Super Luxo 30X1,88X0,88 or similar (see specifications at SOW) BASE SOMMIER LINHO BEGE 0,23X1,88X0,88 or similar (see specifications at SOW) | 40 sets
 
 ## Recife: Key System for US Consulate Recife (Quotations accepted until August 7, 2026)
 
@@ -37,6 +41,22 @@ Twin Mattresses Twin Box Springs | Colchão ORTHOTEL Superpocket Super Luxo 30X1
 - Oral quotations will not be accepted.
 
 ## Contract Opportunities
+
+## Porto Alegre: Inspection, maintenance, supply, and replacement of components and machinery for 168 Daikin cassette-type air conditioning units (Proposals accepted until September 18, 2026)
+
+- Place of Performance: Consulate General of the United States of America in Porto Alegre, located at Avenida Assis Brasil, No. 1889, Porto Alegre/RS.
+
+#### Procurement Guidelines
+
+- Type of Award: The Consulate intends to issue a Purchase Order to the winning bidder.
+- Competitiveness and Integrity: We encourage the submission of highly competitive proposals. Please note that the Consulate will maintain strict vigilance against any collusive practices among participating companies regarding quoted prices.
+- Reservation of Rights: This solicitation does not constitute a commitment to award a contract. The Consulate reserves the right to change or cancel this announcement, in whole or in part, at any time without prior notice.
+
+#### Timeline and Deadlines
+
+- Confirmation of Participation and Scope Request: Interested companies must send an email to BlasiCS@state.gov by September 8, 2026, confirming their interest in participating and requesting a detailed copy of the Statement of Work / Scope of Services.
+- Site Visit (Mandatory): A mandatory on-site visit will be held on September 10 and 11, 2026, at the Consulate premises.
+- Proposal Submission Deadline: Commercial proposals must be submitted via email to BlasiCS@state.gov by 5:00 PM on September 18, 2026. Verbal quotes will not be accepted under any circumstances.
 
 ## Brasilia: BSB| PSW| IDIQ for Warehouse Support Services (Quotations accepted until August 21, 2026)
 
@@ -63,12 +83,6 @@ Twin Mattresses Twin Box Springs | Colchão ORTHOTEL Superpocket Super Luxo 30X1
 - BH Office new layout 4.6 – 31.07.26
 - BH Office new layout 5.6 – 31.07.26
 - BH Office new layout 6.6 – 31.07.26
-
-## Recife: Remodeling of Office and Storage Area (Proposals accepted until August 14, 2026)
-
-## Sao Paulo: Acquistion of a Cargo Van – Fiat Fiorino or similar (Quotations accepted until August 14, 2026)
-
-## Recife: Revitalization and re qualification of the outdoor area of the cafeteria and bathrooms (Quotations accepted until August 14, 2026)
 
 ## Notice of Justification for Brand Name Purchase
 

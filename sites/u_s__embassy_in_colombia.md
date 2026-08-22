@@ -18,7 +18,7 @@
 - The US Embassy has a requirement for CMR GUARDHOUSE WINDOWS & DOORS REPLACEMENT.  Please refer to the attachment for detailed information.  The deadline to submit offers is August 12, 2025 at 4:00 PM by e-mail to BogotaGSOcompras@state.gov . [ Cover Letter ] [ Q&A ] [ Attachment ]
 - The US Embassy has a requirement for CMR SLINDING GATE REPAIRS.  Please refer to the attachment for detailed information.  The deadline to submit offers is August 12, 2025 at 4:00 PM by e-mail to BogotaGSOcompras@state.gov . [ Cover Letter ] [ Q&A ]
 - The US Embassy has a requirement for BOGOTA COMPOUND LGF GUARDBOOTHS.  Please refer to the attachment for detailed information.  The deadline to submit offers is August 19, 2025 at 4:00 PM by e-mail to BogotaGSOcompras@state.gov . [ Cover Letter ]
-- The US Embassy has a requirement for CMR bollard removal.  Please refer to the attachment for detailed information.  The deadline to submit offers is August 12, 2025 at 4:00 PM by e-mail to BogotaGSOcompras@state.gov .  [ Cover Letter ] [ Plans ] [ Q&A ]
+- The US Embassy in Bogota has a requirement for supply of U.S. Food Tasting Event for HRI service if interested see the complete information in the attachments [ Local Ad ] [ NDAA ]
 - The US Embassy has a requirement under solicitation 19C02025Q0019 .  [ Cover Letter ] [ Attachment ] [ SF-30 ]
 - The US Embassy has a requirement under solicitation 19C02025Q0021 . [ Cover Letter ] [ Attachment ]
 - The US Embassy has a requirement under solicitation 19C02025Q0023 . [ Cover Letter ]
@@ -36,6 +36,12 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
+- INL-RFQ  – PR15696207 – MISCELLANEOUS CONSTRUCTION MATERIALS   AGUA CLARA . Deadline for quotations: September 4, 2026 at 16:00, (Bogota, Colombia), local
+- INL-RFQ  – PR15802396 – MOBILE SATELLITE INTERNET SYSTEM . Deadline for quotations: September 4, 2026 at 16:00, (Bogota, Colombia), local time
+- INL SINOPSIS A&E 2026-2027 .  Closing date and time: October 05, 2026, at 16:00 (Bogotá, Colombia), local time
+- INL-RFQ PR16162628 – INTEGRATED UGS NETWORK EQUIPMENT . Deadline for quotations: September 2, 2026 at 16:00, (Bogota, Colombia), local time
+- INL-RFQ_ PR15696204 _ Construction Material Tibú Colombia . Closing date and time: September 03, 2026, at 16:00 (Bogotá, Colombia), local
+- INL-RFQ_ PR15696210 _ Construction Material Banco Arenas Colombia . Closing date and time: September 03, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ PR16178503 – AC & THERM PROTECTIONS FOR TRAINING SIMULATOR. Deadline for quotations: August 24, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16035309 – DIRAN K9 EQUIPMENT PORTS AND AIRPORTS . Deadline for quotations: September 2, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ PR15696209 – 46/FORT/BASE SECURITY MATERIAL RICAURTE MECUC/XXXX . Deadline for quotations: August 28, 2026 at 16:00, (Bogota, Colombia), local time
@@ -51,19 +57,13 @@
 - INL-RFQ – PR16173411 – CONSTRUCTION EQUIPMENT CHOCO . Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ PR16035228 – BASE SECURITY BARRIERS VGZN . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR15678670 – K9-CANINE VET MEDICINES . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR16172171 – HEAVY DUTY CUTTING MACHINES . Deadline for quotations: August 20, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ_ PR15678667_ K9 Portable Modular Kennels Colombia. Closing date and time: August 26, 2026, at 16:00 (Bogotá, Colombia), local time
 - INL-RFQ PR15696206 – CONSTRUCTION MATERIAL (PETROLEA) . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time
-- INL-RFQ PR16142916 – EJA Base Protection & Construction Materials/XXXXXXXXXXXX . Deadline for quotations: August 20, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16136761 – CAMPING COTS &  PORTABLE HVAC . Deadline for quotations: August 26, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16142882 – BASE PROTECTION EQUIP & SUPPLIES . Deadline for quotations: August 26, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16162088 – POWER AND HAND TOOLS . Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time
-- INL-RFQ_ PR15974115_RFQ Concrete for Hylo spots Colombia. Closing date and time: August 18, 2026, at 16:00 (Bogotá, Colombia), local time.
 - INL-RFQ PR15696205 – CONSTRUCTION MATERIALS – GUAMALITO . Deadline for quotations: August 26, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ – PR16153069 – DRUG FIELD TEST KITS. Deadline for quotations: August 20, 2026 at 16:00, (Bogota, Colombia), local time.
 - INL-RFQ PR16105152 –  3D printers and supplies. Deadline for quotations: August 21, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR15841878 – 45/2330/45/2330/40FT CONTAINER ACCESSORIES FOR MILITARY CAMP. Deadline for quotations: August 19, 2026 at 16:00, (Bogota, Colombia), local time.
-- INL-RFQ PR16101436 – EXPLOITATION LABORATORY TOOLS. Deadline for quotations: August 20, 2026 at 16:00, (Bogota, Colombia), local time.
 
 ## PEACE CORPS
 

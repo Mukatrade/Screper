@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
-## Announcement: Peace Corps Medical Officer (PCMO)
-
 ## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
 ## Alumni Engagement Innovation Fund (AEIF) 2026
+
+## U.S. Ambassador Welcomes Azamra’s Expansion into Cameroon, Underscores Stronger U.S.–Cameroon Economic Ties
 
 - Manage options
 - Manage services

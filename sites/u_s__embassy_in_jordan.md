@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19RC1126Q0005 Uniforms / RSU
+
+## Economic Opportunity
+
 ## Request for Quotations number 19J01026Q0019/ Brand New Vehicle
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Quotations number 19J01026Q0013/ Providing gym membership services
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0011/ Supply and Deliver One New Vehicle
 
 - Manage options
 - Manage services
