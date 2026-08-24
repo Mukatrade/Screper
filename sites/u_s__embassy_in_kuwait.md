@@ -30,9 +30,9 @@
 
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by June 25, 2025, at 10:00 am Kuwait local time. No quotes will be accepted after this time. Please enter the title of your email as “ Quote – RFQ 19KU2025Q0014 – Replace Heavy-duty Metal Doors at Support Annex
 
-## Amendment 0001- 19KU2026Q0011 – Ramps & Concrete Upgrade Project – PR16106864
+## Amendment 0002: Enclosure A Questions and Answers – RFQ: 19KU2026Q0011 – Ramps & Concrete Upgrade Project – PR16106864
 
-- The quotation due date is hereby changed from Aug 23, 2026, at 10:00 a.m. Kuwait local time to Aug 30, 2026 , at 10:00 a.m. Kuwait local time. No quotations will be accepted after this time. Submit your quotation by email with the subject line: Quote – RFQ _19KU2026Q0011 – Ramps & Concrete Upgrade Project.
+- Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by Aug 30, 2026, at 10:00 am Kuwait local time.  No quotes will be accepted after this time. Please enter the title of your email as “ Quote – RFQ _19KU2026Q0011 – Ramps & Concrete Upgrade Project.
 
 ## Amendment 0002 : RFQ : 19KU2026Q0009 – USAGM-Fence Cleaning Services
 

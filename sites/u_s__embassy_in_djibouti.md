@@ -5,6 +5,7 @@
 ---
 
 Solicitation Number | Procurement Type | Title | Deadline for Quote Submission | More Information
+19DJ1026Q0022 | Solicitation | Swimming Pool Preventive Maintenance Services for Deputy Chief of Mission Residence (DCMR) | 09/20/2026 | Click to see the full notice
 19DJ1026Q0021 | Solicitation | DCMR Gardening Service Contractor | 09/17/2026 | Click to see the full notice
 19DJ1026Q0020 | Solicitation | Pool Cleaning and Maintenance for the Chief of Mission Residence (CMR) | 09/14/2026 | Click to see the full notice
 19DJ1026Q0016 | Solicitation | FAC PROJECT RFQ Security Lights Design and Installation | 09/08/2026 | Click to see the full notice

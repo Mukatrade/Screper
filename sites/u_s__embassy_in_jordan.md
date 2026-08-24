@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0020/ Provision of Water Treatment Services for All Water Systems on the U.S Embassy Amman Compound
+
+## Economic Opportunity
+
 ## Request for Quotations number 19RC1126Q0005 Uniforms / RSU
 
 ## Economic Opportunity
@@ -14,7 +18,7 @@
 
 ## Economic Opportunity
 
-## Request for Quotations number 19J01026Q0018/ LOT D Infrastructure (Pavement) Project at US Embassy Amman
+## Request for Quotations number 19J01026Q0018/ LOT D Infrastructure (Pavement) Project at US Embassy Amman-Amendment-0001
 
 ## Economic Opportunity
 
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Quotations number 19J01026Q0008/ Catering Services
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0013/ Providing gym membership services
 
 - Manage options
 - Manage services
