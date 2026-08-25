@@ -6,7 +6,6 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – GENERAL SERVICES OFICE (GSO)
 
-- The US Embassy in Bogota has a requirement for Retail Promotions service if interested see the complete information in the attachments. [ Attachment ] [ NDAA ]
 - The US Embassy in Bogota has a requirement for supply of Miscellaneous Appliances if interested see the complete information in the attachments. [ Attachment ] [ NDAA ]
 - The US Embassy in Bogota has a requirement for promotional products, if interested see the complete information in the attachments. [ Attachment ] [ Q&A ]
 - The US Embassy has a requirement for security barriers under requirement PR15768825 . [ Attachment ] [ Q&A ]
@@ -37,7 +36,6 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
-- INL-RFQ PR16162412 – SILHOUETTE TARGETS FOR OPERATIONAL TRAINING . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ  – PR15696207 – MISCELLANEOUS CONSTRUCTION MATERIALS   AGUA CLARA . Deadline for quotations: September 4, 2026 at 16:00, (Bogota, Colombia), local
 - INL-RFQ  – PR15802396 – MOBILE SATELLITE INTERNET SYSTEM . Deadline for quotations: September 4, 2026 at 16:00, (Bogota, Colombia), local time
 - INL SINOPSIS A&E 2026-2027 .  Closing date and time: October 05, 2026, at 16:00 (Bogotá, Colombia), local time

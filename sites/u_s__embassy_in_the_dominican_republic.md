@@ -6,7 +6,11 @@
 
 ## Economic Opportunity
 
-## (RFQ) – VEHICLE PURCHASE DHS/ICE – PR16190044
+## PR16140034 – Communications Radios and Accessories for LGF
+
+## Economic Opportunity
+
+## (RFQ) – PR16169171 – Uniforms (Clothing and Boots) for the LGF
 
 ## Economic Opportunity
 
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## RFQ 19DR8625Q0002 Make Ready Services
-
-## Economic Opportunity
-
-## RFQ- PR12882880- Communication and Navigation of Navy Operations
 
 - Manage options
 - Manage services

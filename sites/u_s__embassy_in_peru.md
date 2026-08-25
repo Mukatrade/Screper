@@ -8,10 +8,6 @@
 - NCAGE CODE
 - SAM GOV
 
-#### RFQ 19PE5026Q0044 – CMR Pathways Restoration
-
-#### RFQ 19PE5026Q0041 – Automatic Transfer Switch (ATS) Installation
-
 #### RFQ 19PE5026Q0060 – Preventive Maintenance of Cooling Towers 3&4
 
 #### RFQ 19PE5026Q0059 – Preventive Maintenance of Cooling Towers 1&2
