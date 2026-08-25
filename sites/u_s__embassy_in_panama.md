@@ -30,11 +30,11 @@
 - Link to 19PM0726Q0023 SAM post
 - Link to 19PM0726Q0025 SAM Post
 
+## U.S. Embassy and RPC Radio Launch English on the Go Radio Series
+
 ## Expanded U.S.-Panama Security Cooperation Restores Sight to 80 Panamanians
 
 ## Travel Advisory: Panama August 19, 2026
-
-## PANAMAX 2026 Concludes: Back in the Field for the First Time Since 2012
 
 - Manage options
 - Manage services

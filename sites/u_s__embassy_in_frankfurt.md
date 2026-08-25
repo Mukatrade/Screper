@@ -6,12 +6,20 @@
 
 #### IMPORTANT!
 
-- 12 Lifepak CR2 units with a handle—semi-automatic 4G models—in German and English
-- Data plan for Lifepak CR2 with mobile data transmission, lifetime duration.
-- Instruction and commissioning for Lifepak CR2 units and mobile data transmission
 - Outdoor Mobile Modular Stage for events
-- 2 x Gas-Driven Utility Vehicle (UTV) – 3-Seater
-- 3 x Gas-Driven Utility Vehicle (UTV) – 2-Seater
+- Passenger Vehicle
+Vehicle make / model | BMW 5
+Body type | Sedan
+Seating Capacity | 5
+Numbers of doors | 4
+Fuel type | Plug-in Hybrid (gas + electro)
+Transmission type | Automatic
+Drivetrain type | 4 Wheel drive (x Drive)
+Min. Output performance | 220 kW (299 hp)
+Exterior Color | dark blue metallic
+Interior | leather/ artificial leather black
+Extras | 3 physical keys
+BMW Travel / Innovation/ Comfort Packages
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

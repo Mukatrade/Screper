@@ -6,6 +6,14 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0021/ Preventive Maintenance Services for Chillers
+
+## Economic Opportunity
+
+## Request for Quotations number 19J01026Q0016/ Pallet Storage Racking System
+
+## Economic Opportunity
+
 ## Request for Quotations number 19J01026Q0020/ Provision of Water Treatment Services for All Water Systems on the U.S Embassy Amman Compound
 
 ## Economic Opportunity
@@ -31,14 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Quotations number 19J01026Q0012/ Provision of a Brand New Vehicle
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0010/ Providing Vehicle maintenance and repair services BPA
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0008/ Catering Services
 
 - Manage options
 - Manage services

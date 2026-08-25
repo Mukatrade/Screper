@@ -5,7 +5,6 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
-RFQ 19H08026Q0059 | Solicitation | Construction Materials for Choluteca Morgue (PDF 998 KB) | | September 8, 2026
 RFP 19H08026R0007 | Solicitation | Public opinion research program (PDF 1432 KB) | | September 4, 2026
  | Licensing Agreement | Licensing for Cafeteria Services 2026 – 2027 (PDF 835KB) | Amendment 0001 (PDF 265KB) | September 3, 2026
 RFQ 19H08026R0006 | Solicitation | Physical Messaging Campaign Development and Execution (PDF 779 KB) | | September 3, 2026
