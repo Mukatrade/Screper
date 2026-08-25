@@ -6,10 +6,6 @@
 
 ## Request for Proposals
 
-## REQUEST FOR QUOTATION NUMBER-19KE5026Q0110 PDS – Freedom 250 Alumni Forum – AEIF
-
-## Request for Proposals
-
 ## REQUEST FOR QUOTATION NUMBER 19KE5026Q0094 MRU-PREVENTIVE MAINTENANCE OF 800KVA LV BOARD – KOMBEWA
 
 ## Request for Proposals
@@ -39,6 +35,10 @@
 ## Request for Proposals
 
 ## ADVERTISEMENT FOR ARCHITECT-ENGINEER SERVICES FOR PR16201927 ROSSLYN RIDGE RESIDENTIAL RETAINING WALL
+
+## Request for Proposals
+
+## REQUEST FOR QUOTATION (RFQ)- PR16154577: CDC DGHP – Supply of Generator Fuel at CDC NBO Office
 
 - Manage options
 - Manage services
