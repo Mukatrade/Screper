@@ -69,8 +69,8 @@
 
 ## PEACE CORPS
 
-- REQUEST FOR QUOTE: Office Space in Barranquilla, Atlantico, Colombia
-- REQUEST FOR QUOTE 25-002: 3- 4 bedroom apartment in Barranquilla, Colombia
+- REQUEST FOR QUOTATIONS : PRADO TOYOTA VEHICLE PURCHASE CONTRACT:Peace Corps/Colombia has a need for 1 vehicle. Peace Corps is soliciting fixed-price quotations from the vendor community for the vehicle detailed below. If you are interested in submitting a quotation, please do so by sending your completed and signed Attachment 1—Vendor Quotation Form by email to: E-mail: co-jobs@peacecorps.gov . Quotations are due no later than Close of Business September 4, 2026. Late quotations will not be accepted.
+- REQUEST FOR QUOTATIONS : RAV4 TOYOTA VEHICLE PURCHASE CONTRACT: Peace Corps/Colombia has a need for 2 vehicles. Peace Corps is soliciting fixed-price quotations from the vendor community for the vehicle detailed below. If you are interested in submitting a quotation, please do so by sending your completed and signed Attachment 1—Vendor Quotation Form by email to: E-mail: co-jobs@peacecorps.gov Quotations are due no later than Close of Business September 4, 2026, 2026. Late quotations will not be accepted.
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

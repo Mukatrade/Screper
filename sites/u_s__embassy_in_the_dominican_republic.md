@@ -10,10 +10,6 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0069 – CMR Roof Waterproofing Replacement
-
-## Economic Opportunity
-
 ## (RFQ) – 19DR8626Q0063_LB COMP_POOL SURFACE REPAIR
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## RFQ- PR12882880- Communication and Navigation of Navy Operations
+
+## Economic Opportunity
+
+## PR12734700 – VEHICLE 01 RENTAL FOR YEAR 2024 TO 2025
 
 - Manage options
 - Manage services
