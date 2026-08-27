@@ -8,7 +8,7 @@
 
 ## SOLICITATION NOTICES
 
-- Storm Drain Repair at the American Club (PDF 2MB)
+- 69 and 76 Residential Compound Paint (PDF 770KB)
 - Windows Replacement (138 University Avenue) (PDF 2MB)
 - Modification of Solicitation for Jefferson Center Mandalay Services (PDF 622KB)
 - Windows Replacement (PDF 1MB)

@@ -59,7 +59,9 @@
 
 - Submit your quote electronically by email to Kuwait_Solicitation@state.gov . Quotations are due by Aug 16, 2026, at 10:00 am Kuwait local time.  No quotes will be accepted after this time. Please enter the title of your email as “ Quote – RFQ _19KU2026Q0013 – AEWA Door & Tile Installation Upgrade.
 
-## Amendment 0001: Enclosure A: Questions and Answers: RFQ: 19KU2026Q0015 – Lease of two (2) Mid-Size SUVs – PR16173917
+## Amendment 0002: Extension: RFQ: 19KU2026Q0015 – Lease of two (2) Mid-Size SUVs – PR16173917
+
+- The quotation due date is hereby changed from Aug 27, 2026, at 10:00 a.m. Kuwait local time to Aug 31, 2026, at 10:00 a.m. Kuwait local time. No quotations will be accepted after this time. Offerors shall continue to submit their quotations by email to Kuwait_Solicitation@state.gov with the subject line: Quote: RFQ: 19KU2026Q0015- Lease of two (2) Mid-Size SU
 
 ## Amendment 0002 RFQ : 19KU2026Q0012 – Chancery Annex Restroom, Lactation RM &Locker RMs Renovation
 
