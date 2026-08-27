@@ -6,7 +6,6 @@
 
 #### IMPORTANT!
 
-- Outdoor Mobile Modular Stage for events
 - Passenger Vehicle
 Vehicle make / model | BMW 5
 Body type | Sedan

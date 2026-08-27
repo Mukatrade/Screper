@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotes – PR16197636 – Event Management Services, “Inspiring the Next Learning Economy” Forum, U.S. Embassy Abuja
+
+## Request for Quotes – PR16202025 – Top End Overhaul of 1000KVA Caterpillar Generator (G2), U.S. Embassy Abuja
+
 ## RFQ PR16216741 – Request for Proposals for Event Management and Facilitation for Freedom 250 Programming for Six American Spaces – Phase 2
-
-## Advertisement: 19N10226Q0025 – Event management and logistics services for a day commercial diplomacy summit
-
-## Request for Quotes – Shock Absorber – JTMHX01J304220750 JTMHX01J8042 JTMHX015904223040 JTMHX01J704218872
 
 - Manage options
 - Manage services
