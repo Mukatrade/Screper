@@ -17,6 +17,7 @@
 ## Current Solicitations Islamabad
 
 Solicitation Number | Title | Issue Date | Closing Date | More Information
+19PK3326Q7081 | Language Instructors Services, U.S. Embassy, Islamabad, Pakistan. | August 28, 2026 | September 28, 2026 | Click to see the full notice: RFQ19PK3326Q7081 Language Instructors DS-4184
 19PK3326Q1063 | LPG Cylinder Refilling Services for U.S. Embassy Islamabad | August 10, 2026 | August 17, 2026 | Click to see the full notice: LPG Cylinder Refilling Services for U.S. Embassy Islamabad
 19PK3326Q1062 | Contractor Services – Replacement of Mineral Oil, Medium Voltage AVRs and VFI | August 5, 2026 | September 4, 2026 | Click to see the full notice: RFQ 19PK3326Q1062 Contractor Services – Replacement of Mineral Oil AVR Oil Replacement SOW
 19PK3326Q1061 | Supply of Esters Oil for Vacuum Fault Interrupter (VFI) | August 5, 2026 | September 4, 2026 | Click to see the full notice: RFQ 19PK3326Q1061 Supply of Esters Oil for VFIs

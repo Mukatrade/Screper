@@ -66,6 +66,7 @@ Solicitation No. | Date & Time Issued (Manila Time): | Deadline for Submission (
 19RP3826Q0093 Room Accommodation and Conference Package for OPDAT Workshop (July 28 – August 5, 2026) Solicitation Package (PDF 12 MB) Technical Specifications (XLSX 27 KB) | – – 01-July-2026 01-July-2026 | – – 10-July-2026, 02:00 PM 10-July-2026, 02:00 PM
 19RP3826Q0094 Supply and Delivery of Unarmored SUV vehicle Solicitation Package (PDF 8 MB) Technical Specifications (XLSX 25 KB) | – – 21-Aug-2026 21-Aug-2026 | – – 07-Sept-2026 07-Sept-2026
 19RP3826Q0097 Supply and Delivery of Mobile Phones and Accessories Solicitation Package | – – 10-Aug-2026 | – – 19-Aug-2026, 4:00 PM
+19RP3826Q0098 Exhibition pavilion for the International Bazaar 2026 Solicitation Package (PDF 8 MB) | – – 27-Aug-2026 | – – 07-Sept-2026, 10:00 AM
 19RP3826Q0099 Supply and Delivery of Fuel for August 2026 Solicitation Package (PDF 24 MB) Technical Specifications (XLSX 21 KB) | – – 12-Aug-2026 | – – 24-Aug-2026, 12:00 NN
 - Manage options
 - Manage services
