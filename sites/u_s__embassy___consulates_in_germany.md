@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Volunteer Foreign National Student Internship Program (FSNIP) for the Health Unit (HU)
+
+## Economic Opportunity
+
 ## Job Opportunity FAQs
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Volunteer Foreign National Internship – Public Diplomacy Office (PD)
-
-## Economic Opportunity
-
-## Volunteer Foreign National Internship – Political Affairs
 
 - Manage options
 - Manage services
