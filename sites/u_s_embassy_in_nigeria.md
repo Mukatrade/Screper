@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotes – PR16203197 – Armored Vehicle Defensive Driving Course
+
 ## Request for Quotes – PR16197636 – Event Management Services, “Inspiring the Next Learning Economy” Forum, U.S. Embassy Abuja
 
 ## Request for Quotes – PR16202025 – Top End Overhaul of 1000KVA Caterpillar Generator (G2), U.S. Embassy Abuja
-
-## RFQ PR16216741 – Request for Proposals for Event Management and Facilitation for Freedom 250 Programming for Six American Spaces – Phase 2
 
 - Manage options
 - Manage services

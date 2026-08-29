@@ -4,10 +4,6 @@
 
 ---
 
-## REFRIGERANT GAS/UTILITY CHILLERS/NEC HVAC
-
-- Request For Quotation – 19GH1026Q0027 – Refrigerant Gas
-
 ## COMMERCIAL DISHWASHER
 
 - Request – For – Quotation – PR16118611- Commercial Dishwasher
