@@ -6,14 +6,6 @@
 
 ## Procurement Opportunities
 
-## Contract Opportunity – Mixed Methods Research Project
-
-## Procurement Opportunities
-
-## Contract Opportunity – Multifunction Copier and Desktop Computers
-
-## Procurement Opportunities
-
 ## Contract Opportunity – Solid Waste Disposal Services
 
 ## Procurement Opportunities

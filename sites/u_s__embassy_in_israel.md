@@ -8,8 +8,6 @@
 
 ## Request for Quotations
 
-- 191S7026Q0006 Installing Kitchen Cabinet Warehouse, Netanya
-- Solicitation 191S7026Q0006
 - RFQ-PR16213993 4X4 SUV vehicle
 - Pre-Solicitation Notice PR#16144204 AE Services
 - SOW- A&E Design and Permitting Services – Arnona & Allenby
