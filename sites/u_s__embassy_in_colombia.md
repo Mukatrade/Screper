@@ -37,6 +37,9 @@
 
 ## POST EMPLOYEE SERVICES ASSOCIATION – NARCOTICS AND LAW ENFORCEMENT AFFAIRS OFFICE (INL)
 
+- INL-RFQ PR16193384 – INL LOG – WAREHOUSE FLOOR MAINTENANCE . Deadline for quotations: September 4, 2026 at 16:00, (Bogota, Colombia), local time
+- INL-RFQ PR16175580 –  Graykey Mobile License Renewal brand name . Deadline for quotations: September 14, 2026 at 16:00, (Bogota, Colombia), local time
+- INL-RFQ PR16048323 – K9 TOOLS . Deadline for quotations: September 8, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ PR16162412 – SILHOUETTE TARGETS FOR OPERATIONAL TRAINING . Deadline for quotations: August 31, 2026 at 16:00, (Bogota, Colombia), local time
 - INL-RFQ  – PR15696207 – MISCELLANEOUS CONSTRUCTION MATERIALS   AGUA CLARA . Deadline for quotations: September 4, 2026 at 16:00, (Bogota, Colombia), local
 - INL-RFQ  – PR15802396 – MOBILE SATELLITE INTERNET SYSTEM . Deadline for quotations: September 4, 2026 at 16:00, (Bogota, Colombia), local time
@@ -70,7 +73,7 @@
 ## PEACE CORPS
 
 - REQUEST FOR QUOTATIONS : PRADO TOYOTA VEHICLE PURCHASE CONTRACT:Peace Corps/Colombia has a need for 1 vehicle. Peace Corps is soliciting fixed-price quotations from the vendor community for the vehicle detailed below. If you are interested in submitting a quotation, please do so by sending your completed and signed Attachment 1—Vendor Quotation Form by email to: E-mail: co-jobs@peacecorps.gov . Quotations are due no later than Close of Business September 4, 2026. Late quotations will not be accepted.
-- REQUEST FOR QUOTATIONS : RAV4 TOYOTA VEHICLE PURCHASE CONTRACT: Peace Corps/Colombia has a need for 2 vehicles. Peace Corps is soliciting fixed-price quotations from the vendor community for the vehicle detailed below. If you are interested in submitting a quotation, please do so by sending your completed and signed Attachment 1—Vendor Quotation Form by email to: E-mail: co-jobs@peacecorps.gov Quotations are due no later than Close of Business September 4, 2026, 2026. Late quotations will not be accepted.
+- REQUEST FOR QUOTATIONS : RAV4 TOYOTA VEHICLE PURCHASE CONTRACT:Peace Corps/Colombia has a need for 2 vehicles. Peace Corps is soliciting fixed-price quotations from the vendor community for the vehicle detailed below. If you are interested in submitting a quotation, please do so by sending your completed and signed Attachment 1—Vendor Quotation Form by email to: E-mail: co-jobs@peacecorps.gov Quotations are due no later than Close of Business September 4, 2026, 2026. Late quotations will not be accepted.
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
