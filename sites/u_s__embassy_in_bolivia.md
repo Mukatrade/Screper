@@ -16,9 +16,9 @@
 
 ## Grants Corner
 
-## FY26 Notice of Funding Opportunity: CHOP
-
 ## Routine Message – U. S. Embassy La Paz, Bolivia (August 18, 2026)
+
+## U.S. Air Force Research Delegation Visits Bolivia to Expand Scientific Cooperation
 
 - Manage options
 - Manage services

@@ -8,6 +8,8 @@
 
 ## Request for Quotations
 
+- RFQ PR#16236888
+- Statement of Work
 - 191S7026Q0006 Installing Kitchen Cabinet Warehouse, Netanya
 - Solicitation 191S7026Q0006
 - RFQ-PR16213993 4X4 SUV vehicle

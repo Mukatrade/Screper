@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0020/ Provision of Water Treatment Services for All Water Systems on the U.S Embassy Amman Compound
+
+## Economic Opportunity
+
 ## Request for Quotations number 19J01026Q0021/ Preventive Maintenance Services for Chillers
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Quotations number 19J01026Q0014/ Providing Public Opinion Research Surveys/Amendment No. 0001
-
-## Economic Opportunity
-
-## Request for Quotations number 19J01026Q0010/ Providing Vehicle maintenance and repair services BPA
 
 - Manage options
 - Manage services
