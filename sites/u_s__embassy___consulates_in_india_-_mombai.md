@@ -42,7 +42,6 @@
 - Solicitation No. 191N3026Q005 – Purchase of Passenger Vans (Two Nos.)
 - Solicitation No. 191N3026Q006 – Emerging Innovation Lab Design & Integration
 - Solicitation No. 191N3026Q0007 – Purchase of mid-size SUV
-- Solicitation No. 191N3026Q0008 – Celebration of 250th American National Day 2026
 
 ## Contract Solicitations – Mumbai
 
