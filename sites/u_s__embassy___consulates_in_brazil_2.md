@@ -10,6 +10,8 @@
 
 ## Purchase Orders
 
+## Rio de Janeiro: Commercial proposal request for the procurement of a Dehumidifier 220V (Quotations accepted until September 15, 2026)
+
 ## Recife: Vehicle for US Consulate Recife (Quotations accepted until  September 8, 2026.)
 
 - Quotations must be submitted no later than September 8, 2026, by 4:00 PM (Brasilia time).

@@ -6,11 +6,11 @@
 
 ## Economic Opportunity
 
-## RFQ for Cellphone Services
+## rfq for connecting enterprise internet service
 
 ## Economic Opportunity
 
-## RFQ for Construction Services
+## RFQ for Cellphone Services
 
 ## Economic Opportunity
 

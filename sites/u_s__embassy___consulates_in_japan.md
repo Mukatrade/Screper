@@ -5,8 +5,8 @@
 ---
 
 Description of Services/Supplies: | Issued: | Site Visit: | Quotations/Proposals Due By: (JST)
-Domestic Water Pipe Replacement Services for the U.S. Consulate General Sapporo Pre-solicitation Notice (July 30) RFQ 19JA7026Q0146 (Aug. 13) | Aug. 13 | Aug. 26 at 12:30 p.m. | Sept. 10 by 12 noon
-Staff Room Restoration Services for the U.S. Consulate General Sapporo Pre-solicitation Notice (July 27) RFQ 19JA7026Q0122 (Aug. 13) | Aug. 13 | Aug. 26 at 11 a.m. | Sept. 10 by 12 noon
+Domestic Water Pipe Replacement Services for the U.S. Consulate General Sapporo Pre-solicitation Notice (July 30) RFQ 19JA7026Q0146 (Aug. 13) Amendment 001 (Aug. 31) | Aug. 13 | Aug. 26 at 12:30 p.m. | Sept. 10 by 12 noon
+Staff Room Restoration Services for the U.S. Consulate General Sapporo Pre-solicitation Notice (July 27) RFQ 19JA7026Q0122 (Aug. 13) Amendment 001 (Aug. 31) | Aug. 13 | Aug. 26 at 11 a.m. | Sept. 10 by 12 noon
 Studio Set Renovation Services for Public Affairs Section Pre-solicitation Notice (July 27) RFQ No. 19JA8026Q0043 (Aug. 12) Amendment No. 0001 (Aug. 27) | Aug. 12 | Aug. 20 at 2 p.m. | Sept. 10 by 11 a.m.
 Building Maintenance Services for JLTC in Yokohama Pre-solicitation Notice ( Updated Aug. 10 ) RFQ No. 19JA8026Q0042 (Aug. 10) Amendment No. 00001 (Aug. 25) | Aug. 10 | Aug. 19 at 2 p.m. | Sept. 1 by 11 a.m.
 Sliding Gate Safety Deficiencies Remediation (Naha) Pre-solicitation Notice (April 30) RFQ 19JA5126Q0367 (July 16) Amendment 0001 (July 23) Amendment 0002 (Aug. 14) Amendment 0003 (Aug. 25) | July 16 | Aug. 3 at 2 p.m. | Sept. 1 by 11 a.m.

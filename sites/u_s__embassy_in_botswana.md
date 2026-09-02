@@ -20,9 +20,9 @@
 
 ### Bureau of Economic and Business Affairs
 
-## RFQ for Cellphone Services
+## rfq for connecting enterprise internet service
 
-## RFQ for Construction Services
+## RFQ for Cellphone Services
 
 ## African Growth & Opportunity Act
 

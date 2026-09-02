@@ -10,11 +10,7 @@
 
 ## Economic Opportunity
 
-## (RFQ) – 19DR8626Q0063_LB COMP_POOL SURFACE REPAIR
-
-## Economic Opportunity
-
-## (RFQ) – 19DR8626Q0074_FAC Sewage Register Installation Bambues Compound
+## RFQ 19DR8626Q0056 AVR Maintenance – 2nd Amend
 
 ## Economic Opportunity
 
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## RFQ PR12826237 – HR Outsource Services
+
+## Economic Opportunity
+
+## Lodging and Conference Room for Transformational Leadership Workshop, Aug 2024
 
 - Manage options
 - Manage services
