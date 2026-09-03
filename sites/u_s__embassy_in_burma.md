@@ -8,6 +8,7 @@
 
 ## SOLICITATION NOTICES
 
+- Internet service at 84/86 Pyay Road (PDF 1MB)
 - 69 and 76 Residential Compound Paint (PDF 770KB)
 - Windows Replacement (138 University Avenue) (PDF 2MB)
 - Modification of Solicitation for Jefferson Center Mandalay Services (PDF 622KB)

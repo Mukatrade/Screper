@@ -20,7 +20,7 @@
 
 ### Bureau of Economic and Business Affairs
 
-## rfq for connecting enterprise internet service
+## RFQ for Connecting Enterprise Internet Service
 
 ## RFQ for Cellphone Services
 
