@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## Request for Quotes PR16198631 – Laboratory Diagnostic Product
-
-## Request for Quotes PR16198495 – Personal Protective Equipment (PPE)
-
 ## Request for Quotes – PR16241628 – iPhone 17 Pro Max
+
+## Request for Quotes – PR16203197 – Armored Vehicle Defensive Driving Course
+
+## Request for Quotes – PR16197636 – Event Management Services, “Inspiring the Next Learning Economy” Forum, U.S. Embassy Abuja
 
 - Manage options
 - Manage services

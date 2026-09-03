@@ -10,13 +10,6 @@
 
 ## Purchase Orders
 
-## Rio de Janeiro: Commercial proposal request for the procurement of a 7-Seater Luxury SUV (Quotations accepted until September 16, 2026)
-
-- Automatic transmission (minimum 6 speeds); AWD or 4×4 drivetrain with selector; minimum ground clearance of 200 mm.
-- Minimum 200 hp; Advanced Driver Assistance Systems (ACC, automatic emergency braking, lane keeping assist, blind spot monitoring, rear cross-traffic alert, automatic high beam, front/rear parking sensors with rearview camera, ESC, minimum of 6 airbags).
-- Leather or premium synthetic interior trim; automatic multi-zone air conditioning; foldable seats; multimedia system with Apple CarPlay and Android Auto.
-- Minimum 3-year full factory warranty, with proof of an active authorized service network in the Metropolitan Area of Rio de Janeiro.
-
 ## Rio de Janeiro: Commercial proposal request for the procurement of a Dehumidifier 220V (Quotations accepted until September 15, 2026)
 
 ## Recife: Vehicle for US Consulate Recife (Quotations accepted until  September 8, 2026.)

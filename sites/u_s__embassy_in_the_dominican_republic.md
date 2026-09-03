@@ -6,14 +6,6 @@
 
 ## Economic Opportunity
 
-## (RFQ) – PR16245712 – FAC—GRAB AND GO REFRIGERATOR FOR CAFETERIA–ICASS
-
-## Economic Opportunity
-
-## PR16211149 – MSG Vehicle Purchase – Toyota 4Runner (or equivalent).
-
-## Economic Opportunity
-
 ## (RFQ) – VEHICLE PURCHASE DHS/ICE – PR16190044
 
 ## Economic Opportunity
@@ -39,6 +31,14 @@
 ## Economic Opportunity
 
 ## PR12734700 – VEHICLE 01 RENTAL FOR YEAR 2024 TO 2025
+
+## Economic Opportunity
+
+## RFQ PR12826237 – HR Outsource Services
+
+## Economic Opportunity
+
+## Lodging and Conference Room for Transformational Leadership Workshop, Aug 2024
 
 - Manage options
 - Manage services

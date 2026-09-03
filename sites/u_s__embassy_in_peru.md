@@ -8,8 +8,6 @@
 - NCAGE CODE
 - SAM GOV
 
-#### RFQ 19PE5026Q0055 – Main Entrance and Walkway Restoration
-
 #### A&E Services – Qualifications Required
 
 - Relevant, professional qualifications of the firm in the type of work required for projects having a construction value of at least $25,000 in the past three years;
