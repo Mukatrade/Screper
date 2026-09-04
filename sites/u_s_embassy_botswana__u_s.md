@@ -6,7 +6,7 @@
 
 ## Economic Opportunity
 
-## rfq for connecting enterprise internet service
+## RFQ for Connecting Enterprise Internet Service
 
 ## Economic Opportunity
 
