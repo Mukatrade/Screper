@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## Request for Quotes PR16198631 – Laboratory Diagnostic Product
+## Solicitation – PR16234659 – Servers
 
-## Request for Quotes PR16198495 – Personal Protective Equipment (PPE)
+## Solicitation PR16234681 – 2U Rackmount Enterprise GPU Server
 
-## Request for Quotes – PR16241628 – iPhone 17 Pro Max
+## Solicitation – PR16187255 – Supply of 14-inch Enterprise Class Laptops
 
 - Manage options
 - Manage services

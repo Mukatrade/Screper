@@ -14,7 +14,6 @@
 - Solicitation to Provide Hindi and Urdu Language Classes at the U.S. Embassy, New Delhi
 - Solicitation for Chilled and Hot Water Piping Interconnection Work at the U.S. Embassy, New Delhi
 - Solicitation to provide HVAC and Electrical Power Generation and Transmission Training at the U.S. Embassy, New Delhi
-- Solicitation to provide renovation services for converting the existing bathhouse into a toilet facility at the U.S. Embassy, New Delhi
 - Solicitation to Provide Structural Retrofitting Services at the U.S. Embassy, New Delhi
 - Solicitation for Supply, Installation, Testing and Commissioning of addressable fire detection/alarm system services at the U.S. Embassy, New Delhi
 - Solicitation 191N6526Q0102 for Supply of Pickup Truck with Space for Materials at the U.S. Embassy, New Delhi

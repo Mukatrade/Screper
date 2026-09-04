@@ -8,6 +8,8 @@
 - NCAGE CODE
 - SAM GOV
 
+#### RFQ 19PE5026Q0051 – Supply of Lighting Fixtures for the Chancery Facade
+
 #### RFQ 19PE5026Q0055 – Main Entrance and Walkway Restoration
 
 #### A&E Services – Qualifications Required
@@ -35,8 +37,6 @@
 #### RFQ 19PE5026Q0059 – Preventive Maintenance of Cooling Towers 1&2
 
 #### RFQ 19PE5026Q0054 – DHS/HSI – Government Official Vehicle
-
-#### RFQ 19PE5026Q0047 – DHS/HSI – FY26 Vehicle Rental (TCIU)
 
 - Manage options
 - Manage services
