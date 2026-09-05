@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## PR16252672 – New GOV Motorpool
+
+## Economic Opportunity
+
 ## (RFQ) – PR16245712 – FAC—GRAB AND GO REFRIGERATOR FOR CAFETERIA–ICASS
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## 19DR8625Q0008– Make Ready Services Calle Selene 37
-
-## Economic Opportunity
-
-## RFQ 19DR8625Q0002 Make Ready Services
 
 - Manage options
 - Manage services

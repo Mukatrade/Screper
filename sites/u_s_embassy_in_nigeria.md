@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotation – PR16194686Subject: Request for Shock Absorber – JTMHX01J304220750; JTMHX01J804220551; JTMHX015904223040; JTMHX01J704218872
+
 ## Solicitation – PR16234659 – Servers
 
 ## Solicitation PR16234681 – 2U Rackmount Enterprise GPU Server
-
-## Solicitation – PR16187255 – Supply of 14-inch Enterprise Class Laptops
 
 - Manage options
 - Manage services

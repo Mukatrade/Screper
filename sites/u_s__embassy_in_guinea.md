@@ -6,6 +6,10 @@
 
 ## PROCUREMENT ADVERTISEMENTS
 
+## Computer And Computer Peripheral Equipment And Software Merchant
+
+## PROCUREMENT ADVERTISEMENTS
+
 ## Solicitation For Event Hosting and Management Services for the Second U.S.-Guinea Alumni Forum
 
 ## PROCUREMENT ADVERTISEMENTS
@@ -35,10 +39,6 @@
 ## PROCUREMENT ADVERTISEMENTS
 
 ## Solicitation For Miscellaneous Electric Power and Distribution Equipment
-
-## PROCUREMENT ADVERTISEMENTS
-
-## Solicitation – PMSC – Standby low-voltage Diesel Generators
 
 - Manage options
 - Manage services
