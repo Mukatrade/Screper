@@ -18,10 +18,6 @@
 
 ## Economic Opportunity
 
-## (RFQ) – VEHICLE PURCHASE DHS/ICE – PR16190044
-
-## Economic Opportunity
-
 ## RFQ 19DR8626Q0069 – CMR Roof Waterproofing Replacement
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## 19DR8625Q0008– Make Ready Services Calle Selene 37
+
+## Economic Opportunity
+
+## RFQ 19DR8625Q0002 Make Ready Services
 
 - Manage options
 - Manage services
