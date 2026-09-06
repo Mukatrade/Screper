@@ -6,6 +6,14 @@
 
 ## Economic Opportunity
 
+## Health Foreign Assistance Memorandum of Understanding (MOU) Implementation in Cameroon
+
+## Economic Opportunity
+
+## U.S.-Africa Strategic Investment Program
+
+## Economic Opportunity
+
 ## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
 ## Economic Opportunity
@@ -31,14 +39,6 @@
 ## Economic Opportunity
 
 ## Request for Information and Expressions of Interest for a situational Analysis in Cameroon
-
-## Economic Opportunity
-
-## 2024-2026 English Access Microscholarship Program
-
-## Economic Opportunity
-
-## Embassy Grants Opportunities
 
 - Manage options
 - Manage services

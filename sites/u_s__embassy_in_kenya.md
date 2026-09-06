@@ -6,6 +6,14 @@
 
 ## Request for Proposals
 
+## Request for Quotation PR16227859 – RR network cabinets rehabilitation/replacement DTI-CIS
+
+## Request for Proposals
+
+## REQUEST FOR QUOTATION (RFQ)- PR16251147- MED UNIT LENOLIUM FLOOR INSTALLATION
+
+## Request for Proposals
+
 ## REQUEST FOR QUOTATION (RFQ)- PR16233448 – Supply of Low Sulphur Diesel for NOX Gas Station
 
 ## Request for Proposals
@@ -31,14 +39,6 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION NUMBER 19KE5026Q0094 MRU-PREVENTIVE MAINTENANCE OF 800KVA LV BOARD – KOMBEWA
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION No. 19KE5026Q0070 – Install Shatter Resistant Window Film 8mil. – Rosslyn Grove
-
-## Request for Proposals
-
-## Request for Quotation PR16160483 MRU-SENSOSCINTIFIC TEMPERATURE MONITORING SYSTEM-KOMBEWA
 
 - Manage options
 - Manage services
