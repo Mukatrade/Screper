@@ -9,6 +9,7 @@
 
 ## Current Procurement and Grants Opportunities
 
+- PR16229848 | Destruction of Armored Vehicles | Closing Date: September 15, 2026 at 12:00pm, local time
 - PR16188518 | Supply of Laboratory Freezer | Closing Date: September 3, 2026, at 12:00pm Local time
 - PR16192226 | Supply of Wi-Fi Network Analyzer | Extended Closing Date: September 4, 2026, at 12:00am, local time
 - 19UG5026Q0020 | Provision of Event Management and Audio-Visual Services for Public Diplomacy Events for a Period of 12 Months | Closing: August 31, 2026, at 10:00am (Local time)
