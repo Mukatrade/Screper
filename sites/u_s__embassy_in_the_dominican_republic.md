@@ -22,10 +22,6 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0056 AVR Maintenance – 2nd Amend
-
-## Economic Opportunity
-
 ## PR16050856 – RSO Emergency Response Vehicle
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## RFQ 19DR8625Q0002 Make Ready Services
+
+## Economic Opportunity
+
+## RFQ- PR12882880- Communication and Navigation of Navy Operations
 
 - Manage options
 - Manage services
