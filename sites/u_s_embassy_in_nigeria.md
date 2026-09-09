@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Solicitation PR16224873 – RCBOs for Residential Electrical Protection
+
+## Solicitation PR16104723 – Representational Gift Items for EXEC
+
 ## Request for Quotation – PR16194686Subject: Request for Shock Absorber – JTMHX01J304220750; JTMHX01J804220551; JTMHX015904223040; JTMHX01J704218872
-
-## Solicitation – PR16234659 – Servers
-
-## Solicitation PR16234681 – 2U Rackmount Enterprise GPU Server
 
 - Manage options
 - Manage services
