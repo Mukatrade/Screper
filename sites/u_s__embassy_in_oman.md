@@ -7,15 +7,9 @@
 ## Solicitation Announcements
 
 Solicitation (RFQ) No. | Title | Posting Date | Bid submission due date | More Information
-19MU3026Q0018 | Chancery Main Waterline Replacement | August 26, 2026 | September 14, 2026. | Site Visit: September 07, 2026 , AT 10:00 AM Solicitation Package
+19MU3026Q0018 | Chancery Main Waterline Replacement | August 26, 2026 | September 14, 2026. | Site Visit: September 07, 2026 , AT 10:00 AM Solicitation Package FAQ
 19MU3026Q0017 | Replacement of Cafeteria Floor Tiles | August 17, 2026 | August 26, 2026, before 2:00 pm | Solicitation Package
 PR16122640 | ECA Vehicle Lease 26-27 | July 27, 2026 | August 9, 2026 before 2:00 pm | Solicitation Package
-PR16124281 | DLA Vehicle Lease FY26 | July 13, 2026 | July 27, 2026, before 2:00 pm | Solicitation Package
-19MU3026Q0014 | Diplomatic Pouch Services | July 2, 2026 | August 6, 2026, before 2:00 PM | Solicitation Package
-PR16045169 | 4WD SUV for Operational Fleet Support | June 23, 2026 | July 07, 2026, before 2:00 PM | Solicitation Package
-PR16064300 | GCC Spec 4×4 SUV for Motor Pool | June 16, 2026 | June 30, 2026, before 2:00 pm | Solicitation Package
-19MU3026R0002 | LE Staff Health and Life Insurance Solicitation | May 17, 2026 | July 08, 2026 before 1400 Hrs. | 19MU3026R0002 Health and Life Insurance Solicitation Solicitation 19MU3026R0002 Amendment 01 – SF-30- Claims data updated
-19MU3026Q0016 | MCT-DTO-VNET Dedicated Internet Access | May 10, 2026 | June 4, 2026, GST | 19MU3026Q0016 VNET-Dedicated Fiber Broadband Circuit.pdf Amendment 0001 – Solicitation 19MU3026Q0016.pdf
 
 ## Key Information
 
