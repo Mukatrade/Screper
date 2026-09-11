@@ -8,6 +8,7 @@
 
 ## Request for Quotations
 
+- PR16276860 – iPhone 17 256 GB (O= 9/11/2026 C=9/26/2026)
 - 191D3226Q0007 – RFQ of Footwear for LGF Team (O = 09/03/2026 C = 09/11/2026)
 - Solicitation No 191D3226R0033 A&E Design Tennis Court Roof in AECRA Club (O=08/25/2026 C=9/4/2026)
 - RFQ PR16223103 Budget Officer Workshop Jakarta Feb 2027 (O=08/21/2026 C=09/04/2026)
