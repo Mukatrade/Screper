@@ -23,6 +23,7 @@
 - Solicitation to Supply Truck Cabin Chassis at the U.S. Embassy, New Delhi
 - Solicitation-191N6526Q0110 for Providing Televised Media Monitoring Services to the U.S. Embassy, New Delhi
 - Solicitation for Supply of 2 nos. Truck Cabin Chassis (suitable for 10,000-liter Water tanker) at the U.S. Embassy, New Delhi
+- Solicitation-191N6526Q0115 for “Supplying, Installation, Testing and Commissioning of AV equipment’s” at American Center, 24-KG Marg, Connaught Place
 
 ## Contract Solicitations – Chennai
 

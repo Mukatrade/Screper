@@ -8,11 +8,16 @@
 - NCAGE CODE
 - SAM GOV
 
+#### RFQ 19PE5026Q0065 – Embassy Compound Control Access CAC’s Flooring Replacement
+
 #### RFQ 19PE5026Q0043 – Chancery Modification of Two Existing Roof Access Ladder
 
 #### RFQ 19PE5026Q0051 – Supply of Lighting Fixtures for the Chancery Facade
 
 #### RFQ 19PE5026Q0055 – Main Entrance and Walkway Restoration
+
+- SF30 – Modification to extend the Due Date until September 15, 2026 no later than 16:00 hrs.
+- Questions & Answers
 
 #### A&E Services – Qualifications Required
 
@@ -33,12 +38,6 @@
 #### RFQ 19PE5026Q0044 – CMR Pathways Restoration
 
 #### RFQ 19PE5026Q0041 – Automatic Transfer Switch (ATS) Installation
-
-#### RFQ 19PE5026Q0060 – Preventive Maintenance of Cooling Towers 3&4
-
-#### RFQ 19PE5026Q0059 – Preventive Maintenance of Cooling Towers 1&2
-
-#### RFQ 19PE5026Q0054 – DHS/HSI – Government Official Vehicle
 
 - Manage options
 - Manage services

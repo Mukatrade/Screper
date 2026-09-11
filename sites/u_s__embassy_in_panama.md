@@ -31,12 +31,13 @@
 - Link to 19PM0726Q0026 SAM Post
 - Link to 19PM0726Q0027 SAM Post
 - Link to 19PM0726Q0029 SAM Post
+- Link to 19PM0726Q0031 SAM Post
+
+## U.S. Scientific Research Aircraft Arrives in Panama for NASA-NOAA Atmospheric Mission
 
 ## U.S. Embassy and RPC Radio Launch English on the Go Radio Series
 
 ## Expanded U.S.-Panama Security Cooperation Restores Sight to 80 Panamanians
-
-## Travel Advisory: Panama August 19, 2026
 
 - Manage options
 - Manage services
