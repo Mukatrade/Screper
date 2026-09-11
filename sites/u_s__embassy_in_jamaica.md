@@ -10,6 +10,10 @@
 
 ## Procurement Opportunities
 
+## Contract Opportunity – Multifunction Copier and Desktop Computers
+
+## Procurement Opportunities
+
 ## Procurement/Contract Opportunities
 
 - Manage options
