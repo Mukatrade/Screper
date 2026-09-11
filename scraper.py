@@ -620,11 +620,16 @@ def main() -> None:
     except Exception as e:
         print(f"  (run-history write skipped: {e})")
 
-    # 5. Always send a daily summary email
+    # 5. Daily summary email (gated: 2026-09-11, Yaron paused report emails,
+    #    scan/dashboard-write logic above is unaffected; set SEND_REPORT_EMAIL=true
+    #    (workflow env or repo var) to resume sending).
     print("\n--- Reporting ---")
     subject, html, plain = build_report(findings, stats)
-    print(f"Sending report: {subject}")
-    send_email(subject, html, plain)
+    if os.environ.get("SEND_REPORT_EMAIL", "false").strip().lower() in ("1", "true", "yes"):
+        print(f"Sending report: {subject}")
+        send_email(subject, html, plain)
+    else:
+        print(f"Report email suppressed (SEND_REPORT_EMAIL not enabled): {subject}")
 
     print("\nDone.")
 
