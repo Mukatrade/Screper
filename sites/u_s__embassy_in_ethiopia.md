@@ -6,6 +6,7 @@
 
 ## Open Opportunities
 
+- Invitation to bid for the procurement of various supplies (Closes September 23, 2026)
 - PR16155314- Bid advertisement for NANO Filter spare parts (On August 27,2026)
 - Online auction advertisement featuring furniture, appliances, and other items (On August 24,2026 from 08:00-16:00)
 - Invitation to bid for materials (Closes 25, August 2026) Express NDAA Certification

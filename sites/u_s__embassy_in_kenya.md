@@ -6,6 +6,10 @@
 
 ## Request for Proposals
 
+## REQUEST FOR QUOTATION NUMBER 19KE5026Q0123 CDC DGHP – CCTV CAMERAS & NETWORK VIDEO RECORDER (NVR)
+
+## Request for Proposals
+
 ## Request for Quotation PR16227859 – RR network cabinets rehabilitation/replacement DTI-CIS
 
 ## Request for Proposals
@@ -35,10 +39,6 @@
 ## Request for Proposals
 
 ## REQUEST FOR QUOTATION NUMBER-19KE5026Q0110 PDS – Freedom 250 Alumni Forum – AEIF
-
-## Request for Proposals
-
-## REQUEST FOR QUOTATION NUMBER 19KE5026Q0094 MRU-PREVENTIVE MAINTENANCE OF 800KVA LV BOARD – KOMBEWA
 
 - Manage options
 - Manage services

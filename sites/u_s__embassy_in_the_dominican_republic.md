@@ -18,14 +18,6 @@
 
 ## Economic Opportunity
 
-## RFQ 19DR8626Q0069 – CMR Roof Waterproofing Replacement
-
-## Economic Opportunity
-
-## PR16050856 – RSO Emergency Response Vehicle
-
-## Economic Opportunity
-
 ## PR15098978 MATTRESSES AND BOX SPRING RESIDENCES – FY25
 
 ## Economic Opportunity
@@ -39,6 +31,14 @@
 ## Economic Opportunity
 
 ## RFQ- PR12882880- Communication and Navigation of Navy Operations
+
+## Economic Opportunity
+
+## PR12734700 – VEHICLE 01 RENTAL FOR YEAR 2024 TO 2025
+
+## Economic Opportunity
+
+## RFQ PR12826237 – HR Outsource Services
 
 - Manage options
 - Manage services
