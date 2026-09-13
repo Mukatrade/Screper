@@ -5,6 +5,8 @@
 ---
 
 Solicitation Number | Procurement Type | Title | More Information | Closing Date
+19H08026Q0062 | Solicitation | Office Supplies (PDF 397 KB) | | September 21, 2026
+19H08026Q0057 | Solicitation | Gymnasium Equipment (PDF 702 KB) | | September 28, 2026 at 10:00 a.m.
 RFQ 19H08026Q0059 | Solicitation | Construction Materials for Choluteca Morgue (PDF 998 KB) | | September 8, 2026
 RFP 19H08026R0007 | Solicitation | Public opinion research program (PDF 1432 KB) | Questions and Answers (PDF 121 KB) | September 4, 2026
  | Licensing Agreement | Licensing for Cafeteria Services 2026 – 2027 (PDF 835KB) | Amendment 0001 (PDF 265KB) Questions and Answers (PDF 306 KB) Supporting Document 1 (PDF 1.5 MB) | September 3, 2026

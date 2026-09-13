@@ -25,7 +25,6 @@
 ###### Instructions to transmit your original invoice electronically through MyILMS Payment Portal:
 
 - Link to 19PM0726Q0012 SAM Post
-- Link to 19PM0726Q0017 SAM Post
 - Link to 19PM0726Q0025 SAM Post
 - Link to 19PM0726Q0028 SAM Post
 - Link to 19PM0726Q0026 SAM Post
