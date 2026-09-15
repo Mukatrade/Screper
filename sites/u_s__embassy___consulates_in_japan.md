@@ -10,7 +10,7 @@ Staff Room Restoration Services for the U.S. Consulate General Sapporo Pre-solic
 Studio Set Renovation Services for Public Affairs Section Pre-solicitation Notice (July 27) RFQ No. 19JA8026Q0043 (Aug. 12) Amendment No. 0001 (Aug. 27) | Aug. 12 | Aug. 20 at 2 p.m. | Sept. 10 by 11 a.m.
 Building Maintenance Services for JLTC in Yokohama Pre-solicitation Notice ( Updated Aug. 10 ) RFQ No. 19JA8026Q0042 (Aug. 10) Amendment No. 00001 (Aug. 25) | Aug. 10 | Aug. 19 at 2 p.m. | Sept. 1 by 11 a.m.
 Sliding Gate Safety Deficiencies Remediation (Naha) Pre-solicitation Notice (April 30) RFQ 19JA5126Q0367 (July 16) Amendment 0001 (July 23) Amendment 0002 (Aug. 14) Amendment 0003 (Aug. 25) | July 16 | Aug. 3 at 2 p.m. | Sept. 1 by 11 a.m.
-The Freedom 250 – Taste of America Nationwide Campaign Pre-solicitation Notice (July 9) | To be announced | To be announced | To be announced
+The Freedom 250 – Taste of America Nationwide Campaign Pre-solicitation Notice (July 9) RFQ 19JA8026Q0040 (Sept. 14) | Sept. 14 | N/A | Sept. 30 by 12 noon
 Residential Water Pump Replacement at U.S. Consulate in Fukuoka Pre-solicitation Notice (June 18) RFQ 19JA2526Q0009 (July 7) | July 7 | July 21 at 10 a.m. | Aug. 11 by 12 noon
 Boiler Replacement for Snow-Melt System at U.S. Consulate General Sapporo Pre-solicitation Notice (June 12) | Canceled
 2027 Sapporo Snow Sculpture Pre-solicitation Notice (April 28) RFQ 19JA7026Q0085 (May 8) | May 8 | May 20 at 2 p.m. | June 1 by 12 noon
