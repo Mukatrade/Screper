@@ -6,10 +6,6 @@
 
 ## Procurement Opportunities
 
-## Contract Opportunity – Mixed Methods Research Project
-
-## Procurement Opportunities
-
 ## Procurement/Contract Opportunities
 
 - Manage options
