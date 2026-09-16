@@ -6,10 +6,6 @@
 
 ## Economic Opportunity
 
-## Supply of 23-Seater Minibus
-
-## Economic Opportunity
-
 ## RFQ for Connecting Enterprise Internet Service
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## Economic Data & Reports
+
+## Economic Opportunity
+
+## Commercial Opportunities
 
 - Manage options
 - Manage services
