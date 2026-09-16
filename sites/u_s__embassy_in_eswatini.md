@@ -8,6 +8,12 @@
 
 ## Request for Quotation (RFQ)
 
+- RFQ – Gate 336 Bathrooms’ Refurb Project (PDF 625KB) Gate 336 Bathrooms BOQ (MS Excel 31KB) Gate 336 Finishes Schedule-Main Bathroon & Guest Bathroom_Rev A (PDF 317KB) Gate 336 Guest Bathroom -Floor Plans & Sections_Rev A (PDF 260KB) Gate 336 Main Bathroom-Floor Plans Sections _Rev A (PDF 284KB) Gate 336 Sanitary & Brassware Schedule -Main Bathroom & Guest Bathroom_Rev A (PDF 255KB)
+- Gate 336 Bathrooms BOQ (MS Excel 31KB)
+- Gate 336 Finishes Schedule-Main Bathroon & Guest Bathroom_Rev A (PDF 317KB)
+- Gate 336 Guest Bathroom -Floor Plans & Sections_Rev A (PDF 260KB)
+- Gate 336 Main Bathroom-Floor Plans Sections _Rev A (PDF 284KB)
+- Gate 336 Sanitary & Brassware Schedule -Main Bathroom & Guest Bathroom_Rev A (PDF 255KB)
 - RFP – Workmen’s Compensation Insurance to Local Employed Staff Members – 19WZ6026Q0010 (PDF 99KB) Workmen’s Compensation Insurance – 19WZ6026Q0010 (PDF 1MB)
 - Workmen’s Compensation Insurance – 19WZ6026Q0010 (PDF 1MB)
 - RFQ – Customized Panel Van (PDF 104KB)
