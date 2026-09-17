@@ -6,10 +6,6 @@
 
 ## Economic Opportunity
 
-## RFQ: Procurement and Delivery of Slide Gate Motor Systems
-
-## Economic Opportunity
-
 ## RFQ for Anti-Ram DROP ARM GATE for CMR
 
 ## Economic Opportunity
