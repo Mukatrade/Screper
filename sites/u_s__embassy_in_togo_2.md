@@ -4,12 +4,6 @@
 
 ---
 
-## Solicitation Laptop Purchase
-
-- Request For Quotation Letter (PDF)
-- Technical Specifications
-- Clauses
-
 ## Chillers Compressors Parts
 
 - Request For Quotation Letter

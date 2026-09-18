@@ -32,11 +32,11 @@
 - Link to 19PM0726Q0029 SAM Post
 - Link to 19PM0726Q0031 SAM Post
 
-## U.S. Expands Panama Security Cooperation with $6M Drone Delivery to Protect the American Homeland
-
 ## U.S. Scientific Research Aircraft Arrives in Panama for NASA-NOAA Atmospheric Mission
 
 ## U.S. Embassy and RPC Radio Launch English on the Go Radio Series
+
+## Expanded U.S.-Panama Security Cooperation Restores Sight to 80 Panamanians
 
 - Manage options
 - Manage services
