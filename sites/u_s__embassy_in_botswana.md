@@ -20,11 +20,11 @@
 
 ### Bureau of Economic and Business Affairs
 
-## Supply of 23-Seater Minibus
-
 ## RFQ for Connecting Enterprise Internet Service
 
 ## RFQ for Cellphone Services
+
+## African Growth & Opportunity Act
 
 - Manage options
 - Manage services
