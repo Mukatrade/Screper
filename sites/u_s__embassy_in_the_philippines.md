@@ -68,6 +68,7 @@ Solicitation No. | Date & Time Issued (Manila Time): | Deadline for Submission (
 19RP3826Q0097 Supply and Delivery of Mobile Phones and Accessories Solicitation Package | – – 10-Aug-2026 | – – 19-Aug-2026, 4:00 PM
 19RP3826Q0098 Exhibition pavilion for the International Bazaar 2026 Solicitation Package (PDF 8 MB) Amendment No. 001 (PDF 652 KB) | – – 27-Aug-2026 03-Sept-2026 | – – 07-Sept-2026, 10:00 AM 08-Sept-2026, 10:00 AM
 19RP3826Q0099 Supply and Delivery of Fuel for August 2026 Solicitation Package (PDF 24 MB) Technical Specifications (XLSX 21 KB) | – – 12-Aug-2026 | – – 24-Aug-2026, 12:00 NN
+19RP3826Q0103 Supply and Delivery of Critical Spares for MultistackChillers Solicitation Package (PDF) | – – 17-Sept-2026 | – – 28-Sept-2026, 12:00 NN
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

@@ -4,9 +4,18 @@
 
 ---
 
+## Fuel Purchase
+
+- Request For Quotation – 19GH1026Q0029
+
+## FUEL PURCHASE
+
+- Request For Quotation -19GH1026Q0028
+
 ## Medical Health Insurance
 
 - Medical Health Insurance RFP_19GH1026R0001
+- AMENDMENT OF SOLICITATION 19GH1026R0001
 
 ## REFRIGERANT GAS/UTILITY CHILLERS/NEC HVAC
 
