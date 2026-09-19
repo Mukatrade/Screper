@@ -10,6 +10,45 @@
 
 ## Purchase Orders
 
+## Rio de Janeiro: Commercial proposal request for the procurement of a 7-Seater Luxury SUV (Quotations accepted until September 16, 2026)
+
+- Automatic transmission (minimum 6 speeds); AWD or 4×4 drivetrain with selector; minimum ground clearance of 200 mm.
+- Minimum 200 hp; Advanced Driver Assistance Systems (ACC, automatic emergency braking, lane keeping assist, blind spot monitoring, rear cross-traffic alert, automatic high beam, front/rear parking sensors with rearview camera, ESC, minimum of 6 airbags).
+- Leather or premium synthetic interior trim; automatic multi-zone air conditioning; foldable seats; multimedia system with Apple CarPlay and Android Auto.
+- Minimum 3-year full factory warranty, with proof of an active authorized service network in the Metropolitan Area of Rio de Janeiro.
+
+## Rio de Janeiro: Commercial proposal request for the procurement of a Dehumidifier 220V (Quotations accepted until September 15, 2026)
+
+## Recife: Vehicle for US Consulate Recife (Quotations accepted until  September 8, 2026.)
+
+- Quotations must be submitted no later than September 8, 2026, by 4:00 PM (Brasilia time).
+- Oral quotations will not be accepted.
+
+## Sao Paulo: Solicitation of Rugs (Proposals accepted until September 1, 2026)
+
+## Sao Paulo: English Language Classes (Proposals accepted until September 1, 2026)
+
+## Sao Paulo: Household Furniture Re-varnishing Services (Proposals accepted until September 1, 2026)
+
+## Rio de Janeiro: Request for Commercial Proposal for Cistern and Water Tank Cleaning and Waterproofing Services (Proposals accepted until August 31, 2026)
+
+- Standard Form SF-1449
+- Basic information, statement of work, site visit requirements or specifications and technical qualifications.
+- Late quotation rules and evaluation method.
+
+## Brasília: Mattresses and box spring for residences (Quotations accepted until August 29, 2026)
+
+Qty | Description
+20 | Queen mattress and black box spring – measuring 158cm x 198cm x 30cm Individually pocketed springs, supports up to 120KG, R foam, knitted fabric, pillow top, hypoallergenic
+35 | Twin mattress and black box spring – measuring 88cm x 188cm x 30cm Individually pocketed springs, supports up to 120KG, R foam, knitted fabric, pillow top, hypoallergenic
+
+## Sao Paulo: Promotion of Food and Beverage Items Imported from the United States in Brazilian Sam's Clubs (Proposals accepted until August 27, 2026)
+
+## Recife: Key System for US Consulate Recife (Quotations accepted until August 7, 2026)
+
+- Quotations must be submitted no later than August 7, by 4:00 PM (Brasília time).
+- Oral quotations will not be accepted.
+
 ## Contract Opportunities
 
 ## Porto Alegre: Inspection, maintenance, supply, and replacement of components and machinery for 168 Daikin cassette-type air conditioning units (Proposals accepted until September 18, 2026)
@@ -28,9 +67,31 @@
 - Site Visit (Mandatory): A mandatory on-site visit will be held on September 10 and 11, 2026, at the Consulate premises.
 - Proposal Submission Deadline: Commercial proposals must be submitted via email to BlasiCS@state.gov by 5:00 PM on September 18, 2026. Verbal quotes will not be accepted under any circumstances.
 
+## Brasilia: BSB| PSW| IDIQ for Warehouse Support Services (Quotations accepted until August 21, 2026)
+
+#### Related documents:
+
+- RFQ – 19BR2526Q0011
+- Scope of Work – Warehouse Support Services
+
 ## Requests for Quotations
 
-## Brasilia: Compound Partitions Lock Hardware (Proposals accepted until September 28, 2026)
+## Brasilia: Office renovation located in Belo Horizonte, MG (Response date: September 11, 2026)
+
+#### Related Documents:
+
+- SF1449 – 19BR2526R0004 – Scope of Work
+- SF1449 – 19BR2526R0004 – BH Branch Office renovation
+- ASBUILT eletrica 1 de 3
+- ASBUILT eletrica 2 de 3
+- ASBUILT eletrica 3 de 3
+- BH Office new layout 1.6 – 31.07.26
+- BH Office new layout 2.5 – 29.07.26
+- BH Office new layout 2.6 – 31.07.26
+- BH Office new layout 3.6 – 31.07.26
+- BH Office new layout 4.6 – 31.07.26
+- BH Office new layout 5.6 – 31.07.26
+- BH Office new layout 6.6 – 31.07.26
 
 ## Notice of Justification for Brand Name Purchase
 

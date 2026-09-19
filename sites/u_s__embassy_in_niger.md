@@ -8,7 +8,7 @@
 
 ## Doing Business in Niger
 
-## Commercial Opportunies
+## Commercial Opportunities
 
 # | Item description | Unit | Qty
 1 | Big and Tall Sled Base Chair - Vinyl, Black Big and Tall Sled Base Chair - Vinyl, Welcome guests of all sizes to an attractive lobby or waiting area. 4" thick padding and beefed-up frame. Sturdy steel sled frame. Antimicrobial and easy to clean. DESCRIPTION Vinyl SEAT DIMENSIONS 23" x 21" W x D CAPACITY (LBS.) 400lbs SEAT HEIGHT 18" WT. (LBS.) 36lbs | each | 20
