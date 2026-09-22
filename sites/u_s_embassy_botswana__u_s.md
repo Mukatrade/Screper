@@ -10,6 +10,14 @@
 
 ## Economic Opportunity
 
+## RFQ for Connecting Enterprise Internet Service
+
+## Economic Opportunity
+
+## RFQ for Cellphone Services
+
+## Economic Opportunity
+
 ## Job Opportunities
 
 ## Economic Opportunity
@@ -31,14 +39,6 @@
 ## Economic Opportunity
 
 ## Economic Data & Reports
-
-## Economic Opportunity
-
-## Commercial Opportunities
-
-## Economic Opportunity
-
-## African Growth & Opportunity Act
 
 - Manage options
 - Manage services

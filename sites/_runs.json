@@ -1,5 +1,24 @@
 [
   {
+    "ran_at": "2026-09-22T09:42:20.729924Z",
+    "findings": 1,
+    "new_tender": 1,
+    "updated": 1,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
+        "url": "https://do.usembassy.gov/category/econ-opportunity/",
+        "category": "NEW_TENDER",
+        "summary": "The listed tender was replaced, changing from PR16274473 \u2013 Switchgear components to a new RFQ for vehicle purchase (PR16190044)",
+        "refs": [
+          "PR16190044"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-09-22T09:30:09.344568Z",
     "findings": 0,
     "new_tender": 0,
@@ -90,15 +109,6 @@
   },
   {
     "ran_at": "2026-09-19T06:28:39.818497Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-09-18T09:40:32.848564Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,

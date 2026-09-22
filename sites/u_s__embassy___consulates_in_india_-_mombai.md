@@ -6,22 +6,6 @@
 
 ## Contract Solicitations – New Delhi
 
-- Solicitation for Supply of SUV (Euro/BS-6, RHD) at the U.S. Embassy New Delhi
-- Solicitation to Provide Waterproofing Services for Office Spaces Roof at the U.S. Embassy, New Delhi
-- Solicitation to Provide Services for Overhang Repairs of Annex Building at the U.S. Embassy, New Delhi
-- Solicitation for the Supply of Brand-new Passenger Vans, make Force Urbania or equivalent to the U.S. Embassy, New Delhi
-- Solicitation to Provide Services to Replace Waterproofing at the American Center Building Roof
-- Solicitation to Provide Hindi and Urdu Language Classes at the U.S. Embassy, New Delhi
-- Solicitation for Chilled and Hot Water Piping Interconnection Work at the U.S. Embassy, New Delhi
-- Solicitation to provide HVAC and Electrical Power Generation and Transmission Training at the U.S. Embassy, New Delhi
-- Solicitation to Provide Structural Retrofitting Services at the U.S. Embassy, New Delhi
-- Solicitation for Supply, Installation, Testing and Commissioning of addressable fire detection/alarm system services at the U.S. Embassy, New Delhi
-- Solicitation 191N6526Q0102 for Supply of Pickup Truck with Space for Materials at the U.S. Embassy, New Delhi
-- Solicitation Number 191N6526Q0105 – Architecture and Engineering (A&E)
-- Solicitation Number 191N6526Q0106 – Architecture and Engineering (A&E)
-- Solicitation number 191N6526Q0108 – Supply of CAT6 CABLE and networking supplies
-- Solicitation to Supply Truck Cabin Chassis at the U.S. Embassy, New Delhi
-- Solicitation-191N6526Q0110 for Providing Televised Media Monitoring Services to the U.S. Embassy, New Delhi
 - Solicitation for Supply of 2 nos. Truck Cabin Chassis (suitable for 10,000-liter Water tanker) at the U.S. Embassy, New Delhi
 - Solicitation-191N6526Q0115 for “Supplying, Installation, Testing and Commissioning of AV equipment’s” at American Center, 24-KG Marg, Connaught Place
 
@@ -31,16 +15,8 @@
 
 ## Contract Solicitations – Hyderabad
 
-- Request for Quotations – For Garden maintenance services at CGR (Consul General residence) at Plot #254, Road #18, Jubilee Hils, Hyderabad
-- U.S. Government Procurement Opportunity – Request for Quotations – for Packing, Crating, and Transportation Services for General Services Office, U.S. Consulate General Hyderabad
-- Request for Quotations – Building Automation System Preventative Maintenance Service Contract
-- Request for Quotations – Solar Photo Voltaic Systems Preventative Maintenance Service Contract
-
 ## Contract Solicitations – Kolkata
 
-- SOLICITATION –191N3026Q004 – Purchase of Office Vehicle
-- Solicitation No. 191N3026Q005 – Purchase of Passenger Vans (Two Nos.)
-- Solicitation No. 191N3026Q006 – Emerging Innovation Lab Design & Integration
 - Solicitation No. 191N3026Q0007 – Purchase of mid-size SUV
 - Solicitation to provide Décor Services for National Day Event at the U.S. Consulate General, Kolkata
 
