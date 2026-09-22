@@ -57,7 +57,7 @@ GOOGLE_SHEET_CSV_URL = os.environ["GOOGLE_SHEET_CSV_URL"]
 DASHBOARD_URL        = os.environ.get("DASHBOARD_URL", "").rstrip("/")
 
 SITES_DIR       = Path("sites")
-ANALYSIS_MODEL_LABEL = "Groq Llama-3.3-70B / Gemini Flash (free tier)"
+ANALYSIS_MODEL_LABEL = "Groq gpt-oss-120b / Gemini Flash (free tier)"
 REQUEST_TIMEOUT = 30          # seconds per HTTP request
 REQUEST_DELAY   = 2           # seconds between scrapes (be polite)
 MAX_DIFF_CHARS  = 12_000      # truncate very large diffs before sending to Claude
@@ -273,7 +273,7 @@ def _call_groq(system: str, user: str) -> str:
     if not GROQ_API_KEY:
         raise RuntimeError("no_groq_key")
     payload = {
-        "model": "llama-3.3-70b-versatile",
+        "model": "openai/gpt-oss-120b",
         "messages": [{"role": "system", "content": system},
                      {"role": "user", "content": user}],
         "temperature": 0.0,
