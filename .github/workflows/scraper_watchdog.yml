@@ -45,13 +45,20 @@ jobs:
         fi
 
     - name: Commit state file
+      # --self-test deliberately never writes the state file (it's not a real
+      # finding), so there's nothing to commit on a self-test run.
+      if: ${{ inputs.self_test != 'true' }}
       run: |
         git config --global user.name "Scraper Watchdog"
         git config --global user.email "actions@github.com"
         git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
-        git add scraper_watchdog_state.json
-        if git diff --cached --quiet; then
-          echo "No state change."
+        if [ ! -f scraper_watchdog_state.json ]; then
+          echo "No state file produced - nothing to commit."
         else
-          git commit -m "Watchdog state update" && git push
+          git add scraper_watchdog_state.json
+          if git diff --cached --quiet; then
+            echo "No state change."
+          else
+            git commit -m "Watchdog state update" && git push
+          fi
         fi
