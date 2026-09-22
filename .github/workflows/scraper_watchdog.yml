@@ -1,0 +1,57 @@
+name: Scraper Watchdog
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 11:00 UTC - safely after both daily scans + backup trigger
+  workflow_dispatch:
+    inputs:
+      self_test:
+        description: 'Force a fake alert to prove the email path works (does not touch state)'
+        type: boolean
+        default: false
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v5
+
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run watchdog
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GMAIL_USER: ${{ secrets.GMAIL_USER }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+      run: |
+        if [ "${{ inputs.self_test }}" = "true" ]; then
+          python scraper_watchdog.py --self-test
+        else
+          python scraper_watchdog.py
+        fi
+
+    - name: Commit state file
+      run: |
+        git config --global user.name "Scraper Watchdog"
+        git config --global user.email "actions@github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
+        git add scraper_watchdog_state.json
+        if git diff --cached --quiet; then
+          echo "No state change."
+        else
+          git commit -m "Watchdog state update" && git push
+        fi
