@@ -22,9 +22,9 @@
 
 ## Supply of 23-Seater Minibus
 
-## African Growth & Opportunity Act
+## RFQ for Connecting Enterprise Internet Service
 
-## U.S. Government Promotes Human Rights in the Business Space
+## RFQ for Cellphone Services
 
 - Manage options
 - Manage services

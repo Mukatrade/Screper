@@ -1,5 +1,31 @@
 [
   {
+    "ran_at": "2026-09-22T09:23:00.647886Z",
+    "findings": 2,
+    "new_tender": 2,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy & Consulates in Brazil",
+        "url": "https://br.usembassy.gov/procurement-and-contract-opportunities/#purchase",
+        "category": "NEW_TENDER",
+        "summary": "A new request for quotations (RFQ) has been published for Compound Partitions Lock Hardware in Brasilia.",
+        "refs": []
+      },
+      {
+        "site": "U.S EMBASSY IN NIGERIA",
+        "url": "https://ng.usembassy.gov/business",
+        "category": "NEW_TENDER",
+        "summary": "A new Request for Quotes has been posted for the calibration of lifesaving equipment, and a previous solicitation for RCBOs has been removed.",
+        "refs": [
+          "PR16210019"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-09-22T06:13:29.770092Z",
     "findings": 0,
     "new_tender": 0,
@@ -73,15 +99,6 @@
   },
   {
     "ran_at": "2026-09-18T06:15:16.624010Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-09-17T09:58:08.539870Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,

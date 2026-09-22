@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Request for Quotes – PR16210019 – Calibration of Lifesaving Equipment
+
 ## PR16203320 – SOLICITATION FOR QUOTES: LOGISTICAL SUPPORT FOR FREEDOM250 U.S-NIGERIA’S CREATIVE ECONOMY IN FOCUS
 
 ## Solicitation PR16187975 – A/WRAIR-AFRICA-N: Request for 2026 SUV
-
-## Solicitation PR16224873 – RCBOs for Residential Electrical Protection
 
 - Manage options
 - Manage services
