@@ -4,24 +4,36 @@ State-Aware Web Scraper with Delta Notifications
 -------------------------------------------------
 Reads monitoring targets from a public Google Sheet CSV, scrapes each URL,
 saves cleaned Markdown snapshots, diffs against the previous Git commit,
-sends diffs to Claude for analysis, and emails actionable findings via Gmail.
+sends diffs to a free-tier LLM (Groq, falling back to Gemini) for analysis,
+and emails actionable findings via Gmail.
 
 Required environment variables:
-  ANTHROPIC_API_KEY      - Anthropic API key
-  GMAIL_USER             - Gmail address used to send reports
-  GMAIL_APP_PASSWORD     - Gmail App Password (not your account password)
-  RECIPIENT_EMAIL        - Address(es) to receive reports (comma-separated)
-  GOOGLE_SHEET_CSV_URL   - Public CSV export URL of the monitoring sheet
+  GROQ_API_KEY            - Groq API key (primary analysis provider)
+  GEMINI_API_KEY          - Gemini API key (fallback if Groq is down/capped)
+  GMAIL_USER              - Gmail address used to send reports
+  GMAIL_APP_PASSWORD      - Gmail App Password (not your account password)
+  RECIPIENT_EMAIL         - Address(es) to receive reports (comma-separated)
+  GOOGLE_SHEET_CSV_URL    - Public CSV export URL of the monitoring sheet
+
+2026-09-22: switched off ANTHROPIC_API_KEY (the key had run out of credit
+since ~2026-08-17 with no fallback, so every diff silently failed analysis
+for weeks while the workflow still reported "success" - findings stuck at 0).
+Now uses the same free Groq/Gemini chain the Hermes/Sherlock pipeline uses,
+so a dead key can no longer take this down without at least one provider
+still answering.
 """
 
 import csv
 import io
+import json
 import os
 import re
 import smtplib
 import subprocess
 import sys
 import time
+import urllib.error
+import urllib.request
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -30,14 +42,14 @@ from pathlib import Path
 from typing import Optional
 
 import requests
-from anthropic import Anthropic
 from bs4 import BeautifulSoup
 
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 
-ANTHROPIC_API_KEY    = os.environ["ANTHROPIC_API_KEY"]
+GROQ_API_KEY          = os.environ.get("GROQ_API_KEY", "")
+GEMINI_API_KEY        = os.environ.get("GEMINI_API_KEY", "")
 GMAIL_USER           = os.environ["GMAIL_USER"]
 GMAIL_APP_PASSWORD   = os.environ["GMAIL_APP_PASSWORD"]
 RECIPIENT_EMAIL      = os.environ["RECIPIENT_EMAIL"]          # comma-separated
@@ -45,7 +57,7 @@ GOOGLE_SHEET_CSV_URL = os.environ["GOOGLE_SHEET_CSV_URL"]
 DASHBOARD_URL        = os.environ.get("DASHBOARD_URL", "").rstrip("/")
 
 SITES_DIR       = Path("sites")
-CLAUDE_MODEL    = "claude-opus-4-8"
+ANALYSIS_MODEL_LABEL = "Groq Llama-3.3-70B / Gemini Flash (free tier)"
 REQUEST_TIMEOUT = 30          # seconds per HTTP request
 REQUEST_DELAY   = 2           # seconds between scrapes (be polite)
 MAX_DIFF_CHARS  = 12_000      # truncate very large diffs before sending to Claude
@@ -238,44 +250,99 @@ def build_system_prompt(filters: dict) -> str:
     return ANALYSIS_SYSTEM_PROMPT_TEMPLATE.format(keyword_instructions=keyword_instructions)
 
 
-def analyse_diff(client: Anthropic, site_name: str, diff_text: str, filters: dict) -> dict:
-    """Send a diff to Claude and return parsed analysis dict."""
+# ---------------------------------------------------------------------------
+# Free-tier LLM chain (Groq primary, Gemini fallback) - same pattern as
+# sherlock_llm.py on Hermes. Never a single point of failure on one billed key.
+# ---------------------------------------------------------------------------
+
+_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36")
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
+GEMINI_URL = ("https://generativelanguage.googleapis.com/v1beta/models/"
+              "gemini-3.5-flash:generateContent?key=%s")
+
+
+def _post_json(url: str, payload: dict, headers: dict, timeout: int = 60) -> dict:
+    req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"),
+                                  headers=headers)
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return json.load(resp)
+
+
+def _call_groq(system: str, user: str) -> str:
+    if not GROQ_API_KEY:
+        raise RuntimeError("no_groq_key")
+    payload = {
+        "model": "llama-3.3-70b-versatile",
+        "messages": [{"role": "system", "content": system},
+                     {"role": "user", "content": user}],
+        "temperature": 0.0,
+        "response_format": {"type": "json_object"},
+    }
+    headers = {
+        "Authorization": "Bearer " + GROQ_API_KEY,
+        "Content-Type": "application/json",
+        # Mandatory - Groq sits behind Cloudflare, which 403s Python's default UA.
+        "User-Agent": _UA,
+    }
+    data = _post_json(GROQ_URL, payload, headers)
+    return data["choices"][0]["message"]["content"]
+
+
+def _call_gemini(system: str, user: str) -> str:
+    if not GEMINI_API_KEY:
+        raise RuntimeError("no_gemini_key")
+    body = {
+        "contents": [{"role": "user", "parts": [{"text": user}]}],
+        "systemInstruction": {"parts": [{"text": system}]},
+        "generationConfig": {"responseMimeType": "application/json"},
+    }
+    data = _post_json(GEMINI_URL % GEMINI_API_KEY, body,
+                       {"Content-Type": "application/json", "User-Agent": _UA})
+    parts = data["candidates"][0]["content"]["parts"]
+    return "".join(p.get("text", "") for p in parts)
+
+
+def analyse_diff(site_name: str, diff_text: str, filters: dict) -> dict:
+    """Send a diff to the free LLM chain and return parsed analysis dict."""
     if len(diff_text) > MAX_DIFF_CHARS:
         diff_text = diff_text[:MAX_DIFF_CHARS] + "\n... [truncated]"
 
+    system = build_system_prompt(filters)
+    user = f"Site: {site_name}\n\n```diff\n{diff_text}\n```"
+
+    raw = None
+    errors = []
     for attempt in range(3):
-        try:
-            message = client.messages.create(
-                model=CLAUDE_MODEL,
-                max_tokens=512,
-                system=build_system_prompt(filters),
-                messages=[
-                    {
-                        "role": "user",
-                        "content": (
-                            f"Site: {site_name}\n\n"
-                            f"```diff\n{diff_text}\n```"
-                        ),
-                    }
-                ],
-            )
-            break  # success — exit retry loop
-        except Exception as exc:
-            wait = 10 * (attempt + 1)
-            print(f"  [WARN] Claude API error (attempt {attempt+1}/3): {exc}. Retrying in {wait}s...")
-            time.sleep(wait)
-    else:
-        # All retries exhausted — skip this site
-        print(f"  [ERROR] Claude API failed for {site_name} after 3 attempts. Skipping.")
+        for provider, fn in (("groq", _call_groq), ("gemini", _call_gemini)):
+            try:
+                raw = fn(system, user)
+                break
+            except urllib.error.HTTPError as exc:
+                detail = ""
+                try:
+                    detail = exc.read()[:200].decode("utf-8", "replace")
+                except Exception:
+                    pass
+                errors.append(f"{provider}:HTTP {exc.code} {detail}")
+            except Exception as exc:
+                errors.append(f"{provider}:{type(exc).__name__}: {exc}")
+        if raw:
+            break
+        wait = 10 * (attempt + 1)
+        print(f"  [WARN] LLM analysis error (attempt {attempt+1}/3): {errors[-2:]}. Retrying in {wait}s...")
+        time.sleep(wait)
+
+    if not raw:
+        # All retries on both providers exhausted — skip this site
+        print(f"  [ERROR] Groq/Gemini both failed for {site_name} after 3 attempts: {errors[-4:]}. Skipping.")
         return {"actionable": False, "category": "NOISE", "summary": "API error", "details": ""}
 
-    raw = message.content[0].text.strip()
-
-    # Parse JSON — be lenient if Claude wraps it in fences anyway
+    raw = raw.strip()
+    # Parse JSON — be lenient if the model wraps it in fences anyway
     raw = re.sub(r"^```[a-z]*\n?", "", raw)
     raw = re.sub(r"\n?```$", "", raw)
 
-    import json
     try:
         result = json.loads(raw)
     except Exception:
@@ -283,7 +350,7 @@ def analyse_diff(client: Anthropic, site_name: str, diff_text: str, filters: dic
         result = {
             "actionable": True,
             "category": "CONTENT_EDIT",
-            "summary": "Claude returned an unparseable response; manual review recommended.",
+            "summary": "Model returned an unparseable response; manual review recommended.",
             "details": raw[:500],
         }
 
@@ -483,7 +550,7 @@ def build_report(
   {noise_html}
   {failed_html}
   <p style="margin-top:30px;color:#adb5bd;font-size:0.75em;border-top:1px solid #dee2e6;padding-top:8px">
-    Powered by Claude {CLAUDE_MODEL} &mdash; Tender Monitor
+    Powered by {ANALYSIS_MODEL_LABEL} &mdash; Tender Monitor
   </p>
 </body>
 </html>"""
@@ -506,7 +573,10 @@ def main() -> None:
     print("\nLoading keyword filters...")
     filters = load_filters()
 
-    client = Anthropic(api_key=ANTHROPIC_API_KEY)
+    if not GROQ_API_KEY and not GEMINI_API_KEY:
+        print("[ERROR] Neither GROQ_API_KEY nor GEMINI_API_KEY is set — "
+              "diff analysis cannot run. Fix the repo secrets before the next scheduled run.")
+        sys.exit(1)
 
     # Stats tracking
     stats: dict = {
@@ -555,7 +625,7 @@ def main() -> None:
 
         stats["analyzed"] += 1
         print(f"  Change detected: {name} — sending to Claude...")
-        analysis = analyse_diff(client, name, diff, filters)
+        analysis = analyse_diff(name, diff, filters)
         category = analysis.get("category", "UNKNOWN")
         print(f"    category={category}  actionable={analysis.get('actionable')}")
         time.sleep(1)  # avoid rate limiting
