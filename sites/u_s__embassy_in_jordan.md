@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## Request for Quotations number 19J01026Q0020/ Provision of Water Treatment Services for All Water Systems on the U.S Embassy Amman Compound – Can
+
+## Economic Opportunity
+
 ## Request for Quotations number 19RC1126Q0005 Uniforms / RSU
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## Key Business Links
-
-## Economic Opportunity
-
-## Getting Started in the U.S.
 
 - Manage options
 - Manage services
