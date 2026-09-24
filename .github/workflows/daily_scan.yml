@@ -54,7 +54,7 @@ jobs:
         info = json.loads(os.environ["GMAIL_TOKEN_JSON"])
         creds = Credentials.from_authorized_user_info(info, ["https://mail.google.com/"])
         g = build("gmail", "v1", credentials=creds)
-        r = g.users().messages().list(userId="me", q='in:sent subject:"[Tender Monitor]" newer_than:1d -in:inbox').execute()
+        r = g.users().messages().list(userId="me", q='in:sent subject:"Sarmad Monitor" newer_than:1d -in:inbox').execute()
         for m in r.get("messages", []):
             g.users().messages().modify(userId="me", id=m["id"], body={"addLabelIds": ["INBOX", "UNREAD"]}).execute()
             print("moved to inbox:", m["id"])
