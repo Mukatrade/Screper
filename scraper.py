@@ -398,6 +398,7 @@ def send_email(subject: str, body_html: str, body_text: str) -> None:
 def build_report(
     findings: list[dict],
     stats: dict,
+    period: str = "",
 ) -> tuple[str, str, str]:
     """Daily summary in the same plain format as the old Sarmad Monitor email."""
     from html import escape
@@ -408,8 +409,8 @@ def build_report(
 
     if n:
         subject = f"Sarmad Monitor: {n} change(s) found — {now}"
-        intro_txt = f"Changes were found on {n} website(s):"
-        intro_html = f"Changes were found on <b>{n}</b> website(s):"
+        intro_txt = f"Changes were found on {n} website(s){period}:"
+        intro_html = f"Changes were found on <b>{n}</b> website(s){period}:"
         items_txt = [f"* {f['site_name']} — {f['link']}" for f in findings]
         items_html = "".join(
             f'<li><b>{escape(f["site_name"])}</b> — <a href="{escape(f["link"])}">{escape(f["link"])}</a></li>'
@@ -432,7 +433,7 @@ def build_report(
         + (items_txt + [""] if items_txt else [])
         + [f"Websites checked: {checked}", f"Fetch failures: {failed}", ""]
         + (fail_txt + [""] if fail_txt else [])
-        + ["Thanks,", "Python Automation"]
+        + ["Thanks,", "Bummer the scanner"]
     )
     html = (
         "<div style=\"font-family:Arial,sans-serif;font-size:14px\">"
@@ -441,13 +442,38 @@ def build_report(
         + (f"<ul>{items_html}</ul>" if items_html else "")
         + f"<p>Websites checked: <b>{checked}</b><br>Fetch failures: <b>{failed}</b></p>"
         + fail_html
-        + "<p>Thanks,<br>Python Automation</p></div>"
+        + "<p>Thanks,<br>Bummer the scanner</p></div>"
     )
     return subject, html, plain
 
 
+def replay(days: int) -> None:
+    """Re-send the findings recorded in sites/_runs.json for the last N days."""
+    import json as _json
+    from datetime import timedelta
+    history = _json.loads((SITES_DIR / "_runs.json").read_text(encoding="utf-8"))
+    cutoff = datetime.utcnow() - timedelta(days=days)
+    seen, findings = set(), []
+    for run in history:
+        if datetime.fromisoformat(run["ran_at"].rstrip("Z")) < cutoff:
+            continue
+        for r in run.get("results", []):
+            if r["site"] in seen:
+                continue
+            seen.add(r["site"])
+            findings.append({"site_name": r["site"], "link": r["url"]})
+    stats = {"scraped_ok": history[0]["monitored"] if history else 0,
+             "scrape_failed": 0, "failed_sites": []}
+    subject, html, plain = build_report(findings, stats, period=f" in the last {days} days")
+    print(f"Replay: {subject}")
+    send_email(subject, html, plain)
+
+
 def main() -> None:
     SITES_DIR.mkdir(exist_ok=True)
+    if os.environ.get("REPLAY_DAYS", "").strip().isdigit():
+        replay(int(os.environ["REPLAY_DAYS"]))
+        return
 
     # 1. Load monitoring targets and keyword filters
     targets = load_targets(GOOGLE_SHEET_CSV_URL)
