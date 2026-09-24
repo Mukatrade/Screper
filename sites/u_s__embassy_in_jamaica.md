@@ -6,10 +6,6 @@
 
 ## Procurement Opportunities
 
-## Contract Opportunity – Swimming Pool Maintenance
-
-## Procurement Opportunities
-
 ## Procurement/Contract Opportunities
 
 - Manage options
