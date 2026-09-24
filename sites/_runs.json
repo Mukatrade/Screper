@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-09-24T08:41:12.849110Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-09-24T08:33:48.170163Z",
     "findings": 0,
     "new_tender": 0,
@@ -133,15 +142,6 @@
   },
   {
     "ran_at": "2026-09-22T06:13:29.770092Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-09-21T10:28:38.323606Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,
