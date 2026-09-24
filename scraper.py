@@ -399,167 +399,52 @@ def build_report(
     findings: list[dict],
     stats: dict,
 ) -> tuple[str, str, str]:
-    """
-    Always-send daily summary.
-    stats keys: total, scraped_ok, scrape_failed, no_change,
-                analyzed, by_category (dict), noise_sites (list)
-    """
-    date_str  = datetime.utcnow().strftime("%Y-%m-%d")
-    actionable = len(findings)
+    """Daily summary in the same plain format as the old Sarmad Monitor email."""
+    from html import escape
+    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M")
+    n = len(findings)
+    checked = stats["scraped_ok"]
+    failed = stats["scrape_failed"]
 
-    if actionable:
-        subject = f"[Tender Monitor] {actionable} actionable finding(s) — {date_str}"
-    else:
-        subject = f"[Tender Monitor] Scan complete, no new tenders — {date_str}"
-
-    cat_colors = {
-        "NEW_TENDER":    "#d4edda",
-        "STATUS_UPDATE": "#fff3cd",
-        "CONTENT_EDIT":  "#d1ecf1",
-        "NOISE":         "#f8f9fa",
-    }
-
-    # ------------------------------------------------------------------ plain
-    lines = [f"Tender Monitor Daily Report — {date_str}", "=" * 50, ""]
-    lines += [
-        f"Sites monitored : {stats['total']}",
-        f"Scraped OK      : {stats['scraped_ok']}",
-        f"Scrape failures : {stats['scrape_failed']}",
-        f"No change       : {stats['no_change']}",
-        f"Changes found   : {stats['analyzed']}",
-        f"  NEW_TENDER    : {stats['by_category'].get('NEW_TENDER', 0)}",
-        f"  STATUS_UPDATE : {stats['by_category'].get('STATUS_UPDATE', 0)}",
-        f"  CONTENT_EDIT  : {stats['by_category'].get('CONTENT_EDIT', 0)}",
-        f"  NOISE         : {stats['by_category'].get('NOISE', 0)}",
-        "",
-    ]
-    if findings:
-        lines.append("ACTIONABLE FINDINGS")
-        lines.append("-" * 40)
-        for i, f in enumerate(findings, 1):
-            refs = f.get("ref_numbers", [])
-            lines += [
-                f"{i}. [{f['category']}] {f['site_name']}",
-                f"   Ref #   : {', '.join(refs) if refs else 'n/a'}",
-                f"   URL     : {f['link']}",
-                f"   Summary : {f['summary']}",
-                f"   Details : {f['details']}",
-                "",
-            ]
-    else:
-        lines += ["No actionable changes detected today.", ""]
-
-    if stats["noise_sites"]:
-        lines.append("Sites with noise-only changes (FYI):")
-        for s in stats["noise_sites"]:
-            lines.append(f"  - {s}")
-    plain = "\n".join(lines)
-
-    # ------------------------------------------------------------------ html
-    # Stats bar
-    stat_items = [
-        ("Monitored",  stats["total"],            "#6c757d"),
-        ("Scraped OK", stats["scraped_ok"],        "#28a745"),
-        ("Failed",     stats["scrape_failed"],     "#dc3545"),
-        ("No change",  stats["no_change"],         "#6c757d"),
-        ("New Tender", stats["by_category"].get("NEW_TENDER", 0),    "#155724"),
-        ("Updated",    stats["by_category"].get("STATUS_UPDATE", 0), "#856404"),
-        ("Edited",     stats["by_category"].get("CONTENT_EDIT", 0),  "#0c5460"),
-        ("Noise",      stats["by_category"].get("NOISE", 0),         "#6c757d"),
-    ]
-    stat_html = "".join(
-        f'<div style="text-align:center;padding:12px 18px;background:#f8f9fa;'
-        f'border-radius:6px;margin:4px">'
-        f'<div style="font-size:1.6em;font-weight:bold;color:{c}">{v}</div>'
-        f'<div style="font-size:0.75em;color:#6c757d;margin-top:2px">{k}</div>'
-        f'</div>'
-        for k, v, c in stat_items
-    )
-
-    # Findings table
-    if findings:
-        def ref_badges(refs: list) -> str:
-            if not refs:
-                return ""
-            badges = "".join(
-                f'<span style="display:inline-block;background:#fd7e14;color:#fff;'
-                f'font-size:0.78em;font-weight:bold;padding:2px 7px;border-radius:4px;margin:2px 3px 2px 0">'
-                f'{r}</span>'
-                for r in refs
-            )
-            return f'<div style="margin-top:5px">{badges}</div>'
-
-        rows = "".join(
-            f'<tr style="background:{cat_colors.get(f["category"], "#fff")}">'
-            f'<td style="padding:11px 12px;border:1px solid #dee2e6;font-weight:bold">{f["category"]}</td>'
-            f'<td style="padding:11px 12px;border:1px solid #dee2e6">'
-            f'<div style="font-weight:bold;color:#212529">{f["site_name"]}</div>'
-            f'{ref_badges(f.get("ref_numbers", []))}'
-            f'<a href="{f["link"]}" style="display:inline-block;margin-top:4px;color:#0066cc;font-weight:bold;text-decoration:none">🔗 Open tender →</a>'
-            f'</td>'
-            f'<td style="padding:11px 12px;border:1px solid #dee2e6">{f["summary"]}</td>'
-            f'<td style="padding:11px 12px;border:1px solid #dee2e6;font-size:0.85em;color:#555">{f["details"]}</td>'
-            f'</tr>'
+    if n:
+        subject = f"Sarmad Monitor: {n} change(s) found — {now}"
+        intro_txt = f"Changes were found on {n} website(s):"
+        intro_html = f"Changes were found on <b>{n}</b> website(s):"
+        items_txt = [f"* {f['site_name']} — {f['link']}" for f in findings]
+        items_html = "".join(
+            f'<li><b>{escape(f["site_name"])}</b> — <a href="{escape(f["link"])}">{escape(f["link"])}</a></li>'
             for f in findings
         )
-        findings_html = f"""
-        <h3 style="color:#155724;margin-top:30px">Actionable Findings</h3>
-        <table style="border-collapse:collapse;width:100%;font-size:1em">
-          <thead><tr style="background:#343a40;color:#fff">
-            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Category</th>
-            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Site</th>
-            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Summary</th>
-            <th style="padding:11px 12px;border:1px solid #dee2e6;text-align:left">Details</th>
-          </tr></thead>
-          <tbody>{rows}</tbody>
-        </table>"""
     else:
-        findings_html = (
-            '<p style="color:#6c757d;margin-top:20px">'
-            'No actionable changes detected today. All monitored sites are stable.</p>'
-        )
+        subject = f"Sarmad Monitor: scan complete, NO changes — {now}"
+        intro_txt = "The scan finished and no changes were found on any website."
+        intro_html = intro_txt
+        items_txt, items_html = [], ""
 
-    # Noise list
-    noise_html = ""
-    if stats["noise_sites"]:
-        noise_items = "".join(f"<li>{s}</li>" for s in stats["noise_sites"])
-        noise_html = (
-            f'<h3 style="color:#6c757d;margin-top:24px;font-size:0.95em">'
-            f'Noise-only changes (minor page updates, not tender-related)</h3>'
-            f'<ul style="color:#6c757d;font-size:0.85em">{noise_items}</ul>'
-        )
+    fail_txt, fail_html = [], ""
+    if failed and stats.get("failed_sites"):
+        fail_txt = ["Could not be fetched:"] + [f"* {s}" for s in stats["failed_sites"]]
+        fail_html = "<p>Could not be fetched:</p><ul>" + "".join(
+            f"<li>{escape(s)}</li>" for s in stats["failed_sites"]) + "</ul>"
 
-    # Failed sites
-    failed_html = ""
-    if stats["scrape_failed"] and stats.get("failed_sites"):
-        fail_items = "".join(f"<li>{s}</li>" for s in stats["failed_sites"])
-        failed_html = (
-            f'<h3 style="color:#dc3545;margin-top:24px;font-size:0.95em">'
-            f'Sites that failed to scrape</h3>'
-            f'<ul style="color:#dc3545;font-size:0.85em">{fail_items}</ul>'
-        )
-
-    html = f"""<!DOCTYPE html>
-<html>
-<body style="font-family:Arial,sans-serif;margin:20px;max-width:1100px;font-size:15px;line-height:1.5">
-  <h2 style="color:#343a40;border-bottom:2px solid #dee2e6;padding-bottom:8px">
-    Tender Monitor &mdash; Daily Report &mdash; {date_str}
-  </h2>
-  <div style="display:flex;flex-wrap:wrap;gap:8px;margin:16px 0">{stat_html}</div>
-  {findings_html}
-  {noise_html}
-  {failed_html}
-  <p style="margin-top:30px;color:#adb5bd;font-size:0.75em;border-top:1px solid #dee2e6;padding-top:8px">
-    Powered by {ANALYSIS_MODEL_LABEL} &mdash; Tender Monitor
-  </p>
-</body>
-</html>"""
-
+    plain = "\n".join(
+        ["Hey, Hope you are doing well.", "", intro_txt, ""]
+        + (items_txt + [""] if items_txt else [])
+        + [f"Websites checked: {checked}", f"Fetch failures: {failed}", ""]
+        + (fail_txt + [""] if fail_txt else [])
+        + ["Thanks,", "Python Automation"]
+    )
+    html = (
+        "<div style=\"font-family:Arial,sans-serif;font-size:14px\">"
+        "<p>Hey, Hope you are doing well.</p>"
+        f"<p>{intro_html}</p>"
+        + (f"<ul>{items_html}</ul>" if items_html else "")
+        + f"<p>Websites checked: <b>{checked}</b><br>Fetch failures: <b>{failed}</b></p>"
+        + fail_html
+        + "<p>Thanks,<br>Python Automation</p></div>"
+    )
     return subject, html, plain
 
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
 
 def main() -> None:
     SITES_DIR.mkdir(exist_ok=True)
