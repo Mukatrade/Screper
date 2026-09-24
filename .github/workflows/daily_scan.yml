@@ -38,6 +38,29 @@ jobs:
         SEND_REPORT_EMAIL: ${{ vars.SEND_REPORT_EMAIL }}
       run: python scraper.py
 
+    - name: Put the report into the inbox
+      # The report is sent from info@ to an address on the same mailbox, and Gmail
+      # then files it under Sent only. Add the INBOX label so it is actually seen.
+      if: always()
+      continue-on-error: true
+      env:
+        GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+      run: |
+        pip install --quiet google-api-python-client google-auth
+        python - <<'PY'
+        import json, os
+        from google.oauth2.credentials import Credentials
+        from googleapiclient.discovery import build
+        info = json.loads(os.environ["GMAIL_TOKEN_JSON"])
+        creds = Credentials.from_authorized_user_info(info, ["https://mail.google.com/"])
+        g = build("gmail", "v1", credentials=creds)
+        r = g.users().messages().list(userId="me", q='in:sent subject:"[Tender Monitor]" newer_than:1d -in:inbox').execute()
+        for m in r.get("messages", []):
+            g.users().messages().modify(userId="me", id=m["id"], body={"addLabelIds": ["INBOX", "UNREAD"]}).execute()
+            print("moved to inbox:", m["id"])
+        print("done,", len(r.get("messages", [])), "message(s)")
+        PY
+
     - name: Commit and push changes
       run: |
         git config --global user.name "Automated Scraper"
