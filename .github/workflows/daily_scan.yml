@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 5 * * *'   # 05:00 UTC = 08:00 Uganda (UTC+3)
   workflow_dispatch:
+    inputs:
+      replay_days:
+        description: 'Skip scanning; re-send the findings of the last N days in the report format'
+        required: false
+        default: ''
 
 jobs:
   scan:
@@ -36,6 +41,7 @@ jobs:
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
         SEND_REPORT_EMAIL: ${{ vars.SEND_REPORT_EMAIL }}
+        REPLAY_DAYS: ${{ inputs.replay_days }}
       run: python scraper.py
 
     - name: Put the report into the inbox
