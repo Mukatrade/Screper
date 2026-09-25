@@ -1,5 +1,24 @@
 [
   {
+    "ran_at": "2026-09-25T10:04:29.507297Z",
+    "findings": 1,
+    "new_tender": 1,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S EMBASSY IN NIGERIA",
+        "url": "https://ng.usembassy.gov/business",
+        "category": "NEW_TENDER",
+        "summary": "A new Request for Quotes tender for calibration of lifesaving equipment (PR16210019) was added.",
+        "refs": [
+          "PR16210019"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-09-25T06:08:10.247054Z",
     "findings": 2,
     "new_tender": 1,
@@ -142,14 +161,5 @@
         ]
       }
     ]
-  },
-  {
-    "ran_at": "2026-09-22T09:30:09.344568Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
   }
 ]
