@@ -6,14 +6,6 @@
 
 ## Economic Opportunity
 
-## PR16274473 – Swuitchgear components
-
-## Economic Opportunity
-
-## PR16256743 – Replacement for WD01757 – FAC
-
-## Economic Opportunity
-
 ## PR15098978 MATTRESSES AND BOX SPRING RESIDENCES – FY25
 
 ## Economic Opportunity
@@ -39,6 +31,14 @@
 ## Economic Opportunity
 
 ## Lodging and Conference Room for Transformational Leadership Workshop, Aug 2024
+
+## Economic Opportunity
+
+## RFQ- PR12669506 – Forensics Detection Devices
+
+## Economic Opportunity
+
+## RFQ- PR12662386 Furniture Request
 
 - Manage options
 - Manage services

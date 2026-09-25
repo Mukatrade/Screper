@@ -1,5 +1,34 @@
 [
   {
+    "ran_at": "2026-09-25T06:08:10.247054Z",
+    "findings": 2,
+    "new_tender": 1,
+    "updated": 1,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S EMBASSY IN NIGERIA",
+        "url": "https://ng.usembassy.gov/business",
+        "category": "STATUS_UPDATE",
+        "summary": "The Request for Quotes PR16210019 for Calibration of Lifesaving Equipment was removed and replaced by a Procurement Vendors\u2019 Day heading, while the laptop solicitation PR16294504 was repositioned.",
+        "refs": [
+          "PR16294504"
+        ]
+      },
+      {
+        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
+        "url": "https://do.usembassy.gov/category/econ-opportunity/",
+        "category": "NEW_TENDER",
+        "summary": "Two new RFQ opportunities were added, including a Furniture Request.",
+        "refs": [
+          "PR12669506",
+          "PR12662386"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-09-24T09:47:22.188171Z",
     "findings": 0,
     "new_tender": 0,
@@ -122,31 +151,5 @@
     "edited": 0,
     "monitored": 141,
     "results": []
-  },
-  {
-    "ran_at": "2026-09-22T09:23:00.647886Z",
-    "findings": 2,
-    "new_tender": 2,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S. Embassy & Consulates in Brazil",
-        "url": "https://br.usembassy.gov/procurement-and-contract-opportunities/#purchase",
-        "category": "NEW_TENDER",
-        "summary": "A new request for quotations (RFQ) has been published for Compound Partitions Lock Hardware in Brasilia.",
-        "refs": []
-      },
-      {
-        "site": "U.S EMBASSY IN NIGERIA",
-        "url": "https://ng.usembassy.gov/business",
-        "category": "NEW_TENDER",
-        "summary": "A new Request for Quotes has been posted for the calibration of lifesaving equipment, and a previous solicitation for RCBOs has been removed.",
-        "refs": [
-          "PR16210019"
-        ]
-      }
-    ]
   }
 ]
