@@ -45,7 +45,7 @@
 
 ## Solicitation – PR16294504 – Laptop
 
-## PR16203320 – SOLICITATION FOR QUOTES: LOGISTICAL SUPPORT FOR FREEDOM250 U.S-NIGERIA’S CREATIVE ECONOMY IN FOCUS
+## U.S. Revitalizes Key Credit Guarantee Program to Boost Agricultural Trade with Nigeria
 
 - Manage options
 - Manage services
