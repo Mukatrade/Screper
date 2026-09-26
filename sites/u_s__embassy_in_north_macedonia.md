@@ -4,12 +4,6 @@
 
 ---
 
-## Periodical Surveys and Focus Group Waves
-
-## Embassy Skopje Response Vehicle
-
-## Just-In-Time Expendable Office Supplies
-
 ## Public Auctions
 
 ## Housing

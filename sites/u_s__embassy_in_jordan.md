@@ -10,10 +10,6 @@
 
 ## Economic Opportunity
 
-## Request for Quotations number 19J01026Q0018/ LOT D Infrastructure (Pavement) Project at US Embassy Amman-Amendment-0001
-
-## Economic Opportunity
-
 ## Notice of Vehicle Sale
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## Getting Started in the U.S.
+
+## Economic Opportunity
+
+## Getting Started
 
 - Manage options
 - Manage services

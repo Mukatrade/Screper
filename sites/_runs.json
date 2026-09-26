@@ -1,5 +1,31 @@
 [
   {
+    "ran_at": "2026-09-26T06:08:21.076827Z",
+    "findings": 2,
+    "new_tender": 0,
+    "updated": 2,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy in Jordan",
+        "url": "https://jo.usembassy.gov/category/econ-opportunity/",
+        "category": "STATUS_UPDATE",
+        "summary": "The Request for Quotations 19J01026Q0018 for LOT D Infrastructure (Pavement) Project at US Embassy Amman was removed from the Economic Opportunity section.",
+        "refs": []
+      },
+      {
+        "site": "U.S EMBASSY IN NIGERIA",
+        "url": "https://ng.usembassy.gov/business",
+        "category": "STATUS_UPDATE",
+        "summary": "The Request for Quotes PR16210019 for Calibration of Lifesaving Equipment was removed and a Procurement Vendors\u2019 Day heading was added; the Laptop solicitation PR16294504 remains listed.",
+        "refs": [
+          "PR16294504"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-09-25T10:04:29.507297Z",
     "findings": 1,
     "new_tender": 1,
@@ -139,25 +165,6 @@
         "refs": [
           "PR12669506",
           "PR12662386"
-        ]
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-09-22T09:42:20.729924Z",
-    "findings": 1,
-    "new_tender": 1,
-    "updated": 1,
-    "edited": 0,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
-        "url": "https://do.usembassy.gov/category/econ-opportunity/",
-        "category": "NEW_TENDER",
-        "summary": "The listed tender was replaced, changing from PR16274473 \u2013 Switchgear components to a new RFQ for vehicle purchase (PR16190044)",
-        "refs": [
-          "PR16190044"
         ]
       }
     ]

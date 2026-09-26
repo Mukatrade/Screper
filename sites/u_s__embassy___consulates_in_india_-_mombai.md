@@ -18,7 +18,6 @@
 ## Contract Solicitations – Kolkata
 
 - Solicitation No. 191N3026Q0007 – Purchase of mid-size SUV
-- Solicitation to provide Décor Services for National Day Event at the U.S. Consulate General, Kolkata
 
 ## Contract Solicitations – Mumbai
 
