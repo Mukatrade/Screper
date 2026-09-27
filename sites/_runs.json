@@ -1,5 +1,25 @@
 [
   {
+    "ran_at": "2026-09-27T10:26:13.458463Z",
+    "findings": 1,
+    "new_tender": 1,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S EMBASSY IN NIGERIA",
+        "url": "https://ng.usembassy.gov/business",
+        "category": "NEW_TENDER",
+        "summary": "Added new Request for Quotes tender PR16210019 for calibration of lifesaving equipment and a solicitation PR16203320 for logistical support for Freedom250 U.S\u2011Nigeria creative economy initiative.",
+        "refs": [
+          "PR16210019",
+          "PR16203320"
+        ]
+      }
+    ]
+  },
+  {
     "ran_at": "2026-09-27T06:08:06.777518Z",
     "findings": 0,
     "new_tender": 0,
@@ -126,25 +146,5 @@
     "edited": 0,
     "monitored": 141,
     "results": []
-  },
-  {
-    "ran_at": "2026-09-24T06:08:07.835177Z",
-    "findings": 1,
-    "new_tender": 1,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
-        "url": "https://do.usembassy.gov/category/econ-opportunity/",
-        "category": "NEW_TENDER",
-        "summary": "Two new RFQ tenders were added: Forensics Detection Devices (PR12669506) and Furniture Request (PR12662386).",
-        "refs": [
-          "PR12669506",
-          "PR12662386"
-        ]
-      }
-    ]
   }
 ]

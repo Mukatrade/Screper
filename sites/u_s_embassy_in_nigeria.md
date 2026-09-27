@@ -41,11 +41,11 @@
 
 ## Business Links
 
-## Procurement Vendors’ Day
-
 ## Solicitation – PR16294504 – Laptop
 
-## U.S. Revitalizes Key Credit Guarantee Program to Boost Agricultural Trade with Nigeria
+## Request for Quotes – PR16210019 – Calibration of Lifesaving Equipment
+
+## PR16203320 – SOLICITATION FOR QUOTES: LOGISTICAL SUPPORT FOR FREEDOM250 U.S-NIGERIA’S CREATIVE ECONOMY IN FOCUS
 
 - Manage options
 - Manage services
