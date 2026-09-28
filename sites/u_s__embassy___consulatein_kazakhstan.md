@@ -33,14 +33,15 @@
 ## Key Officers
 
 - Deputy Chief of Mission – Debby Robinson
-- Chief of the Consular Section – Stephanie Porter
-- Counselor of Press, Culture and Education – Kerri Spindler-Ranta
+- Chief of the Consular Section – Dae Kim
+- Counselor of Press, Culture and Education – Ali Lejlic
 - Defense Attache – Col Christopher Distifeno
-- Management Counselor – Rob Bunnell
-- Political and Economic Counselor – Mihail Seroka
-- Regional Security Officer – Alice Lookofsky
+- Economic Counselor – Jean Foster
+- Management Counselor – Douglas Rose
+- Political Counselor – Keith Bean
+- Regional Security Officer – August Brandon
 - Senior Commercial Officer – Andrew Glass
-- Spokesperson – Greg Porter
+- Spokesperson – Christopher Sorensen
 
 ## Business Opportunities
 

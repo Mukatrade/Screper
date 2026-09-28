@@ -41,9 +41,9 @@
 
 ## Business Links
 
-## Solicitation – PR16294504 – Laptop
+## Procurement Vendors’ Day
 
-## Request for Quotes – PR16210019 – Calibration of Lifesaving Equipment
+## Solicitation – PR16294504 – Laptop
 
 ## PR16203320 – SOLICITATION FOR QUOTES: LOGISTICAL SUPPORT FOR FREEDOM250 U.S-NIGERIA’S CREATIVE ECONOMY IN FOCUS
 
