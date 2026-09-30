@@ -1,5 +1,112 @@
 [
   {
+    "ran_at": "2026-09-30T13:23:24.745567+00:00",
+    "fetched": 2210,
+    "tenders": 0,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 2195,
+      "excluded_keyword": 5,
+      "no_include_keyword": 10,
+      "already_seen": 0,
+      "include_keywords": [
+        "request"
+      ],
+      "exclude_keywords": [
+        "auction",
+        "diplomatic mail",
+        "fuel",
+        "insurance",
+        "land cruiser",
+        "packing",
+        "preventive maintenance",
+        "rental",
+        "request for information",
+        "service",
+        "services",
+        "social media",
+        "suv"
+      ],
+      "top_agencies_fetched": [
+        [
+          "DEPT OF DEFENSE",
+          1896
+        ],
+        [
+          "VETERANS AFFAIRS, DEPARTMENT OF",
+          95
+        ],
+        [
+          "AGRICULTURE, DEPARTMENT OF",
+          51
+        ],
+        [
+          "HOMELAND SECURITY, DEPARTMENT OF",
+          35
+        ],
+        [
+          "GENERAL SERVICES ADMINISTRATION",
+          34
+        ],
+        [
+          "STATE, DEPARTMENT OF",
+          15
+        ],
+        [
+          "ENERGY, DEPARTMENT OF",
+          14
+        ],
+        [
+          "INTERIOR, DEPARTMENT OF THE",
+          11
+        ],
+        [
+          "JUSTICE, DEPARTMENT OF",
+          11
+        ],
+        [
+          "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+          8
+        ],
+        [
+          "ENVIRONMENTAL PROTECTION AGENCY",
+          7
+        ],
+        [
+          "TRANSPORTATION, DEPARTMENT OF",
+          6
+        ],
+        [
+          "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+          5
+        ],
+        [
+          "COMMERCE, DEPARTMENT OF",
+          5
+        ],
+        [
+          "POSTAL SERVICE",
+          4
+        ]
+      ],
+      "types_fetched": [
+        [
+          "Award Notice",
+          1000
+        ],
+        [
+          "Combined Synopsis/Solicitation",
+          918
+        ],
+        [
+          "Solicitation",
+          292
+        ]
+      ]
+    },
+    "results": []
+  },
+  {
     "ran_at": "2026-09-30T13:16:31.110371+00:00",
     "fetched": 2210,
     "tenders": 0,
