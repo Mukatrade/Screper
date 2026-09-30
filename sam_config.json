@@ -1,0 +1,31 @@
+{
+  "_help": "Edit this file to change the SAM.gov search. Empty list = no filter on that field. Matching is case-insensitive.",
+
+  "agencies": ["STATE, DEPARTMENT OF", "DEFENSE, DEPARTMENT OF"],
+  "_agencies_help": "Matched against the agency path (e.g. 'STATE, DEPARTMENT OF / STATE, DEPARTMENT OF / US EMBASSY KAMPALA'). You can also list sub-offices like 'US EMBASSY', 'ARMY', 'DLA', 'CDC'.",
+
+  "active_only": true,
+
+  "due_min_days": 5,
+  "due_max_days": 60,
+  "_due_help": "Only tenders whose response deadline is between today+min and today+max days. min gives you time to source and quote.",
+
+  "notice_types": ["solicitation", "combined", "award"],
+  "_notice_types_help": "solicitation, combined, presolicitation, sources_sought, award",
+
+  "countries": [],
+  "_countries_help": "Place of performance country codes, e.g. ['UGA','IND','KEN']. Empty = worldwide incl. US.",
+  "exclude_us": false,
+
+  "set_asides": [],
+  "_set_asides_help": "e.g. ['SBA'] for Total Small Business. Empty = any.",
+
+  "naics": [],
+  "psc": [],
+  "keywords": [],
+  "exclude_keywords": [],
+  "_keywords_help": "Added on top of the dashboard include/exclude keyword lists. Matched on title, agency, NAICS and PSC.",
+
+  "lookback_days": 3,
+  "max_items": 60
+}

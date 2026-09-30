@@ -44,6 +44,17 @@ jobs:
         REPLAY_DAYS: ${{ inputs.replay_days }}
       run: python scraper.py
 
+    - name: Run SAM.gov monitor
+      if: always()
+      continue-on-error: true
+      env:
+        SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
+        GMAIL_USER: ${{ secrets.GMAIL_USER }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+      run: python sam_monitor.py
+
     - name: Put the report into the inbox
       # The report is sent from info@ to an address on the same mailbox, and Gmail
       # then files it under Sent only. Add the INBOX label so it is actually seen.
@@ -60,7 +71,7 @@ jobs:
         info = json.loads(os.environ["GMAIL_TOKEN_JSON"])
         creds = Credentials.from_authorized_user_info(info, ["https://mail.google.com/"])
         g = build("gmail", "v1", credentials=creds)
-        r = g.users().messages().list(userId="me", q='in:sent subject:"Sarmad Monitor" newer_than:1d -in:inbox').execute()
+        r = g.users().messages().list(userId="me", q='in:sent (subject:"Sarmad Monitor" OR subject:"SAM.gov") newer_than:1d -in:inbox').execute()
         for m in r.get("messages", []):
             g.users().messages().modify(userId="me", id=m["id"], body={"addLabelIds": ["INBOX", "UNREAD"]}).execute()
             print("moved to inbox:", m["id"])
@@ -68,6 +79,7 @@ jobs:
         PY
 
     - name: Commit and push changes
+      if: always()
       run: |
         git config --global user.name "Automated Scraper"
         git config --global user.email "actions@github.com"
