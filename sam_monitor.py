@@ -56,7 +56,8 @@ def load_config() -> dict:
     cfg = {"agencies": [], "active_only": True, "due_min_days": 0, "due_max_days": 0,
            "notice_types": ["solicitation", "combined", "award"], "countries": [],
            "exclude_us": False, "set_asides": [], "naics": [], "psc": [], "keywords": [],
-           "exclude_keywords": [], "lookback_days": 3, "max_items": 60}
+           "exclude_keywords": [], "lookback_days": 3, "max_items": 60,
+           "use_dashboard_include": False, "use_dashboard_exclude": True}
     if CONFIG_PATH.exists():
         cfg.update({k: v for k, v in json.loads(CONFIG_PATH.read_text(encoding="utf-8")).items()
                     if not k.startswith("_")})
@@ -117,8 +118,10 @@ def load_filters() -> dict:
             r = requests.get(f"{DASHBOARD_URL}/api/scraper/filters", timeout=10)
             r.raise_for_status()
             d = r.json()
-            inc = [k.lower().strip() for k in d.get("include", []) if k.strip()]
-            exc = [k.lower().strip() for k in d.get("exclude", []) if k.strip()]
+            if CFG["use_dashboard_include"]:
+                inc = [k.lower().strip() for k in d.get("include", []) if k.strip()]
+            if CFG["use_dashboard_exclude"]:
+                exc = [k.lower().strip() for k in d.get("exclude", []) if k.strip()]
         except Exception as e:
             print(f"  [WARN] dashboard filters unavailable: {e}")
     inc += [k.lower() for k in CFG["keywords"]]
@@ -348,17 +351,17 @@ def main() -> None:
             continue
         new_items.append(x)
 
-    note = ""
-    has_codes = bool(CFG["naics"] or CFG["psc"] or CFG["agencies"] or CFG["countries"])
-    if not filters["include"] and not has_codes and len(new_items) > MAX_ITEMS:
-        note = (f"No keywords or NAICS/PSC codes are set, so only the newest {MAX_ITEMS} of "
-                f"{len(new_items)} notices are shown. Add include keywords on the dashboard "
-                f"or set naics / psc in sam_config.json to narrow it.")
-        new_items.sort(key=lambda x: x["posted"], reverse=True)
-        new_items = new_items[:MAX_ITEMS]
-
     sols = sorted([x for x in new_items if "award" not in x["type"].lower()], key=lambda x: x["deadline"] or "9")
     awards = sorted([x for x in new_items if "award" in x["type"].lower()], key=lambda x: x["posted"], reverse=True)
+    note_parts = []
+    if len(sols) > MAX_ITEMS:
+        note_parts.append(f"{len(sols)} tenders matched; the {MAX_ITEMS} with the nearest deadlines are shown, the rest come tomorrow")
+        sols = sols[:MAX_ITEMS]
+    if len(awards) > MAX_ITEMS:
+        note_parts.append(f"{len(awards)} awards matched; the newest {MAX_ITEMS} are shown")
+        awards = awards[:MAX_ITEMS]
+    note = ". ".join(note_parts) + (". Narrow it with naics / psc / countries in sam_config.json." if note_parts else "")
+    new_items = sols + awards
     print(f"  fetched {len(raw)} | new matches {len(new_items)} "
           f"(tenders {len(sols)}, awards {len(awards)}) | off-config {dropped_cfg} | excluded {dropped_excl} | no keyword {dropped_nomatch}")
 

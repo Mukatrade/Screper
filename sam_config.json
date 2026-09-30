@@ -1,7 +1,7 @@
 {
   "_help": "Edit this file to change the SAM.gov search. Empty list = no filter on that field. Matching is case-insensitive.",
 
-  "agencies": ["STATE, DEPARTMENT OF", "DEFENSE, DEPARTMENT OF"],
+  "agencies": ["STATE, DEPARTMENT OF", "DEPT OF DEFENSE"],
   "_agencies_help": "Matched against the agency path (e.g. 'STATE, DEPARTMENT OF / STATE, DEPARTMENT OF / US EMBASSY KAMPALA'). You can also list sub-offices like 'US EMBASSY', 'ARMY', 'DLA', 'CDC'.",
 
   "active_only": true,
@@ -24,8 +24,12 @@
   "psc": [],
   "keywords": [],
   "exclude_keywords": [],
+  "use_dashboard_include": false,
+  "use_dashboard_exclude": true,
+  "_dashboard_help": "The dashboard include list (e.g. 'request') is tuned for embassy pages and blocks most SAM titles, so it is off here. The exclude list still applies.",
   "_keywords_help": "Added on top of the dashboard include/exclude keyword lists. Matched on title, agency, NAICS and PSC.",
 
   "lookback_days": 3,
-  "max_items": 60
+  "max_items": 60,
+  "_max_items_help": "Max tenders and max awards per email. Extra ones come the next day."
 }
