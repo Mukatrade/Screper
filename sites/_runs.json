@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-09-30T10:58:31.170489Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-09-30T06:09:16.628384Z",
     "findings": 0,
     "new_tender": 0,
@@ -114,25 +123,6 @@
         "summary": "The Request for Quotes PR16210019 for Calibration of Lifesaving Equipment was removed and a Procurement Vendors\u2019 Day heading was added; the Laptop solicitation PR16294504 remains listed.",
         "refs": [
           "PR16294504"
-        ]
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-09-25T10:04:29.507297Z",
-    "findings": 1,
-    "new_tender": 1,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S EMBASSY IN NIGERIA",
-        "url": "https://ng.usembassy.gov/business",
-        "category": "NEW_TENDER",
-        "summary": "A new Request for Quotes tender for calibration of lifesaving equipment (PR16210019) was added.",
-        "refs": [
-          "PR16210019"
         ]
       }
     ]
