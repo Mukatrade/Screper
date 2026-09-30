@@ -376,8 +376,19 @@ def main() -> None:
             runs = json.loads(RUNS_PATH.read_text(encoding="utf-8"))
         except Exception:
             runs = []
+    from collections import Counter
+    agencies = Counter((n.get("fullParentPathName") or "?").split(".")[0] for n in raw)
+    types = Counter(n.get("type") or "?" for n in raw)
     runs.insert(0, {"ran_at": now_iso, "fetched": len(raw), "tenders": len(sols),
-                    "awards": len(awards), "results": sols + awards})
+                    "awards": len(awards),
+                    "filter_stats": {"off_config": dropped_cfg, "excluded_keyword": dropped_excl,
+                                     "no_include_keyword": dropped_nomatch,
+                                     "already_seen": len(raw) - dropped_cfg - dropped_excl - dropped_nomatch - len(new_items),
+                                     "include_keywords": filters["include"],
+                                     "exclude_keywords": filters["exclude"],
+                                     "top_agencies_fetched": agencies.most_common(15),
+                                     "types_fetched": types.most_common()},
+                    "results": sols + awards})
     RUNS_PATH.write_text(json.dumps(runs[:10], indent=2), encoding="utf-8")
 
     if new_items:
