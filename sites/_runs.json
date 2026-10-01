@@ -1,5 +1,14 @@
 [
   {
+    "ran_at": "2026-10-01T11:26:15.608129Z",
+    "findings": 0,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": []
+  },
+  {
     "ran_at": "2026-10-01T06:08:12.435302Z",
     "findings": 0,
     "new_tender": 0,
@@ -79,24 +88,5 @@
     "edited": 0,
     "monitored": 141,
     "results": []
-  },
-  {
-    "ran_at": "2026-09-28T06:08:05.692703Z",
-    "findings": 1,
-    "new_tender": 0,
-    "updated": 1,
-    "edited": 0,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S EMBASSY IN NIGERIA",
-        "url": "https://ng.usembassy.gov/business",
-        "category": "STATUS_UPDATE",
-        "summary": "The Request for Quotes PR16210019 for Calibration of Lifesaving Equipment was removed, indicating a status change, and a new Procurement Vendors\u2019 Day heading was added.",
-        "refs": [
-          "PR16294504"
-        ]
-      }
-    ]
   }
 ]
