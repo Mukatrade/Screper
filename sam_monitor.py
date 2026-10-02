@@ -427,24 +427,39 @@ def gmail_service():
         return None
 
 
+GOV_RE = re.compile(r"@[\w.-]+\.(gov|mil)\b", re.I)
+
+
 def sent_mentions(svc, sols: list[str]) -> set:
-    """Return the solicitation numbers that appear in Muka's sent mail.
-    Checks 15 numbers per query; only drills into chunks that hit."""
-    def hit(q):
+    """Solicitation numbers that appear in mail Muka SENT TO A .gov/.mil ADDRESS
+    (a real bid to the contracting office). Supplier RFQs and internal reports
+    do not count. 15 numbers per query; drills down only into chunks that hit."""
+    own = ' -subject:"SAM.gov" -subject:"Sarmad Monitor" -subject:digest -subject:Benny'
+
+    def ids(q, n=1):
         try:
-            return bool(svc.users().messages().list(userId="me", q=q, maxResults=1).execute().get("messages"))
+            return [m["id"] for m in svc.users().messages().list(
+                userId="me", q=q, maxResults=n).execute().get("messages", [])]
         except Exception as e:
             print(f"  [WARN] gmail query failed: {e}")
+            return []
+
+    def to_gov(mid):
+        try:
+            m = svc.users().messages().get(userId="me", id=mid, format="metadata",
+                                           metadataHeaders=["To", "Cc"]).execute()
+            hdrs = " ".join(h["value"] for h in m.get("payload", {}).get("headers", []))
+            return bool(GOV_RE.search(hdrs))
+        except Exception:
             return False
-    # Ignore our own internal reports (they list every solicitation number).
-    own = ' -subject:"SAM.gov" -subject:"Sarmad Monitor" -subject:digest -subject:Benny -to:yaron@mukatrade.com -to:info@mukatrade.com'
+
     found = set()
     for i in range(0, len(sols), 15):
         chunk = sols[i:i + 15]
-        if not hit("in:sent (" + " OR ".join(f'"{s}"' for s in chunk) + ")" + own):
+        if not ids("in:sent (" + " OR ".join(f'"{s}"' for s in chunk) + ")" + own):
             continue
         for s in chunk:
-            if hit(f'in:sent "{s}"' + own):
+            if any(to_gov(mid) for mid in ids(f'in:sent "{s}"' + own, 10)):
                 found.add(s)
     return found
 

@@ -36,7 +36,7 @@
   "_keywords_help": "Added on top of the dashboard include/exclude keyword lists. Matched on title, agency, NAICS and PSC.",
 
   "awards_only_for_my_bids": true,
-  "_awards_help": "Award notices are shown only for tenders Muka Trade bid on: the solicitation number appears in sent mail, or is listed in sam_bids.txt.",
+  "_awards_help": "Award notices are shown only for tenders Muka Trade bid on: the solicitation number appears in mail Muka sent to a .gov or .mil address, or is listed in sam_bids.txt.",
 
   "lookback_days": 3,
   "max_items": 60,
