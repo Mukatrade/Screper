@@ -606,11 +606,22 @@ def main() -> None:
     #    (workflow env or repo var) to resume sending).
     print("\n--- Reporting ---")
     subject, html, plain = build_report(findings, stats)
-    if os.environ.get("SEND_REPORT_EMAIL", "false").strip().lower() in ("1", "true", "yes"):
+    # Once per day (Kampala date): manual or repeated runs never send a second report.
+    from datetime import timedelta as _td
+    sent_path = SITES_DIR / "_report_sent.json"
+    today_kla = (datetime.utcnow() + _td(hours=3)).strftime("%Y-%m-%d")
+    try:
+        last_sent = json.loads(sent_path.read_text(encoding="utf-8")).get("date", "")
+    except Exception:
+        last_sent = ""
+    if os.environ.get("SEND_REPORT_EMAIL", "false").strip().lower() not in ("1", "true", "yes"):
+        print(f"Report email suppressed (SEND_REPORT_EMAIL not enabled): {subject}")
+    elif last_sent == today_kla:
+        print(f"Report already sent today ({today_kla}), skipping: {subject}")
+    else:
         print(f"Sending report: {subject}")
         send_email(subject, html, plain)
-    else:
-        print(f"Report email suppressed (SEND_REPORT_EMAIL not enabled): {subject}")
+        sent_path.write_text(json.dumps({"date": today_kla}), encoding="utf-8")
 
     print("\nDone.")
 
