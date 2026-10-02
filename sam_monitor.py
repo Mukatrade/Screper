@@ -17,8 +17,10 @@ Environment:
 Search settings (agency, active only, due-date window, notice types, countries,
 set-asides, NAICS/PSC, keywords) live in sam_config.json.
 
-State: sites/_sam_seen.json (notice IDs already reported, pruned after 90 days)
-       sites/_sam_runs.json (last 10 runs, for the dashboard)
+State: sites/_sam_state.json  one entry per solicitation number. A tender is
+       reported as NEW once; afterwards only as an UPDATE (deadline moved,
+       amended, awarded). Pruned 120 days after last activity.
+       sites/_sam_runs.json   last 10 runs, for the dashboard.
 """
 
 import json
@@ -29,6 +31,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from email.header import Header
+from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from html import escape
@@ -38,7 +41,8 @@ import requests
 
 API_URL = "https://api.sam.gov/opportunities/v2/search"
 SITES_DIR = Path("sites")
-SEEN_PATH = SITES_DIR / "_sam_seen.json"
+SEEN_PATH = SITES_DIR / "_sam_seen.json"      # legacy, used once to seed the state
+STATE_PATH = SITES_DIR / "_sam_state.json"     # one entry per solicitation
 RUNS_PATH = SITES_DIR / "_sam_runs.json"
 
 CONFIG_PATH = Path("sam_config.json")
@@ -77,17 +81,23 @@ def csv_env(name: str) -> list[str]:
 # Email
 # ---------------------------------------------------------------------------
 
-def send_email(subject: str, html: str, plain: str) -> None:
+def send_email(subject: str, html: str, plain: str, attachment: Path | None = None) -> None:
     if not (GMAIL_USER and GMAIL_APP_PASSWORD and RECIPIENT_EMAIL):
         print("  [WARN] Gmail env not set, email skipped.")
         return
     to = [r.strip() for r in RECIPIENT_EMAIL.split(",") if r.strip()]
-    msg = MIMEMultipart("alternative")
+    msg = MIMEMultipart("mixed")
     msg["Subject"] = Header(subject, "utf-8")
     msg["From"] = GMAIL_USER
     msg["To"] = ", ".join(to)
-    msg.attach(MIMEText(plain, "plain", "utf-8"))
-    msg.attach(MIMEText(html, "html", "utf-8"))
+    body = MIMEMultipart("alternative")
+    body.attach(MIMEText(plain, "plain", "utf-8"))
+    body.attach(MIMEText(html, "html", "utf-8"))
+    msg.attach(body)
+    if attachment and attachment.exists():
+        part = MIMEApplication(attachment.read_bytes(), Name=attachment.name)
+        part["Content-Disposition"] = f'attachment; filename="{attachment.name}"'
+        msg.attach(part)
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(GMAIL_USER, GMAIL_APP_PASSWORD)
         s.send_message(msg, from_addr=GMAIL_USER, to_addrs=to)
@@ -261,48 +271,282 @@ def simplify(n: dict) -> dict:
     }
 
 
-def build_digest(sols: list[dict], awards: list[dict], note: str) -> tuple[str, str, str]:
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    subject = f"SAM.gov: {len(sols)} new tender(s), {len(awards)} award(s) - {now}"
+# ---------------------------------------------------------------------------
+# Classification helpers
+# ---------------------------------------------------------------------------
 
-    def row_html(x: dict, is_award: bool) -> str:
-        meta = [f"<b>{escape(x['type'])}</b>", escape(x["agency"])]
-        if is_award:
-            meta.append(f"Awardee: <b>{escape(x['awardee'] or 'n/a')}</b>")
-            if x["award_amount"]:
-                meta.append(f"Amount: <b>${escape(str(x['award_amount']))}</b>")
+def is_award(x: dict) -> bool:
+    return "award" in x["type"].lower()
+
+
+def office(x: dict) -> str:
+    o = x["agency"].split(" / ")[-1].title() if x["agency"] else ""
+    return re.sub(r"\bUs\b", "US", re.sub(r"\bDla\b", "DLA", o))
+
+
+def money(v) -> str:
+    try:
+        return f"${float(str(v).replace(',', '')):,.0f}"
+    except Exception:
+        return f"${v}" if v else "-"
+
+
+def group_of(x: dict) -> str:
+    a = x["agency"].upper()
+    if "STATE, DEPARTMENT OF" in a:
+        return "state"
+    if "DLA" in a or "DEFENSE LOGISTICS" in a:
+        return "dla"
+    return "other"
+
+
+GROUP_TITLE = {"state": "Embassies / State Dept", "other": "Defense and other agencies",
+               "dla": "DLA small buys"}
+
+
+def days_left(deadline: str):
+    try:
+        d = datetime.strptime(deadline[:10], "%Y-%m-%d").date()
+        return (d - datetime.now(timezone.utc).date()).days
+    except Exception:
+        return None
+
+
+def key_of(x: dict) -> str:
+    return (x["sol"] or x["id"] or "").strip().upper()
+
+
+# ---------------------------------------------------------------------------
+# State: what has already been reported
+# ---------------------------------------------------------------------------
+
+def load_state() -> dict:
+    if STATE_PATH.exists():
+        try:
+            return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+
+def legacy_seen() -> set:
+    if SEEN_PATH.exists():
+        try:
+            return set(json.loads(SEEN_PATH.read_text(encoding="utf-8")).keys())
+        except Exception:
+            pass
+    return set()
+
+
+def classify(items: list[dict], state: dict) -> tuple[list, list, list]:
+    """Return (new_tenders, updates, new_awards). Updates carry a 'change' text.
+    Mutates state so every notice is remembered, shown or not."""
+    seed = legacy_seen() if not state else set()
+    today = datetime.now(timezone.utc).date().isoformat()
+    new, updates, awards = [], [], []
+    # oldest first so an original notice is recorded before its amendment
+    for x in sorted(items, key=lambda i: i["posted"]):
+        k = key_of(x)
+        if not k:
+            continue
+        rec = state.get(k)
+        if rec is None:
+            state[k] = {"title": x["title"], "deadline": x["deadline"], "type": x["type"],
+                        "notices": [x["id"]], "first_seen": today, "last_seen": today,
+                        "awarded": is_award(x)}
+            if x["id"] in seed:
+                continue                      # already shown by the old version
+            (awards if is_award(x) else new).append(x)
+            continue
+        if x["id"] in rec["notices"]:
+            continue                          # same notice as before, nothing new
+        rec["notices"].append(x["id"])
+        rec["last_seen"] = today
+        if is_award(x):
+            if rec.get("awarded"):
+                continue
+            rec["awarded"] = True
+            amt = f" for {money(x['award_amount'])}" if x["award_amount"] else ""
+            x["change"] = f"Awarded to {x['awardee'] or 'n/a'}{amt}"
+        elif x["deadline"] and rec.get("deadline") and x["deadline"][:10] != rec["deadline"][:10]:
+            x["change"] = f"Deadline moved {rec['deadline'][:10]} to {x['deadline'][:10]}"
+        elif x["title"] != rec.get("title"):
+            x["change"] = "Amended (title changed)"
         else:
-            meta.append(f"Deadline: <b>{escape(x['deadline'] or 'n/a')}</b>")
-            if x["setaside"]:
-                meta.append(f"Set-aside: {escape(x['setaside'])}")
-        meta.append(f"Place: {escape(x['place'])}")
-        meta.append(f"NAICS {escape(x['naics'])} / PSC {escape(x['psc'])}")
-        return (f"<li style='margin-bottom:10px'><a href='{escape(x['link'])}'>{escape(x['title'])}</a>"
-                + (f" <span style='color:#666'>({escape(x['sol'])})</span>" if x['sol'] else "") + "<br>"
-                f"<span style='font-size:12px'>{' | '.join(meta)}</span></li>")
+            x["change"] = "Amended / new version posted"
+        rec.update({"title": x["title"], "deadline": x["deadline"] or rec.get("deadline"),
+                    "type": x["type"]})
+        updates.append(x)
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=120)).date().isoformat()
+    for k in [k for k, v in state.items() if v.get("last_seen", "") < cutoff]:
+        del state[k]
+    return new, updates, awards
 
-    def row_txt(x: dict, is_award: bool) -> str:
-        extra = (f"Awardee: {x['awardee'] or 'n/a'} | Amount: {x['award_amount'] or 'n/a'}"
-                 if is_award else f"Deadline: {x['deadline'] or 'n/a'}")
-        return f"* {x['title']}" + (f" ({x['sol']})" if x['sol'] else "") + f"\n  {x['agency']} | {extra} | {x['place']}\n  {x['link']}"
 
-    html = "<div style='font-family:Arial,sans-serif;font-size:14px'><p>Hey, Hope you are doing well.</p>"
-    plain = ["Hey, Hope you are doing well.", ""]
-    if note:
-        html += f"<p style='color:#a60'>{escape(note)}</p>"
-        plain += [note, ""]
-    for label, items, is_award in (("New tenders", sols, False), ("Award notices", awards, True)):
-        html += f"<h3>{label} ({len(items)})</h3>"
-        plain += [f"{label} ({len(items)})", ""]
-        if items:
-            html += "<ul>" + "".join(row_html(x, is_award) for x in items) + "</ul>"
-            plain += [row_txt(x, is_award) for x in items] + [""]
-        else:
-            html += "<p>None today.</p>"
-            plain += ["None today.", ""]
-    html += "<p>Thanks,<br>Bummer the scanner</p></div>"
-    plain += ["Thanks,", "Bummer the scanner"]
-    return subject, html, "\n".join(plain)
+# ---------------------------------------------------------------------------
+# Excel attachment (everything, nothing hidden)
+# ---------------------------------------------------------------------------
+
+def build_excel(new: list, updates: list, awards: list) -> Path | None:
+    try:
+        from openpyxl import Workbook
+        from openpyxl.styles import Font, PatternFill
+        from openpyxl.utils import get_column_letter
+    except ImportError:
+        print("  [WARN] openpyxl missing, no Excel attachment")
+        return None
+    wb = Workbook()
+    head_fill = PatternFill("solid", fgColor="1F3A5F")
+    sheets = [
+        ("New tenders", new, ["Group", "Days left", "Deadline", "Title", "Solicitation", "Office",
+                              "Country", "Set-aside", "NAICS", "PSC", "Link"]),
+        ("Updates", updates, ["Group", "Change", "Days left", "Deadline", "Title", "Solicitation",
+                              "Office", "Country", "Link"]),
+        ("Awards", awards, ["Group", "Title", "Awardee", "Amount", "Office", "Country",
+                            "Solicitation", "NAICS", "Link"]),
+    ]
+    first = True
+    for name, rows, cols in sheets:
+        ws = wb.active if first else wb.create_sheet()
+        first = False
+        ws.title = name
+        ws.append(cols)
+        for c in ws[1]:
+            c.font = Font(bold=True, color="FFFFFF")
+            c.fill = head_fill
+        for x in rows:
+            val = {"Group": GROUP_TITLE[group_of(x)], "Days left": days_left(x["deadline"]),
+                   "Deadline": x["deadline"], "Title": x["title"], "Solicitation": x["sol"],
+                   "Office": office(x), "Country": x["place"], "Set-aside": x["setaside"],
+                   "NAICS": x["naics"], "PSC": x["psc"], "Link": x["link"],
+                   "Change": x.get("change", ""), "Awardee": x["awardee"],
+                   "Amount": x["award_amount"]}
+            ws.append([val[c] for c in cols])
+            ws.cell(ws.max_row, len(cols)).hyperlink = x["link"]
+        widths = {"Title": 60, "Office": 35, "Change": 40, "Link": 40, "Country": 25, "Awardee": 30}
+        for i, c in enumerate(cols, 1):
+            ws.column_dimensions[get_column_letter(i)].width = widths.get(c, 14)
+        ws.freeze_panes = "A2"
+        ws.auto_filter.ref = ws.dimensions
+    out = Path(f"SAM_tenders_{datetime.now(timezone.utc):%Y-%m-%d}.xlsx")
+    wb.save(out)
+    return out
+
+
+# ---------------------------------------------------------------------------
+# Email layout
+# ---------------------------------------------------------------------------
+
+C = {"ink": "#1f2933", "muted": "#6b7280", "line": "#e5e7eb", "head": "#1f3a5f",
+     "bg": "#f6f7f9", "red": "#b42318", "amber": "#b54708", "green": "#067647"}
+TD = f"padding:8px 10px;border-bottom:1px solid {C['line']};vertical-align:top;font-size:13px;color:{C['ink']}"
+TH = f"padding:8px 10px;text-align:left;font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:#fff;background:{C['head']}"
+
+
+def badge(d) -> str:
+    if d is None:
+        return f"<span style='color:{C['muted']}'>n/a</span>"
+    col = C["red"] if d <= 7 else C["amber"] if d <= 14 else C["green"]
+    return (f"<span style='display:inline-block;min-width:34px;text-align:center;padding:2px 6px;"
+            f"border-radius:10px;background:{col};color:#fff;font-weight:bold;font-size:12px'>{d}d</span>")
+
+
+def link_title(x: dict) -> str:
+    sol = f"<div style='color:{C['muted']};font-size:11px'>{escape(x['sol'])}</div>" if x["sol"] else ""
+    return f"<a href='{escape(x['link'])}' style='color:{C['head']};font-weight:bold;text-decoration:none'>{escape(x['title'])}</a>{sol}"
+
+
+def table(cols: list[str], rows: list[list[str]]) -> str:
+    h = "".join(f"<th style='{TH}'>{c}</th>" for c in cols)
+    b = "".join("<tr>" + "".join(f"<td style='{TD}'>{v}</td>" for v in r) + "</tr>" for r in rows)
+    return f"<table cellspacing='0' cellpadding='0' style='width:100%;border-collapse:collapse;margin:6px 0 18px'><tr>{h}</tr>{b}</table>"
+
+
+def tile(n: int, label: str, col: str) -> str:
+    return (f"<td style='padding:12px;background:#fff;border:1px solid {C['line']};border-radius:8px;text-align:center;width:25%'>"
+            f"<div style='font-size:26px;font-weight:bold;color:{col}'>{n}</div>"
+            f"<div style='font-size:12px;color:{C['muted']}'>{label}</div></td>")
+
+
+def h2(t: str) -> str:
+    return f"<h2 style='font-size:16px;color:{C['head']};margin:22px 0 4px;border-bottom:2px solid {C['head']};padding-bottom:4px'>{t}</h2>"
+
+
+def build_digest(new: list, updates: list, awards: list, show_cap: int, has_xlsx: bool) -> tuple[str, str, str]:
+    today = datetime.now(timezone.utc).strftime("%d %b %Y")
+    core = lambda items: [x for x in items if group_of(x) != "dla"]
+    closing = sum(1 for x in core(new + updates) if not is_award(x) and (days_left(x["deadline"]) if days_left(x["deadline"]) is not None else 99) <= 7)
+    nc, uc, ac = len([x for x in new if group_of(x) != "dla"]), len([x for x in updates if group_of(x) != "dla"]), len([x for x in awards if group_of(x) != "dla"])
+    subject = f"SAM.gov: {nc} new, {uc} updates, {ac} awards ({today})"
+
+    def by_group(items, g):
+        return [x for x in items if group_of(x) == g]
+
+    parts = [f"<div style='background:{C['bg']};padding:18px;font-family:Arial,Helvetica,sans-serif;color:{C['ink']}'>"
+             f"<div style='max-width:900px;margin:0 auto'>"
+             f"<div style='font-size:20px;font-weight:bold;color:{C['head']}'>SAM.gov tender digest</div>"
+             f"<div style='color:{C['muted']};font-size:13px;margin-bottom:12px'>{today}. Only tenders you have not seen before, plus changes to ones you have. Counts exclude DLA small buys.</div>"
+             f"<table cellspacing='8' style='width:100%'><tr>"
+             + tile(len(core(new)), "New tenders", C["head"]) + tile(len(core(updates)), "Updates", C["amber"])
+             + tile(closing, "Closing within 7 days", C["red"]) + tile(len(core(awards)), "Awards", C["green"])
+             + "</tr></table>"]
+    plain = [f"SAM.gov tender digest, {today}",
+             f"New: {len(new)} | Updates: {len(updates)} | Closing in 7 days: {closing} | Awards: {len(awards)}", ""]
+
+    # NEW TENDERS by group (state first, DLA as a count only)
+    for g in ("state", "other"):
+        items = sorted(by_group(new, g), key=lambda x: x["deadline"] or "9")
+        if not items:
+            continue
+        shown = items[:show_cap]
+        parts.append(h2(f"New tenders: {GROUP_TITLE[g]} ({len(items)})"))
+        parts.append(table(["Due", "Tender", "Office", "Country", "Set-aside"],
+                           [[badge(days_left(x["deadline"])), link_title(x), escape(office(x)),
+                             escape(x["place"]), escape(x["setaside"] or "-")] for x in shown]))
+        if len(items) > show_cap:
+            parts.append(f"<div style='color:{C['muted']};font-size:12px'>+{len(items) - show_cap} more in the Excel file.</div>")
+        plain.append(f"NEW TENDERS: {GROUP_TITLE[g]} ({len(items)})")
+        plain += [f"- [{days_left(x['deadline'])}d] {x['title']} | {office(x)} | {x['place']} | {x['link']}" for x in shown]
+        plain.append("")
+
+    dla_new = by_group(new, "dla")
+    if dla_new:
+        parts.append(h2(f"DLA small buys ({len(dla_new)})"))
+        parts.append(f"<div style='font-size:13px'>{len(dla_new)} automated DLA part buys (bid through DIBBS). Full list in the Excel file, sheet New tenders, filter Group.</div>")
+        plain += [f"DLA small buys: {len(dla_new)} (see Excel)", ""]
+
+    if not new:
+        parts.append(h2("New tenders"))
+        parts.append("<div style='font-size:13px'>No new tenders today.</div>")
+
+    # UPDATES (non-DLA in body)
+    upd = sorted([x for x in updates if group_of(x) != "dla"], key=lambda x: (group_of(x) != "state", x["deadline"] or "9"))
+    parts.append(h2(f"Updates to tenders already reported ({len(updates)})"))
+    if upd:
+        parts.append(table(["What changed", "Tender", "Office", "Due"],
+                           [[f"<b>{escape(x['change'])}</b>", link_title(x), escape(office(x)),
+                             badge(days_left(x["deadline"])) if not is_award(x) else "-"] for x in upd[:show_cap]]))
+        plain.append(f"UPDATES ({len(updates)})")
+        plain += [f"- {x['change']}: {x['title']} | {x['link']}" for x in upd[:show_cap]]
+        plain.append("")
+    dla_upd = len(updates) - len(upd)
+    if dla_upd or not upd:
+        parts.append(f"<div style='font-size:13px'>{'No updates.' if not updates else f'{dla_upd} DLA updates in the Excel file.'}</div>")
+
+    # AWARDS (price intel, non-DLA)
+    aw = sorted([x for x in awards if group_of(x) != "dla"], key=lambda x: group_of(x) != "state")
+    if aw:
+        parts.append(h2(f"Award notices, who won and for how much ({len(awards)})"))
+        parts.append(table(["Tender", "Winner", "Amount", "Office", "Country"],
+                           [[link_title(x), escape(x["awardee"] or "n/a"),
+                             escape(money(x["award_amount"])),
+                             escape(office(x)), escape(x["place"])] for x in aw[:show_cap]]))
+        plain.append(f"AWARDS ({len(awards)})")
+        plain += [f"- {x['title']} | {x['awardee']} | {x['award_amount']} | {x['link']}" for x in aw[:show_cap]]
+
+    foot = "Full list attached as Excel. " if has_xlsx else ""
+    parts.append(f"<div style='color:{C['muted']};font-size:11px;margin-top:20px'>{foot}Filters: sam_config.json in Mukatrade/Screper. Bummer the scanner.</div></div></div>")
+    return subject, "".join(parts), "\n".join(plain)
 
 
 # ---------------------------------------------------------------------------
@@ -326,22 +570,12 @@ def main() -> None:
         alert(f"{type(e).__name__}: {e}")
         sys.exit(1)
 
-    seen: dict = {}
-    if SEEN_PATH.exists():
-        try:
-            seen = json.loads(SEEN_PATH.read_text(encoding="utf-8"))
-        except Exception:
-            seen = {}
-
-    new_items, dropped_excl, dropped_nomatch = [], 0, 0
-    dropped_cfg = 0
+    kept, dropped_cfg, dropped_excl, dropped_nomatch = [], 0, 0, 0
     for n in raw:
         if not passes_config(n):
             dropped_cfg += 1
             continue
         x = simplify(n)
-        if x["id"] in seen:
-            continue
         hay = f"{x['title']} {x['agency']} {x['naics']} {x['psc']}".lower()
         if word_hit(filters["exclude"], hay):
             dropped_excl += 1
@@ -349,29 +583,13 @@ def main() -> None:
         if filters["include"] and not word_hit(filters["include"], hay):
             dropped_nomatch += 1
             continue
-        new_items.append(x)
+        kept.append(x)
 
-    sols = sorted([x for x in new_items if "award" not in x["type"].lower()], key=lambda x: x["deadline"] or "9")
-    awards = sorted([x for x in new_items if "award" in x["type"].lower()], key=lambda x: x["posted"], reverse=True)
-    note_parts = []
-    if len(sols) > MAX_ITEMS:
-        note_parts.append(f"{len(sols)} tenders matched; the {MAX_ITEMS} with the nearest deadlines are shown, the rest come tomorrow")
-        sols = sols[:MAX_ITEMS]
-    if len(awards) > MAX_ITEMS:
-        note_parts.append(f"{len(awards)} awards matched; the newest {MAX_ITEMS} are shown")
-        awards = awards[:MAX_ITEMS]
-    note = ". ".join(note_parts) + (". Narrow it with naics / psc / countries in sam_config.json." if note_parts else "")
-    new_items = sols + awards
-    print(f"  fetched {len(raw)} | new matches {len(new_items)} "
-          f"(tenders {len(sols)}, awards {len(awards)}) | off-config {dropped_cfg} | excluded {dropped_excl} | no keyword {dropped_nomatch}")
-
-    # Mark only what was reported as seen (so a later keyword change can still surface items)
-    now_iso = datetime.now(timezone.utc).isoformat()
-    for x in new_items:
-        seen[x["id"]] = now_iso
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=90)).isoformat()
-    seen = {k: v for k, v in seen.items() if v >= cutoff}
-    SEEN_PATH.write_text(json.dumps(seen, indent=0), encoding="utf-8")
+    state = load_state()
+    new, updates, awards = classify(kept, state)
+    STATE_PATH.write_text(json.dumps(state, indent=0), encoding="utf-8")
+    print(f"  fetched {len(raw)} | kept {len(kept)} | NEW {len(new)} | UPDATES {len(updates)} | "
+          f"AWARDS {len(awards)} | off-config {dropped_cfg} | excluded {dropped_excl}")
 
     runs = []
     if RUNS_PATH.exists():
@@ -379,27 +597,24 @@ def main() -> None:
             runs = json.loads(RUNS_PATH.read_text(encoding="utf-8"))
         except Exception:
             runs = []
-    from collections import Counter
-    agencies = Counter((n.get("fullParentPathName") or "?").split(".")[0] for n in raw)
-    types = Counter(n.get("type") or "?" for n in raw)
-    runs.insert(0, {"ran_at": now_iso, "fetched": len(raw), "tenders": len(sols),
-                    "awards": len(awards),
+    runs.insert(0, {"ran_at": datetime.now(timezone.utc).isoformat(), "fetched": len(raw),
+                    "tenders": len(new), "updates": len(updates), "awards": len(awards),
                     "filter_stats": {"off_config": dropped_cfg, "excluded_keyword": dropped_excl,
-                                     "no_include_keyword": dropped_nomatch,
-                                     "already_seen": len(raw) - dropped_cfg - dropped_excl - dropped_nomatch - len(new_items),
-                                     "include_keywords": filters["include"],
-                                     "exclude_keywords": filters["exclude"],
-                                     "top_agencies_fetched": agencies.most_common(15),
-                                     "types_fetched": types.most_common()},
-                    "results": sols + awards})
+                                     "no_include_keyword": dropped_nomatch},
+                    "results": [x for x in new + updates + awards if group_of(x) != "dla"][:200]})
     RUNS_PATH.write_text(json.dumps(runs[:10], indent=2), encoding="utf-8")
 
-    if new_items:
-        subject, html, plain = build_digest(sols, awards, note)
-        print(f"Sending: {subject}")
-        send_email(subject, html, plain)
-    else:
-        print("No new SAM.gov matches, no email.")
+    if not (new or updates or awards):
+        print("Nothing new on SAM.gov, no email.")
+        return
+    xlsx = build_excel(new, updates, awards)
+    subject, html, plain = build_digest(new, updates, awards, MAX_ITEMS, bool(xlsx))
+    if os.environ.get("SAM_DRY_RUN"):
+        Path("sam_preview.html").write_text(html, encoding="utf-8")
+        print(f"DRY RUN: {subject}")
+        return
+    print(f"Sending: {subject}")
+    send_email(subject, html, plain, xlsx)
 
 
 if __name__ == "__main__":

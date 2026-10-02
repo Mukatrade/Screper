@@ -53,7 +53,9 @@ jobs:
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
-      run: python sam_monitor.py
+      run: |
+        pip install --quiet openpyxl
+        python sam_monitor.py
 
     - name: Put the report into the inbox
       # The report is sent from info@ to an address on the same mailbox, and Gmail
