@@ -457,7 +457,8 @@ def my_bid_awards(award_items: list[dict], state: dict) -> list[dict]:
         return []
     mine_manual = manual_bids()
     svc = gmail_service()
-    sols = sorted({x["sol"] for x in cand})
+    # Short numbers (e.g. "P270") match random text in mail, so mail check needs 8+ chars.
+    sols = sorted({x["sol"] for x in cand if len(norm_sol(x["sol"])) >= 8})
     in_mail = sent_mentions(svc, sols) if svc else set()
     out, today = [], datetime.now(timezone.utc).date().isoformat()
     for x in cand:
