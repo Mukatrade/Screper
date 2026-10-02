@@ -31,9 +31,11 @@ Pre-Solicitation Number | Notice Type | Title | Date Issued | Response Date/Time
 ## Solicitation Notices
 
 Solicitation Number | Notice Type | Title | Date issued | Deadline for quote submission | Solicitation Document Links
-19RB1027Q0008 | Combined Synopsis/Solicitation | IT equipment for donation | October 1, 2026 | 17:00 local time on October 21, 2028 | Solicitation_19RB1027Q0008
 19RB1026Q0002 | Solicitation | Cellular/mobile telephone services for U.S. Embassy Belgrade | August 14, 2026 | 17:00 local time on August 31, 2026 | 19RB1026Q0002_Solicitation
 19RB1026Q0366 | Solicitation | Food Preparation Services for U.S. Embassy Belgrade | June 23, 2026 | 17:00 local time on July 20, 2026 | 19RB1026Q0366_Solicitation
+19RB1025Q0041 | Solicitation | Blanket Purchase Agreement for plumbing parts, fixtures and accessories electrical material for the U.S Embassy in Belgrade | August 6, 2025 | 17:00 local time on August 13, 2025 | 19RB1025Q0041_BPA Invitation letter 19RB1025Q0041_Solicitation
+- 19RB1025Q0041_BPA Invitation letter
+- 19RB1025Q0041_Solicitation
 
 ## NDAA EXPRESS FORM
 
