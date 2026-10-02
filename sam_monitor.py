@@ -436,13 +436,15 @@ def sent_mentions(svc, sols: list[str]) -> set:
         except Exception as e:
             print(f"  [WARN] gmail query failed: {e}")
             return False
+    # Ignore our own internal reports (they list every solicitation number).
+    own = ' -subject:"SAM.gov" -subject:"Sarmad Monitor" -subject:digest -subject:Benny -to:yaron@mukatrade.com -to:info@mukatrade.com'
     found = set()
     for i in range(0, len(sols), 15):
         chunk = sols[i:i + 15]
-        if not hit("in:sent (" + " OR ".join(f'"{s}"' for s in chunk) + ")"):
+        if not hit("in:sent (" + " OR ".join(f'"{s}"' for s in chunk) + ")" + own):
             continue
         for s in chunk:
-            if hit(f'in:sent "{s}"'):
+            if hit(f'in:sent "{s}"' + own):
                 found.add(s)
     return found
 
