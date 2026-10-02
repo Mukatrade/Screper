@@ -61,7 +61,9 @@ def load_config() -> dict:
            "notice_types": ["solicitation", "combined", "award"], "countries": [],
            "exclude_us": False, "set_asides": [], "naics": [], "psc": [], "keywords": [],
            "exclude_keywords": [], "lookback_days": 3, "max_items": 60,
-           "use_dashboard_include": False, "use_dashboard_exclude": True}
+           "use_dashboard_include": False, "use_dashboard_exclude": True,
+           "goods_only": False, "exclude_psc_prefixes": [], "exclude_offices": [],
+           "awards_only_for_my_bids": True}
     if CONFIG_PATH.exists():
         cfg.update({k: v for k, v in json.loads(CONFIG_PATH.read_text(encoding="utf-8")).items()
                     if not k.startswith("_")})
@@ -227,10 +229,17 @@ def passes_config(n: dict) -> bool:
     agency = (n.get("fullParentPathName") or "").upper()
     if CFG["agencies"] and not any(a.upper() in agency for a in CFG["agencies"]):
         return False
+    if any(o.upper() in agency for o in CFG["exclude_offices"]):
+        return False
     country = (((n.get("placeOfPerformance") or {}).get("country") or {}).get("code") or "").upper()
     if CFG["countries"] and country not in [c.upper() for c in CFG["countries"]]:
         return False
     if CFG["exclude_us"] and country in ("USA", "US"):
+        return False
+    psc = (n.get("classificationCode") or "").strip().upper()
+    if CFG["goods_only"] and not (psc[:1].isdigit()):
+        return False
+    if any(psc.startswith(p) for p in CFG["exclude_psc_prefixes"]):
         return False
     if CFG["active_only"] and "award" not in (n.get("type") or "").lower():
         if str(n.get("active", "Yes")).lower() not in ("yes", "true"):
@@ -346,6 +355,8 @@ def classify(items: list[dict], state: dict) -> tuple[list, list, list]:
     new, updates, awards = [], [], []
     # oldest first so an original notice is recorded before its amendment
     for x in sorted(items, key=lambda i: i["posted"]):
+        if is_award(x):
+            continue                          # awards are handled by my_bid_awards()
         k = key_of(x)
         if not k:
             continue
@@ -378,9 +389,81 @@ def classify(items: list[dict], state: dict) -> tuple[list, list, list]:
                     "type": x["type"]})
         updates.append(x)
     cutoff = (datetime.now(timezone.utc) - timedelta(days=120)).date().isoformat()
-    for k in [k for k, v in state.items() if v.get("last_seen", "") < cutoff]:
+    for k in [k for k, v in state.items() if not k.startswith("_") and v.get("last_seen", "") < cutoff]:
         del state[k]
     return new, updates, awards
+
+
+# ---------------------------------------------------------------------------
+# Awards: only for tenders we bid on
+# ---------------------------------------------------------------------------
+
+BIDS_PATH = Path("sam_bids.txt")
+
+
+def norm_sol(v: str) -> str:
+    return re.sub(r"[^A-Z0-9]", "", (v or "").upper())
+
+
+def manual_bids() -> set:
+    if not BIDS_PATH.exists():
+        return set()
+    return {norm_sol(l.split("#")[0]) for l in BIDS_PATH.read_text(encoding="utf-8").splitlines()
+            if norm_sol(l.split("#")[0])}
+
+
+def gmail_service():
+    raw = os.environ.get("GMAIL_TOKEN_JSON", "").strip()
+    if not raw:
+        print("  [WARN] GMAIL_TOKEN_JSON not set, award check uses sam_bids.txt only")
+        return None
+    try:
+        from google.oauth2.credentials import Credentials
+        from googleapiclient.discovery import build
+        creds = Credentials.from_authorized_user_info(json.loads(raw), ["https://mail.google.com/"])
+        return build("gmail", "v1", credentials=creds, cache_discovery=False)
+    except Exception as e:
+        print(f"  [WARN] Gmail unavailable for award check: {e}")
+        return None
+
+
+def sent_mentions(svc, sols: list[str]) -> set:
+    """Return the solicitation numbers that appear in Muka's sent mail.
+    Checks 15 numbers per query; only drills into chunks that hit."""
+    def hit(q):
+        try:
+            return bool(svc.users().messages().list(userId="me", q=q, maxResults=1).execute().get("messages"))
+        except Exception as e:
+            print(f"  [WARN] gmail query failed: {e}")
+            return False
+    found = set()
+    for i in range(0, len(sols), 15):
+        chunk = sols[i:i + 15]
+        if not hit("in:sent (" + " OR ".join(f'"{s}"' for s in chunk) + ")"):
+            continue
+        for s in chunk:
+            if hit(f'in:sent "{s}"'):
+                found.add(s)
+    return found
+
+
+def my_bid_awards(award_items: list[dict], state: dict) -> list[dict]:
+    """Awards whose solicitation Muka bid on, each reported once."""
+    reported = state.setdefault("_awards_reported", {})
+    cand = [x for x in award_items if x["sol"] and norm_sol(x["sol"]) not in reported]
+    if not cand:
+        return []
+    mine_manual = manual_bids()
+    svc = gmail_service()
+    sols = sorted({x["sol"] for x in cand})
+    in_mail = sent_mentions(svc, sols) if svc else set()
+    out, today = [], datetime.now(timezone.utc).date().isoformat()
+    for x in cand:
+        if x["sol"] in in_mail or norm_sol(x["sol"]) in mine_manual:
+            reported[norm_sol(x["sol"])] = today
+            out.append(x)
+    print(f"  awards checked {len(sols)} solicitation(s), {len(out)} on our bids")
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -476,8 +559,8 @@ def build_digest(new: list, updates: list, awards: list, show_cap: int, has_xlsx
     today = datetime.now(timezone.utc).strftime("%d %b %Y")
     core = lambda items: [x for x in items if group_of(x) != "dla"]
     closing = sum(1 for x in core(new + updates) if not is_award(x) and (days_left(x["deadline"]) if days_left(x["deadline"]) is not None else 99) <= 7)
-    nc, uc, ac = len([x for x in new if group_of(x) != "dla"]), len([x for x in updates if group_of(x) != "dla"]), len([x for x in awards if group_of(x) != "dla"])
-    subject = f"SAM.gov: {nc} new, {uc} updates, {ac} awards ({today})"
+    nc, uc, ac = len([x for x in new if group_of(x) != "dla"]), len([x for x in updates if group_of(x) != "dla"]), len(awards)
+    subject = f"SAM.gov: {nc} new, {uc} updates" + (f", {ac} of your bids awarded" if ac else "") + f" ({today})"
 
     def by_group(items, g):
         return [x for x in items if group_of(x) == g]
@@ -488,7 +571,7 @@ def build_digest(new: list, updates: list, awards: list, show_cap: int, has_xlsx
              f"<div style='color:{C['muted']};font-size:13px;margin-bottom:12px'>{today}. Only tenders you have not seen before, plus changes to ones you have. Counts exclude DLA small buys.</div>"
              f"<table cellspacing='8' style='width:100%'><tr>"
              + tile(len(core(new)), "New tenders", C["head"]) + tile(len(core(updates)), "Updates", C["amber"])
-             + tile(closing, "Closing within 7 days", C["red"]) + tile(len(core(awards)), "Awards", C["green"])
+             + tile(closing, "Closing within 7 days", C["red"]) + tile(len(awards), "Your bids awarded", C["green"])
              + "</tr></table>"]
     plain = [f"SAM.gov tender digest, {today}",
              f"New: {len(new)} | Updates: {len(updates)} | Closing in 7 days: {closing} | Awards: {len(awards)}", ""]
@@ -534,9 +617,9 @@ def build_digest(new: list, updates: list, awards: list, show_cap: int, has_xlsx
         parts.append(f"<div style='font-size:13px'>{'No updates.' if not updates else f'{dla_upd} DLA updates in the Excel file.'}</div>")
 
     # AWARDS (price intel, non-DLA)
-    aw = sorted([x for x in awards if group_of(x) != "dla"], key=lambda x: group_of(x) != "state")
+    aw = sorted(awards, key=lambda x: group_of(x) != "state")
     if aw:
-        parts.append(h2(f"Award notices, who won and for how much ({len(awards)})"))
+        parts.append(h2(f"Awards on tenders you bid ({len(awards)})"))
         parts.append(table(["Tender", "Winner", "Amount", "Office", "Country"],
                            [[link_title(x), escape(x["awardee"] or "n/a"),
                              escape(money(x["award_amount"])),
@@ -570,14 +653,17 @@ def main() -> None:
         alert(f"{type(e).__name__}: {e}")
         sys.exit(1)
 
-    kept, dropped_cfg, dropped_excl, dropped_nomatch = [], 0, 0, 0
+    kept, award_items, dropped_cfg, dropped_excl, dropped_nomatch = [], [], 0, 0, 0
     for n in raw:
+        if "award" in (n.get("type") or "").lower():
+            award_items.append(simplify(n))   # awards: only our own bids matter, no other filter
+            continue
         if not passes_config(n):
             dropped_cfg += 1
             continue
         x = simplify(n)
         hay = f"{x['title']} {x['agency']} {x['naics']} {x['psc']}".lower()
-        if word_hit(filters["exclude"], hay):
+        if word_hit(filters["exclude"], x["title"].lower()):
             dropped_excl += 1
             continue
         if filters["include"] and not word_hit(filters["include"], hay):
@@ -586,7 +672,11 @@ def main() -> None:
         kept.append(x)
 
     state = load_state()
-    new, updates, awards = classify(kept, state)
+    new, updates, _ = classify(kept, state)
+    if CFG["awards_only_for_my_bids"]:
+        awards = my_bid_awards(award_items, state)
+    else:
+        awards = [x for x in award_items if passes_config({"fullParentPathName": x["agency"].replace(" / ", "."), "classificationCode": x["psc"], "type": x["type"]})]
     STATE_PATH.write_text(json.dumps(state, indent=0), encoding="utf-8")
     print(f"  fetched {len(raw)} | kept {len(kept)} | NEW {len(new)} | UPDATES {len(updates)} | "
           f"AWARDS {len(awards)} | off-config {dropped_cfg} | excluded {dropped_excl}")

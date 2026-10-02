@@ -1,0 +1,2 @@
+# Solicitation numbers Muka Trade bid on, one per line (anything after # is ignored).
+# Award notices are shown for these, and for any number found in sent mail.

@@ -53,8 +53,9 @@ jobs:
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+        GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
       run: |
-        pip install --quiet openpyxl
+        pip install --quiet openpyxl google-api-python-client google-auth
         python sam_monitor.py
 
     - name: Put the report into the inbox
