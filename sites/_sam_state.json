@@ -17758,5 +17758,27 @@
 "first_seen": "2026-10-02",
 "last_seen": "2026-10-02",
 "awarded": false
+},
+"SPRPA126QUC09": {
+"title": "16--CHILLER",
+"deadline": "2026-11-02 16:30",
+"type": "Solicitation",
+"notices": [
+"ba8635b1a24f492e915a5ab772d5a863"
+],
+"first_seen": "2026-10-02",
+"last_seen": "2026-10-02",
+"awarded": false
+},
+"SPE7M127Q0015": {
+"title": "59--SYNCHRO",
+"deadline": "2026-10-12",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1ecfbb55b9fa4055acb3de893f98aba5"
+],
+"first_seen": "2026-10-02",
+"last_seen": "2026-10-02",
+"awarded": false
 }
 }

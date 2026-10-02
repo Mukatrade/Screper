@@ -1,5 +1,18 @@
 [
   {
+    "ran_at": "2026-10-02T11:20:29.699456+00:00",
+    "fetched": 2241,
+    "tenders": 2,
+    "updates": 0,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 459,
+      "excluded_keyword": 43,
+      "no_include_keyword": 0
+    },
+    "results": []
+  },
+  {
     "ran_at": "2026-10-02T10:58:01.105571+00:00",
     "fetched": 2335,
     "tenders": 92,
@@ -15560,13 +15573,6 @@
         ]
       ]
     },
-    "results": []
-  },
-  {
-    "ran_at": "2026-09-30T13:16:31.110371+00:00",
-    "fetched": 2210,
-    "tenders": 0,
-    "awards": 0,
     "results": []
   }
 ]
