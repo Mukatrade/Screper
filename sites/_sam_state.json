@@ -2369,10 +2369,11 @@
 "deadline": "2026-10-08 10:00",
 "type": "Combined Synopsis/Solicitation",
 "notices": [
-"9b76d8f66e844d899b444d0197533881"
+"9b76d8f66e844d899b444d0197533881",
+"04621d6e8da24ee2a2e736afbe92f44e"
 ],
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-03",
 "awarded": false
 },
 "SPE4A526T482Z": {
@@ -3854,10 +3855,11 @@
 "deadline": "2026-10-30 09:00",
 "type": "Combined Synopsis/Solicitation",
 "notices": [
-"1405e9dbdbfe48f1a3e1fb73eb57f5f8"
+"1405e9dbdbfe48f1a3e1fb73eb57f5f8",
+"8ab777fd80f84321a96b9f734ce22ad9"
 ],
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-03",
 "awarded": false
 },
 "SPE7M126T392N": {
@@ -9389,10 +9391,11 @@
 "deadline": "2026-11-02 16:30",
 "type": "Solicitation",
 "notices": [
-"8f902e16ec694f379ddc621f8394a859"
+"8f902e16ec694f379ddc621f8394a859",
+"7b2cf244d9874bcfba6d0cf45e93d787"
 ],
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-03",
 "awarded": false
 },
 "N0010426RZ057": {
@@ -17779,6 +17782,369 @@
 ],
 "first_seen": "2026-10-02",
 "last_seen": "2026-10-02",
+"awarded": false
+},
+"SPRTA126R0325": {
+"title": "Spacer, Compressor, R",
+"deadline": "2026-11-02 15:00",
+"type": "Solicitation",
+"notices": [
+"d4db4b0a53774d898f7b4b0cb760a78b"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"W912ES26QA004": {
+"title": "Multi-turn valve actuator, stem, and pedestal",
+"deadline": "2026-10-08 14:00",
+"type": "Solicitation",
+"notices": [
+"91f60955d39d4363918dc6cf47802fb5"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPRTA126Q0442": {
+"title": "VALVE ASSEMBLY",
+"deadline": "2026-11-02 16:00",
+"type": "Solicitation",
+"notices": [
+"7521d2e68bc44b6fa33908b52c5faf2e"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPRTA126Q0425": {
+"title": "SEAL,METALLIC,AIRCR",
+"deadline": "2026-11-02 14:00",
+"type": "Solicitation",
+"notices": [
+"418c259a693044c0a5094407975f29d1"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPRBL126RA009": {
+"title": "CHELTON BOXES LTC C3N VIS/4J",
+"deadline": "2026-10-28 23:59",
+"type": "Solicitation",
+"notices": [
+"2361b60eafd3490580797842ce43566a"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"FA822427R0002": {
+"title": "Aircraft Coatings and Sealants OO-ALC",
+"deadline": "2026-11-03 15:00",
+"type": "Solicitation",
+"notices": [
+"16e6d9893d384f6d8c9c2d1a3a16e9a1"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M027Q0057": {
+"title": "48--VALVE,LINEAR,DIRECT",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"ecc146b9416c4c6196294e20c815ada4"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M127Q0020": {
+"title": "61--CABLE,POWER,ELECTRICAL",
+"deadline": "2026-10-08",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"e048c3af39e64d8d8eb5a441141e141f"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"W911S227U0009": {
+"title": "Flatbed Tilt Utility Trailer",
+"deadline": "2026-10-13 12:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"cf52b60d1baf424fa28ea555caea9b78"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE4A626Q1505": {
+"title": "15--STABILIZER,HORIZONTAL",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"c32e6c05aa11441b8e5f92160a6ccaa5"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"N5005427Q0007": {
+"title": "Watertight Door",
+"deadline": "2026-10-09 13:15",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"c2c6f712e0394a628f6cf97267f9b15a"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"W911S227U0008": {
+"title": "XP 30 Ton Outside Air System",
+"deadline": "2026-10-08 05:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"b36f004b06094436bd08082be6a9906c"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"W911SA27QA029": {
+"title": "Meal Support Fort A.P. Hill, VA",
+"deadline": "2026-10-13 10:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"a21d1a492307499695681d55373303b2"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M426Q1017": {
+"title": "47--HOSE ASSEMBLY,NONMETAL",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"a0ec68801d0048cfac864fd918e9acb3"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M427Q0007": {
+"title": "16--HARNESS SET,AIRCRAFT S",
+"deadline": "2026-10-09",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"9ef3959c74a14578aa60bdee0af3023b"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M126Q1537": {
+"title": "59--ELECTRON TUBE",
+"deadline": "2026-10-12",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"9caa2aa6ebae49359dfe8e7e84c075a7"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M827T0002": {
+"title": "59--SWITCH,INTERLOCK",
+"deadline": "2026-10-13",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"992b0367c85f4357b19dbfcb067876b4"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE4A727Q0022": {
+"title": "36--BLADDER,OXYGEN GENERAT",
+"deadline": "2026-10-12",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"8edfef1c87e84137bd9c6316ee097978"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M527Q0016": {
+"title": "59--ANTENNA",
+"deadline": "2026-10-12",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"8c88c5adc55f46829c437a6b4365a94b"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"W911S227U0010": {
+"title": "Thermal Arc Sound Attenuation Booth",
+"deadline": "2026-10-13 12:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"7cd63ab28d81478da9657df7686d6e35"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"N6660427Q0002": {
+"title": "NavGuide GPS Receivers",
+"deadline": "2026-10-09 14:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"7c8c823940904c8c9af2c3507b58e6e8"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"W911S227U0011": {
+"title": "HANDHELD THREAT DETECTOR",
+"deadline": "2026-10-10 23:55",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"737b5b6fb68847db957bdbfeba366686"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE4A727Q0021": {
+"title": "53--GROMMET,NONMETALLIC",
+"deadline": "2026-10-09",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"6d2f98247135489f83b9362030405205"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M527Q0026": {
+"title": "61--ARMATURE,MOTOR",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"64d52a05b4d74f0a8600a41464f93acf"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE60526R0217": {
+"title": "SOLICITATION: SPE605-26-R-0217 (PHILIPPINES, POST, CAMPS, & STATIONS (PC&S) PP 1.6P)",
+"deadline": "2026-10-13 09:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"4fab8d35fcf2446fa57e7af61f625284"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7L727Q0020": {
+"title": "61--PARTS KIT,BATTERY",
+"deadline": "2026-10-12",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"48c3c7b438a54e7d89282d4b3e5a21fb"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M427Q0015": {
+"title": "16--PARTS KIT,AIR FLOW REG",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"4728c1e71a9148598433a3ecf48fddef"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE8E826Q0520": {
+"title": "41--COOLER UNIT,AIR",
+"deadline": "2026-10-08",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"3a01b7d247e843c18fcb0e5737a4e716"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE7M526Q0946": {
+"title": "59--PARTS KIT,ELECTRONIC E",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"3167224ed9074cfd83009a1a932085ae"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE8E927Q0023": {
+"title": "17--COVER,AIRCRAFT ENGINE",
+"deadline": "2026-10-09",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2ca8f8bdfc9b4d049e5cf06df7bfbbdc"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE8E827T0001": {
+"title": "41--HEAT INTERCHANGER,REFR",
+"deadline": "2026-10-13",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"10401e29404b48e7aff0b2959ed9a69a"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"SPE8E927Q0024": {
+"title": "17--COVER,ENTRANCE UNIT",
+"deadline": "2026-10-09",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0c3acfdec443499880e254ad19734865"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
+"awarded": false
+},
+"FA8126Q0065": {
+"title": "Metal for Overhead Crane System",
+"deadline": "2026-10-16 15:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"02f46b1e6b2f4fd19202042332c5f675"
+],
+"first_seen": "2026-10-03",
+"last_seen": "2026-10-03",
 "awarded": false
 }
 }

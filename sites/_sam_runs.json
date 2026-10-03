@@ -1,5 +1,207 @@
 [
   {
+    "ran_at": "2026-10-03T06:08:36.110402+00:00",
+    "fetched": 1884,
+    "tenders": 33,
+    "updates": 3,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 371,
+      "excluded_keyword": 28,
+      "no_include_keyword": 0
+    },
+    "results": [
+      {
+        "id": "91f60955d39d4363918dc6cf47802fb5",
+        "title": "Multi-turn valve actuator, stem, and pedestal",
+        "sol": "W912ES26QA004",
+        "type": "Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / US ARMY CORPS OF ENGINEERS / ENGINEER DIVISION MISSISSIPPI VALLEY / ENDIST ST PAUL / W07V ENDIST ST PAUL",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-08 14:00",
+        "naics": "333995",
+        "psc": "3590",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/91f60955d39d4363918dc6cf47802fb5/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "16e6d9893d384f6d8c9c2d1a3a16e9a1",
+        "title": "Aircraft Coatings and Sealants OO-ALC",
+        "sol": "FA822427R0002",
+        "type": "Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE AIR FORCE / AIR FORCE MATERIEL COMMAND / AIR FORCE SUSTAINMENT CENTER / FA8224  AFSC OL H PZIM",
+        "posted": "2026-10-02",
+        "deadline": "2026-11-03 15:00",
+        "naics": "325510",
+        "psc": "8010",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "Hill Air Force Base, Utah, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/16e6d9893d384f6d8c9c2d1a3a16e9a1/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "cf52b60d1baf424fa28ea555caea9b78",
+        "title": "Flatbed Tilt Utility Trailer",
+        "sol": "W911S227U0009",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC-FT DRUM",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-13 12:00",
+        "naics": "336212",
+        "psc": "2330",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/cf52b60d1baf424fa28ea555caea9b78/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "c2c6f712e0394a628f6cf97267f9b15a",
+        "title": "Watertight Door",
+        "sol": "N5005427Q0007",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE NAVY / NAVSEA / REGIONAL MAINTENANCE CENTER / MID ATLANTIC REG MAINT CTR",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-09 13:15",
+        "naics": "332321",
+        "psc": "2040",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/c2c6f712e0394a628f6cf97267f9b15a/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "b36f004b06094436bd08082be6a9906c",
+        "title": "XP 30 Ton Outside Air System",
+        "sol": "W911S227U0008",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC-FT DRUM",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-08 05:00",
+        "naics": "238220",
+        "psc": "4120",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/b36f004b06094436bd08082be6a9906c/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "a21d1a492307499695681d55373303b2",
+        "title": "Meal Support Fort A.P. Hill, VA",
+        "sol": "W911SA27QA029",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC FT MCCOY (RC)",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-13 10:00",
+        "naics": "311991",
+        "psc": "8940",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/a21d1a492307499695681d55373303b2/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "7cd63ab28d81478da9657df7686d6e35",
+        "title": "Thermal Arc Sound Attenuation Booth",
+        "sol": "W911S227U0010",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC-FT DRUM",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-13 12:00",
+        "naics": "332322",
+        "psc": "5410",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/7cd63ab28d81478da9657df7686d6e35/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "7c8c823940904c8c9af2c3507b58e6e8",
+        "title": "NavGuide GPS Receivers",
+        "sol": "N6660427Q0002",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE NAVY / NAVSEA / NAVSEA WARFARE CENTER / NUWC DIV NEWPORT",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-09 14:00",
+        "naics": "517410",
+        "psc": "7H20",
+        "setaside": "No Set aside used",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/7c8c823940904c8c9af2c3507b58e6e8/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "737b5b6fb68847db957bdbfeba366686",
+        "title": "HANDHELD THREAT DETECTOR",
+        "sol": "W911S227U0011",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC-FT DRUM",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-10 23:55",
+        "naics": "334511",
+        "psc": "6630",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/737b5b6fb68847db957bdbfeba366686/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "02f46b1e6b2f4fd19202042332c5f675",
+        "title": "Metal for Overhead Crane System",
+        "sol": "FA8126Q0065 ",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE AIR FORCE / AIR FORCE MATERIEL COMMAND / AIR FORCE SUSTAINMENT CENTER / FA8126  AFSC PZIMB",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-16 15:00",
+        "naics": "331110",
+        "psc": "9520",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "0, Oklahoma, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/02f46b1e6b2f4fd19202042332c5f675/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "04621d6e8da24ee2a2e736afbe92f44e",
+        "title": "JOHN DEERE 333G COMPACT SKID STEER",
+        "sol": "W911S226U4565",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC-FT DRUM",
+        "posted": "2026-10-02",
+        "deadline": "2026-10-08 10:00",
+        "naics": "333924",
+        "psc": "3805",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/04621d6e8da24ee2a2e736afbe92f44e/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": "",
+        "change": "Amended / new version posted"
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-02T11:20:29.699456+00:00",
     "fetched": 2241,
     "tenders": 2,
@@ -15467,112 +15669,5 @@
         "award_date": "2026-09-30"
       }
     ]
-  },
-  {
-    "ran_at": "2026-09-30T13:23:24.745567+00:00",
-    "fetched": 2210,
-    "tenders": 0,
-    "awards": 0,
-    "filter_stats": {
-      "off_config": 2195,
-      "excluded_keyword": 5,
-      "no_include_keyword": 10,
-      "already_seen": 0,
-      "include_keywords": [
-        "request"
-      ],
-      "exclude_keywords": [
-        "auction",
-        "diplomatic mail",
-        "fuel",
-        "insurance",
-        "land cruiser",
-        "packing",
-        "preventive maintenance",
-        "rental",
-        "request for information",
-        "service",
-        "services",
-        "social media",
-        "suv"
-      ],
-      "top_agencies_fetched": [
-        [
-          "DEPT OF DEFENSE",
-          1896
-        ],
-        [
-          "VETERANS AFFAIRS, DEPARTMENT OF",
-          95
-        ],
-        [
-          "AGRICULTURE, DEPARTMENT OF",
-          51
-        ],
-        [
-          "HOMELAND SECURITY, DEPARTMENT OF",
-          35
-        ],
-        [
-          "GENERAL SERVICES ADMINISTRATION",
-          34
-        ],
-        [
-          "STATE, DEPARTMENT OF",
-          15
-        ],
-        [
-          "ENERGY, DEPARTMENT OF",
-          14
-        ],
-        [
-          "INTERIOR, DEPARTMENT OF THE",
-          11
-        ],
-        [
-          "JUSTICE, DEPARTMENT OF",
-          11
-        ],
-        [
-          "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-          8
-        ],
-        [
-          "ENVIRONMENTAL PROTECTION AGENCY",
-          7
-        ],
-        [
-          "TRANSPORTATION, DEPARTMENT OF",
-          6
-        ],
-        [
-          "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-          5
-        ],
-        [
-          "COMMERCE, DEPARTMENT OF",
-          5
-        ],
-        [
-          "POSTAL SERVICE",
-          4
-        ]
-      ],
-      "types_fetched": [
-        [
-          "Award Notice",
-          1000
-        ],
-        [
-          "Combined Synopsis/Solicitation",
-          918
-        ],
-        [
-          "Solicitation",
-          292
-        ]
-      ]
-    },
-    "results": []
   }
 ]
