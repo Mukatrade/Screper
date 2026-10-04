@@ -14,11 +14,11 @@
 - RFQ 19BL4026Q0002_Janitorial Services Solicitation Package
 - Q&A Final
 
-## Joint Statement in Support of Bolivia’s Efforts to Fight Corruption and Narco-Trafficking
-
 ## Visa Restrictions for Foreign Nationals Undermining Democratically-Elected Governments in Western Hemisphere Countries
 
 ## Joint Statement on Defending Hemispheric Sovereignty
+
+## Embassy Statement – September 15, 2026
 
 - Manage options
 - Manage services

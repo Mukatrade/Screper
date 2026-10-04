@@ -41,11 +41,11 @@
 
 ## Business Links
 
+## Procurement Vendors’ Day
+
 ## U.S. Revitalizes Key Credit Guarantee Program to Boost Agricultural Trade with Nigeria
 
 ## May 2026 Online Auction
-
-## January 2026 Online Auction Sale
 
 - Manage options
 - Manage services
