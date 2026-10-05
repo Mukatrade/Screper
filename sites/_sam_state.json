@@ -19642,5 +19642,93 @@
 "first_seen": "2026-10-05",
 "last_seen": "2026-10-05",
 "awarded": false
+},
+"SPRPA126RVC65": {
+"title": "16--HEAT EXCHANGER,AIR",
+"deadline": "2026-11-02 14:00",
+"type": "Solicitation",
+"notices": [
+"ff7f6f7bdd0546e9ad4934a0b49a655e"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
+},
+"W911PT27QA0004": {
+"title": "STEEL FOR WATERVLIET ARSENAL",
+"deadline": "2026-10-16 16:30",
+"type": "Solicitation",
+"notices": [
+"f0cdf38492874a5298ff852f859baef1"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
+},
+"SPRPA126QUC18": {
+"title": "16--ACTUATOR,ELECTRO-ME",
+"deadline": "2026-11-02 16:30",
+"type": "Solicitation",
+"notices": [
+"de60ecc436d54857b1cbbb4a3681c9da"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
+},
+"SPRPA126RUC21": {
+"title": "66--OVERHEAD PROJECTOR,",
+"deadline": "2026-11-02 14:00",
+"type": "Solicitation",
+"notices": [
+"bb6e9507359540c899a3cb2b793f38e2"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
+},
+"SPRPA126QUC16": {
+"title": "16--CYLINDER,SHOCK STRU",
+"deadline": "2026-11-02 16:30",
+"type": "Solicitation",
+"notices": [
+"133805751b2d4ab3963fdda4525c98b5"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
+},
+"SPRPA126QWB80": {
+"title": "28--POWER UNIT,GAS TURB",
+"deadline": "2026-10-13 16:30",
+"type": "Solicitation",
+"notices": [
+"0db6625476124097adf792f8b5c28747"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
+},
+"SPE7M127T0088": {
+"title": "59--FUSE,CARTRIDGE",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"f5ba5205bfaa4039b485085f370d929e"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
+},
+"F4FFCN6253AW01": {
+"title": "WallHound-Pro Detection and SentryHound-Pro Folding Detection",
+"deadline": "2026-10-20 12:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"ae1f0763156d4d37b984d8457ff1665c"
+],
+"first_seen": "2026-10-05",
+"last_seen": "2026-10-05",
+"awarded": false
 }
 }
