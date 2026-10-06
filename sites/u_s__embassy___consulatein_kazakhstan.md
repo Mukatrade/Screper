@@ -44,6 +44,8 @@
 
 ## Business Opportunities
 
+## Our Location
+
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
