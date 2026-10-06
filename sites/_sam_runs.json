@@ -1,5 +1,18 @@
 [
   {
+    "ran_at": "2026-10-06T11:51:49.912247+00:00",
+    "fetched": 946,
+    "tenders": 24,
+    "updates": 0,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 171,
+      "excluded_keyword": 20,
+      "no_include_keyword": 0
+    },
+    "results": []
+  },
+  {
     "ran_at": "2026-10-06T06:08:15.740966+00:00",
     "fetched": 863,
     "tenders": 258,
@@ -547,36 +560,5 @@
       "no_include_keyword": 0
     },
     "results": []
-  },
-  {
-    "ran_at": "2026-10-02T10:43:47.302503+00:00",
-    "fetched": 2233,
-    "tenders": 0,
-    "updates": 0,
-    "awards": 1,
-    "filter_stats": {
-      "off_config": 456,
-      "excluded_keyword": 43,
-      "no_include_keyword": 0
-    },
-    "results": [
-      {
-        "id": "1039846d1c5e44a2a2239bd61dcb254e",
-        "title": "MULTIPLEXED BUS INTERFACE 2",
-        "sol": "P270",
-        "type": "Award Notice",
-        "agency": "DEPT OF DEFENSE / DEPT OF THE NAVY / SSP / PAE STRATEGIC SYSTEMS PROGRAMS",
-        "posted": "2026-09-30",
-        "deadline": "",
-        "naics": "541330",
-        "psc": "1290",
-        "setaside": "No Set aside used",
-        "place": "Pittsfield, Massachusetts, UNITED STATES",
-        "link": "https://sam.gov/workspace/contract/opp/1039846d1c5e44a2a2239bd61dcb254e/view",
-        "award_amount": "2073666.00",
-        "awardee": "GENERAL DYNAMICS MISSION SYSTEMS, INC.",
-        "award_date": "2026-09-29"
-      }
-    ]
   }
 ]

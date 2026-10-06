@@ -22570,5 +22570,269 @@
 "first_seen": "2026-10-06",
 "last_seen": "2026-10-06",
 "awarded": false
+},
+"SPRPA126RYD43": {
+"title": "61--MODULE HIGH VOLTAGE",
+"deadline": "2026-11-05 14:00",
+"type": "Solicitation",
+"notices": [
+"9d7162ea68e047ae860804174571285d"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPRPA127QXA01": {
+"title": "VALVE,BUTTERFLY",
+"deadline": "2026-10-22 16:30",
+"type": "Solicitation",
+"notices": [
+"5b8a95a9893640208f35221059902a6a"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPRPA127QVA02": {
+"title": "DISTRIBUTING SYSTEM",
+"deadline": "2026-10-13 16:30",
+"type": "Solicitation",
+"notices": [
+"500c0f4e58d64c57ab703cc08c769650"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPRPA126QUC23": {
+"title": "58--DME INTERROGATOR SE",
+"deadline": "2026-11-05 16:30",
+"type": "Solicitation",
+"notices": [
+"0224ebb6894844609a2218259573d756"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7L427T0050": {
+"title": "25--MANIFOLD ASSEMBLY,CMDR",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"f4e9563dd17746d0a35544f1f86ef51c"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M127T0174": {
+"title": "66--DETECTOR,GAS",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"ea3aea124d6f4f5c8f7cd210395c648c"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE2DS27T0429": {
+"title": "65--CASE,MEDICAL INSTRUMEN",
+"deadline": "2026-10-13",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"e881d2d441914f1b8e3c3d2f5467a514"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7L127T0294": {
+"title": "30--HOUSING,MECHANICAL DRI",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"daad1ac78d1948edb65592cdada4ca9d"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M227T0015": {
+"title": "17--SUBPLATE,RETRACTION",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"d9caf95c88bb4f7183b1bb7dc0b0b8a8"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M127T0182": {
+"title": "61--DISTRIBUTION BOX",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"cce9fcaa33924b00a5c41c9d2bb2f64e"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE4A527T0113": {
+"title": "53--BOLT,CLOSE TOLERANCE",
+"deadline": "2026-10-14",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"ccdd304f36a3485490e1dc58463b608e"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE3SE27T0030": {
+"title": "73--OVEN,COMBI",
+"deadline": "2026-10-13",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"b61b1ceae60e4207a8e7724e6430863a"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE4A627T0542": {
+"title": "53--KEY,MACHINE",
+"deadline": "2026-10-14",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"9ebad33192b641f88323edb859424a3a"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7L327U0011": {
+"title": "29--MUFFLER,EXHAUST",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"8ac61cfda1c04fbaa1db60524d53945b"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M127T0173": {
+"title": "66--METER,SPECIAL SCALE",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"67f832fb080f42fe8daa44e07418b85c"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M827Q0001": {
+"title": "59--SWITCH,PRESSURE",
+"deadline": "2026-10-20",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"59c4e8a7b8824d12ae28e32d224936f7"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M427T0233": {
+"title": "20--HOUSING,MECHANICAL DRI",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"58edc4dab46d43ada76e97c761bbe701"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE8EN27T0099": {
+"title": "58--CAMERA SYSTEM,SURVEILL",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"3d6c95f8b29041e0b68c00e572b89bfd"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M127T0169": {
+"title": "66--DETECTOR,GAS",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"3bab1ac34f2040f291c5fe42dcd96c61"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE4A727Q0026": {
+"title": "15--DUCT ASSEMBLY,BLEED AI",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2c9b511d3a9c4e4d9995424b06d5b6a9"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7M327T0084": {
+"title": "47--PLUG,PIPE",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1e075c34c2cf479b805035e24de729b5"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7L427U0028": {
+"title": "28--DAMPENER,VIBRATION,ENG",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1dff6c24b7474359a21f83d8dca17f44"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE8E627T0133": {
+"title": "69--SKID,MOLDED",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1c90ba7f186b486a8926c0ec310ebc46"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
+},
+"SPE7L327Q0009": {
+"title": "25--ARMOR,TRANSPARENT,VEHI",
+"deadline": "2026-10-20",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0b52c56899644de4a8ce21c613c010a1"
+],
+"first_seen": "2026-10-06",
+"last_seen": "2026-10-06",
+"awarded": false
 }
 }
