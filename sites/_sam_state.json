@@ -9226,11 +9226,12 @@
 },
 "W912CH26QA053": {
 "title": "Solicitation -- Blower, Air Barrier",
-"deadline": "2026-10-12 12:00",
+"deadline": "2026-10-16 12:00",
 "type": "Solicitation",
 "notices": [
 "b16717c25b97410a8407f3746cce345a",
-"4e6ab0eca9b4479ea455b270fae44456"
+"4e6ab0eca9b4479ea455b270fae44456",
+"eb33ad88f8a04a51b74702c6c82ce3a9"
 ],
 "first_seen": "2026-10-02",
 "last_seen": "2026-10-07",
@@ -9682,10 +9683,11 @@
 "deadline": "2026-10-28 23:59",
 "type": "Solicitation",
 "notices": [
-"607284585b73487bb52c0574f5be8d6c"
+"607284585b73487bb52c0574f5be8d6c",
+"622afc487ef2446b8eccb2562452e425"
 ],
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-07",
 "awarded": false
 },
 "N6833526Q1183": {
@@ -9825,10 +9827,11 @@
 "deadline": "2026-10-22 16:30",
 "type": "Solicitation",
 "notices": [
-"43b65120dbfe4c9a958dab18b1fc8c27"
+"43b65120dbfe4c9a958dab18b1fc8c27",
+"027d4c131d964004a7d6b43e8119f7c6"
 ],
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-07",
 "awarded": false
 },
 "N0010426QBZ00": {
@@ -32021,6 +32024,1073 @@
 "type": "Combined Synopsis/Solicitation",
 "notices": [
 "1586fbba4077406a8e9624e354508dfe"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0059": {
+"title": "43--FILTER,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"221f0139b4a348a5add48c07e2cdc191"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0129": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"21a4b20fa21640d6a6f3036661f39696"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0199": {
+"title": "61--BAG,POWER DISTRIBUTION",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"216362b2a5f740b88974faf81640d4d8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0734": {
+"title": "43--PLUG,ELEMENT,RETAINER",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2151dd5897154d659c4ee3ec1761c475"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0671": {
+"title": "61--MOTOR,CONTROL",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"20cba1184f294654b72259b3baee4ccb"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0762": {
+"title": "12--MOUNT,SIGHT",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"205cd9bc474b41aea33e2570e16597f7"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0207": {
+"title": "59--BACKSHELL,ELECTRICAL C",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2016a009329543d98cc3300cdb2dfcbe"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0747": {
+"title": "43--VALVE HEAD,HYDRAULIC M",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2014380f6ca24863911a062cc33e6dc8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0137": {
+"title": "59--RELAY,ELECTROMAGNETIC",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2001fd75fac24513b052a2513670ae73"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M427Q0022": {
+"title": "16--ACTUATOR,MECHANICAL,AI",
+"deadline": "2026-10-12",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1fa543e7215342619dd74fcc8349b24b"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0068": {
+"title": "59--SWITCH,SENSITIVE",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1f9ce89c0ab9431cae8129789fe169b3"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0260": {
+"title": "43--PLATE,COMPRESSOR",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1f9b0acf44d247ab814431561fa464e4"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0132": {
+"title": "59--TRANSFORMER,POWER",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1f927cb5b9f44049a981d92940387747"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0641": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1f486d5817b9456784ec7051a7d3fb50"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0720": {
+"title": "61--GENERATOR,ALTERNATING",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1edf360c8103450982973fd1673cd844"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0379": {
+"title": "61--LEVER,GENERATOR",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1eaca8c80c3942e58afe28476f094c80"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0651": {
+"title": "43--SLEEVE,SHAFT,PUMP",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1ea28866f89d4180b9489778de865d10"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0444": {
+"title": "59--CONNECTOR,RECEPTACLE,E",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1e925c9cb8db45778fec3989058d8ee7"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0489": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1e70c3652a38442b96969ac6d9813911"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0469": {
+"title": "59--COVER,ELECTRICAL CONNE",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1e2c38e0fd3848f0817336ebcb58eab7"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0319": {
+"title": "59--CONNECTOR,PLUG,ELECTRI",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1dfecee573394939831da137812e15c2"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0499": {
+"title": "59--CONTACT,ELECTRICAL",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1dce095ed0ef45789ac2da3da47bac9d"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0460": {
+"title": "59--CONNECTOR,RECEPTACLE,E",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1d7663b1fbbf489fb8e1bb989b82cc1d"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0102": {
+"title": "59--CAPACITOR,FIXED,PLASTI",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1cddd424dab34fab8a9d048c7530229d"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0383": {
+"title": "59--RELAY,ELECTROMAGNETIC",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1cb41b6962be47698957c64145ee660c"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0551": {
+"title": "66--VOLTMETER",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1ca35216257b4c1fbc3a5cb20ff29aa8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0507": {
+"title": "59--CONNECTOR,RECEPTACLE,E",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1c6dbd9a35bf4f91b79180dfe99b2dd8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7LX27U0069": {
+"title": "53--SEAL,PLAIN ENCASED",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1c677904d7544f12923a0c16a073d8db"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0258": {
+"title": "66--WATTMETER",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1c049e2f130e4d8c966b4aa0d5d88da8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0324": {
+"title": "59--SHIELDING GASKET,ELECT",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1bc5b95645644b989cce547b9425f958"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0391": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1ba9fd1c16674ca9978733f60691d658"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7LX27U0113": {
+"title": "25--BRACKET,VEHICULAR COMP",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1b853dc2f02e4b2eb65620dd62166be8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0735": {
+"title": "66--LEAD,TEST",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1b65da6d5b7d4fdeab9cca038792309d"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0449": {
+"title": "59--CONNECTOR,PLUG,ELECTRI",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1af398d8517147a19d91eb4298e67d4e"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7LX27U0071": {
+"title": "53--RING,RETAINING",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1ad442638d9b4da682982cd7dd6c93c3"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0582": {
+"title": "59--FUSE,CARTRIDGE",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1abe72026c224fc49730c3ec53c551cb"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0154": {
+"title": "66--ADAPTER,TEST PROBE",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1aa25167cf3644caba136a56c331228f"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0329": {
+"title": "43--RESERVOIR,HYDRAULIC",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1a9c7a1678634f0f8e8ec543fe1cbb84"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0675": {
+"title": "59--ELECTRONIC COMPONENTS",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1a9b18bd9a574ab3b0e5d046520995f8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0581": {
+"title": "59--CAP,ELECTRICAL",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1a2b7fce460a49968c762d344a998e77"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0614": {
+"title": "59--FUSE,CARTRIDGE",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1a187a12ef784863aacd81a6468ad6cb"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0337": {
+"title": "59--ANTENNA CONTROL GROUP",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"19a8e94e69aa4b9c9e33e8511c6b641a"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE4A627T0612": {
+"title": "53--SOCKET,TURNBUTTON FAST",
+"deadline": "2026-10-14",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1926099d78ab40f58623e8603316e268"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0561": {
+"title": "59--CONNECTOR,RECEPTACLE,E",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"190e8f2d212c4742b112946c96092c3f"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7LX27U0134": {
+"title": "53--GASKET",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"18d21396260b47d6b7e087a53825f15d"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0490": {
+"title": "59--CONNECTOR,RECEPTACLE,E",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"181562b6f96c4752b40cddbb4d5111b2"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0732": {
+"title": "59--CIRCUIT CARD ASSEMBLY",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"180a5bb36ddb4fc38934511aab182fac"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0759": {
+"title": "61--PANEL,CONTROL,ELECTRIC",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"17a785364f66430da24da5347a2e411e"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0702": {
+"title": "43--CYLINDER,RECIPROCATING",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"17948c5f11964e40bf3c1147c1f7b511"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0171": {
+"title": "59--CONNECTOR,PLUG,ELECTRI",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"17236351902b4252bd8d11e97fce29fa"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0655": {
+"title": "43--RING,PISTON",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"16f32775f97a48f3a02d6c1b92753dae"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M527Q0042": {
+"title": "43--PARTS KIT,FLUID PRESSU",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"16e3290da14b41818b3319b00750ee4d"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0157": {
+"title": "59--CONNECTOR,RECEPTACLE,E",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"16cffc1b472c4d468a4363d533f34afd"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE4A627T0649": {
+"title": "53--BOLT,INTERNAL WRENCHIN",
+"deadline": "2026-10-14",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"16ceb4b7b12346029714820c24e24559"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0604": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"158a36369de34912aabbaa208de7bacb"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M427T0246": {
+"title": "53--GASKET",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"150b4aec67cd4b018a30e7ca6b987ce3"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0498": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"14ce4b8af6dc48699d6ac48457984228"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0471": {
+"title": "59--CONNECTOR,RECEPTACLE,E",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"14cd09b8717c4d908334f8d5f6c4d2d6"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0332": {
+"title": "43--RING,WEARING",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"14abd81817cb4c4cae372c1bac672819"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0677": {
+"title": "43--VALVE,COMPRESSOR",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"14a7bf3e68394f95ab9325e7287085a2"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0144": {
+"title": "43--FILTER ELEMENT,INTAKE",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"140919a363504501803f6961ee917e50"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0569": {
+"title": "43--RING,PISTON",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"133bc5a5ce9c43c4b1f9e801bf0ead83"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7LX27U0077": {
+"title": "59--CABLE ASSEMBLY,PRINTED",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1321df835a50432c8ca5389b47cc7062"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0036": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"131402b4e6c24b569c0d77a667d2203a"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0704": {
+"title": "59--CONTACT KIT,ELECTRICAL",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"12a8eacd96f14457ba81e453b826d032"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"W911S226U4571": {
+"title": "Boots",
+"deadline": "2026-10-13 17:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1134fa23f62e4f229881c6fabbc19f5b"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0599": {
+"title": "59--BACKSHELL,ELECTRICAL C",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"10e79b55f19344e293370c6e5ed00867"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE4A627T0597": {
+"title": "53--NUT,SELF-LOCKING,DOUBL",
+"deadline": "2026-10-14",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"10d232a13fbb4ceb926a8bd2b894b19f"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0290": {
+"title": "61--MOTOR,DIRECT CURRENT",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"10cbd161db904d76a0621f637ca5b9da"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE4A627T0645": {
+"title": "53--NUT,PLAIN,HEXAGON",
+"deadline": "2026-10-14",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"10aa332807104183b0e2650af9c90b65"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0104": {
+"title": "59--SOCKET,PLUG-IN ELECTRO",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1087d967499b47c29d8244bc3d2360e3"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0670": {
+"title": "43--EJECTOR,JET",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1040fa96d7424264b2677fe614cb6e93"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7LX27U0110": {
+"title": "53--ADAPTER,TIE DOWN",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"103b636eafff44889265ba310999b9a9"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0686": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"10257dd6e797446cb52f2c2fd4da0e43"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0396": {
+"title": "59--COUPLING,WAVEGUIDE",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0ebc61d650814b1a89f215848268a6d2"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0712": {
+"title": "61--MOTOR,ALTERNATING CURR",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0eb53d341d2744049f1664705c095578"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0165": {
+"title": "43--FILTER ELEMENT,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0ea5ac3e18214904b6d012a8c2e840f7"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0355": {
+"title": "61--POWER SUPPLY",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0e972765a9ef47f7be9932813db6f48e"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0082": {
+"title": "59--SWITCH,THERMOSTATIC",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0e903e8047b34d989909e0ed3ad68d94"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127Q0038": {
+"title": "43--SEAL ASSEMBLY,SHAFT,SP",
+"deadline": "2026-10-12",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0e871534c3814c95b3570e6dce7310cc"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0267": {
+"title": "43--FILTER,FLUID",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0e754d8caa354046911fe1cf613150c2"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M127U0224": {
+"title": "43--PARTS KIT,FLUID PRESSU",
+"deadline": "2026-10-21",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0e36298b15124fdc971221eb257125fc"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRPA127QXA03": {
+"title": "AFT AIV FAN,AIRCRAF",
+"deadline": "2026-11-06 16:30",
+"type": "Solicitation",
+"notices": [
+"fa6b8e2d514a40b282dc90c4a6b92bd4"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRMM126QKH59": {
+"title": "POWER SUPPLY",
+"deadline": "2026-10-26 16:30",
+"type": "Solicitation",
+"notices": [
+"f4d931e28e23445280da42201fd1da84"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRMM126QMJ13": {
+"title": "HEAT INTERCHANGER,R",
+"deadline": "2026-11-03 16:30",
+"type": "Solicitation",
+"notices": [
+"ca482134af28450ba7d055c47d6e1a4f"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRPA127QZA07": {
+"title": "HYDRAULIC MODULE AS",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"c45513d0385c4823a0c54986b69a9198"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRMM126QMH59": {
+"title": "CONVERTR,DIG TO DIG",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"c184c4f090b34129a121e9ffbbb3e81f"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRPA127QXA02": {
+"title": "ANALOG I O MODULE,A",
+"deadline": "2026-10-23 16:30",
+"type": "Solicitation",
+"notices": [
+"b01eb82d36bd49a2b2954ba2f48cbfae"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRPA127QZA08": {
+"title": "HOOK,HOIST",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"609f1f2c4e174c118af2a4ba53ca0e24"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRMM126QKH12": {
+"title": "POWER SUPPLY",
+"deadline": "2026-11-02 16:30",
+"type": "Solicitation",
+"notices": [
+"3b8d0c2e2dea4f9c9c0653962725c142"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRPA126RXB75": {
+"title": "12--TURRET,SENSOR-SIGHT",
+"deadline": "2026-10-14 14:00",
+"type": "Solicitation",
+"notices": [
+"19a5bb18f7fa477ca2adc3ee8aaa022f"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPRPA127QXA04": {
+"title": "AFT AIV FAN,AIRCRAF",
+"deadline": "2026-10-23 16:30",
+"type": "Solicitation",
+"notices": [
+"0ca1df9798a9411aac6623a6fd6b34e9"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M527T0180": {
+"title": "59--HANDSET",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"f53c1486927e430dad571d1e6b3cc980"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE4A727Q0033": {
+"title": "16--DAMPER TUBE ASSEMBLY",
+"deadline": "2026-10-22",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"7e10594986e94e408da3adbb37980ea8"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE4A727T0222": {
+"title": "16--FILTER BODY,FLUID",
+"deadline": "2026-10-15",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"66a6835a33ff47e195a103b1e0002dea"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE4A627T0663": {
+"title": "28--SUPPORT,COMPRESSOR",
+"deadline": "2026-10-15",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"3c02d11b6c3f41e9951071ad7b7146fb"
+],
+"first_seen": "2026-10-07",
+"last_seen": "2026-10-07",
+"awarded": false
+},
+"SPE7M427Q0024": {
+"title": "47--HOSE ASSEMBLY,NONMETAL",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"32cc1c64d1294dd28872bbc5892fa39e"
 ],
 "first_seen": "2026-10-07",
 "last_seen": "2026-10-07",

@@ -1,5 +1,54 @@
 [
   {
+    "ran_at": "2026-10-07T11:36:03.765669+00:00",
+    "fetched": 2133,
+    "tenders": 97,
+    "updates": 3,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 310,
+      "excluded_keyword": 18,
+      "no_include_keyword": 0
+    },
+    "results": [
+      {
+        "id": "1134fa23f62e4f229881c6fabbc19f5b",
+        "title": "Boots",
+        "sol": "W911S226U4571",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC-FT DRUM",
+        "posted": "2026-10-06",
+        "deadline": "2026-10-13 17:00",
+        "naics": "316210",
+        "psc": "8430",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/1134fa23f62e4f229881c6fabbc19f5b/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "eb33ad88f8a04a51b74702c6c82ce3a9",
+        "title": "Solicitation -- Blower, Air Barrier",
+        "sol": "W912CH26QA053",
+        "type": "Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / ACC-CTRS / ACC-DTA / W6QK ACC- DTA",
+        "posted": "2026-10-07",
+        "deadline": "2026-10-16 12:00",
+        "naics": "339113",
+        "psc": "4140",
+        "setaside": "No Set aside used",
+        "place": "Texarkana, Texas, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/eb33ad88f8a04a51b74702c6c82ce3a9/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": "",
+        "change": "Deadline moved 2026-10-12 to 2026-10-16"
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-07T06:08:53.435802+00:00",
     "fetched": 2055,
     "tenders": 835,
@@ -1028,18 +1077,5 @@
         "change": "Amended / new version posted"
       }
     ]
-  },
-  {
-    "ran_at": "2026-10-02T11:20:29.699456+00:00",
-    "fetched": 2241,
-    "tenders": 2,
-    "updates": 0,
-    "awards": 0,
-    "filter_stats": {
-      "off_config": 459,
-      "excluded_keyword": 43,
-      "no_include_keyword": 0
-    },
-    "results": []
   }
 ]

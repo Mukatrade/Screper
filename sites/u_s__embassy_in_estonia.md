@@ -4,7 +4,7 @@
 
 ---
 
-## Commercial food delivery service for MSG
+## Lodging services in Riga, Latvia for November 2026 training event.
 
 ## Doing Business With the U.S. Embassy Tallinn
 
