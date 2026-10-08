@@ -32988,10 +32988,11 @@
 "deadline": "2026-10-19 16:30",
 "type": "Solicitation",
 "notices": [
-"c184c4f090b34129a121e9ffbbb3e81f"
+"c184c4f090b34129a121e9ffbbb3e81f",
+"d7c8481354a24e0fa340a11d801a3e39"
 ],
 "first_seen": "2026-10-07",
-"last_seen": "2026-10-07",
+"last_seen": "2026-10-08",
 "awarded": false
 },
 "SPRPA127QXA02": {
@@ -38346,6 +38347,149 @@
 "type": "Combined Synopsis/Solicitation",
 "notices": [
 "021641c218fb4811b48396abce8f9b2b"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRMM126QHD57": {
+"title": "OSCILLOSCOPE",
+"deadline": "2026-10-23 16:30",
+"type": "Solicitation",
+"notices": [
+"efd53f1229b641dfa4f2932c66209713"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRMM126QGC04": {
+"title": "POWER DISTRIBUTION",
+"deadline": "2026-11-06 16:30",
+"type": "Solicitation",
+"notices": [
+"ecd7122b64f84d628850456ebb9f2a1e"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRMM126QGA99": {
+"title": "SCROLL COMPRESSOR",
+"deadline": "2026-11-02 16:30",
+"type": "Solicitation",
+"notices": [
+"c63da3420969496ca9e3d29926b4448d"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRMM126QKG98": {
+"title": "HYDROPHONE MOUNT",
+"deadline": "2026-10-22 16:30",
+"type": "Solicitation",
+"notices": [
+"c2435c829f1f4574bd17932cb7c25e86"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRMM126QMB94": {
+"title": "VALVE,CONDENSER",
+"deadline": "2026-10-27 16:30",
+"type": "Solicitation",
+"notices": [
+"b1598c0ff47b4b9a837ec10782267e6a"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRMM127QGA06": {
+"title": "MOTOR, CONTROL",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"a2ba7b8d0018487e88ead59d17cedc90"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRPA127QRA14": {
+"title": "SERVOCYLINDER",
+"deadline": "2026-10-23 16:30",
+"type": "Solicitation",
+"notices": [
+"9baf23025bb24989942d2c7e6c530a3e"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRPA127QZA11": {
+"title": "TAB,TRIM,AIRCRAFT",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"8632c4c74d3b4d88b976811bd27fe34d"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRMM126QGB57": {
+"title": "CCA,MAIN LINK MODUL",
+"deadline": "2026-11-10 16:30",
+"type": "Solicitation",
+"notices": [
+"7decdff9b1cb41af827d2846a398bec9"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRPA127QZA09": {
+"title": "SWITCH,ELECTRONIC",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"5fe3d0637bd4410c828a02352e2131d5"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRPA127QZA15": {
+"title": "TORQUE TUBE ASSEMBL",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"06755ffde1294f56a9d816619e779aa1"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPRPA127QZA10": {
+"title": "RUDDER,AIRCRAFT",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"04465c50406444be8b009101bf4339ed"
+],
+"first_seen": "2026-10-08",
+"last_seen": "2026-10-08",
+"awarded": false
+},
+"SPE4A727Q0041": {
+"title": "15--INSULATION BLANKET,FUS",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"6711fd2989184516bf3cb89d7201a008"
 ],
 "first_seen": "2026-10-08",
 "last_seen": "2026-10-08",
