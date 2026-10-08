@@ -8,12 +8,6 @@
 - NCAGE CODE
 - SAM GOV
 
-#### RFQ 19PE5026Q0065 – Embassy Compound Control Access CAC’s Flooring Replacement
-
-#### RFQ 19PE5026Q0043 – Chancery Modification of Two Existing Roof Access Ladder
-
-#### RFQ 19PE5026Q0051 – Supply of Lighting Fixtures for the Chancery Facade
-
 #### RFQ 19PE5026Q0055 – Main Entrance and Walkway Restoration
 
 - SF30 – Modification to extend the Due Date until September 15, 2026 no later than 16:00 hrs.
@@ -33,11 +27,7 @@
 - Demonstrated success on similar projects in terms of quality of work and compliance with performance schedules, cost/schedule controls and program/project management techniques. Briefly describe internal quality assurance and cost control procedures and indicate effectiveness by listing budget/estimated construction cost, award amount, final design estimate and construction changes for five recent projects.  Although previous or ongoing performance of a similar U.S. Government contract is not required for firms responding to this solicitation, if such contracts have been performed, the offeror must have performed at a satisfactory level; and
 - Personnel capacity to accomplish the work in the required time.
 
-#### RFQ 19PE5026Q0039 – Water Treatment System for Cooling Towers
-
 #### RFQ 19PE5026Q0044 – CMR Pathways Restoration
-
-#### RFQ 19PE5026Q0041 – Automatic Transfer Switch (ATS) Installation
 
 - Manage options
 - Manage services

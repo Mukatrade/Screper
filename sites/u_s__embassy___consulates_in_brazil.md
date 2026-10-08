@@ -12,8 +12,6 @@
 
 ## Contract Opportunities
 
-## Sao Paulo: Gardening and Ground Maintenance Services (Proposals accepted until October 28, 2026)
-
 ## Requests for Quotations
 
 ## Brasilia: Compound Partitions Lock Hardware (Proposals accepted until September 28, 2026)
