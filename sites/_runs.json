@@ -1,5 +1,22 @@
 [
   {
+    "ran_at": "2026-10-09T11:43:45.115989Z",
+    "findings": 1,
+    "new_tender": 1,
+    "updated": 0,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy in Israel",
+        "url": "https://il.usembassy.gov/contract-solicitations/",
+        "category": "NEW_TENDER",
+        "summary": "New RFQ entries were added under the Request for Quotations section.",
+        "refs": []
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-09T06:08:15.388194Z",
     "findings": 1,
     "new_tender": 0,
@@ -106,15 +123,6 @@
   },
   {
     "ran_at": "2026-10-05T06:08:14.175248Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-10-04T10:58:03.882471Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,

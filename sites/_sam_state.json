@@ -41164,5 +41164,148 @@
 "first_seen": "2026-10-09",
 "last_seen": "2026-10-09",
 "awarded": false
+},
+"SPRMM126QMG66": {
+"title": "NRP,CONTROL MODULE",
+"deadline": "2026-10-22 16:30",
+"type": "Solicitation",
+"notices": [
+"f6f47020083d464dba0b06ecdc7f2696"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA126QYD23": {
+"title": "SUBPROCESSOR",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"f1120eaaf7084e6c9a1a42c832bd7aba"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA126QYD12": {
+"title": "VALVE,ECS",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"e1b4c88ad7d641ff84210fb805ed7c1d"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA126QYD11": {
+"title": "INDICATOR,ELECTRICA",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"be0b8273c7604bc7872042cd4de067ae"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRMM126QKJ12": {
+"title": "POWER SUPPLY",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"b622bed1280945bb99cae514443c2300"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA127QRA18": {
+"title": "SPINDLE ASSEMBLY,RU",
+"deadline": "2026-10-26 16:30",
+"type": "Solicitation",
+"notices": [
+"b21e737aa53f4b3ea46cb1ee905ad6bf"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA126QYD10": {
+"title": "ADAPTER,GROUND HAND",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"7f706598f92846a1aa479bcbc682d44b"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA127QRA07": {
+"title": "BACKPLANE ASSY,4 CH",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"78ec1bbf4cf74f5fafa49189e2f8b6c2"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA127QRA08": {
+"title": "CCA,SBC,LDS,4V,FC",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"6e3573fd19344392aa6713f72078cf0c"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA126RYD29": {
+"title": "CYLINDER",
+"deadline": "2026-11-09 23:59",
+"type": "Solicitation",
+"notices": [
+"5ab146e28e994b689926065bbb5fa13f"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA126QYD24": {
+"title": "BLADE SET,FAN,AIRCR",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"287d20a064334544a34f8e242416ff60"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA127QRA15": {
+"title": "FAIRING ASSEMBLY",
+"deadline": "2026-10-26 16:30",
+"type": "Solicitation",
+"notices": [
+"1933493fe74e48399b42c5a1f8fa4f0b"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
+},
+"SPE4A627Q0079": {
+"title": "16--TORQUE TUBE ASSEMBLY,A",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"4d9f579802ce4820973bf6cfaa20de8b"
+],
+"first_seen": "2026-10-09",
+"last_seen": "2026-10-09",
+"awarded": false
 }
 }

@@ -26,10 +26,6 @@
 
 ## Economic Opportunity
 
-## Uncompensated STUDENT INTERNSHIP – Financial Management Center (FMC) – U.S. Embassy Berlin
-
-## Economic Opportunity
-
 ## Remarks by Chargé Alan Meltzer at the AmCham New Year’s Reception in Düsseldorf
 
 ## Economic Opportunity
@@ -39,6 +35,10 @@
 ## Economic Opportunity
 
 ## Volunteer Foreign National Internship – Public Diplomacy Office (PD)
+
+## Economic Opportunity
+
+## Volunteer Foreign National Internship – Political Affairs
 
 - Manage options
 - Manage services
