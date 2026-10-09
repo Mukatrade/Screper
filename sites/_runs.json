@@ -1,5 +1,22 @@
 [
   {
+    "ran_at": "2026-10-09T06:08:15.388194Z",
+    "findings": 1,
+    "new_tender": 0,
+    "updated": 0,
+    "edited": 1,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy in Israel",
+        "url": "https://il.usembassy.gov/contract-solicitations/",
+        "category": "CONTENT_EDIT",
+        "summary": "Two RFQ entries were removed from the Request for Quotations list.",
+        "refs": []
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-08T11:51:04.419362Z",
     "findings": 1,
     "new_tender": 1,
@@ -98,15 +115,6 @@
   },
   {
     "ran_at": "2026-10-04T10:58:03.882471Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-10-04T06:08:03.189141Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,

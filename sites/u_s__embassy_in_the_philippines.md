@@ -70,6 +70,7 @@ Solicitation No. | Date & Time Issued (Manila Time): | Deadline for Submission (
 19RP3826Q0099 Supply and Delivery of Fuel for August 2026 Solicitation Package (PDF 24 MB) Technical Specifications (XLSX 21 KB) | – – 12-Aug-2026 | – – 24-Aug-2026, 12:00 NN
 19RP3826Q0103 Supply and Delivery of Critical Spares for MultistackChillers Solicitation Package (PDF) | – – 17-Sept-2026 | – – 28-Sept-2026, 12:00 NN
 19RP3827Q0006 Blanket Purchase Agreement (BPA) for future purchase of repair and maintenance materials, tools, equipment, including janitorial and gardening supplies BPA Posting Notice (PDF 1 MB) | – – – 08-Oct-2026 | – – – 19-Oct-2026, 12NN
+19RP3827Q0010 Supply and Delivery of Fuel for October 23, 2026 Solicitation Package (PDF 633 KB) | – – 09-Oct-2026 | – – 19-Oct-2026, 12NN
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors

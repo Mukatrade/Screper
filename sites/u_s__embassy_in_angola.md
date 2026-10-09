@@ -6,6 +6,11 @@
 
 ## Vehicles’ Purchase
 
+## Requesting your company's pricing for a 50Mbps internet service
+
+- Installation costs
+- Monthly costs (50Mbps)
+- Applicable taxes (VAT or other)
 - Manage options
 - Manage services
 - Manage {vendor_count} vendors
