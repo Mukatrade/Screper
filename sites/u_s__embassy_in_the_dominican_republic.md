@@ -6,6 +6,10 @@
 
 ## Economic Opportunity
 
+## (RFP) – Christmas Decorations 2026
+
+## Economic Opportunity
+
 ## PR15098978 MATTRESSES AND BOX SPRING RESIDENCES – FY25
 
 ## Economic Opportunity
@@ -35,10 +39,6 @@
 ## Economic Opportunity
 
 ## RFQ- PR12669506 – Forensics Detection Devices
-
-## Economic Opportunity
-
-## RFQ- PR12662386 Furniture Request
 
 - Manage options
 - Manage services

@@ -1,5 +1,33 @@
 [
   {
+    "ran_at": "2026-10-10T11:01:29.915920Z",
+    "findings": 2,
+    "new_tender": 1,
+    "updated": 1,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy in Israel",
+        "url": "https://il.usembassy.gov/contract-solicitations/",
+        "category": "NEW_TENDER",
+        "summary": "Three new Request for Quotations have been added to the U.S. Embassy in Israel list.",
+        "refs": [
+          "PR16326894",
+          "PR16326862",
+          "PR16326864"
+        ]
+      },
+      {
+        "site": "U.S. EMBASSY IN THE DOMINICAN REPUBLIC",
+        "url": "https://do.usembassy.gov/category/econ-opportunity/",
+        "category": "STATUS_UPDATE",
+        "summary": "The RFQ- PR12662386 Furniture Request tender was removed from the listing, indicating a status change (likely cancellation).",
+        "refs": []
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-10T06:07:55.778158Z",
     "findings": 0,
     "new_tender": 0,
@@ -114,15 +142,6 @@
   },
   {
     "ran_at": "2026-10-06T06:07:59.604619Z",
-    "findings": 0,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 0,
-    "monitored": 141,
-    "results": []
-  },
-  {
-    "ran_at": "2026-10-05T12:06:42.186401Z",
     "findings": 0,
     "new_tender": 0,
     "updated": 0,

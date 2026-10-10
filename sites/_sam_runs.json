@@ -1,5 +1,18 @@
 [
   {
+    "ran_at": "2026-10-10T11:01:58.316091+00:00",
+    "fetched": 2214,
+    "tenders": 0,
+    "updates": 0,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 543,
+      "excluded_keyword": 20,
+      "no_include_keyword": 0
+    },
+    "results": []
+  },
+  {
     "ran_at": "2026-10-10T06:08:26.053412+00:00",
     "fetched": 2224,
     "tenders": 54,
@@ -2099,54 +2112,6 @@
         "awardee": "",
         "award_date": "",
         "change": "Amended / new version posted"
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-10-05T12:06:56.737328+00:00",
-    "fetched": 459,
-    "tenders": 8,
-    "updates": 0,
-    "awards": 0,
-    "filter_stats": {
-      "off_config": 86,
-      "excluded_keyword": 5,
-      "no_include_keyword": 0
-    },
-    "results": [
-      {
-        "id": "f0cdf38492874a5298ff852f859baef1",
-        "title": "STEEL FOR WATERVLIET ARSENAL",
-        "sol": "W911PT27QA0004",
-        "type": "Solicitation",
-        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / ACC-CTRS / ACC-DTA / W6QK ACC WVA",
-        "posted": "2026-10-05",
-        "deadline": "2026-10-16 16:30",
-        "naics": "332111",
-        "psc": "9510",
-        "setaside": "Small Business Set Aside - Total",
-        "place": "Watervliet, New York, UNITED STATES",
-        "link": "https://sam.gov/workspace/contract/opp/f0cdf38492874a5298ff852f859baef1/view",
-        "award_amount": "",
-        "awardee": "",
-        "award_date": ""
-      },
-      {
-        "id": "ae1f0763156d4d37b984d8457ff1665c",
-        "title": "WallHound-Pro Detection and SentryHound-Pro Folding Detection",
-        "sol": "F4FFCN6253AW01",
-        "type": "Combined Synopsis/Solicitation",
-        "agency": "DEPT OF DEFENSE / DEPT OF THE AIR FORCE / AIR FORCE MATERIEL COMMAND / AIR FORCE LIFE CYCLE MANAGEMENT CENTER / FA8604  AFLCMC PZI",
-        "posted": "2026-10-05",
-        "deadline": "2026-10-20 12:00",
-        "naics": "334290",
-        "psc": "6350",
-        "setaside": "No Set aside used",
-        "place": "Wright Patterson AFB, Ohio, UNITED STATES",
-        "link": "https://sam.gov/workspace/contract/opp/ae1f0763156d4d37b984d8457ff1665c/view",
-        "award_amount": "",
-        "awardee": "",
-        "award_date": ""
       }
     ]
   }
