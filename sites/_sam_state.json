@@ -6885,13 +6885,14 @@
 },
 "W911S226U4568": {
 "title": "STEEL BAR",
-"deadline": "2026-10-07 12:00",
+"deadline": "2026-10-16 14:00",
 "type": "Combined Synopsis/Solicitation",
 "notices": [
-"27b75cd551964d1ab1151a7e3e8d63c2"
+"27b75cd551964d1ab1151a7e3e8d63c2",
+"4d2c511110e34b62b23768c0dbb82ae4"
 ],
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-10",
 "awarded": false
 },
 "W912DY26RA012": {
@@ -17861,10 +17862,11 @@
 "deadline": "2026-11-03 15:00",
 "type": "Solicitation",
 "notices": [
-"16e6d9893d384f6d8c9c2d1a3a16e9a1"
+"16e6d9893d384f6d8c9c2d1a3a16e9a1",
+"d812d84270e241508a0722643b8a26a2"
 ],
 "first_seen": "2026-10-03",
-"last_seen": "2026-10-03",
+"last_seen": "2026-10-10",
 "awarded": false
 },
 "SPE7M027Q0057": {
@@ -38637,13 +38639,14 @@
 },
 "N6339426R0005": {
 "title": "Vertical Launching System (VLS) Launch Sequencer (LSEQ) Multiple Award Contract (MAC) Indefinite Delivery Indefinite Quantity (IDIQ)",
-"deadline": "2026-10-23 17:00",
+"deadline": "2026-11-23 17:00",
 "type": "Solicitation",
 "notices": [
-"46fa350be6e54c3895dd49b50f2f657e"
+"46fa350be6e54c3895dd49b50f2f657e",
+"3d77360c40c84cbfa1762dfe0d8bdf60"
 ],
 "first_seen": "2026-10-09",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-10",
 "awarded": false
 },
 "PR15839452": {
@@ -41306,6 +41309,600 @@
 ],
 "first_seen": "2026-10-09",
 "last_seen": "2026-10-09",
+"awarded": false
+},
+"SPRPA126RYD15": {
+"title": "VALVE,REGULATING,FL",
+"deadline": "2026-10-19 23:59",
+"type": "Solicitation",
+"notices": [
+"fc56940a7575448795b3ce91c000ef82"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRTA127R0023": {
+"title": "F100CoreModuleContainer_End_Item_F100_NSN_8145014524579NZ_PN_P4078843",
+"deadline": "2026-11-12 15:00",
+"type": "Solicitation",
+"notices": [
+"f43249f64b854cbe9fdefb509690aabf"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD22": {
+"title": "SPINDLE,WHEEL,DRIVI",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"f1771d298c1a4f81b7ed8ffde42eb778"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126RYD26": {
+"title": "COMPUTER,DIGITAL",
+"deadline": "2026-10-19 23:59",
+"type": "Solicitation",
+"notices": [
+"cd4e9c31b1e44dd494f2a9da868ee470"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"N6660427R0004": {
+"title": "TR-317D and TR-353A Transducers and Spare Parts Production.",
+"deadline": "2026-11-10 14:00",
+"type": "Solicitation",
+"notices": [
+"cd42a9d5a75e4e4d9fc3c6501c0ea91b"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE300-26-R-0039": {
+"title": "Solicitation Notice for Bread and Bakery Products Support for DLA Troop Support Military Customers in Colorado State Zone",
+"deadline": "2026-10-26 15:00",
+"type": "Solicitation",
+"notices": [
+"ccd4d5868bdb4f5e8fae451d06cc987d"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD14": {
+"title": "CONTROL PANEL,AIRCR",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"a627918a0a7f4c59acb4897c97fd26c7"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRTA127R2149": {
+"title": "ShippingAndStorage_End_Item_F100_NSN_8145014512435NZ_PN_P4078842",
+"deadline": "2026-11-12 15:00",
+"type": "Solicitation",
+"notices": [
+"9eeef5419d8a4a58b8d6e5e70547823a"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD19": {
+"title": "CIRCUIT CARD ASSEMB",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"8f71021b70004b22aeb91b8201423eb6"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRDL1-27-Q-A001": {
+"title": "Panel, Indicating, Light Transmitting",
+"deadline": "2026-11-09 15:00",
+"type": "Solicitation",
+"notices": [
+"8e998e9439414e1bad407628a6db54f8"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD16": {
+"title": "ANALY ER,AIRCRAFT,M",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"7d680284701d4ea38ce62fba635438e5"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRTA127R0009": {
+"title": "GearboxAssy_End_Item_F100_NSN_2840015493031NZ_PN_4087025-801",
+"deadline": "2026-11-12 15:00",
+"type": "Solicitation",
+"notices": [
+"750fa1103a654464a9e879fc12b59ecf"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD13": {
+"title": "COVER,ELECTRIC FAN",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"74f6eaa9183744e6aff3bdc7b8edcf68"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA127QRA06": {
+"title": "LOCAL OSCILLATOR UP",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"6f780dcd28a845d3a595296a1a228b20"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA127QXA06": {
+"title": "ADAPTER,BEARING",
+"deadline": "2026-10-26 16:30",
+"type": "Solicitation",
+"notices": [
+"6a06aac74f164be1bcf45f5b3d6a181c"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD09": {
+"title": "ELECTRONIC COMPONEN",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"670a07c38103467990df37196df4bd3f"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA127QRA20": {
+"title": "CYLINDER,FIRE EXTIN",
+"deadline": "2026-10-26 16:30",
+"type": "Solicitation",
+"notices": [
+"646efb29796c470db5e4bd96bc2732c6"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD17": {
+"title": "CONTROL UNIT,SUPERV",
+"deadline": "2026-11-09 16:30",
+"type": "Solicitation",
+"notices": [
+"6363bcd1c22d45a08b63b5bdd6d98a1f"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"N3220527Q7008": {
+"title": "USNS COMFORT (T-AH 20) Anodes",
+"deadline": "2026-10-16 10:00",
+"type": "Solicitation",
+"notices": [
+"586ca0aa0c714070bdc8c2684b2150e3"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA127QZA16": {
+"title": "CIRCUIT CARD ASSEMB",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"494d0fb6c9854afcbd35c2b6e260ac67"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD21": {
+"title": "PARTS KIT,HYDRAULIC",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"4671f15995ce4b27bce1a152f0546bc1"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA127QZA17": {
+"title": "BASE,SHELF MANAGER",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"412d9b95aff94d0ebf3cac99b39007e0"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRTA127R1465": {
+"title": "ColdSectionModule_End_Item_F100_NSN_2840015806609NZ_PN_4089012-800",
+"deadline": "2026-11-12 15:00",
+"type": "Solicitation",
+"notices": [
+"4115c604d6704953af7d8d8bb4a4a50f"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA127QRA19": {
+"title": "BRACKET,STRUCTURAL",
+"deadline": "2026-10-26 16:30",
+"type": "Solicitation",
+"notices": [
+"3feed8da0d314c9ebfb42dedf70ab1d9"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD18": {
+"title": "CIRCUIT CARD ASSEMB",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"36bd3538f9b34e72812ef875f23b9055"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRPA126QYD20": {
+"title": "CPU-LAPTOP,RUG",
+"deadline": "2026-10-19 16:30",
+"type": "Solicitation",
+"notices": [
+"2da19574ef5b4381a079650f026f80fd"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"N3220527Q7010": {
+"title": "USNS COMFORT JP5 Transfer Pump",
+"deadline": "2026-10-26 10:00",
+"type": "Solicitation",
+"notices": [
+"2aa70d509f79403a884726df8be2ead4"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPRTA127R0014": {
+"title": "HotSectionModule_End_Item_F100_NSN_2840015822797NZ_PN_4089013-800;4089013-801",
+"deadline": "2026-11-12 15:00",
+"type": "Solicitation",
+"notices": [
+"117ccbecd2ea430b9776d60f72c02e2b"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE7L027Q0015": {
+"title": "61--CONTACTOR,MAGNETIC",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"fb5f5f1a1810406da7bb31885a2da493"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE7M127T0457": {
+"title": "59--RELAY,ELECTROMAGNET",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"fa08221e41bd407eb82e4f31a67064d4"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE7M427Q0039": {
+"title": "47--TUBE ASSEMBLY,METAL",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"eec18f7dc8f64a94b64b8c79a0bd4203"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE7M527Q0069": {
+"title": "59--ACCESSORY KIT,ELECTRON",
+"deadline": "2026-10-24",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"e772ca88161b46b7b871e3eb10ac116d"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"7017523062": {
+"title": "SOURCES SOUGHT - 7017523062 - NSN 1730-01-064-2889",
+"deadline": "2026-10-19 15:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"a66f4e93d84e4f22b570cafe96ba9873"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE4A727Q0040": {
+"title": "58--LIMITER,ELECTRICAL NOI",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"9d4eae1b5b8342c29d8be5703ed4be0f"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"W911S227U0026": {
+"title": "11K FORKLIFT - RILEY - TRADE IN REQ",
+"deadline": "2026-10-16 10:30",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"9c24b1acde3e4132814db1efa7a9ea27"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE7L527Q0007": {
+"title": "59--CABLE ASSEMBLY,SPECIAL",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"957e4d0adb2f45b29bc08e715c191f16"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE8E927Q0038": {
+"title": "40--ROPE,FIBROUS",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"86c619d5ffbc449fb21049350abf8448"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE1C127Q0045": {
+"title": "84--DECORATION SET,INDIVID",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"7d02a08241a94b6eaeb40bad793b982b"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE8EF27Q0003": {
+"title": "17--JACK,HYDRAULIC,TRIPOD",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"6d52fe364733492aaf957a6b9f28f5c6"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE8E927Q0035": {
+"title": "17--TOWBAR,AIRCRAFT EQU",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"6cd1a6a8a188420c956c505c1bb34b93"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE7L027Q0014": {
+"title": "48--VALVE,SHUTTLE",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"60db037917f748518801e8b7e4a29c96"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE4A627Q0080": {
+"title": "61--CABLE ASSEMBLY,SPECIAL",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"565170d3f4714a3ca67cb4d681c25fa3"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE7L127Q0055": {
+"title": "53--INSULATION,THERMAL,SPE",
+"deadline": "2026-10-17",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"47f7fe703c5d4d8b885a6e70fc1d3633"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE8EE27Q0017": {
+"title": "39--SLING,MULTIPLE LEG",
+"deadline": "2026-10-17",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"46c1235b699e49469ab081f98234e874"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE60526R0218": {
+"title": "Solicitation: SPE605-26-R-0218 (Guam Post, Camps & Stations (PC&S) PP 1.8R)",
+"deadline": "2026-10-28 09:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"42f9300e1d974fdfbd1b4d9d72545b61"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE4A727Q0054": {
+"title": "53--RING",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"345c8abda36049d6b9a31d35f4c4e35f"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE8ED26Q0576": {
+"title": "81--Containers IST - Phila",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"32c4f851470b4e7ca62195323ec1a0ea"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE3SE26Q0501": {
+"title": "73--Equipment IST - FTRD",
+"deadline": "2026-11-06",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2e4663c58595424a9e0efcc4700254cb"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE4A727Q0053": {
+"title": "53--RING",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2acf4e212f6e4782a1850aa0394399c2"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE4A127Q0003": {
+"title": "59--SWITCH,PRESSURE",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1e7fc565ee85494b8e76205520f62d70"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPE4A727Q0055": {
+"title": "53--RING",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"12233672d6ad43bb9428d39af7b10334"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"W911S227U0031": {
+"title": "ALUMINUM ALLOY SHEET",
+"deadline": "2026-10-19 12:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0ac771acbf32492b92079747d88392d3"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"N6600127Q6006": {
+"title": "N66001-27-Q-6006 RFQ to acquire commercial off the shelf (COTS) brand name Dymo, Apricorn, Dell, Extreme Networks, Klein Tools, Open Text, Inc., and Raritan, Inc., IT equipment and brand name or equal IT equipment",
+"deadline": "2026-10-16 15:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"0526b7d21b124cbda9fcba7b0515f7b8"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
+"awarded": false
+},
+"SPEFA527Q0007": {
+"title": "95--SHEET METAL 040X48X144",
+"deadline": "2026-10-15",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"04aac9d0913b4cac8f2782be0b3a64fd"
+],
+"first_seen": "2026-10-10",
+"last_seen": "2026-10-10",
 "awarded": false
 }
 }
