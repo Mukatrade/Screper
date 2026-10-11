@@ -41904,5 +41904,27 @@
 "first_seen": "2026-10-10",
 "last_seen": "2026-10-10",
 "awarded": false
+},
+"SPE4A527Q0018": {
+"title": "29--IGNITER,SPARK,GAS TURB",
+"deadline": "2026-10-16",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"e5156961052c4b23ae5b113c02d32b81"
+],
+"first_seen": "2026-10-11",
+"last_seen": "2026-10-11",
+"awarded": false
+},
+"SPE4A627Q0085": {
+"title": "66--INDICATOR,FLAP POSITIO",
+"deadline": "2026-10-19",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"be1338aad57441258746c56caa82271d"
+],
+"first_seen": "2026-10-11",
+"last_seen": "2026-10-11",
+"awarded": false
 }
 }

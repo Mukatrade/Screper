@@ -15,6 +15,8 @@
 
 ## Doing Business in the United States
 
+## COMOROS VENDOR FAIR – October 14
+
 ## Economic Data and Reports
 
 ## Additional Resources

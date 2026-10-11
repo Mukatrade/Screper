@@ -1,5 +1,18 @@
 [
   {
+    "ran_at": "2026-10-11T11:16:57.460907+00:00",
+    "fetched": 1299,
+    "tenders": 2,
+    "updates": 0,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 363,
+      "excluded_keyword": 13,
+      "no_include_keyword": 0
+    },
+    "results": []
+  },
+  {
     "ran_at": "2026-10-11T06:08:30.661474+00:00",
     "fetched": 1091,
     "tenders": 0,
@@ -1911,18 +1924,5 @@
         "change": "Amended / new version posted"
       }
     ]
-  },
-  {
-    "ran_at": "2026-10-06T11:51:49.912247+00:00",
-    "fetched": 946,
-    "tenders": 24,
-    "updates": 0,
-    "awards": 0,
-    "filter_stats": {
-      "off_config": 171,
-      "excluded_keyword": 20,
-      "no_include_keyword": 0
-    },
-    "results": []
   }
 ]
