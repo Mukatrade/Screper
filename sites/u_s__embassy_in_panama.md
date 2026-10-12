@@ -27,11 +27,11 @@
 - Link to 19PM0726Q0012 SAM Post
 - Link to 19PM0726Q0031 SAM Post
 
-## The United States Provides $500,000 in Strategic Equipment to Strengthen Regional Security and Partner Disaster Response
+## The United States Mobilizes Immediate Response to the Panama Earthquakes
 
-## U.S. Expands Panama Security Cooperation with $6M Drone Delivery to Protect the American Homeland
+## Natural Disaster Alert: Panama Earthquake Update 1 – October 10, 2026
 
-## U.S. Scientific Research Aircraft Arrives in Panama for NASA-NOAA Atmospheric Mission
+## Natural Disaster Alert – U. S. Embassy Panama City, Panama (October 9, 2026)
 
 - Manage options
 - Manage services
