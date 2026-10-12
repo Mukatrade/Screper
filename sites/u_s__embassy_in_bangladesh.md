@@ -8,25 +8,25 @@
 
 ## Contact Us
 
-## Doing Business in Bangladesh
+## Doing Business in Mexico
 
 ## Doing Business in the U.S.
 
-### Grants and Procurement Opportunities
+## Commercial and Contract Opportunities
 
 ## Economic Data and Reports
 
-## Additional Resources
+### Direct Line for American Business
 
-### Frequently Asked Questions
+## Additional Resources
 
 ### Bureau of Economic and Business Affairs
 
-## Notice of Funding Opportunity for Operation and Management of the Edward M.Kennedy Center
+## Mexico City Contract and Procurement Opportunities
 
-## United States Announces $235,000 Grant to Restore Historic Musa Khan Mosque at Dhaka University
+## “Strengthening U.S.-Mexico ties through education, culture and media” – Notice of Funding Opportunity (NOFO)
 
-## Freedom 250 Notice of Funding Opportunity.
+## Nogales Contract and Procurement Opportunities
 
 - Manage options
 - Manage services
