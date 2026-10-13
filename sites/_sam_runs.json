@@ -1,5 +1,122 @@
 [
   {
+    "ran_at": "2026-10-13T12:32:13.126995+00:00",
+    "fetched": 1027,
+    "tenders": 568,
+    "updates": 2,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 40,
+      "excluded_keyword": 27,
+      "no_include_keyword": 0
+    },
+    "results": [
+      {
+        "id": "5ba500ebf5b642d2a1f33dda31823649",
+        "title": "Solicitation for Acquisition of Door (R), Aircraft",
+        "sol": "W58RGZ-26-R-0070",
+        "type": "Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / ACC-CTRS / ACC RSA / W6QK ACC-RSA",
+        "posted": "2026-10-13",
+        "deadline": "2026-11-16 16:30",
+        "naics": "336413",
+        "psc": "1560",
+        "setaside": "",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/5ba500ebf5b642d2a1f33dda31823649/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "0abffadd15fd4f6981475a7fbeddf26b",
+        "title": "Solicitation for Acquisition of Door (L), Aircraft",
+        "sol": "W58RGZ-26-R-0068",
+        "type": "Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / ACC-CTRS / ACC RSA / W6QK ACC-RSA",
+        "posted": "2026-10-13",
+        "deadline": "2026-11-16 16:30",
+        "naics": "336413",
+        "psc": "1560",
+        "setaside": "",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/0abffadd15fd4f6981475a7fbeddf26b/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "358342fa099d4331ac6922e70ab35a83",
+        "title": "Debris Boom Supply and Install at Harry S. Truman Lake Project",
+        "sol": "W912DQ26QA080",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / US ARMY CORPS OF ENGINEERS / ENGINEER DIVISION NORTHWESTERN / ENDIST KANSAS CITY / W071 ENDIST KANSAS CITY",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-26 10:00",
+        "naics": "332312",
+        "psc": "2090",
+        "setaside": "No Set aside used",
+        "place": "Warsaw, Missouri, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/358342fa099d4331ac6922e70ab35a83/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "1793cbf465e24ce5b33933fdf3ba8b5b",
+        "title": "Personal Protective Equipment For MSC-K, South Korea",
+        "sol": "W51LL527QA002",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / ACC-OO / 411TH CSB / 0906 AQ CO     DET B CONTRACTI",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-22 13:00",
+        "naics": "315990",
+        "psc": "8415",
+        "setaside": "",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/1793cbf465e24ce5b33933fdf3ba8b5b/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "13622e1d348049b8a9f3f823b6652f1c",
+        "title": "REQUEST FOR QUOTATION NO. N4008426Q1022 PROCUREMENT OF CRANES FOR NAVFAC FAR EAST",
+        "sol": "N4008426Q1022",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE NAVY / NAVFAC / NAVFAC PACIFIC CMD / NAVFAC FAR EAST / NAVFACSYSCOM FAR EAST",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-26 11:00",
+        "naics": "333120",
+        "psc": "3810",
+        "setaside": "",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/13622e1d348049b8a9f3f823b6652f1c/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "f21f7c5f5a134cefbd92537c996288b6",
+        "title": "AFRL HQ AVIS Tech Refresh",
+        "sol": "COMBO-AFRL-RMZB-2027-0001",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE AIR FORCE / AIR FORCE MATERIEL COMMAND / AIR FORCE RESEARCH LABORATORY / FA2396 USAF AFMC AFRL PZL AFRL PZLE",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-23 12:00",
+        "naics": "326199",
+        "psc": "7520",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "Ohio, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/f21f7c5f5a134cefbd92537c996288b6/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": "",
+        "change": "Amended / new version posted"
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-13T06:08:20.442886+00:00",
     "fetched": 613,
     "tenders": 579,
@@ -893,18 +1010,5 @@
         "change": "Deadline moved 2026-10-12 to 2026-10-21"
       }
     ]
-  },
-  {
-    "ran_at": "2026-10-08T11:52:09.418361+00:00",
-    "fetched": 2477,
-    "tenders": 13,
-    "updates": 1,
-    "awards": 0,
-    "filter_stats": {
-      "off_config": 502,
-      "excluded_keyword": 21,
-      "no_include_keyword": 0
-    },
-    "results": []
   }
 ]

@@ -27,11 +27,11 @@
 - Link to 19PM0726Q0012 SAM Post
 - Link to 19PM0726Q0031 SAM Post
 
+## United States Mobilizes Rapid Earthquake Response and Commits $5 Million in Disaster Response Support to Panama
+
 ## The United States Mobilizes Immediate Response to the Panama Earthquakes
 
 ## Natural Disaster Alert: Panama Earthquake Update 1 – October 10, 2026
-
-## Natural Disaster Alert – U. S. Embassy Panama City, Panama (October 9, 2026)
 
 - Manage options
 - Manage services
