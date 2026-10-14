@@ -1,5 +1,47 @@
 [
   {
+    "ran_at": "2026-10-14T06:09:34.376146Z",
+    "findings": 4,
+    "new_tender": 3,
+    "updated": 2,
+    "edited": 0,
+    "monitored": 141,
+    "results": [
+      {
+        "site": "U.S. Embassy & Consulates in Indonesia",
+        "url": "https://id.usembassy.gov/invitation-for-bidding-jakarta/",
+        "category": "NEW_TENDER",
+        "summary": "A new RFQ for a Cyber Investigation Course has been posted under the Request for Quotations section.",
+        "refs": [
+          "PR16328363"
+        ]
+      },
+      {
+        "site": "U.S. EMBASSY IN BANGLADESH",
+        "url": "https://bd.usembassy.gov/grants-and-procurement-opportunities/",
+        "category": "STATUS_UPDATE",
+        "summary": "The RFQ contract opportunities (RFQ 19ER1025Q0001, 19ER1025Q0002, 19ER1025Q0005) were removed from the page, indicating a status change, while new funding notices were added.",
+        "refs": []
+      },
+      {
+        "site": "U.S. Embassy in Israel",
+        "url": "https://il.usembassy.gov/contract-solicitations/",
+        "category": "NEW_TENDER",
+        "summary": "A new RFQ PR16330439 was added to the Request for Quotations list.",
+        "refs": [
+          "PR16330439"
+        ]
+      },
+      {
+        "site": "U.S. Embassy in Bangladesh",
+        "url": "https://bd.usembassy.gov/business/",
+        "category": "STATUS_UPDATE",
+        "summary": "The page removed several RFQ contract opportunities previously listed under Contract Opportunities.",
+        "refs": []
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-13T12:32:01.643863Z",
     "findings": 2,
     "new_tender": 2,
@@ -118,23 +160,6 @@
         "url": "https://il.usembassy.gov/contract-solicitations/",
         "category": "NEW_TENDER",
         "summary": "New RFQ entries were added under the Request for Quotations section.",
-        "refs": []
-      }
-    ]
-  },
-  {
-    "ran_at": "2026-10-09T06:08:15.388194Z",
-    "findings": 1,
-    "new_tender": 0,
-    "updated": 0,
-    "edited": 1,
-    "monitored": 141,
-    "results": [
-      {
-        "site": "U.S. Embassy in Israel",
-        "url": "https://il.usembassy.gov/contract-solicitations/",
-        "category": "CONTENT_EDIT",
-        "summary": "Two RFQ entries were removed from the Request for Quotations list.",
         "refs": []
       }
     ]

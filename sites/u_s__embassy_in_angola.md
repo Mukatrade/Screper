@@ -4,8 +4,6 @@
 
 ---
 
-## Vehicles’ Purchase
-
 ## Requesting your company's pricing for a 50Mbps internet service
 
 - Installation costs

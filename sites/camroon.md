@@ -24,11 +24,11 @@
 
 ### U.S. International Development Finance Corporation
 
+## Request for Quotation (RFQ) : Conference Services – PST Reconnect and In-Service Trainings
+
+## REQUEST FOR QUOTATIONS:Vehicle Insurance Services for US Embassy Yaoundé, Year: 2027
+
 ## Health Foreign Assistance Memorandum of Understanding (MOU) Implementation in Cameroon
-
-## U.S.-Africa Strategic Investment Program
-
-## Request for Service: Catering services during U.S. Embassy Independence Day Event
 
 - Manage options
 - Manage services

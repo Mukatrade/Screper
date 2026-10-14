@@ -25,13 +25,12 @@
 ###### Instructions to transmit your original invoice electronically through MyILMS Payment Portal:
 
 - Link to 19PM0726Q0012 SAM Post
-- Link to 19PM0726Q0031 SAM Post
+
+## United States Delivers $2.1 Million in Cargo Trucks to Strengthen Panama’s Border Security and Disaster Response Capabilities
 
 ## United States Mobilizes Rapid Earthquake Response and Commits $5 Million in Disaster Response Support to Panama
 
 ## The United States Mobilizes Immediate Response to the Panama Earthquakes
-
-## Natural Disaster Alert: Panama Earthquake Update 1 – October 10, 2026
 
 - Manage options
 - Manage services

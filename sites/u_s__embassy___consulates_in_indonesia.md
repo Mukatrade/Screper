@@ -8,6 +8,7 @@
 
 ## Request for Quotations
 
+- RFQ PR16328363 Cyber Investigation Course  (O=10/13/2026 C=10/27/2026)
 - 191D3226R0049 – Waterproofing Repair at Prapatan C (O = 09/11/2026 C = 09/23/2026)
 - PR16276860 – iPhone 17 256 GB (O= 9/11/2026 C=9/26/2026)
 - 191D3226Q0007 – RFQ of Footwear for LGF Team (O = 09/03/2026 C = 09/11/2026)
