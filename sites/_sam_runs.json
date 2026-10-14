@@ -1,5 +1,89 @@
 [
   {
+    "ran_at": "2026-10-14T10:00:13.804157+00:00",
+    "fetched": 1401,
+    "tenders": 67,
+    "updates": 3,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 144,
+      "excluded_keyword": 29,
+      "no_include_keyword": 0
+    },
+    "results": [
+      {
+        "id": "3e01f4c62ed84bafb56e370551140e33",
+        "title": "Key Production Material",
+        "sol": "W911S227U0034",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / AMC / ACC / MISSION INSTALLATION CONTRACTING COMMAND / 419TH CSB / W6QM MICC-FT DRUM",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-20 12:00",
+        "naics": "337127",
+        "psc": "7195",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "n/a",
+        "link": "https://sam.gov/workspace/contract/opp/3e01f4c62ed84bafb56e370551140e33/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "0c110a9aa143477b92c55fa9b589d367",
+        "title": "183 SVF FY27 RSD Meals",
+        "sol": "W50S7U-27-Q-0001",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE ARMY / NATIONAL GUARD BUREAU / JFHQ USPFO IL / USPFO IL PROCUREMENT / W7M6 USPFO ACTIVITY ILANG 183",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-22 15:00",
+        "naics": "722310",
+        "psc": "8905",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "Springfield, Illinois, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/0c110a9aa143477b92c55fa9b589d367/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": ""
+      },
+      {
+        "id": "630a7628a171479388434b6d9a4a20e9",
+        "title": "Timeservers",
+        "sol": "FA813926Q0030",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE AIR FORCE / AIR FORCE MATERIEL COMMAND / AIR FORCE SUSTAINMENT CENTER / FA8139  AFSC PZIMB  SOFTWARE",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-20 14:00",
+        "naics": "541519",
+        "psc": "7B20",
+        "setaside": "No Set aside used",
+        "place": "0, Oklahoma, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/630a7628a171479388434b6d9a4a20e9/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": "",
+        "change": "Deadline moved 2026-10-13 to 2026-10-20"
+      },
+      {
+        "id": "1a32b10b2f474738a26abf67848f9211",
+        "title": "Metal for Overhead Crane System",
+        "sol": "FA8126Q0065 ",
+        "type": "Combined Synopsis/Solicitation",
+        "agency": "DEPT OF DEFENSE / DEPT OF THE AIR FORCE / AIR FORCE MATERIEL COMMAND / AIR FORCE SUSTAINMENT CENTER / FA8126  AFSC PZIMB",
+        "posted": "2026-10-13",
+        "deadline": "2026-10-22 15:00",
+        "naics": "331110",
+        "psc": "9520",
+        "setaside": "Small Business Set Aside - Total",
+        "place": "0, Oklahoma, UNITED STATES",
+        "link": "https://sam.gov/workspace/contract/opp/1a32b10b2f474738a26abf67848f9211/view",
+        "award_amount": "",
+        "awardee": "",
+        "award_date": "",
+        "change": "Deadline moved 2026-10-16 to 2026-10-22"
+      }
+    ]
+  },
+  {
     "ran_at": "2026-10-14T06:09:53.221927+00:00",
     "fetched": 1415,
     "tenders": 204,
@@ -740,18 +824,5 @@
         "change": "Deadline moved 2026-10-07 to 2026-10-16"
       }
     ]
-  },
-  {
-    "ran_at": "2026-10-09T11:44:12.629145+00:00",
-    "fetched": 2537,
-    "tenders": 13,
-    "updates": 0,
-    "awards": 0,
-    "filter_stats": {
-      "off_config": 594,
-      "excluded_keyword": 24,
-      "no_include_keyword": 0
-    },
-    "results": []
   }
 ]
