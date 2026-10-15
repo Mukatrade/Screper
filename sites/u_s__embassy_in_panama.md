@@ -26,11 +26,11 @@
 
 - Link to 19PM0726Q0012 SAM Post
 
+## United States and UNHCR Delivered Emergency Supplies for 12,000 People Affected by Panama Earthquake
+
 ## United States Delivers $2.1 Million in Cargo Trucks to Strengthen Panama’s Border Security and Disaster Response Capabilities
 
 ## United States Mobilizes Rapid Earthquake Response and Commits $5 Million in Disaster Response Support to Panama
-
-## The United States Mobilizes Immediate Response to the Panama Earthquakes
 
 - Manage options
 - Manage services
