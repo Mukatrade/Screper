@@ -1,5 +1,18 @@
 [
   {
+    "ran_at": "2026-10-15T09:41:23.336463+00:00",
+    "fetched": 1836,
+    "tenders": 0,
+    "updates": 0,
+    "awards": 0,
+    "filter_stats": {
+      "off_config": 303,
+      "excluded_keyword": 34,
+      "no_include_keyword": 0
+    },
+    "results": []
+  },
+  {
     "ran_at": "2026-10-15T06:08:36.792999+00:00",
     "fetched": 1846,
     "tenders": 382,
@@ -963,19 +976,6 @@
     "filter_stats": {
       "off_config": 349,
       "excluded_keyword": 13,
-      "no_include_keyword": 0
-    },
-    "results": []
-  },
-  {
-    "ran_at": "2026-10-10T11:01:58.316091+00:00",
-    "fetched": 2214,
-    "tenders": 0,
-    "updates": 0,
-    "awards": 0,
-    "filter_stats": {
-      "off_config": 543,
-      "excluded_keyword": 20,
       "no_include_keyword": 0
     },
     "results": []
