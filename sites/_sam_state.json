@@ -12006,14 +12006,15 @@
 },
 "19RB1027Q0008": {
 "title": "IT equipment for donation",
-"deadline": "2026-10-21 17:00",
+"deadline": "2026-10-30 17:00",
 "type": "Combined Synopsis/Solicitation",
 "notices": [
 "88e4af4f297c46b09052528c7c510d31",
-"b2feca38bf494ba5959432de685daab9"
+"b2feca38bf494ba5959432de685daab9",
+"84658b28850349f38210e706dec29e8f"
 ],
 "first_seen": "2026-10-02",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-17",
 "awarded": false
 },
 "SPE4A627T0219": {
@@ -20466,10 +20467,11 @@
 "a47d799816ba49089eb9b29da5c0877d",
 "9872cdcf00cd43ce9ea13e94fcc59ea2",
 "9d1c0e73c40c48b992e1c080304bac7b",
-"b1c71ea8a6c94e578ce453cddf8b20f3"
+"b1c71ea8a6c94e578ce453cddf8b20f3",
+"2957f17cbfa94f57ae29dbc564657940"
 ],
 "first_seen": "2026-10-06",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "awarded": false
 },
 "SPE4A627T0416": {
@@ -54641,10 +54643,11 @@
 "type": "Solicitation",
 "notices": [
 "543d78710b75433c9d7e7017f1cc5346",
-"03fde0557f204e3f958ce4f89d1af8a1"
+"03fde0557f204e3f958ce4f89d1af8a1",
+"11620bba9bb64a74b4fe3e3926b7d335"
 ],
 "first_seen": "2026-10-14",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-17",
 "awarded": false
 },
 "SPRHA1-27-R-0031": {
@@ -54707,10 +54710,11 @@
 "deadline": "2026-10-22 10:00",
 "type": "Combined Synopsis/Solicitation",
 "notices": [
-"fc1cd1d996134a239e806a0309229a6c"
+"fc1cd1d996134a239e806a0309229a6c",
+"0fdbdfa0b1a3409182dbff705161a999"
 ],
 "first_seen": "2026-10-14",
-"last_seen": "2026-10-14",
+"last_seen": "2026-10-17",
 "awarded": false
 },
 "SPE4A627U0119": {
@@ -57435,10 +57439,11 @@
 "deadline": "2026-10-22 15:00",
 "type": "Combined Synopsis/Solicitation",
 "notices": [
-"0c110a9aa143477b92c55fa9b589d367"
+"0c110a9aa143477b92c55fa9b589d367",
+"5de0945666f0491c8201787e78c82ffa"
 ],
 "first_seen": "2026-10-14",
-"last_seen": "2026-10-14",
+"last_seen": "2026-10-17",
 "awarded": false
 },
 "SPE7L127Q0062": {
@@ -65216,6 +65221,369 @@
 ],
 "first_seen": "2026-10-16",
 "last_seen": "2026-10-16",
+"awarded": false
+},
+"SPE60127Q0300": {
+"title": "Naval Undersea Warfare Center Division Keyport, Washington",
+"deadline": "2026-11-16 15:00",
+"type": "Solicitation",
+"notices": [
+"aa57dc390ee74689aacc2e3d3178c857"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPRMM126QKD20": {
+"title": "CABLE ASSEMBLY,SPEC",
+"deadline": "2026-10-31 16:30",
+"type": "Solicitation",
+"notices": [
+"90aa50187fe343dabe332ed27bd8807b"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPMYM227Q0101": {
+"title": "FLEXIBLE DUCT IDIQ",
+"deadline": "2026-10-22 17:00",
+"type": "Solicitation",
+"notices": [
+"724d7b92c26f45ee973bfa99fe666a4e"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"19ES6027Q0007": {
+"title": "Law Enforcement equipment: Binoculars, Monocular, and Helmets.",
+"deadline": "2026-11-16 10:00",
+"type": "Solicitation",
+"notices": [
+"5b4fe9012c62497db3d611e337873bed"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPRPA127QXA07": {
+"title": "ACTUATOR,MECHANICAL",
+"deadline": "2026-11-16 16:30",
+"type": "Solicitation",
+"notices": [
+"3d3e54aad9174c4fa2d3e19bb0cd789a"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPRDL127QA003": {
+"title": "Differential, Driving",
+"deadline": "2026-11-16 15:00",
+"type": "Solicitation",
+"notices": [
+"20036679360743f1bb257c1796d29c2e"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"M6700127Q0003": {
+"title": "REQUEST FOR QUOTES FOR DELIVERY OF LP GAS ABAORD MCB CAMP LEJEUNE, NC",
+"deadline": "2026-11-16 04:00",
+"type": "Solicitation",
+"notices": [
+"1646ea5b59274bd697ebf28962ac22ac"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPRDL127RA024": {
+"title": "TEST DEVICE,INTERFACE",
+"deadline": "2026-11-16 16:30",
+"type": "Solicitation",
+"notices": [
+"160fd956cf684b59ba367109256ee5d1"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE4A627Q0119": {
+"title": "68--SODA LIME",
+"deadline": "2026-10-30",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"fe389c2832a0473dab3837e8c1223431"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE7M427Q0060": {
+"title": "48--VALVE,REGULATING,FLUID",
+"deadline": "2026-10-22",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"e55ba20c988c401cbb88498404e7ca88"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"W519TC27QA020": {
+"title": "HYTORC Torque Wrench kit",
+"deadline": "2026-10-26 10:30",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"d29fe5b4e9724d50801e7433118a01e5"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE4A727Q0096": {
+"title": "16--PLUNGER ASSEMBLY",
+"deadline": "2026-10-27",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"c45c9b36e879482ab65d104568cc579d"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE4A727Q0099": {
+"title": "16--SELECTOR SET,HYDRAU",
+"deadline": "2026-10-27",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"c24c767b48f74dc4a7341fb1a9919e35"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE7L727Q0102": {
+"title": "61--BATTERY,STORAGE",
+"deadline": "2026-10-27",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"b578a635a9614a8a81c92234f3a514fd"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE3SE27Q0039": {
+"title": "73--OVEN,ROASTING AND HOLD",
+"deadline": "2026-10-22",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"b1c225801cf04cb990dffae1b959b79e"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE7M127Q0074": {
+"title": "43--SEPARATOR,WATER,LIQUID",
+"deadline": "2026-10-29",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"aab060c43c684ccbbcd0b45b5f73231a"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE8E727Q0002": {
+"title": "41--IMPELLER,FAN,AXIAL",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"a685f03eb32e4d56baa3dc5e2babfca7"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE8E627Q0022": {
+"title": "42--LIFE PRESERVER,VEST",
+"deadline": "2026-10-22",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"9f90cb21ffc546c989ab136550158ecf"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE7L727Q0101": {
+"title": "61--BATTERY,STORAGE",
+"deadline": "2026-10-27",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"9bc5bc0081ff48afb8ace2725f5277dd"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"N5005427Q0010": {
+"title": "Seawater Heat Exchanger Assembly",
+"deadline": "2026-10-23 12:15",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"95c32a92fe554d308b3d219a521e247e"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE4A627Q0118": {
+"title": "53--PIN,STRAIGHT,HEADED",
+"deadline": "2026-10-31",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"8f132283515f4eddb1442cdee933fb20"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SP4701-27-Q-0007": {
+"title": "Automated Storage Module (ASM) Hardware for Hill AFB",
+"deadline": "2026-10-23 11:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"80dab36cae3647319ce18b88b19aba53"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"W911SD27QA004": {
+"title": "USMA SS Women's Overblouse",
+"deadline": "2026-11-12 16:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"4e640ee60d324dc0b5d9c768c81c38ac"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE4A527Q0040": {
+"title": "29--SEAT",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"4e44f659eec840c0a60d123823a50a7e"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"W911S227U0046": {
+"title": "Television and Mounts",
+"deadline": "2026-10-22 12:55",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"3d3b5f12f5b34bad9cbfbe71cc8bc69d"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"N0017327Q1301390254": {
+"title": "Automatic Laboratory Polisher Grinder Equipment",
+"deadline": "2026-10-22 09:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"39955ca810774b9cabe9726381a91bd1"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE4A627Q0042": {
+"title": "SPE4A627Q0042, 3120-016750959, Bearing, Plain, Spherical, Part#(s) 21807480, H841-0307-137, GBND005038-C",
+"deadline": "2026-11-02 15:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"3897e2fae979453f8cf7666eb9ae4c2d"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"N6852027Q1004": {
+"title": "Labview Perpetual Software",
+"deadline": "2026-10-22 12:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"325f2b94e23140ef9c88180c7ee5b60d"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE7MC27Q0025": {
+"title": "48--VALVE,REGULATING,TEMPE",
+"deadline": "2026-10-30",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"252feba5b9624641a57ecf441f80cd50"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SP8000-27-Q-0002": {
+"title": "S&P Subscription Products",
+"deadline": "2026-10-26 12:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"2447b294aa58417c9028d216bbcdb7b1"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE4A727Q0100": {
+"title": "61--REGULATOR,VOLTAGE AND",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"244586bf5b974b718c8b15a7c54b90ec"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"N6134027Q1002": {
+"title": "Zeks Air Refrigerated Dryer System",
+"deadline": "2026-10-28 10:00",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"1af40093a5a843df93d7807ef8f0e850"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
+"awarded": false
+},
+"SPE8E527Q0025": {
+"title": "42--SUIT,SURVIVAL,COLD",
+"deadline": "2026-10-23",
+"type": "Combined Synopsis/Solicitation",
+"notices": [
+"16e0d2e0162947e0bac99066f8691b13"
+],
+"first_seen": "2026-10-17",
+"last_seen": "2026-10-17",
 "awarded": false
 }
 }
